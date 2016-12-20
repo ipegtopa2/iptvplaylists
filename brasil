@@ -1,0 +1,49 @@
+
+#EXTM3U
+#EXTINF:-1  group-title="BRASIL",SPORTV 3
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/546.ts
+#EXTINF:-1  group-title="BRASIL",SPORTV 2
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/545.ts
+#EXTINF:-1  group-title="BRASIL",SPORTV 1
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/544.ts
+
+#EXTINF:-1  group-title="BRASIL",REDE TV
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/381.ts
+#EXTINF:-1  group-title="BRASIL",RECORD INTERNACIONAL
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/385.ts
+
+#EXTINF:-1  group-title="BRASIL",Santuário De Aparecida - Altar Central
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/499.ts
+#EXTINF:-1  group-title="BRASIL",Rio de Janeiro - Copacabana
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/498.ts
+
+#EXTINF:-1  group-title="BRASIL",Canção Nova Brasil
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/468.ts
+
+
+
+#EXTINF:-1  group-title="BRASIL",TV Justiça
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/495.ts
+#EXTINF:-1  group-title="BRASIL",TV Cultura
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/490.ts
+#EXTINF:-1  group-title="BRASIL",TV Câmara SP
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/496.ts
+#EXTINF:-1  group-title="BRASIL",TV Brasil
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/493.ts
+
+#EXTINF:-1  group-title="BRASIL",Record News
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/492.ts
+#EXTINF:-1  group-title="BRASIL",Chef TV
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/491.ts
+#EXTINF:-1  group-title="BRASIL",Canal Um Europa (RIT Europa)
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/497.ts
+#EXTINF:-1  group-title="BRASIL",All Sports TV
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/494.ts
+#EXTINF:-1  group-title="BRASIL",TV RECORD (REDE RECORD)
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/472.ts
+#EXTINF:-1  group-title="BRASIL",TV GLOBO SP
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/471.ts
+#EXTINF:-1  group-title="BRASIL",TV DIARIO
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/470.ts
+#EXTINF:-1  group-title="BRASIL",TV BAND
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/473.ts
