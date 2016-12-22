@@ -1831,3 +1831,223 @@ http://204.27.62.122:9090/load/877cf0fc593e/7165.mpegts
 http://204.27.62.122:9090/load/877cf0fc593e/7176.mpegts
 #EXTINF:-1,NFL 13 – No Game
 http://204.27.62.122:9090/load/877cf0fc593e/7178.mpegts
+
+#EXTINF:0,Sky Sports News
+http://51.255.70.112:8000/live/john1234/john1234/1698.ts
+#EXTINF:0,Sky Sports F1 UK
+http://51.255.70.112:8000/live/john1234/john1234/1696.ts
+#EXTINF:0,Sky Sports Box Office UK
+http://51.255.70.112:8000/live/john1234/john1234/1695.ts
+#EXTINF:0,SkySpBoxOff (PPV Events Only)
+http://51.255.70.112:8000/live/john1234/john1234/2328.ts
+#EXTINF:0,Sky Sports 5 UK
+http://51.255.70.112:8000/live/john1234/john1234/1693.ts
+#EXTINF:0,Sky Sports 4 UK
+http://51.255.70.112:8000/live/john1234/john1234/1691.ts
+#EXTINF:0,Sky Sports 3 UK
+http://51.255.70.112:8000/live/john1234/john1234/1689.ts
+#EXTINF:0,Sky Sports 2 UK
+http://51.255.70.112:8000/live/john1234/john1234/1687.ts
+#EXTINF:0,Sky Sports 1 UK
+http://51.255.70.112:8000/live/john1234/john1234/1685.ts
+#EXTINF:0,Sky Sports F1 HD
+http://51.255.70.112:8000/live/john1234/john1234/724.ts
+#EXTINF:0,Sky Sports Mix
+http://51.255.70.112:8000/live/john1234/john1234/2326.ts
+#EXTINF:0,Sky Sports 1 HD
+http://51.255.70.112:8000/live/john1234/john1234/725.ts
+#EXTINF:0,Sky Sports 2 HD
+http://51.255.70.112:8000/live/john1234/john1234/726.ts
+#EXTINF:0,Sky Sports 3 HD
+http://51.255.70.112:8000/live/john1234/john1234/727.ts
+#EXTINF:0,Sky Sports 4 HD
+http://51.255.70.112:8000/live/john1234/john1234/728.ts
+#EXTINF:0,Sky Sports 5 HD
+http://51.255.70.112:8000/live/john1234/john1234/729.ts
+#EXTINF:0,BT Sport 1 HD
+http://51.255.70.112:8000/live/john1234/john1234/733.ts
+#EXTINF:0,BT Sport 2 HD
+http://51.255.70.112:8000/live/john1234/john1234/732.ts
+#EXTINF:0,BT Sport ESPN HD
+http://51.255.70.112:8000/live/john1234/john1234/731.ts
+#EXTINF:0,Premier Sports
+http://51.255.70.112:8000/live/john1234/john1234/1494.ts
+#EXTINF:0,Premier HD
+http://51.255.70.112:8000/live/john1234/john1234/2313.ts
+#EXTINF:0,Premier Sports HD
+http://51.255.70.112:8000/live/john1234/john1234/2314.ts
+#EXTINF:0,ESPN
+http://51.255.70.112:8000/live/john1234/john1234/1748.ts
+#EXTINF:0,Racing UK
+http://51.255.70.112:8000/live/john1234/john1234/1892.ts
+#EXTINF:0,Racing UK HD
+http://51.255.70.112:8000/live/john1234/john1234/2316.ts
+#EXTINF:0,At The Races
+http://51.255.70.112:8000/live/john1234/john1234/1891.ts
+#EXTINF:0,BoxNation
+http://51.255.70.112:8000/live/john1234/john1234/1842.ts
+#EXTINF:0,Liverpool FC
+http://51.255.70.112:8000/live/john1234/john1234/720.ts
+#EXTINF:0,MUTV HD
+http://51.255.70.112:8000/live/john1234/john1234/2301.ts
+#EXTINF:0,MUTV
+http://51.255.70.112:8000/live/john1234/john1234/719.ts
+#EXTINF:0,Chelsea TV
+http://51.255.70.112:8000/live/john1234/john1234/723.ts
+#EXTINF:0,BT Sports Extra
+http://51.255.70.112:8000/live/john1234/john1234/1914.ts
+#EXTINF:0,BT Sports ESPN
+http://51.255.70.112:8000/live/john1234/john1234/1993.ts
+#EXTINF:0,BT Sports 1
+http://51.255.70.112:8000/live/john1234/john1234/1980.ts
+#EXTINF:0,BT Sports 2
+http://51.255.70.112:8000/live/john1234/john1234/1981.ts
+#EXTINF:0,BT Sports 3
+http://51.255.70.112:8000/live/john1234/john1234/1992.ts
+#EXTINF:0,EuroSports 1
+http://51.255.70.112:8000/live/john1234/john1234/722.ts
+#EXTINF:0,EuroSports 2
+http://51.255.70.112:8000/live/john1234/john1234/721.ts
+#EXTINF:0,Eir Sport 1
+http://51.255.70.112:8000/live/john1234/john1234/2183.ts
+#EXTINF:0,Eir Sport 2
+http://51.255.70.112:8000/live/john1234/john1234/2182.ts
+#EXTINF:0,eir Sport 2 HD
+http://51.255.70.112:8000/live/john1234/john1234/2255.ts
+#EXTINF:0,Motors TV
+http://51.255.70.112:8000/live/john1234/john1234/2015.ts
+
+
+#EXTINF:0,BBC One NI HD
+http://51.255.70.112:8000/live/john1234/john1234/2211.ts
+#EXTINF:0,CBS Action
+http://51.255.70.112:8000/live/john1234/john1234/1911.ts
+#EXTINF:0,BBC 1 HD
+http://51.255.70.112:8000/live/john1234/john1234/1513.ts
+#EXTINF:0,BBC One
+http://51.255.70.112:8000/live/john1234/john1234/755.ts
+#EXTINF:0,BBC Two
+http://51.255.70.112:8000/live/john1234/john1234/756.ts
+#EXTINF:0,BBC Two HD
+http://51.255.70.112:8000/live/john1234/john1234/1478.ts
+#EXTINF:0,BBC World News
+http://51.255.70.112:8000/live/john1234/john1234/757.ts
+#EXTINF:0,BBC Entertainment
+http://51.255.70.112:8000/live/john1234/john1234/2034.ts
+#EXTINF:0,BBC 3
+http://51.255.70.112:8000/live/john1234/john1234/2035.ts
+#EXTINF:0,BBC Four
+http://51.255.70.112:8000/live/john1234/john1234/758.ts
+#EXTINF:0,Channel 4
+http://51.255.70.112:8000/live/john1234/john1234/763.ts
+#EXTINF:0,Channel 4 1
+http://51.255.70.112:8000/live/john1234/john1234/2225.ts
+#EXTINF:0,Channel 4 HD
+http://51.255.70.112:8000/live/john1234/john1234/2226.ts
+#EXTINF:0,Channel 5 24
+http://51.255.70.112:8000/live/john1234/john1234/2227.ts
+#EXTINF:0,Channel 5 1
+http://51.255.70.112:8000/live/john1234/john1234/2228.ts
+#EXTINF:0,Channel 5 HD
+http://51.255.70.112:8000/live/john1234/john1234/2229.ts
+#EXTINF:0,Channel 5 UK
+http://51.255.70.112:8000/live/john1234/john1234/764.ts
+#EXTINF:0,Five
+http://51.255.70.112:8000/live/john1234/john1234/2025.ts
+#EXTINF:0,ITV HD
+http://51.255.70.112:8000/live/john1234/john1234/2275.ts
+#EXTINF:0,ITV 1
+http://51.255.70.112:8000/live/john1234/john1234/759.ts
+#EXTINF:0,ITV2 HD
+http://51.255.70.112:8000/live/john1234/john1234/2277.ts
+#EXTINF:0,ITV 2
+http://51.255.70.112:8000/live/john1234/john1234/760.ts
+#EXTINF:0,ITV2 1
+http://51.255.70.112:8000/live/john1234/john1234/2276.ts
+#EXTINF:0,ITV 3 HD
+http://51.255.70.112:8000/live/john1234/john1234/2272.ts
+#EXTINF:0,ITV 3
+http://51.255.70.112:8000/live/john1234/john1234/761.ts
+#EXTINF:0,ITV 3 1
+http://51.255.70.112:8000/live/john1234/john1234/2271.ts
+#EXTINF:0,ITV4 HD
+http://51.255.70.112:8000/live/john1234/john1234/2279.ts
+#EXTINF:0,ITV 4
+http://51.255.70.112:8000/live/john1234/john1234/762.ts
+#EXTINF:0,ITV4 1
+http://51.255.70.112:8000/live/john1234/john1234/2278.ts
+#EXTINF:0,ITV Encore 1
+http://51.255.70.112:8000/live/john1234/john1234/2273.ts
+#EXTINF:0,ITV Encore HD
+http://51.255.70.112:8000/live/john1234/john1234/2274.ts
+#EXTINF:0,ITVBe 1
+http://51.255.70.112:8000/live/john1234/john1234/2280.ts
+
+#EXTINF:0,5 USA 1
+http://51.255.70.112:8000/live/john1234/john1234/2203.ts
+#EXTINF:0,5STAR 1
+http://51.255.70.112:8000/live/john1234/john1234/2204.ts
+#EXTINF:0,5 Star
+http://51.255.70.112:8000/live/john1234/john1234/770.ts
+#EXTINF:0,RTE One
+http://51.255.70.112:8000/live/john1234/john1234/1495.ts
+#EXTINF:0,RTE Two
+http://51.255.70.112:8000/live/john1234/john1234/1498.ts
+#EXTINF:0,RT1
+http://51.255.70.112:8000/live/john1234/john1234/1484.ts
+#EXTINF:0,RT2
+http://51.255.70.112:8000/live/john1234/john1234/1485.ts
+#EXTINF:0,UTV
+http://51.255.70.112:8000/live/john1234/john1234/2343.ts
+#EXTINF:0,UTV HD
+http://51.255.70.112:8000/live/john1234/john1234/2344.ts
+#EXTINF:0,UTV Ireland
+http://51.255.70.112:8000/live/john1234/john1234/2345.ts
+
+
+#EXTINF:0,TV3
+http://51.255.70.112:8000/live/john1234/john1234/1904.ts
+#EXTINF:0,TG4
+http://51.255.70.112:8000/live/john1234/john1234/1905.ts
+#EXTINF:0,Dave
+http://51.255.70.112:8000/live/john1234/john1234/1497.ts
+#EXTINF:0,More4
+http://51.255.70.112:8000/live/john1234/john1234/778.ts
+#EXTINF:0,Syfy UK
+http://51.255.70.112:8000/live/john1234/john1234/1764.ts
+#EXTINF:0,ITV Be
+http://51.255.70.112:8000/live/john1234/john1234/2018.ts
+#EXTINF:0,E4
+http://51.255.70.112:8000/live/john1234/john1234/1816.ts
+#EXTINF:0,ITV Encore
+http://51.255.70.112:8000/live/john1234/john1234/2017.ts
+#EXTINF:0,Sky One
+http://51.255.70.112:8000/live/john1234/john1234/1823.ts
+#EXTINF:0,Sky Two
+http://51.255.70.112:8000/live/john1234/john1234/765.ts
+#EXTINF:0,Sky Living
+http://51.255.70.112:8000/live/john1234/john1234/1771.ts
+#EXTINF:0,Sky Alibi
+http://51.255.70.112:8000/live/john1234/john1234/768.ts
+#EXTINF:0,Sky Art 1
+http://51.255.70.112:8000/live/john1234/john1234/1772.ts
+#EXTINF:0,Sky 5 USA
+http://51.255.70.112:8000/live/john1234/john1234/769.ts
+#EXTINF:0,Pick TV
+http://51.255.70.112:8000/live/john1234/john1234/1821.ts
+#EXTINF:0,W 1
+http://51.255.70.112:8000/live/john1234/john1234/2348.ts
+#EXTINF:0,Comedy Central Xtra
+http://51.255.70.112:8000/live/john1234/john1234/2029.ts
+#EXTINF:0,ComedyCent 1
+http://51.255.70.112:8000/live/john1234/john1234/2241.ts
+#EXTINF:0,ComedyXtra 1
+http://51.255.70.112:8000/live/john1234/john1234/2242.ts
+#EXTINF:0,Disney Chnl
+http://51.255.70.112:8000/live/john1234/john1234/2249.ts
+#EXTINF:0,Disney Chnl 1
+http://51.255.70.112:8000/live/john1234/john1234/2250.ts
+#EXTINF:0,Comedy Central
+http://51.255.70.112:8000/live/john1234/john1234/1817.ts
+
+
