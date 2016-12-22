@@ -1,12 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO",Lista IPTV do Patrao
+
+#EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
 http://www.tv-msn.com/player/player.swf
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 21/12/2016
+#EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO",PlayLists IPTV m3u do Patrao
 http://www.tv-msn.com/player/player.swf
 
+#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 19/12/2016
+http://www.tv-msn.com/player/player.swf
+
+#EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
+http://www.tv-msn.com/player/player.swf
 
 #EXTINF:-1,#*•●★۩  SPORT TV PT ۩★●•*#۩
 
