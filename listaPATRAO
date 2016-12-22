@@ -1,11 +1,1442 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO",Lista IPTV do Patrao
 http://www.tv-msn.com/player/player.swf
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 21/12/2016
 http://www.tv-msn.com/player/player.swf
+
+
+#EXTINF:-1,#*•●★۩  SPORT TV PT ۩★●•*#۩
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 1 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2989.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 2 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2990.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 3 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2991.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 4 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2992.ts
+
+
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV+
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3088.ts
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 5 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3087.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",Sport TV 1
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",Sport TV 1
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/1245.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",SPORT TV 1 HD
+http://163.172.217.71:8085/live/dorin/dorin/9596.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",SPORTTV 1 HD
+http://51.254.197.40:25461/live/robert/robert/9839.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",Sport TV 1 HD
+http://163.172.77.155:8000/live/iptv825/63145/519.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7605.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",adrian SP: SPORT TV 1 (POR)
+http://51.254.197.40:25461/live/adrian/adrian/10086.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",adrian SP: SPORT TV1 HD (PT)
+http://51.254.197.40:25461/live/adrian/adrian/10083.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",pak SP: SPORT TV 1 (POR)
+http://iptv.monkeycline.com:25461/live/pak/pak/10086.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",pak SP: SPORT TV1 HD (PT)
+http://iptv.monkeycline.com:25461/live/pak/pak/10083.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PO: Sport TV 1 HD
+http://51.255.77.55:5050/live/bauer/bauer/536.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",Sport TV PT SPORTTV 1 HD
+http://51.254.197.40:25461/live/robert/robert/9839.ts
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",Sport TV PT SPORTTV 1 HD
+http://51.254.197.40:25461/live/robert/robert/9839.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",pak SP: SPORT TV 2 (POR)
+http://iptv.monkeycline.com:25461/live/pak/pak/10085.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV 2
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/1237.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian PORTUGAL:SPORTTV 1 HD
+http://51.254.197.40:25461/live/adrian/adrian/9839.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,dorin PT: SPORT TV 2 HD
+http://163.172.217.71:8085/live/dorin/dorin/9597.ts
+
+#EXTINF:0 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT Sport TV 2 HD
+http://163.172.77.155:8000/live/iptv825/63145/518.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 2 HD
+http://51.254.197.40:25461/live/robert/robert/9840.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT: SPORT TV 2 HD
+http://51.254.197.40:25461/live/robert/robert/240.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT: Sport_TV_2
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7604.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian PORTUGAL:SPORTTV 2 HD
+http://51.254.197.40:25461/live/adrian/adrian/9840.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian SP: SPORT TV 2 (POR)
+http://51.254.197.40:25461/live/adrian/adrian/10085.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian SP: SPORT TV2 HD (PT)
+http://51.254.197.40:25461/live/adrian/adrian/10082.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,UK: Euro Sports 2
+http://51.254.197.40:25461/live/charlie1/charlie1/4810.ts
+
+#EXTINF:0 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PO: Sport TV 2 HD
+http://51.255.77.55:5050/live/bauer/bauer/537.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 2 HD
+http://51.254.197.40:25461/live/robert/robert/9840.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT: SPORT TV 2 HD
+http://51.254.197.40:25461/live/robert/robert/240.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 2 HD
+http://51.254.197.40:25461/live/robert/robert/9840.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT: SPORT TV 2 HD
+http://51.254.197.40:25461/live/robert/robert/240.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,pak SP: SPORT TV2 HD (PT)
+http://iptv.monkeycline.com:25461/live/pak/pak/10082.ts
+
+
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian PORTUGAL:SPORT TV 3 HD
+http://51.254.197.40:25461/live/adrian/adrian/9841.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian SP: SPORT TV3 HD (PT)
+http://51.254.197.40:25461/live/adrian/adrian/10081.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,pak SP: SPORT TV3 HD (PT)
+http://iptv.monkeycline.com:25461/live/pak/pak/10081.ts
+
+#EXTINF:0 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PO: Sport TV 3 HD
+http://51.255.77.55:5050/live/bauer/bauer/538.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 3 HD
+http://51.254.197.40:25461/live/robert/robert/9841.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT-SPORT_TV_3
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/796.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,dorin PT: SPORT TV 3 HD
+http://163.172.217.71:8085/live/dorin/dorin/9598.ts
+
+#EXTINF:0 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT Sport TV 3 HD
+http://163.172.77.155:8000/live/iptv825/63145/669.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 3 HD
+http://51.254.197.40:25461/live/robert/robert/9841.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT: SPORT TV 3
+http://51.254.197.40:25461/live/charlie1/charlie1/4788.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT-SPORT TV 4
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3205.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,dorin PT: SPORT TV 4 HD
+http://163.172.217.71:8085/live/dorin/dorin/9599.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 4 HD
+http://51.254.197.40:25461/live/robert/robert/9842.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian PORTUGAL:SPORTTV 4 HD
+http://51.254.197.40:25461/live/adrian/adrian/9842.ts
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian SP: SPORT TV4 HD (PT)
+http://51.254.197.40:25461/live/adrian/adrian/10080.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,pak SP: SPORT TV4 HD (PT)
+http://iptv.monkeycline.com:25461/live/pak/pak/10080.ts
+
+#EXTINF:0 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PO: Sport TV 4 HD
+http://51.255.77.55:5050/live/bauer/bauer/539.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 4 HD
+http://51.254.197.40:25461/live/robert/robert/9842.ts
+
+
+
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT-SPORT TV 5
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3206.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,dorin PT: SPORT TV 5 HD
+http://163.172.217.71:8085/live/dorin/dorin/9600.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 5 HD
+http://51.254.197.40:25461/live/robert/robert/9843.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian PORTUGAL:SPORTTV 5 HD
+http://51.254.197.40:25461/live/adrian/adrian/9843.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian SP: SPORT TV 5 (POR)
+http://51.254.197.40:25461/live/adrian/adrian/10084.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”, adrian SP: SPORT TV5 (PT)
+http://51.254.197.40:25461/live/adrian/adrian/10079.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,pak SP: SPORT TV 5 (POR)
+http://iptv.monkeycline.com:25461/live/pak/pak/10084.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,pak SP: SPORT TV5 (PT)
+http://iptv.monkeycline.com:25461/live/pak/pak/10079.ts
+
+#EXTINF:0 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,PT: SportTV 5
+http://51.255.77.55:5050/live/bauer/bauer/567.ts
+
+#EXTINF:-1 tvg-logo=“https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png” group-title=“DESPORTO PT”,Sport TV PT SPORTTV 5 HD
+http://51.254.197.40:25461/live/robert/robert/9843.ts
+
+
+
+
+#EXTINF:-1,#*•●★۩  SPORTs PT ۩★●•*#۩
+
+
+#EXTINF:-1 tvg-logo=“http://oi58.tinypic.com/2coj1gz.jpg” group-title=“DESPORTO PT”,(PT) Sporting TV
+http://137.74.94.161:8000/live/claire/claire/8242.ts
+#EXTINF:0 tvg-logo=“http://oi58.tinypic.com/2coj1gz.jpg” group-title=“DESPORTO PT”,PT: Sporting tv
+http://51.255.77.55:5050/live/bauer/bauer/551.ts
+
+#EXTINF:-1,PT | SPORTING TV
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2792.ts
+
+#EXTINF:-1,PT | BTV2 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2796.ts
+#EXTINF:-1,PT | BTV1 HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2795.ts
+
+#EXTINF:-1,PT | BTV HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3089.ts
+
+
+
+#EXTINF:-1 tvg-logo=“http://3.bp.blogspot.com/-rFfJSA1flA8/UvleRJ03MqI/AAAAAAAAlXk/gXMcmv6_q98/s1600/benfica_tv2%5B1%5D.png” group-title=“DESPORTO PT”,PT: BTV 1 HD
+http://sonic-iptv.com:2500/live/david/david/1453.ts
+
+#EXTINF:-1 tvg-logo=“http://3.bp.blogspot.com/-rFfJSA1flA8/UvleRJ03MqI/AAAAAAAAlXk/gXMcmv6_q98/s1600/benfica_tv2%5B1%5D.png” group-title=“DESPORTO PT”,(PT) Benfica 2
+http://137.74.94.161:8000/live/claire/claire/8218.ts
+#EXTINF:-1 tvg-logo=“http://3.bp.blogspot.com/-rFfJSA1flA8/UvleRJ03MqI/AAAAAAAAlXk/gXMcmv6_q98/s1600/benfica_tv2%5B1%5D.png” group-title=“DESPORTO PT”,(PT) Benfica 1
+http://137.74.94.161:8000/live/claire/claire/8217.ts
+
+
+#EXTINF:0 tvg-logo=“http://3.bp.blogspot.com/-rFfJSA1flA8/UvleRJ03MqI/AAAAAAAAlXk/gXMcmv6_q98/s1600/benfica_tv2%5B1%5D.png” group-title=“DESPORTO PT”,PT: Benfica tv1
+http://51.255.77.55:5050/live/bauer/bauer/543.ts
+#EXTINF:0 tvg-logo=“http://3.bp.blogspot.com/-rFfJSA1flA8/UvleRJ03MqI/AAAAAAAAlXk/gXMcmv6_q98/s1600/benfica_tv2%5B1%5D.png” group-title=“DESPORTO PT”,PT: Benfica tv 2
+http://51.255.77.55:5050/live/bauer/bauer/542.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=“https://rlv.zcache.com.pt/bola_de_vidro_da_bandeira_de_portugal_adesivo-ra4eb0153528642688e68d2c6767d8074_v9wth_8byvr_512.jpg” group-title=“DESPORTO PT”,PT-Toros_tv
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3404.ts
+
+#EXTINF:-1 tvg-logo=“https://rlv.zcache.com.pt/bola_de_vidro_da_bandeira_de_portugal_adesivo-ra4eb0153528642688e68d2c6767d8074_v9wth_8byvr_512.jpg” group-title=“DESPORTO PT”,A Bola TV
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3414.ts
+
+#EXTINF:-1 tvg-logo="https://rlv.zcache.com.pt/bola_de_vidro_da_bandeira_de_portugal_adesivo-ra4eb0153528642688e68d2c6767d8074_v9wth_8byvr_512.jpg" group-title="DESPORTO PT",PT | A BOLA TV
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3090.ts
+
+
+#EXTINF:-1 tvg-logo=“https://rlv.zcache.com.pt/bola_de_vidro_da_bandeira_de_portugal_adesivo-ra4eb0153528642688e68d2c6767d8074_v9wth_8byvr_512.jpg” group-title=“DESPORTO PT”,PT-Record
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3408.ts
+#EXTINF:-1 tvg-logo=“https://rlv.zcache.com.pt/bola_de_vidro_da_bandeira_de_portugal_adesivo-ra4eb0153528642688e68d2c6767d8074_v9wth_8byvr_512.jpg” group-title=“DESPORTO PT”,PT-Motors_TV
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3409.ts
+#EXTINF:-1 tvg-logo=“https://rlv.zcache.com.pt/bola_de_vidro_da_bandeira_de_portugal_adesivo-ra4eb0153528642688e68d2c6767d8074_v9wth_8byvr_512.jpg” group-title=“DESPORTO PT”,PT: MOTORS_TV
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7612.ts
+
+
+
+#EXTINF:-1,karl99 (PT) 24 Kitchen HD
+http://137.74.94.161:8000/live/karl99/karl99/9173.ts
+
+#EXTINF:-1,karl99 (PT) Benfica 1
+http://137.74.94.161:8000/live/karl99/karl99/9175.ts
+#EXTINF:-1,karl99 (PT) Benfica 2
+http://137.74.94.161:8000/live/karl99/karl99/9176.ts
+
+#EXTINF:-1,karl99 (PT) Sporting TV
+http://137.74.94.161:8000/live/karl99/karl99/9200.ts
+
+#EXTINF:-1,karl99 (PT) CMTV
+http://137.74.94.161:8000/live/karl99/karl99/9178.ts
+
+#EXTINF:-1,karl99 (PT) Eurosport 1HD
+http://137.74.94.161:8000/live/karl99/karl99/9182.ts
+
+
+#EXTINF:-1,PORTUGAL:CHELSEA TV HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1670.ts
+#EXTINF:-1,PORTUGAL:CAÇAVISION HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1680.ts
+#EXTINF:-1,PORTUGAL:BARÇA TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1669.ts
+#EXTINF:-1,PORTUGAL:REAL MADRID TV HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/802.ts
+
+#EXTINF:-1,PORTUGAL:SPORTING TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1668.ts
+
+#EXTINF:-1,PORTUGAL:EUROSPORT
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1647.ts
+
+
+#EXTINF:-1,PORTUGAL:BENFICA TV 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1587.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1588.ts
+
+#EXTINF:-1,PORTUGAL:CAÇA E PESCA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1435.ts
+
+#EXTINF:-1,PORTUGAL:TOROS TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/797.ts
+
+#EXTINF:-1,PORTUGAL:SPORTTV AMERICA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/793.ts
+#EXTINF:-1,PORTUGAL:SPORT TV1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1601.ts
+#EXTINF:-1,PORTUGAL:SPORT TV2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1602.ts
+#EXTINF:-1,PORTUGAL:SPORT TV3
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1603.ts
+#EXTINF:-1,PORTUGAL:SPORT TV4
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1604.ts
+#EXTINF:-1,PORTUGAL:SPORT TV5
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1605.ts
+#EXTINF:-1,PORTUGAL:SPORTTV 5 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/792.ts
+#EXTINF:-1,PORTUGAL:SPORTTV 4 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/791.ts
+#EXTINF:-1,PORTUGAL:SPORTTV 3 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/790.ts
+#EXTINF:-1,PORTUGAL:SPORTTV 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/789.ts
+#EXTINF:-1,PORTUGAL:SPORTTV 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/788.ts
+#EXTINF:-1,PORTUGAL:SPORTING TV HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/787.ts
+
+#EXTINF:-1,PORTUGAL:RTP INTERNACIONAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/754.ts
+
+
+#EXTINF:-1,PORTUGAL:FASHION HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/835.ts
+#EXTINF:-1,PORTUGAL:EUROSPORT NEWS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/798.ts
+#EXTINF:-1,PORTUGAL:EUROSPORT HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/799.ts
+#EXTINF:-1,PORTUGAL:EUROSPORT 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/800.ts
+#EXTINF:-1,PORTUGAL:EURONEWS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/770.ts
+#EXTINF:-1,PORTUGAL:ECONOMICO TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/769.ts
+#EXTINF:-1,PORTUGAL:E! ENTERTAINMENT
+http://163.172.217.53:8000/live/5grandiptv915/67863345/821.ts
+
+
+#EXTINF:-1,PORTUGAL:SIC RADICAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/759.ts
+#EXTINF:-1,PORTUGAL:SIC NOTICIAS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/773.ts
+#EXTINF:-1,PORTUGAL:SIC MULHER
+http://163.172.217.53:8000/live/5grandiptv915/67863345/758.ts
+#EXTINF:-1,PORTUGAL:SIC KIDS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/827.ts
+#EXTINF:-1,PORTUGAL:SIC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/757.ts
+#EXTINF:-1,PORTUGAL:RTP MEMORIA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/756.ts
+#EXTINF:-1,PORTUGAL:RTP MADEIRA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/755.ts
+
+
+
+#EXTINF:-1,PORTUGAL:AXN WHITE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/811.ts
+#EXTINF:-1,PORTUGAL:AXN HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/809.ts
+#EXTINF:-1,PORTUGAL:AXN BLACK HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/810.ts
+#EXTINF:-1,PORTUGAL:AMC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/819.ts
+#EXTINF:-1,PORTUGAL:ALJAZEERA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/776.ts
+#EXTINF:-1,PORTUGAL:AFRO MUSIC HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/832.ts
+#EXTINF:-1,PORTUGAL:ABOLA TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/781.ts
+
+#EXTINF:-1,PORTUGAL:CACAVISION
+http://163.172.217.53:8000/live/5grandiptv915/67863345/794.ts
+#EXTINF:-1,PORTUGAL:BTV2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/784.ts
+#EXTINF:-1,PORTUGAL:BTV 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/782.ts
+#EXTINF:-1,PORTUGAL:BTV 1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/783.ts
+
+
+
+
+
+#EXTINF:-1,karl99 PT:  TV CINE 1
+http://137.74.94.161:8000/live/karl99/karl99/9159.ts
+#EXTINF:-1,karl99 PT:  TV CINE 2
+http://137.74.94.161:8000/live/karl99/karl99/9160.ts
+#EXTINF:-1,karl99 PT:  TV CINE 3
+http://137.74.94.161:8000/live/karl99/karl99/9161.ts
+#EXTINF:-1,karl99 PT: AXN BLACK HD
+http://137.74.94.161:8000/live/karl99/karl99/9163.ts
+#EXTINF:-1,karl99 PT: AXN WHITE HD
+http://137.74.94.161:8000/live/karl99/karl99/9164.ts
+#EXTINF:-1,karl99 PT: Cinemundo
+http://137.74.94.161:8000/live/karl99/karl99/9165.ts
+#EXTINF:-1,karl99 PT: Globo Premium
+http://137.74.94.161:8000/live/karl99/karl99/9187.ts
+#EXTINF:-1,karl99 PT: RTP Acores
+http://137.74.94.161:8000/live/karl99/karl99/9193.ts
+#EXTINF:-1,karl99 PT: Sport TV 1
+http://137.74.94.161:8000/live/karl99/karl99/9166.ts
+#EXTINF:-1,karl99 PT: Sport TV 2
+http://137.74.94.161:8000/live/karl99/karl99/9167.ts
+#EXTINF:-1,karl99 PT: Sport TV 3
+http://137.74.94.161:8000/live/karl99/karl99/9168.ts
+#EXTINF:-1,karl99 PT: Sport TV 4
+http://137.74.94.161:8000/live/karl99/karl99/9169.ts
+#EXTINF:-1,karl99 PT: Sport TV 5
+http://137.74.94.161:8000/live/karl99/karl99/9170.ts
+#EXTINF:-1,karl99 PT: Sporting TV
+http://137.74.94.161:8000/live/karl99/karl99/9171.ts
+#EXTINF:-1,karl99 PT: TV CINE 4
+http://137.74.94.161:8000/live/karl99/karl99/9172.ts
+#EXTINF:-1,karl99 PT: TV Record
+http://137.74.94.161:8000/live/karl99/karl99/9202.ts
+#EXTINF:-1,karl99 PT: TV Series
+http://137.74.94.161:8000/live/karl99/karl99/9162.ts
+
+#EXTINF:-1,karl99 (PT) Discovery Channel
+http://137.74.94.161:8000/live/karl99/karl99/9179.ts
+#EXTINF:-1,karl99 (PT) Disney Channel
+http://137.74.94.161:8000/live/karl99/karl99/9180.ts
+#EXTINF:-1,karl99 (PT) Disney Junior
+http://137.74.94.161:8000/live/karl99/karl99/9181.ts
+
+#EXTINF:-1,karl99 (PT) FOX HD
+http://137.74.94.161:8000/live/karl99/karl99/9183.ts
+#EXTINF:-1,karl99 (PT) Fox Life HD
+http://137.74.94.161:8000/live/karl99/karl99/9184.ts
+#EXTINF:-1,karl99 (PT) Fox Movies
+http://137.74.94.161:8000/live/karl99/karl99/9185.ts
+#EXTINF:-1,karl99 (PT) FX
+http://137.74.94.161:8000/live/karl99/karl99/9186.ts
+#EXTINF:-1,karl99 (PT) Historia
+http://137.74.94.161:8000/live/karl99/karl99/9188.ts
+#EXTINF:-1,karl99 (PT) Nat Geo Wild
+http://137.74.94.161:8000/live/karl99/karl99/9189.ts
+#EXTINF:-1,karl99 (PT) Porto Canal
+http://137.74.94.161:8000/live/karl99/karl99/9190.ts
+#EXTINF:-1,karl99 (PT) RTP 1
+http://137.74.94.161:8000/live/karl99/karl99/9191.ts
+#EXTINF:-1,karl99 (PT) RTP 2
+http://137.74.94.161:8000/live/karl99/karl99/9192.ts
+#EXTINF:-1,karl99 (PT) RTP Madeira
+http://137.74.94.161:8000/live/karl99/karl99/9194.ts
+#EXTINF:-1,karl99 (PT) RTP Memoria
+http://137.74.94.161:8000/live/karl99/karl99/9195.ts
+#EXTINF:-1,karl99 (PT) SIC
+http://137.74.94.161:8000/live/karl99/karl99/9196.ts
+#EXTINF:-1,karl99 (PT) SIC K
+http://137.74.94.161:8000/live/karl99/karl99/9197.ts
+#EXTINF:-1,karl99 (PT) SIC Mulher
+http://137.74.94.161:8000/live/karl99/karl99/9198.ts
+#EXTINF:-1,karl99 (PT) SIC Noticias
+http://137.74.94.161:8000/live/karl99/karl99/9199.ts
+
+#EXTINF:-1,karl99 (PT) SyFy
+http://137.74.94.161:8000/live/karl99/karl99/9201.ts
+#EXTINF:-1,karl99 (PT) TVI
+http://137.74.94.161:8000/live/karl99/karl99/9203.ts
+#EXTINF:-1,karl99 (PT) TVI 24
+http://137.74.94.161:8000/live/karl99/karl99/9204.ts
+
+
+
+#EXTINF:-1,### IPTV MIX 21-12-2016 ###
+
+http://www.iptv4free.com/2016/12/iptv-mix_21.html
+#EXTINF:-1,PORTUGAL:WOO HOO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1597.ts
+#EXTINF:-1,PORTUGAL:VENUS TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1586.ts
+#EXTINF:-1,PORTUGAL:TLC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1653.ts
+#EXTINF:-1,PORTUGAL:PFC HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1646.ts
+#EXTINF:-1,PORTUGAL:MOTORVISION
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1648.ts
+#EXTINF:-1,PORTUGAL:HOLLYWOOD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1652.ts
+#EXTINF:-1,PORTUGAL:FUEL TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1645.ts
+#EXTINF:-1,PORTUGAL:WOOHOO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1658.ts
+#EXTINF:-1,PORTUGAL:TVI REALITY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.ts
+#EXTINF:-1,PORTUGAL:TVC SERIES HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1672.ts
+#EXTINF:-1,PORTUGAL:TV SERIES
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1673.ts
+#EXTINF:-1,PORTUGAL:TRAVEL CHANNEL HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1681.ts
+#EXTINF:-1,PORTUGAL:TRACE URBAN
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1679.ts
+
+#EXTINF:-1,PORTUGAL:SIC CARAS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1654.ts
+#EXTINF:-1,PORTUGAL:RTP 3
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1665.ts
+#EXTINF:-1,PORTUGAL:REDE TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1662.ts
+#EXTINF:-1,PORTUGAL:Q CANAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1659.ts
+#EXTINF:-1,PORTUGAL:PANDA BIGGS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1676.ts
+#EXTINF:-1,PORTUGAL:MTV PORTUGAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1678.ts
+#EXTINF:-1,PORTUGAL:MOTORVISION HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1671.ts
+#EXTINF:-1,PORTUGAL:JIM JAM
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1674.ts
+#EXTINF:-1,PORTUGAL:GLOBO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1660.ts
+#EXTINF:-1,PORTUGAL:CNBC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1666.ts
+
+#EXTINF:-1,PORTUGAL:A QUINTA EXCLUSIVO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1657.ts
+
+
+#EXTINF:-1,PORTUGAL:CBS REALITY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1651.ts
+#EXTINF:-1,PORTUGAL:BTV2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1644.ts
+#EXTINF:-1,PORTUGAL:BBC ENTERTAINMENT
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1650.ts
+#EXTINF:-1,PORTUGAL:SYFY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1599.ts
+#EXTINF:-1,PORTUGAL:RTP 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1600.ts
+#EXTINF:-1,PORTUGAL:PLAYBOY TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts
+#EXTINF:-1,PORTUGAL:NICKELODEON
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1589.ts
+#EXTINF:-1,PORTUGAL:HOT
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1585.ts
+#EXTINF:-1,PORTUGAL:FOX LIFE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1594.ts
+#EXTINF:-1,PORTUGAL:CONCAO NOVA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1596.ts
+#EXTINF:-1,PORTUGAL:CARTOON  NETWORK
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1593.ts
+#EXTINF:-1,PORTUGAL:CANAL PANDA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1592.ts
+#EXTINF:-1,PORTUGAL:CAMARA REALITY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1595.ts
+#EXTINF:-1,PORTUGAL:BLUE HUSTLER
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1583.ts
+#EXTINF:-1,PORTUGAL:BIGGS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1590.ts
+
+
+
+#EXTINF:-1,PORTUGAL:BABY TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1591.ts
+#EXTINF:-1,PORTUGAL:A&E
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1598.ts
+#EXTINF:-1,PORTUGAL:VEVO 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1430.ts
+#EXTINF:-1,PORTUGAL:VEVO 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1429.ts
+#EXTINF:-1,PORTUGAL:ONE 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1441.ts
+#EXTINF:-1,PORTUGAL:MUSIC VOX TV HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1439.ts
+#EXTINF:-1,PORTUGAL:DISCOVERY SHOWCASE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1428.ts
+#EXTINF:-1,PORTUGAL:CAPELA DE FATIMA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1432.ts
+
+#EXTINF:-1,PORTUGAL:24KITCHEN HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1434.ts
+#EXTINF:-1,PORTUGAL:1HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1440.ts
+#EXTINF:-1,PORTUGAL:VEVO 3 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1431.ts
+#EXTINF:-1,PORTUGAL:VH1 CLASSIC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/831.ts
+#EXTINF:-1,PORTUGAL:VH1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/830.ts
+#EXTINF:-1,PORTUGAL:TVI24
+http://163.172.217.53:8000/live/5grandiptv915/67863345/775.ts
+#EXTINF:-1,PORTUGAL:TVI FICCAO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/762.ts
+#EXTINF:-1,PORTUGAL:TVI
+http://163.172.217.53:8000/live/5grandiptv915/67863345/760.ts
+#EXTINF:-1,PORTUGAL:TVCINE 4 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/806.ts
+#EXTINF:-1,PORTUGAL:TVCINE 3 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/805.ts
+#EXTINF:-1,PORTUGAL:TVCINE 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/804.ts
+#EXTINF:-1,PORTUGAL:TVCINE 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/803.ts
+#EXTINF:-1,PORTUGAL:TVC SERIES
+http://163.172.217.53:8000/live/5grandiptv915/67863345/807.ts
+#EXTINF:-1,PORTUGAL:TV RECORD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/766.ts
+#EXTINF:-1,PORTUGAL:TV GALICIA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/768.ts
+#EXTINF:-1,PORTUGAL:TRAVEL CHANNEL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/841.ts
+#EXTINF:-1,PORTUGAL:TPA (ANG)
+http://163.172.217.53:8000/live/5grandiptv915/67863345/765.ts
+
+#EXTINF:-1,PORTUGAL:RTP AFRICA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/753.ts
+#EXTINF:-1,PORTUGAL:RTP ACORES
+http://163.172.217.53:8000/live/5grandiptv915/67863345/752.ts
+#EXTINF:-1,PORTUGAL:RTP 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/751.ts
+#EXTINF:-1,PORTUGAL:RTP 1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/749.ts
+#EXTINF:-1,PORTUGAL:RECORD NEWS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/779.ts
+
+#EXTINF:-1,PORTUGAL:PORTO CANAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/785.ts
+#EXTINF:-1,PORTUGAL:PFC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/796.ts
+#EXTINF:-1,PORTUGAL:ODISSEIA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/837.ts
+#EXTINF:-1,PORTUGAL:NICK HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/826.ts
+#EXTINF:-1,PORTUGAL:NBA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/786.ts
+#EXTINF:-1,PORTUGAL:NAT GEO WILD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/840.ts
+#EXTINF:-1,PORTUGAL:NAT GEO HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/839.ts
+#EXTINF:-1,PORTUGAL:MOV HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/818.ts
+#EXTINF:-1,PORTUGAL:MOTORS TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/801.ts
+#EXTINF:-1,PORTUGAL:MCM POP
+http://163.172.217.53:8000/live/5grandiptv915/67863345/829.ts
+#EXTINF:-1,PORTUGAL:HOLLYWOOD HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/817.ts
+#EXTINF:-1,PORTUGAL:HISTORIA HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/836.ts
+#EXTINF:-1,PORTUGAL: RTP 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/750.ts
+#EXTINF:-1,PORTUGAL:GLOBO PREMIUM
+http://163.172.217.53:8000/live/5grandiptv915/67863345/764.ts
+#EXTINF:-1,PORTUGAL:GLOBO PORTUGAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/763.ts
+#EXTINF:-1,PORTUGAL:FX
+http://163.172.217.53:8000/live/5grandiptv915/67863345/816.ts
+#EXTINF:-1,PORTUGAL:FOX MOVIES HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/814.ts
+#EXTINF:-1,PORTUGAL:FOX LIFE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/815.ts
+#EXTINF:-1,PORTUGAL:FOX HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/812.ts
+#EXTINF:-1,PORTUGAL:FOX CRIME HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/813.ts
+
+#EXTINF:-1,PORTUGAL:DISNEY JUNIOR
+http://163.172.217.53:8000/live/5grandiptv915/67863345/825.ts
+#EXTINF:-1,PORTUGAL:DISNEY CHANNEL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/824.ts
+#EXTINF:-1,PORTUGAL:DISCOVERY HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/838.ts
+#EXTINF:-1,PORTUGAL:CMTV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/771.ts
+#EXTINF:-1,PORTUGAL:CLUBLAND
+http://163.172.217.53:8000/live/5grandiptv915/67863345/828.ts
+#EXTINF:-1,PORTUGAL:CINEMUNDO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/808.ts
+#EXTINF:-1,PORTUGAL:CHELSEA TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/795.ts
+#EXTINF:-1,PORTUGAL:CARTOON NETWORK
+http://163.172.217.53:8000/live/5grandiptv915/67863345/822.ts
+#EXTINF:-1,PORTUGAL:CANÇAO NOVA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/767.ts
+#EXTINF:-1,PORTUGAL:CANAL PANDA HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/823.ts
+
+
+#EXTINF:-1,***** PORTUGAL *****
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2813.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,TVI 
+
+REALITY
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2803.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,TVI 
+
+FICCAO
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2804.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,TVI 
+
+HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2793.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,TVCINE 4
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2791.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,TVCINE 3
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2790.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,TVCINE 2
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2789.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,TVCINE 1
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2788.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,TV 
+
+SERIES
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2805.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORTING TV
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2792.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,SIC 
+
+NOTICIAS
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2807.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,SIC 
+
+MULHER
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2808.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,SIC 
+
+Kids
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2802.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,SIC
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2794.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,RTP 
+
+Madeira
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2801.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,RTP 
+
+ÃƒÂfrica
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2800.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,RTP 
+
+3
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2799.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,RTP 
+
+2
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2798.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,RTP 
+
+1
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2797.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,PFC
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2809.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,MCM 
+
+POP
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2806.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,FOX 
+
+MOVIES HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2810.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,FOX 
+
+COMEDY
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2811.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,BTV2 
+
+HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2796.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,BTV1 
+
+HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2795.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,AXN 
+
+WHITE HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2812.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORT TV 1 HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2989.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORT TV 2 HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2990.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORT TV 3 HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2991.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORT TV 4 HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/2992.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,VH1
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3104.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,TVI 
+
+24
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3080.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORT TV+
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3088.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,SPORT TV 5 HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3087.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,SIC 
+
+CARAS
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3082.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,PANDA BIGGS
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3086.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,Odisseia
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3100.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,NAT 
+
+GEO HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3101.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,MOV
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3095.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,MOTORVISION
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3092.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,JIM 
+
+JAM
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3085.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,HOLLYWOOD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3093.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,FOX 
+
+HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3098.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,FOX 
+
+CRIME HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3099.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,EUROSPORT 2 XTRA
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3091.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,DISNEY JUNIOR
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3083.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,DISCOVERY
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3102.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,CMTV
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3081.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,CINEMUNDO
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3094.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,CBS 
+
+REALITY
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3103.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV 
+
+Patrão”,CANAL PANDA
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3084.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,BTV 
+
+HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3089.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,AXN 
+
+HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3096.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,AXN 
+
+BLACK HD
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3097.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“IPTV Patrão”,A 
+
+BOLA TV
+http://193.70.116.156:8080/live/t1e2s1t2/a0fBAlXpaM/3090.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,PT-TVCine1
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2168.ts
+#EXTINF:-1,PT-TVCine2
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2167.ts
+#EXTINF:-1,PT-TVCine3
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2166.ts
+
+
+
+
+#EXTINF:-1,PT-RTP_1
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2173.ts
+#EXTINF:-1,PT-RTP_2
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2172.ts
+#EXTINF:-1,PT-TV_Globo
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2169.ts
+
+#EXTINF:-1,PT-Fox_Movies
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2170.ts
+#EXTINF:-1,PT-SIC_Caras
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2171.ts
+#EXTINF:-1,PT-Fox_HD
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2175.ts
+#EXTINF:-1,PT-Fox_Crime
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2176.ts
+#EXTINF:-1,PT-Fox_Comedy
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2177.ts
+#EXTINF:-1,PT-Disney_Junior
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2178.ts
+#EXTINF:-1,PT-Disney_Channel
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2179.ts
+#EXTINF:-1,PT-TVI_Ficcao
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3402.ts
+#EXTINF:-1,PT-TV_Cseries
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3403.ts
+
+#EXTINF:-1,PT-Sic_Radical
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3405.ts
+#EXTINF:-1,PT-Sic_Mulher
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3406.ts
+#EXTINF:-1,PT-RTP_Memoria
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3407.ts
+
+#EXTINF:-1,PT-Jim_Jim
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3410.ts
+#EXTINF:-1,PT-Discovery_HD
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3411.ts
+#EXTINF:-1,PT-Canal_Porto
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3412.ts
+#EXTINF:-1,PT-AXN_HD
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3413.ts
+
+
+#EXTINF:-1,***** PORTUGAL *****
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2813.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVI 
+
+REALITY
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2803.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVI 
+
+FICCAO
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2804.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVI HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2793.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVCINE 4
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2791.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVCINE 3
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2790.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVCINE 2
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2789.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVCINE 1
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2788.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TV 
+
+SERIES
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2805.ts
+
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,SIC 
+
+NOTICIAS
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2807.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,SIC 
+
+MULHER
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2808.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,SIC Kids
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2802.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,SIC
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2794.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,RTP 
+
+Madeira
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2801.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,RTP 
+
+ÃƒÂfrica
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2800.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,RTP 3
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2799.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,RTP 2
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2798.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,RTP 1
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2797.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,PFC
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2809.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,MCM POP
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2806.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,FOX 
+
+MOVIES HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2810.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,FOX 
+
+COMEDY
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2811.ts
+
+
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,AXN 
+
+WHITE HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2812.ts
+
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,VH1
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3104.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,TVI 24
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3080.ts
+
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,SIC 
+
+CARAS
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3082.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,PANDA 
+
+BIGGS
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3086.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,Odisseia
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3100.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,NAT GEO 
+
+HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3101.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,MOV
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3095.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-
+
+name=“paztest”,MOTORVISION
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3092.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,JIM JAM
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3085.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-
+
+name=“paztest”,HOLLYWOOD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3093.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,FOX HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3098.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,FOX 
+
+CRIME HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3099.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-
+
+name=“paztest”,EUROSPORT 2 XTRA
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3091.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,DISNEY 
+
+JUNIOR
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3083.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-
+
+name=“paztest”,DISCOVERY
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3102.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,CMTV
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3081.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-
+
+name=“paztest”,CINEMUNDO
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3094.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,CBS 
+
+REALITY
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3103.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,CANAL 
+
+PANDA
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3084.ts
+
+
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,AXN HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3096.ts
+#EXTINF:-1 tvg-logo=“https://cdn4.iconfinder.com/data/icons/world-flags-circular/1000/Flag_of_Portugal_-_Circle-128.png” group-title=“Portugal” parent-code=““ tvg-ID=“tvg-ID” tvg-name=“paztest”,AXN 
+
+BLACK HD
+http://sutverduz.com:8080/live/paztest/Bpns2ozi16/3097.ts
+
+
+
+#EXTINF:-1,------ Portugal --------
+http://163.172.6.8:8000/live/552/552/937.ts
+#EXTINF:-1,PT: Spor tv 1
+http://163.172.6.8:8000/live/552/552/880.ts
+#EXTINF:-1,PT: SporTV 2
+http://163.172.6.8:8000/live/552/552/881.ts
+#EXTINF:-1,PT: SporTV 3
+http://163.172.6.8:8000/live/552/552/882.ts
+#EXTINF:-1,PT: SporTV 4
+http://163.172.6.8:8000/live/552/552/883.ts
+#EXTINF:-1,PT: SporTV 5
+http://163.172.6.8:8000/live/552/552/884.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://163.172.6.8:8000/live/552/552/885.ts
+#EXTINF:-1,PT: Benfica TV 2
+http://163.172.6.8:8000/live/552/552/899.ts
+#EXTINF:-1,PT: Benfica TV 1
+http://163.172.6.8:8000/live/552/552/900.ts
+#EXTINF:-1,PT: TVCine 1
+http://163.172.6.8:8000/live/552/552/936.ts
+#EXTINF:-1,PT: TVCine 2
+http://163.172.6.8:8000/live/552/552/935.ts
+#EXTINF:-1,PT: TVCine 3
+http://163.172.6.8:8000/live/552/552/934.ts
+#EXTINF:-1,PT: TVCine 4
+http://163.172.6.8:8000/live/552/552/933.ts
+#EXTINF:-1,PT: TVCseries
+http://163.172.6.8:8000/live/552/552/930.ts
+#EXTINF:-1,PT: VeVo 1 HD
+http://163.172.6.8:8000/live/552/552/898.ts
+#EXTINF:-1,PT: VeVo 2 HD
+http://163.172.6.8:8000/live/552/552/897.ts
+#EXTINF:-1,PT: VeVo 3 HD
+http://163.172.6.8:8000/live/552/552/896.ts
+#EXTINF:-1,PT: AXN HD
+http://163.172.6.8:8000/live/552/552/915.ts
+#EXTINF:-1,PT: Axn White HD
+http://163.172.6.8:8000/live/552/552/916.ts
+#EXTINF:-1,PT: Axn Black HD
+http://163.172.6.8:8000/live/552/552/932.ts
+#EXTINF:-1,PT: Fox Comedy
+http://163.172.6.8:8000/live/552/552/923.ts
+#EXTINF:-1,PT: Fox HD
+http://163.172.6.8:8000/live/552/552/926.ts
+#EXTINF:-1,PT: Fox Life HD
+http://163.172.6.8:8000/live/552/552/925.ts
+#EXTINF:-1,PT: Fox Crime
+http://163.172.6.8:8000/live/552/552/901.ts
+#EXTINF:-1,PT: Toros tv
+http://163.172.6.8:8000/live/552/552/909.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://163.172.6.8:8000/live/552/552/886.ts
+#EXTINF:-1,PT: TVI
+http://163.172.6.8:8000/live/552/552/889.ts
+#EXTINF:-1,PT: TVI 24
+http://163.172.6.8:8000/live/552/552/887.ts
+#EXTINF:-1,PT: TV Globo
+http://163.172.6.8:8000/live/552/552/888.ts
+#EXTINF:-1,PT: SIC
+http://163.172.6.8:8000/live/552/552/924.ts
+#EXTINF:-1,PT: SIC K
+http://163.172.6.8:8000/live/552/552/919.ts
+#EXTINF:-1,PT: SIC Noticias
+http://163.172.6.8:8000/live/552/552/903.ts
+#EXTINF:-1,PT: Sic Radical
+http://163.172.6.8:8000/live/552/552/914.ts
+#EXTINF:-1,PT: SIC Caras
+http://163.172.6.8:8000/live/552/552/912.ts
+#EXTINF:-1,PT: Sic Mulher
+http://163.172.6.8:8000/live/552/552/913.ts
+#EXTINF:-1,PT: RTP Memoria
+http://163.172.6.8:8000/live/552/552/890.ts
+#EXTINF:-1,PT: RTP Madeira
+http://163.172.6.8:8000/live/552/552/891.ts
+#EXTINF:-1,PT: RTP Acores
+http://163.172.6.8:8000/live/552/552/893.ts
+#EXTINF:-1,PT: RTP 2
+http://163.172.6.8:8000/live/552/552/894.ts
+#EXTINF:-1,PT: RTP 1
+http://163.172.6.8:8000/live/552/552/895.ts
+#EXTINF:-1,PT: CM TV
+http://163.172.6.8:8000/live/552/552/908.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://163.172.6.8:8000/live/552/552/931.ts
+#EXTINF:-1,PT: Record
+http://163.172.6.8:8000/live/552/552/917.ts
+#EXTINF:-1,PT: PFC
+http://163.172.6.8:8000/live/552/552/911.ts
+#EXTINF:-1,PT: Jim Jim
+http://163.172.6.8:8000/live/552/552/918.ts
+#EXTINF:-1,PT: SyFy
+http://163.172.6.8:8000/live/552/552/902.ts
+#EXTINF:-1,PT: MOV HD
+http://163.172.6.8:8000/live/552/552/929.ts
+#EXTINF:-1,PT: CartoonNet Work
+http://163.172.6.8:8000/live/552/552/920.ts
+#EXTINF:-1,PT: Motors TV
+http://163.172.6.8:8000/live/552/552/921.ts
+#EXTINF:-1,PT: Cine Mundo
+http://163.172.6.8:8000/live/552/552/892.ts
+#EXTINF:-1,PT: EuroSpor News
+http://163.172.6.8:8000/live/552/552/922.ts
+#EXTINF:-1,PT: Hollywood
+http://163.172.6.8:8000/live/552/552/907.ts
+#EXTINF:-1,PT: EuroSport 2
+http://163.172.6.8:8000/live/552/552/927.ts
+#EXTINF:-1,PT: EuroSport
+http://163.172.6.8:8000/live/552/552/928.ts
+#EXTINF:-1,PT: Disney Junior
+http://163.172.6.8:8000/live/552/552/905.ts
+#EXTINF:-1,PT: Disney Channel
+http://163.172.6.8:8000/live/552/552/904.ts
+#EXTINF:-1,PT: Discovery HD
+http://163.172.6.8:8000/live/552/552/906.ts
+#EXTINF:-1,PT: Abola tv
+http://163.172.6.8:8000/live/552/552/910.ts
+
+
+#EXTINF:-1,PT: AMC
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7671.ts
+#EXTINF:-1,PT: E!_ENTERTAINMENT
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7660.ts
+
+
+#EXTINF:-1,PT:A&E
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7666.ts
+#EXTINF:-1,PT: AXN_WHITE_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7627.ts
+#EXTINF:-1,PT:AxnBlack HD
+http://sonic-iptv.com:2500/live/david/david/1474.ts
+
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://sonic-iptv.com:2500/live/david/david/1476.ts
+#EXTINF:-1,PT: TVI FICC?O
+http://sonic-iptv.com:2500/live/david/david/1475.ts
+#EXTINF:-1,PT: PFC
+http://sonic-iptv.com:2500/live/david/david/1480.ts
+#EXTINF:-1,PT: E! Entertainment
+http://sonic-iptv.com:2500/live/david/david/1465.ts
+
+
+
+#EXTINF:-1,PT: Canal_Historia
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7670.ts
+
+#EXTINF:-1,PT: Food_Network
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7659.ts
+#EXTINF:-1,PT: EUROSPORT_NEWS
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7669.ts
+#EXTINF:-1,PT: BTV 1
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7629.ts
+#EXTINF:-1,PT: Benfica_TV_2
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7603.ts
+#EXTINF:-1,PT: Benfica_TV_1
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7602.ts
+#EXTINF:-1,PT: BABY_TV
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7665.ts
+#EXTINF:-1,PT: A_BOLA
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7652.ts
+
+
+#EXTINF:-1,nevison PT: Cinemundo
+http://cp.dmbshare.net:8000/live/nevison/nevison/8207.ts
+#EXTINF:-1,nevison PT: AXN WHITE HD
+http://cp.dmbshare.net:8000/live/nevison/nevison/8206.ts
+#EXTINF:-1,nevison PT: AXN BLACK HD
+http://cp.dmbshare.net:8000/live/nevison/nevison/8205.ts
+#EXTINF:-1,nevison PT:  TV Series
+http://cp.dmbshare.net:8000/live/nevison/nevison/8204.ts
+#EXTINF:-1,nevison PT:  TV CINE 3
+http://cp.dmbshare.net:8000/live/nevison/nevison/8203.ts
+#EXTINF:-1,nevison PT:  TV CINE 2HD
+http://cp.dmbshare.net:8000/live/nevison/nevison/8202.ts
+#EXTINF:-1,nevison PT:  TV CINE 1HD
+http://cp.dmbshare.net:8000/live/nevison/nevison/8201.ts
+#EXTINF:-1,nevison PT: TV CINE 4HD
+http://cp.dmbshare.net:8000/live/nevison/nevison/8214.ts
+
+
+#EXTINF:-1,PT: VH1
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7667.ts
+#EXTINF:-1,PT: TV_Cine_3_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7614.ts
+#EXTINF:-1,PT: TV_Cine_2_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7615.ts
+#EXTINF:-1,PT: TV_Cine_1_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7616.ts
+#EXTINF:-1,PT: TVI_REALITY
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7637.ts
+#EXTINF:-1,PT: Tvi_24
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7636.ts
+#EXTINF:-1,PT: TVI.
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7635.ts
+#EXTINF:-1,PT: Travel_Channel_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7668.ts
+
+#EXTINF:-1,PT: SIC_Radical
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7632.ts
+#EXTINF:-1,PT: SIC_Noticias
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7633.ts
+#EXTINF:-1,PT: Sic_Mulher
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7631.ts
+#EXTINF:-1,PT: SIC_K
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7634.ts
+#EXTINF:-1,PT: SIC.
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7630.ts
+#EXTINF:-1,PT: RTP_3
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7650.ts
+#EXTINF:-1,PT: RTP_2
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7648.ts
+#EXTINF:-1,PT: RTP_1
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7649.ts
+#EXTINF:-1,PT: PORTO_CANAL
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7606.ts
+#EXTINF:-1,PT: Odisseia
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7656.ts
+#EXTINF:-1,PT: Nickelodeon
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7646.ts
+#EXTINF:-1,PT: MTV_Portugal
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7651.ts
+#EXTINF:-1,PT: MOV_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7617.ts
+
+#EXTINF:-1,PT: Historia
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7642.ts
+#EXTINF:-1,PT: FOX_COMEDY
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7624.ts
+#EXTINF:-1,PT: FOX MOVIES_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7619.ts
+#EXTINF:-1,PT: FOX
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7623.ts
+
+#EXTINF:-1,PT: Euronews
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7643.ts
+
+#EXTINF:-1,PT: Disney_Junior
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7644.ts
+#EXTINF:-1,PT: DISNEY_CHANNEL
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7647.ts
+#EXTINF:-1,PT: DISCOVERY_HD_SHOWCASE
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7639.ts
+#EXTINF:-1,PT: Discovery_Channel
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7641.ts
+#EXTINF:-1,PT: CM_TV
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7661.ts
+#EXTINF:-1,PT: CINEMUNDO_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7620.ts
+#EXTINF:-1,PT: Canal_Panda
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7645.ts
+
+#EXTINF:-1,PT: AXN_HD
+http://149.202.208.25:5210/live/stunner/aaA0ea2KyM/7625.ts
+
+
+
+
+#EXTINF:-1,PT:TVCine_1_HD
+http://sonic-iptv.com:2500/live/david/david/802.ts
+#EXTINF:-1,PT:TVCine_2_HD
+http://sonic-iptv.com:2500/live/david/david/803.ts
+#EXTINF:-1,PT:TVCine_3_HD
+http://sonic-iptv.com:2500/live/david/david/804.ts
+#EXTINF:-1,PT: TVCine 4
+http://sonic-iptv.com:2500/live/david/david/1460.ts
+#EXTINF:-1,PT:Fox_Crime
+http://sonic-iptv.com:2500/live/david/david/798.ts
+#EXTINF:-1,PT:Fox HD
+http://sonic-iptv.com:2500/live/david/david/793.ts
+#EXTINF:-1,PT:AXN_HD
+http://sonic-iptv.com:2500/live/david/david/796.ts
+#EXTINF:-1,PT: TV SERIES
+http://sonic-iptv.com:2500/live/david/david/818.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://sonic-iptv.com:2500/live/david/david/815.ts
+#EXTINF:-1,PT: SIC CARAS
+http://sonic-iptv.com:2500/live/david/david/814.ts
+#EXTINF:-1,PT: RTP 2
+http://sonic-iptv.com:2500/live/david/david/807.ts
+#EXTINF:-1,PT: RTP 1
+http://sonic-iptv.com:2500/live/david/david/805.ts
+#EXTINF:-1,PT: Porto Canal
+http://sonic-iptv.com:2500/live/david/david/826.ts
+#EXTINF:-1,PT: MOV HD
+http://sonic-iptv.com:2500/live/david/david/813.ts
+#EXTINF:-1,PT: JIM JAM
+http://sonic-iptv.com:2500/live/david/david/810.ts
+
+#EXTINF:-1,PT: Cinemundo
+http://sonic-iptv.com:2500/live/david/david/1463.ts
+#EXTINF:-1,PT: CM TV
+http://sonic-iptv.com:2500/live/david/david/1466.ts
+#EXTINF:-1,PT: Disney Junior
+http://sonic-iptv.com:2500/live/david/david/1467.ts
+
+
+#EXTINF:-1,PT: Fox HD
+http://sonic-iptv.com:2500/live/david/david/1462.ts
+#EXTINF:-1,PT: Historia HD
+http://sonic-iptv.com:2500/live/david/david/1464.ts
+#EXTINF:-1,PT: Hollywood
+http://sonic-iptv.com:2500/live/david/david/1461.ts
+#EXTINF:-1,PT: RTP Africa
+http://sonic-iptv.com:2500/live/david/david/1457.ts
+#EXTINF:-1,PT: RTP Madeira
+http://sonic-iptv.com:2500/live/david/david/1456.ts
+#EXTINF:-1,PT: RTP Memoria
+http://sonic-iptv.com:2500/live/david/david/1455.ts
+#EXTINF:-1,PT: SIC
+http://sonic-iptv.com:2500/live/david/david/1454.ts
+#EXTINF:-1,PT: TVI
+http://sonic-iptv.com:2500/live/david/david/1458.ts
+#EXTINF:-1,PT: TVI 24
+http://sonic-iptv.com:2500/live/david/david/1459.ts
+#EXTINF:-1,PT: ABOLA TV
+http://sonic-iptv.com:2500/live/david/david/1484.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://sonic-iptv.com:2500/live/david/david/1483.ts
+#EXTINF:-1,PT: CartoonNetwork
+http://sonic-iptv.com:2500/live/david/david/1473.ts
+#EXTINF:-1,PT: Discovery-HD
+http://sonic-iptv.com:2500/live/david/david/1472.ts
+#EXTINF:-1,PT: Fox-Comedy
+http://sonic-iptv.com:2500/live/david/david/1471.ts
+#EXTINF:-1,PT: Fox-Crime
+http://sonic-iptv.com:2500/live/david/david/1470.ts
+#EXTINF:-1,PT: Fox-Movies
+http://sonic-iptv.com:2500/live/david/david/1469.ts
+#EXTINF:-1,PT: MovHD
+http://sonic-iptv.com:2500/live/david/david/1482.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://sonic-iptv.com:2500/live/david/david/1481.ts
+
+#EXTINF:-1,PT: RTP MEM?RIA
+http://sonic-iptv.com:2500/live/david/david/1479.ts
+#EXTINF:-1,PT: SIC KIDS
+http://sonic-iptv.com:2500/live/david/david/1478.ts
+#EXTINF:-1,PT: SIC NOT?CIAS
+http://sonic-iptv.com:2500/live/david/david/1477.ts
 
 
