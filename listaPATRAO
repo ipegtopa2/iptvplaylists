@@ -15,6 +15,20 @@ http://www.tv-msn.com/player/player.swf
 
 #EXTINF:-1,#*•●★۩  SPORT TV PT ۩★●•*#۩
 
+#EXTINF:-1,Sport TV1 HD
+http://gochannelstv.dyndns.tv:80/p83sporttv1hd/index.m3u8
+#EXTINF:-1,Sport TV2 HD
+http://gochannelstv.dyndns.tv:80/p84sporttv2hd/index.m3u8
+#EXTINF:-1,Sport TV3 HD
+http://gochannelstv.dyndns.tv:80/p85sporttv3hd/index.m3u8
+#EXTINF:-1,Sport TV4 HD
+http://gochannelstv.dyndns.tv:80/p86sporttv4hd/index.m3u8
+#EXTINF:-1,Sport TV5 HD
+http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8
+#EXTINF:-1,Sporting TV HD
+http://gochannelstv.dyndns.tv:80/p88sportingtvhd/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 1 HD
 http://sutverduz.com:8080/live/paztest/Bpns2ozi16/2989.ts
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/media/1018/sport_tv_explore_mais.png" group-title="DESPORTO PT",PT | SPORT TV 2 HD
