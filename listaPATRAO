@@ -23,333 +23,155 @@ http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/410.ts
 https://www.sporttv.pt/#programacao
 
 #EXTINF:-1, group-title="PORTUGAL",PT Sport TV1 HD
-
 http://gochannelstv.dyndns.tv:80/p83sporttv1hd/index.m3u8
-
 #EXTINF:-1, group-title="PORTUGAL",PT Sport TV2 HD
-
 http://gochannelstv.dyndns.tv:80/p84sporttv2hd/index.m3u8
-
 #EXTINF:-1, group-title="PORTUGAL",PT Sport TV3 HD
-
 http://gochannelstv.dyndns.tv:80/p85sporttv3hd/index.m3u8
-
 #EXTINF:-1, group-title="PORTUGAL",PT Sport TV4 HD
-
 http://gochannelstv.dyndns.tv:80/p86sporttv4hd/index.m3u8
-
 #EXTINF:-1, group-title="PORTUGAL",PT Sport TV5 HD
-
 http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8
-
 #EXTINF:-1, group-title="PORTUGAL",PT Sporting TV HD
-
 http://gochannelstv.dyndns.tv:80/p88sportingtvhd/index.m3u8
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT EUROSPORT 1 ARAB
-
 http://93.91.240.195:1234/udp/239.198.3.104:1234
-
 #EXTINF:-1, group-title="PORTUGAL",PT EUROSPORT 2 ARAB
-
 http://93.91.240.195:1234/udp/239.198.3.102:1234
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT CHELSEA TV HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1670.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT CAÇAVISION HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1680.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT BARÇA TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1669.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT REAL MADRID TV HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/802.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTING TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1668.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT EUROSPORT
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1647.ts
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT BENFICA TV 2
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1587.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT BENFICA TV 1 HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1588.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT CAÇA E PESCA
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1435.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT TOROS TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/797.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTTV AMERICA
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/793.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV1
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1601.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV2
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1602.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV3
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1603.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV4
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1604.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV5
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1605.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTTV 5 HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/792.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTTV 4 HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/791.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTTV 3 HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/790.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTTV 2 HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/789.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTTV 1 HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/788.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORTING TV HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/787.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT RTP INTERNACIONAL
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/754.ts
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT FASHION HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/835.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT EUROSPORT NEWS
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/798.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT EUROSPORT HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/799.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT EUROSPORT 2
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/800.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT EURONEWS
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/770.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT ECONOMICO TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/769.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT E! ENTERTAINMENT
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/821.ts
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT SIC RADICAL
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/759.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SIC NOTICIAS
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/773.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SIC MULHER
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/758.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SIC KIDS
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/827.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SIC
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/757.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT RTP MEMORIA
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/756.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT RTP MADEIRA
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/755.ts
 
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT AXN WHITE HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/811.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT AXN HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/809.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT AXN BLACK HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/810.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT AMC
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/819.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT ALJAZEERA
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/776.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT AFRO MUSIC HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/832.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT ABOLA TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/781.ts
-
-
-#EXTINF:-1, group-title="PORTUGAL",PT CACAVISION
-
+EXTINF:-1, group-title="PORTUGAL",PT CACAVISION
 http://163.172.217.53:8000/live/5grandiptv915/67863345/794.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT BABYFIRST RUSSO
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/782.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT BTV 1
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/783.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT BTV2 HD off?
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/784.ts
 
 
-
-
-
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT ### IPTV MIX 21-12-2016 ###
-
 http://www.iptv4free.com/2016/12/iptv-mix_21.html
 
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT VENUS TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1586.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT PLAYBOY TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1584.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT HOT
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1585.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT BLUE HUSTLER
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1583.ts
-
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT WOO HOO
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1597.ts
-
-
 #EXTINF:-1, group-title="PORTUGAL",PT TLC
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1653.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT PFC HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1646.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT MOTORVISION
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1648.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT HOLLYWOOD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1652.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT FUEL TV
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1645.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT WOOHOO
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1658.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT TVI REALITY
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1656.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT TVC SERIES HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1672.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT TV SERIES
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1673.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT TRAVEL CHANNEL HD
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1681.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT TRACE URBAN
-
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1679.ts
-
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV 1 (POR)
 http://51.254.197.40:25461/live/pete/pete/10086.ts
 #EXTINF:-1, group-title="PORTUGAL",PT SPORT TV 2 (POR)
