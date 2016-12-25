@@ -1,24 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
-http://www.tv-msn.com/player/player.swf
-
-#EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO",PlayLists IPTV m3u do Patrao
-http://www.tv-msn.com/player/player.swf
-
-#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 19/12/2016
-http://www.tv-msn.com/player/player.swf
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
 http://www.tv-msn.com/player/player.swf
 
-###############################################################################################################
+#EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-
 
-#EXTINF:-1 group-title="25-12-2016",World IPTV
+O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO",PlayLists IPTV m3u do 
+
+Patrao
+http://www.tv-msn.com/player/player.swf
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-
+
+title="INFO",Atualizada: 25/12/2016
+http://www.tv-msn.com/player/player.swf
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
+http://www.tv-msn.com/player/player.swf
+
+########################################################################################################
+
+#EXTINF:-1,tom
+http://51.254.197.40:25461/get.php?username=tom&password=tom&type=m3u 
+
+#EXTINF:-1,1-bigsat.fr
+http://iptv.multics-cache.com:8000/get.php?username=1-bigsat.fr&password=www.bigsat.fr&type=m3u
+
+#EXTINF:-1,numan-aydin-12 TR DE UK 3D
+http://501server.com:8000/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&type=m3u
+
+
+Lewis xyz UK e USA
+http://mediaiptv.xyz:8000/get.php?username=Lewis&password=Lewis&type=m3u 
+Lewis OFF ?
+http://163.172.221.221:8090/get.php?username=sebas&password=iptv&type=m3u 
+#EXTINF:-1 group-title="22-12-2016",Lewis 112 ON 
+http://51.255.70.112:8000/get.php?username=Lewis&password=Lewis&type=m3u
+
+
+
+
+#EXTINF:-1,0800 Bein+OSN+AR+ON_DEMAND_200 2016-12-21
+http://88.198.34.144:8000/get.php?username=0800&password=0800&type=m3u
+
+
+#EXTINF:-1 group-title="22-12-2016",ahmad Arab channels 
+http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u
+
+#EXTINF:-1 group-title="22-12-2016",0800
+http://88.198.34.144:8000/get.php?username=0800&password=0800&type=m3u
+
+
+#EXTINF:-1 group-title="25-12-2016",brasil
+http://163.172.63.57:8000/get.php?username=brasil&password=er4fgerv44444&type=m3u
+http://163.172.63.57:8000/get.php?username=brasil&password=er4fgerv44444&type=m3u
+
+#EXTINF:-1 group-title="25-12-2016",sousse World IPTV
 http://37.187.175.177:8000/get.php?username=sousse&password=sousse&type=m3u
 
 #EXTINF:-1 group-title="25-12-2016",ES, FR, DE
-http://163.172.32.148:9300/get.php?username=farid&password=farid&type=m3u read more...
+http://163.172.32.148:9300/get.php?username=farid&password=farid&type=m3u
 
 #EXTINF:-1 group-title="25-12-2016",e1V
 http://89.163.224.7:9005/get.php?username=e1dVTrnQaD&password=v8HtyG4icZ&type=m3u
@@ -30,6 +74,39 @@ http://178.175.142.50:25461/get.php?username=Teddy&password=tQdi9HPK&type=m3u
 http://193.70.116.156:8080/get.php?username=Qov5jrxyJx&password=tMmYYuiWbA&type=m3u
 #EXTINF:-1 group-title="25-12-2016",Qov5 biwsat
 http://biwsat.com:8080/get.php?username=Qov5jrxyJx&password=tMmYYuiWbA&type=m3u
+
+#EXTINF:-1 group-title="25-12-2016",makists79
+http://163.172.50.221:8300/get.php?username=makists79&password=makists54208&type=m3u
+#EXTINF:-1 group-title="25-12-2016",SALAH123
+http://149.202.77.226:7500/get.php?username=SALAH123&password=SALAH123&type=m3u
+#EXTINF:-1 group-title="25-12-2016",imerziberi
+http://50.7.113.2:8000/get.php?username=imerziberi&password=iudfjcowej&type=m3u
+
+
+Update 25.12.2016#EXTINF:-1 group-title="25-12-2016",ziopietro
+http://iptv-online.ddns.net:8000/get.php?username=ziopietro&password=adran1o&type=m3u
+#EXTINF:-1 group-title="25-12-2016",3fTtfMiPIJ
+http://193.70.116.156:8080/get.php?username=3fTtfMiPIJ&password=Ss1fV7gh8O&type=m3u
+#EXTINF:-1 group-title="25-12-2016",123qw
+http://ipsatpro.com:8000/get.php?username=123qw&password=123qw&type=m3u
+#EXTINF:-1 group-title="25-12-2016",redline
+http://ipsatpro.com:8000/get.php?username=redline&password=redline&type=m3u
+#EXTINF:-1 group-title="25-12-2016",imerziberi
+http://50.7.113.2:8000/get.php?username=imerziberi&password=iudfjcowej&type=m3u
+#EXTINF:-1 group-title="25-12-2016",testfast
+http://iptv.fastcccam.tv:8080/get.php?username=testfast&password=54lkuyn865&type=m3u
+#EXTINF:-1 group-title="25-12-2016",me
+http://gh-ah.ddns.net:8000/get.php?username=me&password=me&type=m3u
+#EXTINF:-1 group-title="25-12-2016",thatcher
+http://cp.dmbshare.net:8000/get.php?username=thatcher&password=thatcher&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess33
+http://88.198.34.144:8000/get.php?username=ess33&password=ess33&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess37
+http://88.198.34.144:8000/get.php?username=ess37&password=ess37&type=m3u
+
+#EXTINF:-1 group-title="25-12-2016",ess39
+http://88.198.34.144:8000/get.php?username=ess39&password=ess39&type=m3u
+
 #EXTINF:-1 group-title="25-12-2016",ess65
 http://88.198.34.144:8000/get.php?username=ess65&password=ess65&type=m3u
 
@@ -102,41 +179,6 @@ http://s1.ukhdtv.com:7860/get.php?username=Z9BW3kpBGv&password=eu1kQPD4EY&type=m
 http://ipsatpro.info:8000/get.php?username=qcPZnZB90S&password=1hupbWMVDU&type=m3u
 
 #################################################################
-brasil
-http://163.172.63.57:8000/get.php?username=brasil&password=er4fgerv44444&type=m3u 
-
-
-#EXTINF:-1,tom
-http://51.254.197.40:25461/get.php?username=tom&password=tom&type=m3u 
-
-
-
-#EXTINF:-1,1-bigsat.fr
-http://iptv.multics-cache.com:8000/get.php?username=1-bigsat.fr&password=www.bigsat.fr&type=m3u
-
-#EXTINF:-1,numan-aydin-12 TR DE UK 3D
-http://501server.com:8000/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&type=m3u
-
-
-Lewis xyz UK e USA
-http://mediaiptv.xyz:8000/get.php?username=Lewis&password=Lewis&type=m3u 
-#EXTINF:-1 group-title="22-12-2016",Lewis OFF ?
-http://163.172.221.221:8090/get.php?username=sebas&password=iptv&type=m3u 
-#EXTINF:-1 group-title="22-12-2016",Lewis 112 ON 
-http://51.255.70.112:8000/get.php?username=Lewis&password=Lewis&type=m3u
-
-
-
-
-#EXTINF:-1,0800 Bein+OSN+AR+ON_DEMAND_200 2016-12-21
-http://88.198.34.144:8000/get.php?username=0800&password=0800&type=m3u
-
-
-#EXTINF:-1 group-title="22-12-2016",ahmad Arab channels 
-http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u
-
-#EXTINF:-1 group-title="22-12-2016",0800
-http://88.198.34.144:8000/get.php?username=0800&password=0800&type=m3u
 
 
 #EXTINF:-1 group-title="22-12-2016",karl99
@@ -412,7 +454,9 @@ http://88.198.34.144:8000/get.php?username=0578&password=0578&type=m3u
 http://88.198.34.144:8000/get.php?username=0579&password=0579&type=m3u
 
 
-###############################################################################################################
+########################################################################################################
+
+#######
 
 #EXTINF:-1, ### m3u PlayLists 20-12-2016 ###
 
@@ -447,7 +491,9 @@ http://51.254.113.188:8000/get.php?username=nasim&password=nasim&type=m3u
 
  
 
-###############################################################################################################
+########################################################################################################
+
+#######
 #EXTINF:-1,20/12/2016 Free m3u playlist 20-12-2016 {New m3u}
 By Tony | December 19, 2016 0 Comment
 http://freeiptv.weightlosstoday.org/2016/12/19/free-m3u-playlist-20-12-2016-new-m3u/
@@ -492,7 +538,9 @@ http://137.74.94.161:8000/get.php?username=francesco&password=francesco&type=m3u
 http://137.74.94.161:8000/get.php?username=gianfranco&password=gianfranco&type=m3u
 
 
-###############################################################################################################
+########################################################################################################
+
+#######
 #EXTINF:-1,### playlists m3u 19-12-2016 ###
 http://freeiptv.weightlosstoday.org/
 
@@ -558,7 +606,9 @@ http://501server.com:8000/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&ty
 http://rexiptvaccount.info:8080/get.php?username=KemalGurel&password=gurelK12082016&type=m3u 
 
 
-###############################################################################################################
+########################################################################################################
+
+#######
 The post Free m3u playlist 19-12-2016 {New m3u} 
 
 #EXTINF:-1,### playlists pw 19-12-2016 ###
@@ -594,7 +644,9 @@ http://149.202.70.230:8000/get.php?username=cakir11&password=6DzpyYyvWA&type=m3u
 #EXTINF:-1,mustafayildiz playlist .pw m3u 19-12-2016
 http://149.202.70.230:8000/get.php?username=mustafayildiz&password=ptBIH8144u&type=m3u 
 
-###############################################################################################################
+########################################################################################################
+
+#######
 #EXTINF:-1,### playlists pw 18-12-2016 ###
 http://www.m3uliste.pw/
 Update 18.12.2016
@@ -708,7 +760,9 @@ http://sonic.revolution.ns0.it:25461/get.php?username=LyQhAFjv4o&password=trilux
 http://62.210.177.155:8000/get.php?username=aabcl@sapo.pt&password=SHfoSygt8b&type=m3u
 
 
-###############################################################################################################
+########################################################################################################
+
+#######
 IPTV M3U PLAYLIST 13-12-2016 iptv.filmover.com
 December 15, 2016 admin
 
@@ -791,3 +845,4 @@ http://37.187.168.16:1557/get.php?username=Gezuar2017&password=MiqteFaqes&type=m
 
 #EXTINF:-1,siraj
 http://51.254.198.166:88/get.php?username=siraj&password=siraj&type=m3u
+
