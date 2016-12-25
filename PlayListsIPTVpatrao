@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
 http://www.tv-msn.com/player/player.swf
 
@@ -9,20 +8,108 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 19/12/2016
 http://www.tv-msn.com/player/player.swf
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
 http://www.tv-msn.com/player/player.swf
 
 ###############################################################################################################
 
-#EXTINF:-1 group-title="22-12-2016",Lewis UK, USA m3u
-http://163.172.221.221:8090/get.php?username=sebas&password=iptv&type=m3u 
-#EXTINF:-1 group-title="22-12-2016",Lewis xyz
-http://mediaiptv.xyz:8000/get.php?username=Lewis&password=Lewis&type=m3u 
-#EXTINF:-1 group-title="22-12-2016",Lewis 112
-http://51.255.70.112:8000/get.php?username=Lewis&password=Lewis&type=m3u
+#EXTINF:-1 group-title="25-12-2016",World IPTV
+http://37.187.175.177:8000/get.php?username=sousse&password=sousse&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",brasil
+#EXTINF:-1 group-title="25-12-2016",ES, FR, DE
+http://163.172.32.148:9300/get.php?username=farid&password=farid&type=m3u read more...
+
+#EXTINF:-1 group-title="25-12-2016",e1V
+http://89.163.224.7:9005/get.php?username=e1dVTrnQaD&password=v8HtyG4icZ&type=m3u
+
+#EXTINF:-1 group-title="25-12-2016",Teddy
+http://178.175.142.50:25461/get.php?username=Teddy&password=tQdi9HPK&type=m3u
+
+#EXTINF:-1 group-title="25-12-2016",Qov5
+http://193.70.116.156:8080/get.php?username=Qov5jrxyJx&password=tMmYYuiWbA&type=m3u
+#EXTINF:-1 group-title="25-12-2016",Qov5 biwsat
+http://biwsat.com:8080/get.php?username=Qov5jrxyJx&password=tMmYYuiWbA&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess65
+http://88.198.34.144:8000/get.php?username=ess65&password=ess65&type=m3u
+
+#EXTINF:-1 group-title="25-12-2016",ess109
+http://88.198.34.144:8000/get.php?username=ess109&password=ess109&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess110
+http://88.198.34.144:8000/get.php?username=ess110&password=ess110&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess111
+http://88.198.34.144:8000/get.php?username=ess111&password=ess111&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess113
+http://88.198.34.144:8000/get.php?username=ess113&password=ess113&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess114
+http://88.198.34.144:8000/get.php?username=ess114&password=ess114&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess115
+http://88.198.34.144:8000/get.php?username=ess115&password=ess115&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess116
+ http://88.198.34.144:8000/get.php?username=ess116&password=ess116&type=m3u
+
+Update 23.12.2016
+#EXTINF:-1 group-title="25-12-2016",ess125
+http://88.198.34.144:8000/get.php?username=ess125&password=ess125&type=m3u
+#EXTINF:-1 group-title="25-12-2016",aDIj
+http://5.226.137.171:7860/get.php?username=4DIjQZWXTB&password=SGnp7wqLMP&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess125
+http://88.198.34.144:8000/get.php?username=ess123&password=ess123&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess99
+http://88.198.34.144:8000/get.php?username=ess99&password=ess99&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ess125
+http://88.198.34.144:8000/get.php?username=ess125&password=ess125&type=m3u
+#EXTINF:-1 group-title="25-12-2016",frederic
+http://149.202.199.167:8000/get.php?username=frederic&password=frederic&type=m3u
+#EXTINF:-1 group-title="25-12-2016",aydin-12
+http://tech343.com:8000/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&type=m3u
+#EXTINF:-1 group-title="25-12-2016",braa
+http://149.202.198.186:50100/get.php?username=braa&password=braa&type=m3u
+
+Update 22.12.2016
+#EXTINF:-1 group-title="25-12-2016",fasttest
+http://iptv.fastcccam.tv:8080/get.php?username=fasttest&password=jh9w1a03f&type=m3u
+#EXTINF:-1 group-title="25-12-2016",ekramy
+http://pro.satlover.com:58080/get.php?username=ekramy_abdo1900&password=ix6ltVB87F&type=m3u
+#EXTINF:-1 group-title="25-12-2016",nahas
+http://magict.dynns.com:8000/get.php?username=nahas&password=nahas&type=m3u
+#EXTINF:-1 group-title="25-12-2016",anwa
+http://62.4.21.70:8000/get.php?username=anwa&password=anwa&type=m3u
+#EXTINF:-1 group-title="25-12-2016",omani
+http://super1cam.ddns.net:8000/get.php?username=omani&password=omani&type=m3u
+#EXTINF:-1 group-title="25-12-2016",pellgiov2
+http://speedymomy2.com:8000/get.php?username=pellgiov2&password=RFqrz65VM4&type=m3u
+#EXTINF:-1 group-title="25-12-2016",abdulhkim
+http://158.69.27.190:5477/get.php?username=abdulhakim&password=abdulhakim&type=m3u
+#EXTINF:-1 group-title="25-12-2016",playlist 9981
+http://85.65.113.106:9981/playlist
+
+#EXTINF:-1 group-title="25-12-2016",Pawel
+http://tabertor.ddns.net:8000/get.php?username=Pawel&password=Pawel&type=m3u
+#EXTINF:-1 group-title="25-12-2016",gyx
+http://dynamostream-nac.ddns.net:8000/get.php?username=gyx1Zfozc2&password=OzBe3gsFgM&type=m3u
+#EXTINF:-1 group-title="25-12-2016",testyyyyy
+http://dynamostream-nac.ddns.net:8000/get.php?username=testyyyyyy&password=MmIP5zVLUi&type=m3u
+#EXTINF:-1 group-title="25-12-2016",aQ1FR
+http://biwsat.com:8080/get.php?username=aQ1FRdiuVJ&password=3Kn8zVy2cg&type=m3u
+#EXTINF:-1 group-title="25-12-2016",aX7YY
+http://s1.ukhdtv.com:7860/get.php?username=4X7YYBS9wX&password=Pk5bCXhhe8&type=m3u
+#EXTINF:-1 group-title="25-12-2016",Qrwu
+http://s1.ukhdtv.com:7860/get.php?username=Qrwu81Gkzs&password=UXR0GYRoWh&type=m3u
+#EXTINF:-1 group-title="25-12-2016",Z9BW
+http://s1.ukhdtv.com:7860/get.php?username=Z9BW3kpBGv&password=eu1kQPD4EY&type=m3u
+#EXTINF:-1 group-title="25-12-2016",pcPZ
+http://ipsatpro.info:8000/get.php?username=qcPZnZB90S&password=1hupbWMVDU&type=m3u
+
+#################################################################
+brasil
 http://163.172.63.57:8000/get.php?username=brasil&password=er4fgerv44444&type=m3u 
+
+
+#EXTINF:-1,tom
+http://51.254.197.40:25461/get.php?username=tom&password=tom&type=m3u 
+
+
 
 #EXTINF:-1,1-bigsat.fr
 http://iptv.multics-cache.com:8000/get.php?username=1-bigsat.fr&password=www.bigsat.fr&type=m3u
@@ -30,11 +117,20 @@ http://iptv.multics-cache.com:8000/get.php?username=1-bigsat.fr&password=www.big
 #EXTINF:-1,numan-aydin-12 TR DE UK 3D
 http://501server.com:8000/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&type=m3u
 
-#EXTINF:-1,ww
-http://51.254.197.40:25461/get.php?username=ww&password=ww&type=m3u
+
+Lewis xyz UK e USA
+http://mediaiptv.xyz:8000/get.php?username=Lewis&password=Lewis&type=m3u 
+#EXTINF:-1 group-title="22-12-2016",Lewis OFF ?
+http://163.172.221.221:8090/get.php?username=sebas&password=iptv&type=m3u 
+#EXTINF:-1 group-title="22-12-2016",Lewis 112 ON 
+http://51.255.70.112:8000/get.php?username=Lewis&password=Lewis&type=m3u
+
+
+
 
 #EXTINF:-1,0800 Bein+OSN+AR+ON_DEMAND_200 2016-12-21
 http://88.198.34.144:8000/get.php?username=0800&password=0800&type=m3u
+
 
 #EXTINF:-1 group-title="22-12-2016",ahmad Arab channels 
 http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u
@@ -50,6 +146,8 @@ http://137.74.94.161:8000/get.php?username=karl99&password=karl99&type=m3u
 http://ns3057493.ip-137-74-94.eu:8000/live/karl99/karl99/10168.ts
 
 
+
+http://iptv-zak.blogspot.pt/2016/12/daily-free-m3u-playlist-22-12-2016-new.html
 Thursday, December 22, 2016
 Daily Free m3u playlist 22-12-2016 (New)
 at 2:41 AM 
@@ -57,47 +155,27 @@ Free m3u playlist 22-12-2016 {New m3u}
 By Tony | December 21, 2016
 
 
-#EXTINF:-1 group-title="22-12-2016",Adil
-http://173.212.197.122:8000/get.php?username=Adil&password=Adil&type=m3u
 
-
-#EXTINF:-1 group-title="22-12-2016",8b9Zc7ogpV
-http://193.70.116.156:8080/get.php?username=8b9Zc7ogpV&password=qvBmNlYxRp&type=m3u
-
-#EXTINF:-1 group-title="22-12-2016",Peppe.seb
-http://merak.dyndns.tv:18500/get.php?username=Peppe.seb&password=cmltppepx.13&type=m3u
-
-#EXTINF:-1 group-title="22-12-2016",5PxAP1seBA
-http://163.172.6.8:8000/get.php?username=5PxAP1seBA&password=v3HpfHkYVg&type=m3u
-
-
-#EXTINF:-1 group-title="22-12-2016",lump1
+#EXTINF:-1 group-title="22-12-2016",lump1 24K
 http://137.74.94.161:8000/get.php?username=lump1&password=lump1&type=m3u
 
 
-#EXTINF:-1 group-title="22-12-2016",master1 sunner
-http://149.202.75.29:43666/get.php?username=master1&password=sunner111&type=m3u
-
-#EXTINF:-1 group-title="22-12-2016",master1 zapto
-http://mygameravatar.zapto.org:43666/get.php?username=master1&password=sunner111&type=m3u
-
-
-#EXTINF:-1 group-title="22-12-2016",tomeko
+#EXTINF:-1 group-title="22-12-2016",tomeko Rai 1 DH
 http://137.74.94.161:8000/get.php?username=tomeko&password=tomeko&type=m3u
 
 #EXTINF:-1 group-title="22-12-2016",papa
 http://merak.dyndns.tv:18500/get.php?username=papa&password=papa&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",brian1
+#EXTINF:-1 group-title="22-12-2016",brian1 24K
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=brian1&password=brian1&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",paul
+#EXTINF:-1 group-title="22-12-2016",paul 24K
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=paul&password=paul&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",mills
+#EXTINF:-1 group-title="22-12-2016",mills 24K
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=mills&password=mills&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",stuart
+#EXTINF:-1 group-title="22-12-2016" 24K,stuart
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=stuart&password=stuart&type=m3u
 
 
@@ -107,19 +185,16 @@ http://cp.dmbshare.net:8000/get.php?username=kaiserfrenz&password=kaiserfrenz&ty
 #EXTINF:-1 group-title="m3u PlayLists",20/12/2016 kaiserfrenz
 http://137.74.94.161:8000/get.php?username=kaiserfrenz&password=kaiserfrenz&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",kaiserfrenz ns 22/12/2016
-http://ns3057493.ip-137-74-94.eu:8000/live/kaiserfrenz/kaiserfrenz/10168.ts
 
-
-#EXTINF:-1 group-title="22-12-2016",calle1
+#EXTINF:-1 group-title="22-12-2016" 24K,calle1
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=calle1&password=calle1&type=m3u
 
 
 
-#EXTINF:-1 group-title="22-12-2016",obor 22/12/2016
+#EXTINF:-1 group-title="22-12-2016" 24K,obor 22/12/2016
 http://137.74.94.161:8000/get.php?username=obor&password=obor&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",obor ns
+#EXTINF:-1 group-title="22-12-2016 24K",obor ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=obor&password=obor&type=m3u
 
 
@@ -130,65 +205,65 @@ http://137.74.94.161:8000/get.php?username=christoph&password=christoph&type=m3u
 #EXTINF:-1 group-title="m3u PlayLists",christoph 20/12/2016 
 http://137.74.94.161:8000/get.php?username=christoph&password=christoph&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",christoph 22/12/2016
+#EXTINF:-1 group-title="22-12-2016" 24K,christoph 22/12/2016
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=christoph&password=christoph&type=m3u
 
 
 
-#EXTINF:-1 group-title="m3u PlayLists",leigh 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 24K,leigh 20/12/2016 
 http://137.74.94.161:8000/get.php?username=leigh&password=leigh&type=m3u
 
 #EXTINF:-1 group-title="22-12-2016",leigh 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=leigh&password=leigh&type=m3u
 
 
-#EXTINF:-1 group-title="m3u PlayLists",kantor 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 24K,kantor 20/12/2016 
 http://137.74.94.161:8000/get.php?username=kantor&password=kantor&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",kantor 22/12/2016 ns
+#EXTINF:-1 group-title="22-12-2016" 24K,kantor 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=kantor&password=kantor&type=m3u
 
-#EXTINF:-1 group-title="m3u PlayLists",jukka 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 24K,jukka 20/12/2016 
 http://137.74.94.161:8000/get.php?username=jukka&password=jukka&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",jukka 22/12/2016
-http://ns3057493.ip-137-74-94.eu:8000/get.php?username=jukka&password=jukka&type=m3u
+#EXTINF:-1 group-title="22-12-2016" 2,jukka 22/12/2016
+http://ns3057493.ip-137-74-94.eu:804K00/get.php?username=jukka&password=jukka&type=m3u
 
 
 
-#EXTINF:-1 group-title="m3u PlayLists",damiao 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 24K,damiao 20/12/2016 
 http://137.74.94.161:8000/get.php?username=damiao&password=damiao&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",damiao 22/12/2016 ns
+#EXTINF:-1 group-title="22-12-2016" 24K,damiao 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=damiao&password=damiao&type=m3u
 
 
 
-#EXTINF:-1 group-title="m3u PlayLists",ana 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 24K,ana 20/12/2016 
 http://137.74.94.161:8000/get.php?username=ana&password=ana1&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016", ana ns 22/12/2016 ns
+#EXTINF:-1 group-title="22-12-2016" 24K, ana ns 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=ana&password=ana1&type=m3u
 
 
-#EXTINF:-1 group-title="m3u PlayLists",biggest 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 24K,biggest 20/12/2016 
 http://137.74.94.161:8000/get.php?username=biggest&password=biggest&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",biggest 22/12/2016 ns
+#EXTINF:-1 group-title="22-12-2016" 24K,biggest 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=biggest&password=biggest&type=m3u
 
 
-#EXTINF:-1 group-title="m3u PlayLists",melih 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists"24K,melih 20/12/2016 
 http://137.74.94.161:8000/get.php?username=melih&password=melih&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",melih 22/12/2016 ns
+#EXTINF:-1 group-title="22-12-2016" 24K,melih 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=melih&password=melih&type=m3u
 
 
-#EXTINF:-1 group-title="m3u PlayLists",home 20/12/2016 
+#EXTINF:-1 group-title="m3u PlayLists" 25K,home 20/12/2016 
 http://137.74.94.161:8000/get.php?username=home&password=home&type=m3u
 
-#EXTINF:-1 group-title="22-12-2016",home 22/12/2016 ns
+#EXTINF:-1 group-title="22-12-2016" 24K,home 22/12/2016 ns
 http://ns3057493.ip-137-74-94.eu:8000/get.php?username=home&password=home&type=m3u
 
 
@@ -375,6 +450,7 @@ http://51.254.113.188:8000/get.php?username=nasim&password=nasim&type=m3u
 ###############################################################################################################
 #EXTINF:-1,20/12/2016 Free m3u playlist 20-12-2016 {New m3u}
 By Tony | December 19, 2016 0 Comment
+http://freeiptv.weightlosstoday.org/2016/12/19/free-m3u-playlist-20-12-2016-new-m3u/
 
 #EXTINF:-1 group-title="m3u PlayLists",sebas 20/12/2016 
 http://163.172.221.221:8090/get.php?username=sebas&password=iptv&type=m3u
@@ -418,6 +494,8 @@ http://137.74.94.161:8000/get.php?username=gianfranco&password=gianfranco&type=m
 
 ###############################################################################################################
 #EXTINF:-1,### playlists m3u 19-12-2016 ###
+http://freeiptv.weightlosstoday.org/
+
 
 #EXTINF:-1,suca playlist .pw m3u 18-12-2016
 http://217.23.12.7:58080/get.php?username=suca&password=S2079n8Kcf&type=m3u
@@ -484,6 +562,7 @@ http://rexiptvaccount.info:8080/get.php?username=KemalGurel&password=gurelK12082
 The post Free m3u playlist 19-12-2016 {New m3u} 
 
 #EXTINF:-1,### playlists pw 19-12-2016 ###
+http://www.m3uliste.pw/
 
 #EXTINF:-1, playlist .pw m3u 18-12-2016
 http://170.55.15.122:8000/playlist.m3u8
@@ -517,6 +596,7 @@ http://149.202.70.230:8000/get.php?username=mustafayildiz&password=ptBIH8144u&ty
 
 ###############################################################################################################
 #EXTINF:-1,### playlists pw 18-12-2016 ###
+http://www.m3uliste.pw/
 Update 18.12.2016
 
 #EXTINF:-1,brian1 playlist .pw m3u 18-12-2016
@@ -553,6 +633,7 @@ http://vip.kralsmart.com:1096/get.php?username=3Vasp5k0K2&password=2pcYrX2VwD&ty
 ############################################################################################
 
 #EXTINF:-1,Free m3u playlist 17-12-2016 {New m3u}
+http://freeiptv.weightlosstoday.org/
 
 #EXTINF:-1,andy1
 http://51.254.197.40:25461/get.php?username=andy1&password=andy1&type=m3u
@@ -572,9 +653,11 @@ http://5.196.81.121:8000/get.php?username=yusri&password=yusri&type=m3u
 #EXTINF:-1,IbKKoQ5izl
 http://149.202.208.25:5210/get.php?username=IbKKoQ5izl&password=ysh93EAisO&type=m3u&output=mpegts
 
+
 ###########################################################
 
 #EXTINF:-1,Daily m3u playlist 17 December 2016 (New)
+http://iptvsatlinks.blogspot.pt/2016/12/daily-m3u-playlist-17-december-2016-new.html
 
 #EXTINF:-1,12345
 http://xxultraxx.com:8000/get.php?username=12345&password=12345&type=m3u
@@ -695,8 +778,7 @@ http://149.202.82.101:5000/get.php?username=PV3.fretnow&password=starseven18&typ
 #EXTINF:-1,sony
 http://151.80.100.30:8088/get.php?username=sony&password=sony&type=m3u 
 
-#EXTINF:-1,tom
-http://51.254.197.40:25461/get.php?username=tom&password=tom&type=m3u 
+
 
 #EXTINF:-1,KMLCTNL
 http://501server.com:8000/get.php?username=KMLCTNL&password=11111111&type=m3u
