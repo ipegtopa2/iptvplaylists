@@ -8,6 +8,35 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",em desenvolvimento
 http://www.tv-msn.com/player/player.swf
 
+#################################################
+25-12-2016
+#EXTINF:-1 group-title="WORLD",First Channel
+http://flvideo.ap.ntdtv.com:1935/live/mpegts800.stream/first.m3u8
+#EXTINF:-1 group-title="WORLD",First Channel
+http://flvideo.ap.ntdtv.com:1935/live/mpegts400.stream/first.m3u8
+
+#EXTINF:-1 group-title="WORLD",Yvelines Première
+rtmp://rtmp.infomaniak.ch/livecast/yveline1
+
+
+#EXTINF:-1 group-title="WORLD",Albanian VISION PLUS
+rtmp://live.vizionplus.tv/get.php?username=livestream2
+#EXTINF:-1 group-title="WORLD",Albanian Oranews
+rtmp://109.236.81.91/hls//oranews
+
+
+Macedonian
+#EXTINF:-1 group-title="WORLD",,Macedonian Kanal 5
+http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
+#EXTINF:-1 group-title="WORLD",Macedonian Alpha
+http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
+#EXTINF:-1 group-title="WORLD",Macedonian Telma
+http://37.187.158.217:8081/telma/telma_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINO",Globovisión (Venezuela)
+http://stream-07.vty.dailymotion.com/07/dm/1/xio7e2/live.isml/events(live-1482348038)/live-audio=64000-video=400000.m3u8
+
+#################################################
 #EXTINF:-1,Eurosport 1 HD
 http://79.105.222.110:5055/udp/239.4.1.193:2020
 #EXTINF:-1,FrenchLover TV
