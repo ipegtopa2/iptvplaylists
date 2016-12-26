@@ -10,12 +10,12 @@ http://www.tv-msn.com/player/player.swf
 
 #################################################
 25-12-2016
-#EXTINF:-1 group-title="WORLD",First Channel
+#EXTINF:-1 group-title="WORLD",First Channel (China)
 http://flvideo.ap.ntdtv.com:1935/live/mpegts800.stream/first.m3u8
-#EXTINF:-1 group-title="WORLD",First Channel
+#EXTINF:-1 group-title="WORLD",First Channel (China)
 http://flvideo.ap.ntdtv.com:1935/live/mpegts400.stream/first.m3u8
 
-#EXTINF:-1 group-title="WORLD",Yvelines Première
+#EXTINF:-1 group-title="France",Yvelines Première (France)
 rtmp://rtmp.infomaniak.ch/livecast/yveline1
 
 
@@ -26,23 +26,17 @@ rtmp://109.236.81.91/hls//oranews
 
 
 Macedonian
-#EXTINF:-1 group-title="WORLD",,Macedonian Kanal 5
+#EXTINF:-1 group-title="WORLD",Macedonian Kanal 5
 http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
 #EXTINF:-1 group-title="WORLD",Macedonian Alpha
 http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
 #EXTINF:-1 group-title="WORLD",Macedonian Telma
 http://37.187.158.217:8081/telma/telma_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="LATINO",Globovisión (Venezuela)
+#EXTINF:-1 group-title="LATINO",Globovision (Venezuela)
 http://stream-07.vty.dailymotion.com/07/dm/1/xio7e2/live.isml/events(live-1482348038)/live-audio=64000-video=400000.m3u8
 
 #################################################
-#EXTINF:-1,Eurosport 1 HD
-http://79.105.222.110:5055/udp/239.4.1.193:2020
-#EXTINF:-1,FrenchLover TV
-http://176.100.80.200:8881/udp/239.1.1.205:1234
-#EXTINF:-1,FrenchLover TV
-http://176.100.80.200:35555/udp/239.1.1.205:1234
 
 
 IPTV Sports Playlist 19-12-2016
@@ -60,10 +54,7 @@ http://gochannelstv.dyndns.tv:80/p86sporttv4hd/index.m3u8
 http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8
 #EXTINF:-1,Sporting TV HD gochannelstv
 http://gochannelstv.dyndns.tv:80/p88sportingtvhd/index.m3u8
-#EXTINF:-1,Fox Sport grol74y7la
-http://erol74y7la.servep2p.com:80/mHyifxGiDv/fox/playlist.m3u8
-#EXTINF:-1,Fox Sport 2 grol74y7la
-http://erol74y7la.servep2p.com:80/mHyifxGiDv/fox2/playlist.m3u8
+
 
 
 
@@ -82,12 +73,28 @@ http://gochannelstv.dyndns.tv:80/p87sporttv5hd/index.m3u8
 #EXTINF:-1,Sporting TV HD
 http://gochannelstv.dyndns.tv:80/p88sportingtvhd/index.m3u8
 
+#EXTINF:-1,(PT) Sporting TV
+http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9200.ts
+#EXTINF:-1,(PT) Eurosport 1HD
+http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9182.ts
+#EXTINF:-1,(PT) Benfica 1
+http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9175.ts
+#EXTINF:-1,(PT) Benfica 2
+http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9176.ts
 
+#EXTINF:-1  group-title="BRASIL",BR SPORTV 3
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/546.ts
+#EXTINF:-1  group-title="BRASIL",BR SPORTV 2
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/545.ts
+#EXTINF:-1  group-title="BRASIL",BR SPORTV 1
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/544.ts
 
-#EXTINF:-1,Fox Sport
+#EXTINF:-1,Fox Sport erol74y7la
 http://erol74y7la.servep2p.com:80/mHyifxGiDv/fox/playlist.m3u8
-#EXTINF:-1,Fox Sport 2
+
+#EXTINF:-1,Fox Sport 2 erol74y7la
 http://erol74y7la.servep2p.com:80/mHyifxGiDv/fox2/playlist.m3u8
+
 
 
 tv_channels_star.m3u 
@@ -114,10 +121,7 @@ http://gh-ah.ddns.net:8000/live/star/arab777/221.ts
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9173.ts
 #EXTINF:-1,(PT) AXN HD
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9174.ts
-#EXTINF:-1,(PT) Benfica 1
-http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9175.ts
-#EXTINF:-1,(PT) Benfica 2
-http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9176.ts
+
 #EXTINF:-1,(PT) Canal Panda
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9177.ts
 #EXTINF:-1,(PT) CMTV
@@ -128,8 +132,8 @@ http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9179.ts
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9180.ts
 #EXTINF:-1,(PT) Disney Junior
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9181.ts
-#EXTINF:-1,(PT) Eurosport 1HD
-http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9182.ts
+
+
 #EXTINF:-1,(PT) FOX HD
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9183.ts
 #EXTINF:-1,(PT) Fox Life HD
@@ -160,8 +164,8 @@ http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9197.ts
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9198.ts
 #EXTINF:-1,(PT) SIC Noticias
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9199.ts
-#EXTINF:-1,(PT) Sporting TV
-http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9200.ts
+
+
 #EXTINF:-1,(PT) SyFy
 http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9201.ts
 #EXTINF:-1,(PT) TVI
@@ -171,12 +175,6 @@ http://137.74.94.161:8000/live/kaiserfrenz/kaiserfrenz/9204.ts
 
 
 
-#EXTINF:-1  group-title="BRASIL",SPORTV 3
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/546.ts
-#EXTINF:-1  group-title="BRASIL",SPORTV 2
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/545.ts
-#EXTINF:-1  group-title="BRASIL",SPORTV 1
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/544.ts
 
 #EXTINF:-1  group-title="BRASIL",REDE TV
 http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/381.ts
