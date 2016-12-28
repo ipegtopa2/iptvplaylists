@@ -40,22 +40,74 @@ rtmp://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2
 
 
 #EXTINF:0,***** PORTUGAL *****
-#EXTINF:0 group-title="Portugal", PT BTV2 HD
-http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2796.ts
-#EXTINF:0 group-title="Portugal", PT BTV1 HD
-http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2795.ts
-#EXTINF:0 group-title="Portugal", PT AXN WHITE HD
-http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2812.ts
-#EXTINF:0 group-title="Portugal", PT SPORT TV 1 HD
-http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2989.ts
-#EXTINF:0 group-title="Portugal", PT SPORT TV 2 HD
-http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2990.ts
-#EXTINF:0 group-title="Portugal", PT SPORT TV 3 HD
-http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2991.ts
-#EXTINF:0 group-title="Portugal", PT SPORT TV 4 HD
 
-#EXTINF:0 group-title="Portugal", PT SPORTING TV
+#EXTINF:0 group-title="Portugal",PT EUROSPORT 2 XTRA
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3091.ts
+
+#EXTINF:0 group-title="Portugal",PT SPORT TV+
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3088.ts
+#EXTINF:0 group-title="Portugal",PT SPORT TV 1 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2989.ts
+#EXTINF:0 group-title="Portugal",PT SPORT TV 2 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2990.ts
+#EXTINF:0 group-title="Portugal",PT SPORT TV 3 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2991.ts
+#EXTINF:0 group-title="Portugal",PT SPORT TV 4 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2992.ts
+#EXTINF:0 group-title="Portugal",PT SPORT TV 5 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3087.ts
+
+#EXTINF:0 group-title="Portugal",PT SPORTING TV
 http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2792.ts
+
+#EXTINF:0 group-title="Portugal",PT BTV HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3089.ts
+#EXTINF:0 group-title="Portugal",PT BTV2 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2796.ts
+#EXTINF:0 group-title="Portugal",PT BTV1 HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2795.ts
+#EXTINF:0 group-title="Portugal",PT A BOLA TV
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3090.ts
+
+#EXTINF:0 group-title="Portugal",PT AXN HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3096.ts
+#EXTINF:0 group-title="Portugal",PT AXN BLACK HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3097.ts
+#EXTINF:0 group-title="Portugal",PT AXN WHITE HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2812.ts
+
+#EXTINF:0 group-title="Portugal",PT TVCINE 4
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2791.ts
+#EXTINF:0 group-title="Portugal",PT TVCINE 3
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2790.ts
+#EXTINF:0 group-title="Portugal",PT TVCINE 2
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2789.ts
+#EXTINF:0 group-title="Portugal",PT TVCINE 1
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2788.ts
+#EXTINF:0 group-title="Portugal",PT TV SERIES
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2805.ts
+
+
+#EXTINF:0 group-title="Espanha",ES MOVISTAR MOTO GP HD
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2664.ts
+#EXTINF:0 group-title="Espanha",ES BEIN SPORT ES
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2639.ts
+#EXTINF:0 group-title="Espanha",ES Barca TV
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2665.ts
+
+#EXTINF:0 group-title="Espanha",ES CANAL+ DEPORTES
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2661.ts
+#EXTINF:0 group-title="Espanha",ES CANAL+ DEPORTES 2
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2644.ts
+
+#EXTINF:0 group-title="Espanha",ES Real Madrid tv
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2648.ts
+#EXTINF:0 group-title="Espanha",ES Teledeporte
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2647.ts
+#EXTINF:0 group-title="Espanha",ES CAZA Y PESCA
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2653.ts
+#EXTINF:0 group-title="Espanha",ES CANAL+ TOROS
+http://193.70.116.156:8080/live/turboiptv/8thxA912a0/2654.ts
 
 #EXTINF:-1,###*•●★۩  SPORT TV PT ۩★●•*####
 https://www.sporttv.pt/#programacao
