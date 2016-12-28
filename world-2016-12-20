@@ -513,49 +513,30 @@ http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3078.ts
 http://193.70.116.156:8080/live/turboiptv/8thxA912a0/3079.ts
 
 
-
-
-
 #EXTINF:-1,BT SPORTS 3
 rtmp://$OPT:rtmp-raw=rtmp://a6.aliez.me/live/ playpath=streama50798?token=6949b4d5cdb2f9fad417bacc817a0eeb swfUrl=http://i.aliez.me/swf/playernew.swf?0 live=1 pageUrl=http://emb.aliez.me/player/live.php?id=50798&w=728&h=480
 #EXTINF:-1,BT SPORT 1 HD
 rtmp://$OPT:rtmp-raw=rtmp://a5.aliez.me/live/ playpath=streama50812?token=74ef710035ee25eb79ce230acb9f9b6e swfUrl=http://i.aliez.me/swf/playernew.swf?0 live=1 pageUrl=http://emb.aliez.me/player/live.php?id=50812&w=728&h=480
 #EXTINF:-1,BT SPORT HD- SAW
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.178/flash playpath=18294?MTQ4MjczNTUwMzs3MjhkZDljODRkOTNhNTdkYzdiOWQ1NTRlYzI2OGY1Nw== swfUrl=http://static3.sawlive.tv/player.swf live=1 
-
-pageUrl=http://www.sawlive.tv/embed/watch/NlY2MyZWE0YmQxMmFhMWFlMGJmZTA4M2Ez/eG9sdW1hdGVlOjJiZjIzOWU1YzUyMDA5ZGU3YWE5NDQ0NDI3YjNkNDViOjQ2OTE0N2
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.178/flash playpath=18294?MTQ4MjczNTUwMzs3MjhkZDljODRkOTNhNTdkYzdiOWQ1NTRlYzI2OGY1Nw== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://www.sawlive.tv/embed/watch/NlY2MyZWE0YmQxMmFhMWFlMGJmZTA4M2Ez/eG9sdW1hdGVlOjJiZjIzOWU1YzUyMDA5ZGU3YWE5NDQ0NDI3YjNkNDViOjQ2OTE0N2
 #EXTINF:-1,BT SPORT DAUM POT PLAYER
 http://77.81.120.210/live/bybg0fxc4.m3u8?token=c2VydmVyX3RpbWU9MTIvMjYvMjAxNiAxMjowNToxNCBBTSZoYXNoX3ZhbHVlPXJsMGVVYmtGaGdxMXY5WHRuMzV5UEE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1,AXN HD POLSKA
 rtmp://$OPT:rtmp-raw=rtmp://31.220.40.59/live/ playpath=aaaxnnna?keys=Uo4tLcxFFvfknA5YcL6VEQ&keyt=1482751065 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=aaaxnnna&height=490&width=640
 #EXTINF:-1,CINEMAX HD
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.13/privatestream/ playpath=cinnnemmaxxx?keys=TcCcDheK_2VDOSlzIHQ2dA&keyt=1482751196 
-
-swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cinnnemmaxxx&width=640&height=430
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.13/privatestream/ playpath=cinnnemmaxxx?keys=TcCcDheK_2VDOSlzIHQ2dA&keyt=1482751196 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cinnnemmaxxx&width=640&height=430
 #EXTINF:-1,CANAL PLUS HD
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.63/live/ playpath=canalplusasssss?keys=vWm1tcqPXk8XFUw4hCX-Kg&keyt=1482751304 
-
-swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=canalplusasssss&height=490&width=640
+rtmp://$OPT:rtmp-raw=rtmp://31.220.40.63/live/ playpath=canalplusasssss?keys=vWm1tcqPXk8XFUw4hCX-Kg&keyt=1482751304 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=canalplusasssss&height=490&width=640
 #EXTINF:-1,CANAL PLUS FAMILY HD
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.59/live/ playpath=cplusasfamily?keys=2Z2KDcfU6WGiSQqT14yqYQ&keyt=1482751377 
-
-swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=cplusasfamily&height=480&width=640
+rtmp://$OPT:rtmp-raw=rtmp://31.220.40.59/live/ playpath=cplusasfamily?keys=2Z2KDcfU6WGiSQqT14yqYQ&keyt=1482751377 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=cplusasfamily&height=480&width=640
 #EXTINF:-1,CANAL PLUS FILM HD
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.60/live/ playpath=cplusasfilm?keys=5qDCObU7MuvT_nFodKY9pw&keyt=1482751462 
-
-swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=cplusasfilm&height=480&width=640
+rtmp://$OPT:rtmp-raw=rtmp://31.220.40.60/live/ playpath=cplusasfilm?keys=5qDCObU7MuvT_nFodKY9pw&keyt=1482751462 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf live=1 pageUrl=http://dotstream.tv/player.php?streampage=cplusasfilm&height=480&width=640
 #EXTINF:-1,CANAL PLUS SERIALE
-rtmp://$OPT:rtmp-raw=rtmp://94.176.148.234/live?token=RkWNaZ0qLAueNhdR2PjgTwExpired=1482740691 playpath=ver7515d570b30db875eda42f71adc66d14
-swfUrl=http://abcast.net/ob.swf live=1 pageUrl=http://abcast.net/embed.php?file=cccanalseriallle&width=640&height=430
+rtmp://$OPT:rtmp-raw=rtmp://94.176.148.234/live?token=RkWNaZ0qLAueNhdR2PjgTwExpired=1482740691 playpath=ver7515d570b30db875eda42f71adc66d14 swfUrl=http://abcast.net/ob.swf live=1 pageUrl=http://abcast.net/embed.php?file=cccanalseriallle&width=640&height=430
 #EXTINF:-1,HBO HD
-rtmp://$OPT:rtmp-raw=rtmp://86.106.137.10/live?token=QsYyu2CP5ZceP6AuDJGtkwExpired=1482740786 playpath=ver99934212d284adf8cb771ded3f909940 
-
-swfUrl=http://abcast.net/ob.swf live=1 pageUrl=http://abcast.net/embed.php?file=chhhhbbbooo1&width=640&height=430
+rtmp://$OPT:rtmp-raw=rtmp://86.106.137.10/live?token=QsYyu2CP5ZceP6AuDJGtkwExpired=1482740786 playpath=ver99934212d284adf8cb771ded3f909940 swfUrl=http://abcast.net/ob.swf live=1 pageUrl=http://abcast.net/embed.php?file=chhhhbbbooo1&width=640&height=430
 #EXTINF:-1,HBO 2
-rtmp://$OPT:rtmp-raw=rtmp://86.106.137.10/live?token=yAeTzny61P1Os8yPySqvpwExpired=1482740885 playpath=verf42f639a4a62501e2e0c6cdc6343087c
-swfUrl=http://abcast.net/ob.swf live=1 pageUrl=http://abcast.net/embed.php?file=chhhhbbbooo2&width=640&height=430
-
-
+rtmp://$OPT:rtmp-raw=rtmp://86.106.137.10/live?token=yAeTzny61P1Os8yPySqvpwExpired=1482740885 playpath=verf42f639a4a62501e2e0c6cdc6343087c swfUrl=http://abcast.net/ob.swf live=1 pageUrl=http://abcast.net/embed.php?file=chhhhbbbooo2&width=640&height=430
 
 #EXTINF:-1  group-title="BRASIL",REDE TV
 http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/381.ts
