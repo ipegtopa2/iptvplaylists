@@ -2,15 +2,226 @@
 #EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO", Lista do Patrão
 http://www.tv-msn.com/player/player.swf
 
-#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",23/12/2016 @ 18:00
+#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",28/12/2016 @ 23:00
 http://www.tv-msn.com/player/player.swf
 
-#EXTINF:-1 tvg-id="" tvg-logo="gs.gif" tvg-logo="http://i465.photobucket.com/albums/rr14/friendstergoo/gs.gif" group-title="INFO",FELIZ NATAL
+#EXTINF:-1 tvg-id="" tvg-logo="gs.gif" tvg-logo="http://i465.photobucket.com/albums/rr14/friendstergoo/gs.gif" group-title="INFO",BOM ANO
 http://www.tv-msn.com/player/player.swf
 
 
 tvg-id="" tvg-logo="Refresh.png" tvg-logo="https://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/512/Refresh.png" group-title="INFO",
 http://www.tv-msn.com/player/player.swf
+
+######################################################################################################################
+
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT RTP International
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9290.ts
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Sport TV 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9298.ts
+##EXTINF:-1 group-title="Desporto 30-12-2016",PT Sport TV 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9299.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Sport TV 3 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9300.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Sport TV 4 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9301.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Sport TV 5 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9302.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Sport TV AMERICA
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9303.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Sporting TV
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9304.ts
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT A BOLA TV
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9237.ts
+#EXTINF:-1,PT AMC
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9238.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT BARCA TV
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9243.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT BENEFICA TV1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9244.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT BENFICA TV2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9245.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT BH News
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9246.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT CACA E PESCA
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9247.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",PT Cacavision HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9248.ts
+
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",ES Eurosport 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9157.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",ES Eurosport 2
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9158.ts
+
+#EXTINF:-1,ES Movistar  Deportes 1
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9177.ts
+#EXTINF:-1,ES Movistar  Deportes 2
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9178.ts
+#EXTINF:-1,ES Movistar  Formula 1
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9179.ts
+
+
+#EXTINF:-1,PT SyFy
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9305.ts
+#EXTINF:-1,PT TLC
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9306.ts
+#EXTINF:-1,PT Travel Channel HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9307.ts
+#EXTINF:-1,PT TV Cine 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9308.ts
+#EXTINF:-1,PT TV Cine 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9309.ts
+#EXTINF:-1,PT TV Cine 3 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9310.ts
+#EXTINF:-1,PT TV Cine 4 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9311.ts
+#EXTINF:-1,PT TV Lisboa
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9312.ts
+#EXTINF:-1,PT TV Record
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9313.ts
+#EXTINF:-1,PT TV Series
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9314.ts
+
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports 1
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9933.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports 2
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9934.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports 3
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9935.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports 4
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9936.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports 5
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9937.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports F1
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9938.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports Mix
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9939.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Sky Sports News
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9940.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UK Motors TV
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/10062.ts
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",----------Sky Sport----------
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4399.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport24 Full HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/7234.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 24 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4400.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport24
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4078.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport Mix HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/7178.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5077.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 1
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4073.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5078.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 2
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4023.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 3 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4969.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport 3
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4022.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport Plus HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5080.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport Plus
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4072.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Fox Sports HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5090.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Fox Sport
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4061.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport F1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5082.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport F1
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4075.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport MotoGP HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5081.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sky Sport MotoGP
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4074.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Eurosport HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5091.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Eurosport 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5092.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Supertennis HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5079.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Poker Italia
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5085.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Split Tv
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/7202.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Class HorseTv
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4348.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Sport Italia
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5083.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",ROMATV
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5084.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Inter Channel
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5089.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",J | Juventus TV
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5088.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Milan Channel
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5086.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Lazio Style Ch
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5087.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Bike Channel HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5093.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",UnireSat by Teleippica
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/4125.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Fight Network Italia
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/10086.ts
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9854.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9855.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 3
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9856.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 4
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9857.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 5
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9858.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 6
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9859.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport 7
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9860.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sport1 US HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9861.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport Austria HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9862.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sport News HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9868.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Eurosport 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9864.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Eurosport 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9865.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",AU ORF Sport HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9866.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Motorvision
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9867.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",DE Sky Sport News HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9863.ts
+
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",FR: Eurosport 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/8613.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",FR: Eurosport 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/8612.ts
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",FR: TF1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/8553.ts
+
+
+#EXTINF:-1 group-title="Desporto 30-12-2016",Rai 1 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5044.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Rai 2 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5045.ts
+#EXTINF:-1 group-title="Desporto 30-12-2016",Rai 3 HD
+http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/5046.ts
+
 
 
 #EXTINF:0 group-title="Portugal",BTV 1
