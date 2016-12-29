@@ -14,7 +14,6 @@ http://www.tv-msn.com/player/player.swf
 
 
 ########################################################################################################
-
 #EXTINF:-1 group-title="27-12-2016",zappy SPORT world m3u
 http://37.187.175.177:8000/get.php?username=zappy&password=zappy&type=m3u
 
@@ -65,34 +64,13 @@ http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u
 #EXTINF:-1 group-title="25-12-2016",farid ES, FR, DE
 http://163.172.32.148:9300/get.php?username=farid&password=farid&type=m3u
 
-#EXTINF:-1 group-title="25-12-2016",e1V
-http://89.163.224.7:9005/get.php?username=e1dVTrnQaD&password=v8HtyG4icZ&type=m3u
 
 #EXTINF:-1 group-title="25-12-2016",Teddy
 http://178.175.142.50:25461/get.php?username=Teddy&password=tQdi9HPK&type=m3u
 
-#EXTINF:-1 group-title="25-12-2016",Qov5
-http://193.70.116.156:8080/get.php?username=Qov5jrxyJx&password=tMmYYuiWbA&type=m3u
-#EXTINF:-1 group-title="25-12-2016",Qov5 biwsat
-http://biwsat.com:8080/get.php?username=Qov5jrxyJx&password=tMmYYuiWbA&type=m3u
 
-#EXTINF:-1 group-title="25-12-2016",makists79
-http://163.172.50.221:8300/get.php?username=makists79&password=makists54208&type=m3u
 #EXTINF:-1 group-title="25-12-2016",SALAH123
 http://149.202.77.226:7500/get.php?username=SALAH123&password=SALAH123&type=m3u
-#EXTINF:-1 group-title="25-12-2016",imerziberi
-http://50.7.113.2:8000/get.php?username=imerziberi&password=iudfjcowej&type=m3u
-
-
-few more
-#EXTINF:-1 group-title="27-12-2016",mihael1
-http://7896web.com:80/get.php?username=mihael1&password=8m3k6ih&type=m3u
-#EXTINF:-1 group-title="27-12-2016",0126
-http://88.198.34.144:8000/get.php?username=0126&password=0126&type=m3u
-#EXTINF:-1 group-title="27-12-2016",0152
-http://88.198.34.144:8000/get.php?username=0152&password=0152&type=m3u
-#EXTINF:-1 group-title="27-12-2016",0197
-http://88.198.34.144:8000/get.php?username=0197&password=0197&type=m3u
 
 
 ####################################
@@ -122,64 +100,22 @@ http://149.202.75.19:33789/get.php?username=Katar&password=130916&type=m3u
 http://mertens.dyndns-ip.com:33789/get.php?username=Katar&password=130916&type=m3u
 #EXTINF:-1 group-title="27-12-2016",iptvespai
 http://163.172.221.221:8090/get.php?username=iptvespai&password=ss&type=m3u&output=mpegts
-#EXTINF:-1 group-title="27-12-2016",kwQNk5giaT
-http://195.154.156.151:80/get.php?username=kwQNk5giaT&password=fNk3YmHB2U&type=m3u
 
 
 #EXTINF:-1 group-title="27-12-2016",fethi4
 http://esiptv.tn:7500/get.php?username=fethi4&password=fethi4&type=m3u 
-#EXTINF:-1 group-title="27-12-2016",ess43
-http://88.198.34.144:8000/get.php?username=ess43&password=ess43&type=m3u 
+
 #EXTINF:-1 group-title="27-12-2016",test hdmu
 http://hdmu-tv.ddns.net:8989/get.php?username=test&password=test&type=m3u 
-#EXTINF:-1 group-title="27-12-2016",IPK
-http://gh-ah.ddns.net:8000/get.php?username=IPK&password=IPK&type=m3u
-
-#EXTINF:-1 group-title="27-12-2016",3UFa2ksiRX
-http://biwsat.com:8080/get.php?username=3UFa2ksiRX&password=bGoXV4gX3F&type=m3u 
-
-
-#EXTINF:-1 group-title="27-12-2016",ess1
-http://skyeg.dyndns.org:8000/get.php?username=ess1&password=ess1&type=m3u
-#EXTINF:-1 group-title="27-12-2016",ess3
-http://skyeg.dyndns.org:8000/get.php?username=ess3&password=ess3&type=m3u
-#EXTINF:-1 group-title="27-12-2016",ess4
-http://skyeg.dyndns.org:8000/get.php?username=ess4&password=ess4&type=m3u
-#EXTINF:-1 group-title="27-12-2016",ess5
-http://skyeg.dyndns.org:8000/get.php?username=ess5&password=ess5&type=m3u
-#EXTINF:-1 group-title="27-12-2016",samara23
-http://skyeg.dyndns.org:8000/get.php?username=samara23&password=samara23&type=m3u
-#EXTINF:-1 group-title="27-12-2016",samara24
-http://skyeg.dyndns.org:8000/get.php?username=samara24&password=samara24&type=m3u
-#EXTINF:-1 group-title="27-12-2016",samara25
-http://skyeg.dyndns.org:8000/get.php?username=samara25&password=samara25&type=m3u
-
-#EXTINF:-1 group-title="27-12-2016",samara5
-http://skyeg.dyndns.org:8000/get.php?username=samara5&password=samara5&type=m3u
-#EXTINF:-1 group-title="27-12-2016",samara4
-http://skyeg.dyndns.org:8000/get.php?username=samara4&password=samara4&type=m3u
-
-#EXTINF:-1 group-title="27-12-2016",sameh1
-http://88.198.34.144:8000/get.php?username=sameh1&password=sameh1&type=m3u
-#EXTINF:-1 group-title="27-12-2016",sameh2
-http://88.198.34.144:8000/get.php?username=sameh2&password=sameh2&type=m3u
-#EXTINF:-1 group-title="27-12-2016",sameh3
-http://88.198.34.144:8000/get.php?username=sameh3&password=sameh3&type=m3u
-#EXTINF:-1 group-title="27-12-2016",sameh4
-http://88.198.34.144:8000/get.php?username=sameh4&password=sameh4&type=m3u
-#EXTINF:-1 group-title="27-12-2016",sameh5
-http://88.198.34.144:8000/get.php?username=sameh5&password=sameh5&type=m3u
-#EXTINF:-1 group-title="27-12-2016",sameh6
-http://88.198.34.144:8000/get.php?username=sameh6&password=sameh6&type=m3u
-
-
 
 http://www.m3uliste.pw/
 
-
 Update 27.12.2016
-#EXTINF:-1 group-title="27-12-2016",xxFhhGxmep
+#EXTINF:-1 group-title="27-12-2016",xxFhhGxmep RUSSO
 http://france.tvsng.com:25461/get.php?username=xxFhhGxmep&password=EKNsZ9glpE&type=m3u
+
+#EXTINF:-1 group-title="22-12-2016",xxFhhGxmep
+http://tvsng.com:25461/get.php?username=xxFhhGxmep&password=EKNsZ9glpE&type=m3u
 
 #EXTINF:-1 group-title="27-12-2016",nickblaauw1
 http://iptv.movieboxnl.info:800/get.php?username=nickblaauw1&password=test&type=m3u
@@ -188,33 +124,6 @@ http://iptvmega.dyndns.tv:8040/get.php?username=kharamz&password=BdfKgndCpz&type
 
 #EXTINF:-1 group-title="27-12-2016",UvU0e7sU6r
 http://700server.com:8000/get.php?username=UvU0e7sU6r&password=7zDV1Q2DDr&type=m3u
-
-#EXTINF:-1 group-title="27-12-2016",ess21
-http://88.198.34.144:8000/get.php?username=ess21&password=ess21&type=m3u
-#EXTINF:-1 group-title="27-12-2016",ess22
-http://88.198.34.144:8000/get.php?username=ess22&password=ess22&type=m3u
-#EXTINF:-1 group-title="27-12-2016",ess23
-http://88.198.34.144:8000/get.php?username=ess23&password=ess23&type=m3u
-#EXTINF:-1 group-title="27-12-2016",ess24
-http://88.198.34.144:8000/get.php?username=ess24&password=ess24&type=m3u
-
-
-
-
-
-Update 26.12.2016
-
-
-#EXTINF:-1 group-title="27-12-2016",223
-http://195.154.156.151/get.php?username=kwQNk5giaT&password=fNk3YmHB2U&type=m3u
-
-#EXTINF:-1 group-title="27-12-2016",233
-http://ball-live.com:7070/get.php?username=6H8GwVSZ4C&password=orDVt6Q5Oa&type=m3u
-#EXTINF:-1 group-title="27-12-2016",234
-http://ipsatpro.info:8000/get.php?username=z6VNsmToOb&password=tD8AKbU7y7&type=m3u
-
-
-
 
 
 
