@@ -7,6 +7,216 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-logo="Refresh.png" tvg-logo="https://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/512/Refresh.png" group-title="INFO",Atualizada: 20/12/2016
 http://www.tv-msn.com/player/player.swf
 
+#EXTM3U
+#EXTINF:-1 group-title="UK 20161231",BT-Sport-1
+http://109.236.82.18:8000/live/arwa1/arwa1/519.ts
+#EXTINF:-1 group-title="UK 20161231",BT-Sport-2
+http://109.236.82.18:8000/live/arwa1/arwa1/520.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Sports-1
+http://109.236.82.18:8000/live/arwa1/arwa1/684.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Sports-2
+http://109.236.82.18:8000/live/arwa1/arwa1/685.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Sports-3
+http://109.236.82.18:8000/live/arwa1/arwa1/686.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Sports-4
+http://109.236.82.18:8000/live/arwa1/arwa1/714.ts
+#EXTINF:-1,5STARS
+http://109.236.82.18:8000/live/arwa1/arwa1/1938.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Sports-5
+http://109.236.82.18:8000/live/arwa1/arwa1/687.ts
+#EXTINF:-1 group-title="UK 20161231",Premier-Sports
+http://109.236.82.18:8000/live/arwa1/arwa1/1022.ts
+#EXTINF:-1 group-title="UK 20161231",Setanta-Sport-1
+http://109.236.82.18:8000/live/arwa1/arwa1/1018.ts
+#EXTINF:-1 group-title="UK 20161231",BT-Sport/ESPN
+http://109.236.82.18:8000/live/arwa1/arwa1/1044.ts
+#EXTINF:-1 group-title="UK 20161231",BT-Sport-Mosaic
+http://109.236.82.18:8000/live/arwa1/arwa1/1041.ts
+#EXTINF:-1 group-title="UK 20161231",BT-Sport-Extra-1
+http://109.236.82.18:8000/live/arwa1/arwa1/1043.ts
+#EXTINF:-1 group-title="UK 20161231",BT-Sport-Europe
+http://109.236.82.18:8000/live/arwa1/arwa1/1042.ts
+#EXTINF:-1 group-title="UK 20161231",Motors-TV
+http://109.236.82.18:8000/live/arwa1/arwa1/1040.ts
+#EXTINF:-1 group-title="UK 20161231",Setanta-Sports-Ireland
+http://109.236.82.18:8000/live/arwa1/arwa1/1019.ts
+#EXTINF:-1 group-title="UK 20161231",Sony-Movie
+http://109.236.82.18:8000/live/arwa1/arwa1/1023.ts
+#EXTINF:-1 group-title="UK 20161231",Movies-4-Men
+http://109.236.82.18:8000/live/arwa1/arwa1/1020.ts
+#EXTINF:-1 group-title="UK 20161231",Comedy-Extra
+http://109.236.82.18:8000/live/arwa1/arwa1/708.ts
+#EXTINF:-1 group-title="UK 20161231",Comedy-Central
+http://109.236.82.18:8000/live/arwa1/arwa1/709.ts
+#EXTINF:-1 group-title="UK 20161231",Comedy-Central+1
+http://109.236.82.18:8000/live/arwa1/arwa1/710.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Action
+http://109.236.82.18:8000/live/arwa1/arwa1/691.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Select
+http://109.236.82.18:8000/live/arwa1/arwa1/692.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Family
+http://109.236.82.18:8000/live/arwa1/arwa1/695.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Disney.
+http://109.236.82.18:8000/live/arwa1/arwa1/696.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Greats
+http://109.236.82.18:8000/live/arwa1/arwa1/1360.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-movies-Thriller
+http://109.236.82.18:8000/live/arwa1/arwa1/688.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Comedy
+http://109.236.82.18:8000/live/arwa1/arwa1/697.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies -Premiere
+http://109.236.82.18:8000/live/arwa1/arwa1/693.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Movies-Showcase
+http://109.236.82.18:8000/live/arwa1/arwa1/690.ts
+#EXTINF:-1 group-title="UK 20161231",Investigation-Discovery
+http://109.236.82.18:8000/live/arwa1/arwa1/715.ts
+#EXTINF:-1 group-title="UK 20161231",Animal-Planet
+http://109.236.82.18:8000/live/arwa1/arwa1/723.ts
+#EXTINF:-1 group-title="UK 20161231",Nat-Geo-Wild
+http://109.236.82.18:8000/live/arwa1/arwa1/675.ts
+#EXTINF:-1 group-title="UK 20161231",National-Geographic
+http://109.236.82.18:8000/live/arwa1/arwa1/676.ts
+#EXTINF:-1 group-title="UK 20161231",Discovery
+http://109.236.82.18:8000/live/arwa1/arwa1/719.ts
+#EXTINF:-1 group-title="UK 20161231",Discovery-Shed
+http://109.236.82.18:8000/live/arwa1/arwa1/718.ts
+#EXTINF:-1 group-title="UK 20161231",Discovery-Turbo
+http://109.236.82.18:8000/live/arwa1/arwa1/720.ts
+#EXTINF:-1 group-title="UK 20161231",Discovery-History
+http://109.236.82.18:8000/live/arwa1/arwa1/722.ts
+#EXTINF:-1 group-title="UK 20161231",Discovery-Home-&Health
+http://109.236.82.18:8000/live/arwa1/arwa1/716.ts
+#EXTINF:-1 group-title="UK 20161231",BBC.1
+http://109.236.82.18:8000/live/arwa1/arwa1/1531.ts
+#EXTINF:-1 group-title="UK 20161231",BBC.2
+http://109.236.82.18:8000/live/arwa1/arwa1/1530.ts
+#EXTINF:-1 group-title="UK 20161231",BBC.3
+http://109.236.82.18:8000/live/arwa1/arwa1/1529.ts
+#EXTINF:-1 group-title="UK 20161231",BBC.4
+http://109.236.82.18:8000/live/arwa1/arwa1/1528.ts
+#EXTINF:-1 group-title="UK 20161231",More-4
+http://109.236.82.18:8000/live/arwa1/arwa1/1359.ts
+#EXTINF:-1 group-title="UK 20161231",History
+http://109.236.82.18:8000/live/arwa1/arwa1/680.ts
+#EXTINF:-1 group-title="UK 20161231",History-1
+http://109.236.82.18:8000/live/arwa1/arwa1/679.ts
+#EXTINF:-1 group-title="UK 20161231",History-2
+http://109.236.82.18:8000/live/arwa1/arwa1/678.ts
+#EXTINF:-1 group-title="UK 20161231",Nick-Jr+1
+http://109.236.82.18:8000/live/arwa1/arwa1/704.ts
+#EXTINF:-1 group-title="UK 20161231",Nick-Jr-Too
+http://109.236.82.18:8000/live/arwa1/arwa1/703.ts
+#EXTINF:-1 group-title="UK 20161231",Nicktoons-Ireland
+http://109.236.82.18:8000/live/arwa1/arwa1/702.ts
+#EXTINF:-1 group-title="UK 20161231",Disney-XD
+http://109.236.82.18:8000/live/arwa1/arwa1/705.ts
+#EXTINF:-1 group-title="UK 20161231",Disney-Junior
+http://109.236.82.18:8000/live/arwa1/arwa1/706.ts
+#EXTINF:-1 group-title="UK 20161231",Disney-Channel
+http://109.236.82.18:8000/live/arwa1/arwa1/707.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Living
+http://109.236.82.18:8000/live/arwa1/arwa1/694.ts
+#EXTINF:-1 group-title="UK 20161231",UTV-Ireland
+http://109.236.82.18:8000/live/arwa1/arwa1/673.ts
+#EXTINF:-1 group-title="UK 20161231",ITV1
+http://109.236.82.18:8000/live/arwa1/arwa1/758.ts
+#EXTINF:-1 group-title="UK 20161231",ITV2
+http://109.236.82.18:8000/live/arwa1/arwa1/757.ts
+#EXTINF:-1 group-title="UK 20161231",ITV3
+http://109.236.82.18:8000/live/arwa1/arwa1/509.ts
+#EXTINF:-1 group-title="UK 20161231",ITV4
+http://109.236.82.18:8000/live/arwa1/arwa1/814.ts
+#EXTINF:-1 group-title="UK 20161231",FOX
+http://109.236.82.18:8000/live/arwa1/arwa1/698.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-2
+http://109.236.82.18:8000/live/arwa1/arwa1/700.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-12
+http://109.236.82.18:8000/live/arwa1/arwa1/701.ts
+#EXTINF:-1 group-title="UK 20161231",Racing
+http://109.236.82.18:8000/live/arwa1/arwa1/1021.ts
+#EXTINF:-1 group-title="UK 20161231",Sky-Arts1
+http://109.236.82.18:8000/live/arwa1/arwa1/699.ts
+#EXTINF:-1 group-title="UK 20161231",Real-Lives
+http://109.236.82.18:8000/live/arwa1/arwa1/674.ts
+#EXTINF:-1 group-title="UK 20161231",QUEST
+http://109.236.82.18:8000/live/arwa1/arwa1/724.ts
+#EXTINF:-1 group-title="UK 20161231",DMAX
+http://109.236.82.18:8000/live/arwa1/arwa1/717.ts
+#EXTINF:-1 group-title="UK 20161231",MUTV
+http://109.236.82.18:8000/live/arwa1/arwa1/677.ts
+#EXTINF:-1 group-title="UK 20161231",TLC
+http://109.236.82.18:8000/live/arwa1/arwa1/712.ts
+#EXTINF:-1 group-title="UK 20161231",BET
+http://109.236.82.18:8000/live/arwa1/arwa1/711.ts
+#EXTINF:-1 group-title="UK 20161231",TLC-IRELAND
+http://109.236.82.18:8000/live/arwa1/arwa1/713.ts
+#EXTINF:-1 group-title="UK 20161231",At-The-Races
+http://109.236.82.18:8000/live/arwa1/arwa1/683.ts
+#EXTINF:-1 group-title="UK 20161231",Fox-News-Channel
+http://109.236.82.18:8000/live/arwa1/arwa1/681.ts
+#EXTINF:-1 group-title="UK 20161231",Crime&Investigation-Network
+http://109.236.82.18:8000/live/arwa1/arwa1/682.ts
+#EXTINF:-1 group-title="UK 20161231",True Movies 1
+http://109.236.82.18:8000/live/arwa1/arwa1/1209.ts
+#EXTINF:-1 group-title="UK 20161231",True Movies 2
+http://109.236.82.18:8000/live/arwa1/arwa1/1210.ts
+#EXTINF:-1 group-title="UK 20161231",Tiny Pop
+http://109.236.82.18:8000/live/arwa1/arwa1/1211.ts
+#EXTINF:-1 group-title="UK 20161231",SYFY
+http://109.236.82.18:8000/live/arwa1/arwa1/1212.ts
+#EXTINF:-1 group-title="UK 20161231",RTE 1 HD
+http://109.236.82.18:8000/live/arwa1/arwa1/1206.ts
+#EXTINF:-1 group-title="UK 20161231",RTE 2 HD
+http://109.236.82.18:8000/live/arwa1/arwa1/1207.ts
+#EXTINF:-1 group-title="UK 20161231",Really
+http://109.236.82.18:8000/live/arwa1/arwa1/1208.ts
+#EXTINF:-1 group-title="UK 20161231",Movies.4.Men
+http://109.236.82.18:8000/live/arwa1/arwa1/1213.ts
+#EXTINF:-1 group-title="UK 20161231",LiverPool TV
+http://109.236.82.18:8000/live/arwa1/arwa1/1214.ts
+#EXTINF:-1 group-title="UK 20161231",Good Food
+http://109.236.82.18:8000/live/arwa1/arwa1/1215.ts
+#EXTINF:-1 group-title="UK 20161231",Food Network
+http://109.236.82.18:8000/live/arwa1/arwa1/1216.ts
+#EXTINF:-1 group-title="UK 20161231",Film 4
+http://109.236.82.18:8000/live/arwa1/arwa1/1217.ts
+#EXTINF:-1 group-title="UK 20161231",EuroSport 1
+http://109.236.82.18:8000/live/arwa1/arwa1/1218.ts
+#EXTINF:-1 group-title="UK 20161231",EuroSport 2
+http://109.236.82.18:8000/live/arwa1/arwa1/1219.ts
+#EXTINF:-1 group-title="UK 20161231",ESPN HD
+http://109.236.82.18:8000/live/arwa1/arwa1/1220.ts
+#EXTINF:-1 group-title="UK 20161231",E4
+http://109.236.82.18:8000/live/arwa1/arwa1/1221.ts
+#EXTINF:-1 group-title="UK 20161231",Drama
+http://109.236.82.18:8000/live/arwa1/arwa1/1222.ts
+#EXTINF:-1 group-title="UK 20161231",CBS Reality
+http://109.236.82.18:8000/live/arwa1/arwa1/1224.ts
+#EXTINF:-1 group-title="UK 20161231",CBS Drama
+http://109.236.82.18:8000/live/arwa1/arwa1/1225.ts
+#EXTINF:-1 group-title="UK 20161231",CBS Action
+http://109.236.82.18:8000/live/arwa1/arwa1/1226.ts
+#EXTINF:-1,====&MOVIES&====
+http://109.236.82.18:8000/live/arwa1/arwa1/3587.ts
+#EXTINF:-1,masra7.masr-old
+http://109.236.82.18:8000/movie/arwa1/arwa1/3777.mkv
+#EXTINF:-1,masra7.masr-new
+http://109.236.82.18:8000/movie/arwa1/arwa1/755.mkv
+#EXTINF:-1,movies-kidz-1
+http://109.236.82.18:8000/movie/arwa1/arwa1/666.mkv
+#EXTINF:-1,movies-kidz-2
+http://109.236.82.18:8000/movie/arwa1/arwa1/667.mkv
+#EXTINF:-1,movies-kidz-3
+http://109.236.82.18:8000/movie/arwa1/arwa1/668.mkv
+#EXTINF:-1,movies-kidz-4
+http://109.236.82.18:8000/movie/arwa1/arwa1/669.mkv
+#EXTINF:-1,movies-kidz-5
+http://109.236.82.18:8000/movie/arwa1/arwa1/670.mkv
+#EXTINF:-1,movies-kidz-6
+http://109.236.82.18:8000/movie/arwa1/arwa1/3796.mkv
+#EXTINF:-1,movies-kidz-7
+http://109.236.82.18:8000/movie/arwa1/arwa1/3797.mkv
+
 #EXTINF:-1,Lewis Sky Sports News
 http://51.255.70.112:8000/live/Lewis/Lewis/1698.ts
 #EXTINF:-1,Lewis Sky Sports F1 UK
