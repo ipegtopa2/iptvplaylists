@@ -15,6 +15,118 @@ http://www.tv-msn.com/player/player.swf
 ######################################################################################################################
 
 
+
+
+#EXTINF:-1,RTP 2
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/41.ts
+#EXTINF:-1,SIC
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/18.ts
+#EXTINF:-1,RTP 1
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/9.ts
+#EXTINF:-1,TVI
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/8.ts
+#EXTINF:-1,BTV 1
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/1.ts
+#EXTINF:-1,BOLA TV
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/2.ts
+#EXTINF:-1,SPORT TV+
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/3.ts
+#EXTINF:-1,SPORT TV1
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/4.ts
+#EXTINF:-1,SPORT TV2
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/5.ts
+#EXTINF:-1,SPORT TV3
+http://173.212.205.197:8888/live/freeiptv/freedareiptv/6.ts
+
+#EXTINF:0,SPORTING TV
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/551.ts
+#EXTINF:0,SPORT TV 5HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/552.ts
+#EXTINF:0,SPORT TV 5
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/553.ts
+#EXTINF:0,SPORT TV 4HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/554.ts
+#EXTINF:0,SPORT TV 4
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/555.ts
+#EXTINF:0,SPORT TV 3 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/556.ts
+#EXTINF:0,SPORT TV 2 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/557.ts
+#EXTINF:0,SPORT TV 1 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/558.ts
+
+#EXTINF:-1,PT: TV CINE 4
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/544.ts
+#EXTINF:-1,PT: TV CINE 3 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/545.ts
+#EXTINF:-1,PT: TV CINE 2  HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/546.ts
+#EXTINF:-1,PT: TV CINE 1  HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/547.ts
+#EXTINF:-1,PT: TOUROS TV
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/548.ts
+#EXTINF:-1,PT: TLC
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/549.ts
+#EXTINF:-1,PT: SYFY
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/550.ts
+#EXTINF:-1,PT: SPORTING TV
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/551.ts
+#EXTINF:-1,PT: SPORT TV 5HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/552.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/553.ts
+#EXTINF:-1,PT: SPORT TV 4HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/554.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/555.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/556.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/557.ts
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/531.ts
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/532.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/558.ts
+
+#EXTINF:-1,ES : MOVISTAR MOTOGP
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/63.ts
+#EXTINF:-1,ES : movistar Futbol
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/64.ts
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/65.ts
+#EXTINF:-1,ES : MOVISTAR F1 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/66.ts
+
+
+#EXTINF:-1,Latino: F1 HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/286.ts
+#EXTINF:-1,Latino: ESPN 3
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/287.ts
+#EXTINF:-1,Latino: ESPN 2
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/288.ts
+#EXTINF:-1,Latino: ESPN
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/289.ts
+
+#EXTINF:-1,BR: SPORT TV 3
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/130.ts
+#EXTINF:-1,BR: SPORT TV 2
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/131.ts
+#EXTINF:-1,BR: SPORT TV 1
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/132.ts
+
+#EXTINF:-1,FR: EUROSPORT2
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/71.ts
+#EXTINF:-1,FR: Eurosport 2
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/72.ts
+#EXTINF:-1,FR: Eurosport 1
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/73.ts
+#EXTINF:-1,FR: Equidia Live HD
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/75.ts
+#EXTINF:-1,FR: EQUIDIA live
+http://163.172.81.33:1234/live/App0039/gVmxet5dy7/74.ts
+
 #EXTINF:-1 group-title="Desporto 30-12-2016",PT RTP International
 http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9290.ts
 
