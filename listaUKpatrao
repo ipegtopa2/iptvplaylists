@@ -7,7 +7,248 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-logo="Refresh.png" tvg-logo="https://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/512/Refresh.png" group-title="INFO",Atualizada: 20/12/2016
 http://www.tv-msn.com/player/player.swf
 
-#EXTM3U
+
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 1
+http://1.442244.info/uk_sky_sports_1/index.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 2
+http://1.442244.info/uk_sky_sports_2/index.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 3
+http://1.442244.info/uk_sky_sports_3/index.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 4
+http://1.442244.info/uk_sky_sports_4/index.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS F1
+http://1.442244.info/uk_sky_sports_f1/index.m3u8
+
+
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK sky sports 1
+http://163.172.5.115:8080/skysp1/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK sky sport 2
+http://163.172.5.115:8080/skysp2/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK sky sport 3
+http://163.172.5.115:8080/skysp3/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK sky sport 4
+http://163.172.5.115:8080/skysp4/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK sky sport 5
+http://163.172.5.115:8080/skysp5/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK sky sport f1
+http://163.172.5.115:8080/skyspf1/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK bt sport 1
+http://163.172.5.115:8080/bt1/playlist.m3u8
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK bt sport 2
+http://163.172.5.115:8080/bt2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1338.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1339.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 3
+http://163.172.217.53:8000/live/5grandiptv915/67863345/687.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 4
+http://163.172.217.53:8000/live/5grandiptv915/67863345/686.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 5
+http://163.172.217.53:8000/live/5grandiptv915/67863345/699.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/694.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/695.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORT 3 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/696.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORT 4 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/697.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORT 5 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/698.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS F1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/700.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SPORTS NEWS HQ
+http://163.172.217.53:8000/live/5grandiptv915/67863345/701.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MODERN GREATS HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/674.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES ACTION
+http://163.172.217.53:8000/live/5grandiptv915/67863345/672.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES COMEDY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/670.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES DRAMA
+http://163.172.217.53:8000/live/5grandiptv915/67863345/671.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES FAMILY HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/669.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES SCIFI
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1384.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES ACTION & ADVENTURE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1383.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES PREMIERE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/668.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY ATLANTIC HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/673.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY ACTION
+http://163.172.217.53:8000/live/5grandiptv915/67863345/666.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES SCI-FI & HORROR
+http://163.172.217.53:8000/live/5grandiptv915/67863345/676.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES SCIFI HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/667.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES THRILLER
+http://163.172.217.53:8000/live/5grandiptv915/67863345/675.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ZING
+http://163.172.217.53:8000/live/5grandiptv915/67863345/724.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK TRAVEL CHANNEL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/732.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK TLC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/731.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY TWO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/651.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY ONE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/649.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY ONE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/650.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY NEWS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/684.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY LIVING
+http://163.172.217.53:8000/live/5grandiptv915/67863345/677.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY  ARTS 1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/663.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY  ARTS  2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/664.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SETANTA IRELAND
+http://163.172.217.53:8000/live/5grandiptv915/67863345/702.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK UK MOTORS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1569.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK UK MORE 4
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1515.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK UK LIFETIME
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1519.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK UK GOLD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1521.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK UK DMAX
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1522.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK UK DISCOVERY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1553.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK TG 4
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1514.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY UK MOVIES SHOWCASE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1534.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY SELECT
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1517.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES THRILLER HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1535.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES SELECT HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1537.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES PREMIER HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1530.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES MODERN GREAT HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1536.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES DRAMA HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1533.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES DISNEY HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1542.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY MOVIES COMEDY HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1532.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK SKY ARTS 1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1516.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK NICKELODEON
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1546.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK NICK TOONS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1548.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK NICK JUNIOR
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1550.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK NATIONAL GEO WILD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1552.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK NATIONAL GEO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1551.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK MOVIES 4 MEN
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1538.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK LIVERPOOL FC
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1565.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ITV  1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1512.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK FOOD NETWORK
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1568.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK FOX
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1540.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK EUROSPORT 1
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1563.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ESPN
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1567.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK DISNEY CHANNEL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1543.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK DISCOVERY TURBO
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1555.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK DISCOVERY SCIENCE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1554.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK DISCOVERY HISTORY
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1561.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BT SPORTS EUROPE HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1564.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BBC 3 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1511.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CTH STADIUM 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1445.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CTH STADIUM 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1446.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CTH STADIUM 3 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1450.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CTH STADIUM 4 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1447.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CTH STADIUM 5 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1448.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CTH STADIUM 6 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/1449.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK RTE ONE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/661.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK RTE 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/662.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK RTE 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/730.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK RACING UK
+http://163.172.217.53:8000/live/5grandiptv915/67863345/706.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK MUTV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/704.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK MTV HITS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/713.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ITV 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/657.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ITV 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/658.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ITV 3
+http://163.172.217.53:8000/live/5grandiptv915/67863345/659.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ITV 4
+http://163.172.217.53:8000/live/5grandiptv915/67863345/660.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK HISTORY CHANNEL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/688.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK EUROSPORT 2
+http://163.172.217.53:8000/live/5grandiptv915/67863345/690.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK EUROSPORT 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/689.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK ESPN HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/679.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK DISNEY MOVIE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/682.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK DISNEY JUNIOR
+http://163.172.217.53:8000/live/5grandiptv915/67863345/683.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK COMEDY CENTRAL
+http://163.172.217.53:8000/live/5grandiptv915/67863345/665.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK COLORS
+http://163.172.217.53:8000/live/5grandiptv915/67863345/725.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK CHELSEA TV
+http://163.172.217.53:8000/live/5grandiptv915/67863345/703.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BT SPORTS 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/693.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BT SPORT 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/691.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BOX NATION  HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/707.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BBC 4 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/656.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BBC 3
+http://163.172.217.53:8000/live/5grandiptv915/67863345/655.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BBC 2 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/654.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK BBC 1 HD
+http://163.172.217.53:8000/live/5grandiptv915/67863345/653.ts
+#EXTINF:-1 group-title="UK & USA 5/01/2016",UK B4U MOVIES
+http://163.172.217.53:8000/live/5grandiptv915/67863345/718.ts
+
+
+
 #EXTINF:-1 group-title="UK 20161231",BT-Sport-1
 http://109.236.82.18:8000/live/arwa1/arwa1/519.ts
 #EXTINF:-1 group-title="UK 20161231",BT-Sport-2
