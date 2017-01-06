@@ -1,22 +1,243 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
-http://www.tv-msn.com/player/player.swf
-
 #EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO",PlayLists IPTV m3u do Patrao
 http://www.tv-msn.com/player/player.swf
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 25/12/2016
+#EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 06/01/2017
 http://www.tv-msn.com/player/player.swf
 
 
 
-########################################################################################################
+
+##########################################################################################
+
+          06/01/2017
+          
+##########################################################################################
+
+Latino playlists
+#EXTINF:-1 group-title="6/1/2017",evelyn
+http://149.56.29.127:8000/get.php?username=evelyn&password=evelyn&type=m3u
+#EXTINF:-1 group-title="6/1/2017",darius
+http://149.56.29.127:8000/get.php?username=darius&password=darius&type=m3u
+#EXTINF:-1 group-title="6/1/2017",cham
+http://149.56.29.127:8000/get.php?username=cham&password=cham&type=m3u
+#EXTINF:-1 group-title="6/1/2017",bassem9140
+http://37.187.175.177:8000/get.php?username=bassem9140&password=bassem9140&type=m3u
+
+
+EXTINF:-1 group-title="6/1/2017",bassem9150
+http://37.187.175.177:8000/get.php?username=bassem9150&password=bassem9150&type=m3u 
+
+
+#EXTINF:-1 group-title="6/1/2017",bassem9155
+http://ultime-iptv.net:8000/get.php?username=bassem9155&password=bassem9155&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",bassem9050
+http://37.187.175.177:8000/get.php?username=bassem9050&password=bassem9050&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",bassem9042
+http://37.187.175.177:8000/get.php?username=bassem9042&password=bassem9042&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",bassem9035
+http://37.187.175.177:8000/get.php?username=bassem9035&password=bassem9035&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",bassem9034
+http://37.187.175.177:8000/get.php?username=bassem9034&password=bassem9034&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",bassem9026
+http://37.187.175.177:8000/get.php?username=bassem9026&password=bassem9026&type=m3u 
+
+
+100 CONNEXIONS : IPTV BEIN / OSN / SFR / FRTV
+#EXTINF:-1 group-title="6/1/2017",star7
+http://iptv1free.ddns.net:2222/get.php?username=star7&password=www.iptv1free.com&type=m3u&output=mpegts
+
+mix m3u 2
+#EXTINF:-1 group-title="6/1/2017",orphan
+http://164.132.191.219:80/get.php?username=orphan&password=gs1905&type=m3U
+
+world iptv MIX M3U
+#EXTINF:-1 group-title="6/1/2017",chaaben340
+http://37.187.175.177:8000/get.php?username=chaaben340&password=chaaben340&type=m3u 
+
+#EXTINF:-1 group-title="6/1/2017",bsr
+http://37.187.175.177:8000/get.php?username=bsr&password=bsr&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",carlton
+http://62.210.249.138:8080/get.php?username=carlton&password=carlton&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",barrientos
+http://62.210.249.138:8080/get.php?username=barrientos&password=barrientos&type=m3u 
+
+uk mix
+#EXTINF:-1 group-title="6/1/2017",pepito
+http://62.210.249.138:8080/get.php?username=pepito&password=pepito&type=m3u
+#EXTINF:-1 group-title="6/1/2017",mcphail
+http://62.210.249.138:8080/get.php?username=mcphail&password=mcphail&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",general
+http://62.210.249.138:8080/get.php?username=general&password=general&type=m3u
+#EXTINF:-1 group-title="6/1/2017",general fpiptv
+http://system.fpiptv.com:8080/get.php?username=general&password=general&type=m3u
+
+mixed
+#EXTINF:-1 group-title="6/1/2017",erika
+http://62.210.139.232:19500/get.php?username=erika&password=erika&type=m3u
+#EXTINF:-1 group-title="6/1/2017",lina
+http://62.210.139.232:19500/get.php?username=lina&password=lina&type=m3u
+#EXTINF:-1 group-title="6/1/2017",lina cms
+http://cms.tvhd4k.com:19500/get.php?username=lina&password=lina&type=m3u
+
+m3u
+#EXTINF:-1 group-title="6/1/2017",ahmad telia
+http://h187n6-hlm-d1.ias.bredband.telia.com:1967/get.php?username=ahmad&password=ahmad&type=m3u
+#EXTINF:-1 group-title="6/1/2017",ahmad
+http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",222333
+http://37.187.173.138:8000/get.php?usernam nse=222333&password=222333&type=m3u
+#EXTINF:-1 group-title="6/1/2017",222333
+http://ns339258.ip-37-187-173.eu:8000/get.php?username=222333&password=222333&type=m3u
+
+VOD
+#EXTINF:-1 group-title="6/1/2017",VOD LyQhAFjv4o
+http://188.165.237.116:25461/get.php?username=LyQhAFjv4o&password=trilux&type=m3u
+#EXTINF:-1 group-title="6/1/2017",VOD erika
+http://62.210.139.232:19500/get.php?username=erika&password=erika&type=m3u
+
+
+http://freeiptv.weightlosstoday.org/2017/01/04/free-m3u-playlist-5-1-2017-new-m3u/
+#EXTINF:-1 group-title="6/1/2017",carlton
+http://system.fpiptv.com:8080/get.php?username=carlton&password=carlton&type=m3u
+#EXTINF:-1 group-title="6/1/2017",barrientos
+http://system.fpiptv.com:8080/get.php?username=barrientos&password=barrientos&type=m3u
+#EXTINF:-1 group-title="6/1/2017",marco
+http://liveitpremium.gleeze.com:8000/get.php?username=marco&password=marco&type=m3u&output=ts
+
+#EXTINF:-1 group-title="6/1/2017",ozcelik685
+http://91.92.115.130/get.php?username=ozcelik685&password=jux49s&type=m3u
+#EXTINF:-1 group-title="6/1/2017",ozcelik685 pro213
+http://pro213.com/get.php?username=ozcelik685&password=jux49s&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",new
+http://93.190.139.64:8000/get.php?username=new&password=new2&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",crazybull2
+http://5.196.83.164:9889/get.php?username=crazybull2&password=crazybull2&type=m3u
+#EXTINF:-1 group-title="6/1/2017",mihael1
+http://300panel3.com:80/get.php?username=mihael1&password=8m3k6ih&type=m3u
+
+
+Free m3u playlist 6-1-2017 {New m3u} By Tony | January 5, 2017 0 Comment
+#EXTINF:-1 group-title="6/1/2017",adric&
+http://51.254.198.95:8000/get.php?username=adric&password=adric&type=m3u
+#EXTINF:-1 group-title="6/1/2017",pescecane
+http://51.254.198.95:8000/get.php?username=pescecane&password=pescecane&type=m3u
+#EXTINF:-1 group-title="6/1/2017",iptv250
+http://www.zeebra.tv:8000/get.php?username=iptv250&password=iptv250&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",IxPp13ZDB4
+http://work.myvisio.me:9889/get.php?username=IxPp13ZDB4&password=p8fwUAXlUt&type=m3u
+#EXTINF:-1 group-title="6/1/2017",ru-md
+http://hdmu-tv.ddns.net:8989/get.php?username=ru-md&password=test&type=m3u
+#EXTINF:-1 group-title="6/1/2017",Q9nqTZBE23
+http://biwsat.com:8080/get.php?username=Q9nqTZBE23&password=kBoHKyC28u&type=m3u
+#EXTINF:-1 group-title="6/1/2017",1234
+http://193.70.12.98/get.php?username=1234&password=1234&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",thierry
+http://system.fpiptv.com:8080/get.php?username=thierry&password=thierry&type=m3u
+#EXTINF:-1 group-title="6/1/2017",pepito
+http://system.fpiptv.com:8080/get.php?username=pepito&password=pepito&type=m3u
+#EXTINF:-1 group-title="6/1/2017",mcphail
+http://system.fpiptv.com:8080/get.php?username=mcphail&password=mcphail&type=m3u
+#EXTINF:-1 group-title="6/1/2017",kamel
+http://ipc.proipciptv.com:8000/get.php?username=kamel&password=kamel&type=m3u
 
 
 
+#########################
+http://freeiptv.weightlosstoday.org/2017/01/02/free-m3u-playlist-3-1-2017-new-m3u/
+#EXTINF:-1 group-title="6/1/2017",mahjoub
+http://62-4-21-70.rev.poneytelecom.eu:8000/get.php?username=mahjoub&password=mahjoub&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",Aliali
+http://ns322221.ip-37-187-155.eu:8000/get.php?username=Aliali&password=Aliali&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",Aliali
+http://iptv.sat-tv.net:8000/get.php?username=Aliali&password=Aliali&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",haricot
+http://iptvmega.dyndns.tv:8040/get.php?username=haricot&password=haricot&type=m3u
+#EXTINF:-1 group-title="6/1/2017",ecosse
+http://iptvmega.dyndns.tv:8040/get.php?username=ecosse&password=ecosse&type=m3u
+#EXTINF:-1 group-title="6/1/2017",vict
+http://iptvmega.dyndns.tv:8040/get.php?username=vict&password=vict&type=m3u
+#EXTINF:-1 group-title="6/1/2017",Demo
+http://28.ip-149-56-102.net:8000/get.php?username=Demo&password=Demo&type=m3u
+
+
+6.1.2017
+#EXTINF:-1 group-title="6/1/2017",bassem9080
+http://37.187.175.177:8000/get.php?username=bassem9080&password=bassem9080&type=m3u
+#EXTINF:-1 group-title="6/1/2017",bassem9079
+http://37.187.175.177:8000/get.php?username=bassem9079&password=bassem9079&type=m3u
+#EXTINF:-1 group-title="6/1/2017",bassem9140
+http://ultime-iptv.net:8000/get.php?username=bassem9140&password=bassem9140&type=m3u
+#EXTINF:-1 group-title="6/1/2017",bassem9069
+http://37.187.175.177:8000/get.php?username=bassem9069&password=bassem9069&type=m3u
+#EXTINF:-1 group-title="6/1/2017",bassem9059
+http://37.187.175.177:8000/get.php?username=bassem9059&password=bassem9059&type=m3u
+#EXTINF:-1 group-title="6/1/2017",scrittore
+http://disperatos4.ddns.net:8000/get.php?username=scrittore&password=checca&type=m3u
+#EXTINF:-1 group-title="6/1/2017",numan-aydin-12
+http://300panelpro300.com:8080/get.php?username=numan-aydin-12&password=ZyXu6UxWyP&type=m3u
+#EXTINF:-1 group-title="6/1/2017",erdugan
+http://91.121.52.204:8080/get.php?username=erdugan&password=tuiTuifdzY&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",star7
+http://iptv1free.ddns.net:2222/get.php?username=star7&password=www.iptv1free.com&type=m3u
+#EXTINF:-1 group-title="6/1/2017",shell
+http://164.132.191.219:8080/get.php?username=shell&password=shell&type=m3u
+
+
+5.1.2017
+#EXTINF:-1 group-title="6/1/2017",darius
+http://zialcobra.dyndns.org:8000/get.php?username=darius&password=darius&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",cham
+http://zialcobra.dyndns.org:8000/get.php?username=cham&password=cham&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",andrea
+http://zialcobra.dyndns.org:8000/get.php?username=andrea&password=andrea&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",kayhan1dragon
+http://300panel3.com:80/get.php?username=kayhan1dragon&password=1RBwphh&type=m3u
+
+4-1-2017
+#EXTINF:-1 group-title="6/1/2017",mzampori
+http://51.255.76.78:8000/get.php?username=mzampori&password=RWGabMTkXT&type=m3u 
+#EXTINF:-1 group-title="6/1/2017",MarcoDLG65
+http://151.80.97.112:9559/get.php?username=MarcoDLG65&password=Fratginogiga65&type=m3u 
+3.1.2017
+#EXTINF:-1 group-title="6/1/2017",testt
+http://158.69.117.77:8000/get.php?username=testt&password=ttest&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",vict
+http://188.165.231.53:8040/get.php?username=vict&password=vict&type=m3u 
+
+2.1.2017
+#EXTINF:-1 group-title="6/1/2017",adnan
+http://130.185.144.63:8000/get.php?username=adnan&password=adnan&type=m3u
+#EXTINF:-1 group-title="6/1/2017",bbbbbb
+http://www.goldtv.al:8000/get.php?username=bbbbbb&password=bbbbbb&type=m3u
+
+1.1.2017
+#EXTINF:-1 group-title="6/1/2017",6grandiptv597
+http://163.172.217.53:8000/get.php?username=6grandiptv597&password=77885500&type=m3u
+#EXTINF:-1 group-title="6/1/2017",omar
+http://iptv.doctor-load.info:8000/get.php?username=omar&password=omar&type=m3u
+
+#EXTINF:-1 group-title="6/1/2017",Bahaj
+http://51.15.56.56:8000/get.php?username=Twst&password=Bahaj&type=m3u
+
+
+##########################################################################################
+##########################################################################################
 Free m3u playlist 31-12-2016 {New m3u}
 http://freeiptv.weightlosstoday.org/2016/12/30/free-m3u-playlist-31-12-2016-new-m3u/
 By Tony | December 30, 2016 0 Comment
