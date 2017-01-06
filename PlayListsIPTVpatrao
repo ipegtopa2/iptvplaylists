@@ -23,27 +23,13 @@ http://149.56.29.127:8000/get.php?username=evelyn&password=evelyn&type=m3u
 http://149.56.29.127:8000/get.php?username=darius&password=darius&type=m3u
 #EXTINF:-1 group-title="6/1/2017",cham
 http://149.56.29.127:8000/get.php?username=cham&password=cham&type=m3u
+
 #EXTINF:-1 group-title="6/1/2017",bassem9140
 http://37.187.175.177:8000/get.php?username=bassem9140&password=bassem9140&type=m3u
-
-
 EXTINF:-1 group-title="6/1/2017",bassem9150
 http://37.187.175.177:8000/get.php?username=bassem9150&password=bassem9150&type=m3u 
-
-
 #EXTINF:-1 group-title="6/1/2017",bassem9155
 http://ultime-iptv.net:8000/get.php?username=bassem9155&password=bassem9155&type=m3u
-
-#EXTINF:-1 group-title="6/1/2017",bassem9050
-http://37.187.175.177:8000/get.php?username=bassem9050&password=bassem9050&type=m3u 
-#EXTINF:-1 group-title="6/1/2017",bassem9042
-http://37.187.175.177:8000/get.php?username=bassem9042&password=bassem9042&type=m3u 
-#EXTINF:-1 group-title="6/1/2017",bassem9035
-http://37.187.175.177:8000/get.php?username=bassem9035&password=bassem9035&type=m3u 
-#EXTINF:-1 group-title="6/1/2017",bassem9034
-http://37.187.175.177:8000/get.php?username=bassem9034&password=bassem9034&type=m3u 
-#EXTINF:-1 group-title="6/1/2017",bassem9026
-http://37.187.175.177:8000/get.php?username=bassem9026&password=bassem9026&type=m3u 
 
 
 100 CONNEXIONS : IPTV BEIN / OSN / SFR / FRTV
