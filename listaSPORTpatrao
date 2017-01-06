@@ -1,4 +1,6 @@
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="77.gif" tvg-logo="http://img1.funscrape.com/br/feliznatal/77.gif" group-title="INFO",FELIZ NATAL
 http://www.tv-msn.com/player/player.swf
 
@@ -8,7 +10,24 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-logo="underconstruction.png" tvg-logo="http://easyprojecttools.com/underconstruction.png" group-title="INFO",Atualizada: 19/12/2016
 http://www.tv-msn.com/player/player.swf
 
-#EXTM3U
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK sky sports 1
+http://163.172.5.115:8080/skysp1/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK sky sport 2
+http://163.172.5.115:8080/skysp2/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK sky sport 3
+http://163.172.5.115:8080/skysp3/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK sky sport 4
+http://163.172.5.115:8080/skysp4/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK sky sport 5
+http://163.172.5.115:8080/skysp5/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK sky sport f1
+http://163.172.5.115:8080/skyspf1/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK bt sport 1
+http://163.172.5.115:8080/bt1/playlist.m3u8
+#EXTINF:-1 group-title="Desporto 3/01/2017",UK bt sport 2
+http://163.172.5.115:8080/bt2/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Desporto 3/01/2017",EUROSPORT 1
 http://wolverine.castto.me/live/f5RMw3f0PYWdEhfX6KY1/playlist.m3u8
 
