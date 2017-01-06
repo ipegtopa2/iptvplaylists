@@ -15,6 +15,13 @@ http://www.tv-msn.com/player/player.swf
           06/01/2017
           
 ##########################################################################################
+#EXTINF:-1 group-title="6/1/2017",erika Portugal
+http://62.210.139.232:19500/get.php?username=erika&password=erika&type=m3u
+#EXTINF:-1 group-title="6/1/2017",lina Portugal
+http://62.210.139.232:19500/get.php?username=lina&password=lina&type=m3u
+#EXTINF:-1 group-title="6/1/2017",lina cms Portugal
+http://cms.tvhd4k.com:19500/get.php?username=lina&password=lina&type=m3u
+
 
 Latino playlists
 #EXTINF:-1 group-title="6/1/2017",evelyn
@@ -40,53 +47,32 @@ mix m3u 2
 #EXTINF:-1 group-title="6/1/2017",orphan
 http://164.132.191.219:80/get.php?username=orphan&password=gs1905&type=m3U
 
-world iptv MIX M3U
-#EXTINF:-1 group-title="6/1/2017",chaaben340
-http://37.187.175.177:8000/get.php?username=chaaben340&password=chaaben340&type=m3u 
-
 #EXTINF:-1 group-title="6/1/2017",bsr
 http://37.187.175.177:8000/get.php?username=bsr&password=bsr&type=m3u
 
-#EXTINF:-1 group-title="6/1/2017",carlton
-http://62.210.249.138:8080/get.php?username=carlton&password=carlton&type=m3u 
-#EXTINF:-1 group-title="6/1/2017",barrientos
-http://62.210.249.138:8080/get.php?username=barrientos&password=barrientos&type=m3u 
 
 uk mix
-#EXTINF:-1 group-title="6/1/2017",pepito
+#EXTINF:-1 group-title="6/1/2017",pepito ITV
 http://62.210.249.138:8080/get.php?username=pepito&password=pepito&type=m3u
-#EXTINF:-1 group-title="6/1/2017",mcphail
+#EXTINF:-1 group-title="6/1/2017",mcphail ITV HD
 http://62.210.249.138:8080/get.php?username=mcphail&password=mcphail&type=m3u
 
-#EXTINF:-1 group-title="6/1/2017",general
+#EXTINF:-1 group-title="6/1/2017",ITV general ITV HD
 http://62.210.249.138:8080/get.php?username=general&password=general&type=m3u
-#EXTINF:-1 group-title="6/1/2017",general fpiptv
+#EXTINF:-1 group-title="6/1/2017",general fpiptv ITV HD
 http://system.fpiptv.com:8080/get.php?username=general&password=general&type=m3u
 
-mixed
-#EXTINF:-1 group-title="6/1/2017",erika
-http://62.210.139.232:19500/get.php?username=erika&password=erika&type=m3u
-#EXTINF:-1 group-title="6/1/2017",lina
-http://62.210.139.232:19500/get.php?username=lina&password=lina&type=m3u
-#EXTINF:-1 group-title="6/1/2017",lina cms
-http://cms.tvhd4k.com:19500/get.php?username=lina&password=lina&type=m3u
-
-m3u
 #EXTINF:-1 group-title="6/1/2017",ahmad telia
 http://h187n6-hlm-d1.ias.bredband.telia.com:1967/get.php?username=ahmad&password=ahmad&type=m3u
 #EXTINF:-1 group-title="6/1/2017",ahmad
 http://81.230.200.187:1967/get.php?username=ahmad&password=ahmad&type=m3u
 
-#EXTINF:-1 group-title="6/1/2017",222333
-http://37.187.173.138:8000/get.php?usernam nse=222333&password=222333&type=m3u
-#EXTINF:-1 group-title="6/1/2017",222333
+#EXTINF:-1 group-title="6/1/2017",222333 MBC-1
 http://ns339258.ip-37-187-173.eu:8000/get.php?username=222333&password=222333&type=m3u
 
 VOD
 #EXTINF:-1 group-title="6/1/2017",VOD LyQhAFjv4o
 http://188.165.237.116:25461/get.php?username=LyQhAFjv4o&password=trilux&type=m3u
-#EXTINF:-1 group-title="6/1/2017",VOD erika
-http://62.210.139.232:19500/get.php?username=erika&password=erika&type=m3u
 
 
 http://freeiptv.weightlosstoday.org/2017/01/04/free-m3u-playlist-5-1-2017-new-m3u/
