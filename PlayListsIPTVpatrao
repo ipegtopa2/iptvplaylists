@@ -52,10 +52,10 @@ http://37.187.175.177:8000/get.php?username=bsr&password=bsr&type=m3u
 
 
 uk mix
-#EXTINF:-1 group-title="6/1/2017",pepito ITV
-http://62.210.249.138:8080/get.php?username=pepito&password=pepito&type=m3u
 #EXTINF:-1 group-title="6/1/2017",mcphail ITV HD
 http://62.210.249.138:8080/get.php?username=mcphail&password=mcphail&type=m3u
+#EXTINF:-1 group-title="6/1/2017",mihael1 pane
+http://300panel3.com:80/get.php?username=mihael1&password=8m3k6ih&type=m3u
 
 #EXTINF:-1 group-title="6/1/2017",ITV general ITV HD
 http://62.210.249.138:8080/get.php?username=general&password=general&type=m3u
@@ -74,6 +74,8 @@ VOD
 #EXTINF:-1 group-title="6/1/2017",VOD LyQhAFjv4o
 http://188.165.237.116:25461/get.php?username=LyQhAFjv4o&password=trilux&type=m3u
 
+#EXTINF:-1 group-title="6/1/2017",pepito
+http://system.fpiptv.com:8080/get.php?username=pepito&password=pepito&type=m3u
 
 http://freeiptv.weightlosstoday.org/2017/01/04/free-m3u-playlist-5-1-2017-new-m3u/
 #EXTINF:-1 group-title="6/1/2017",carlton
@@ -93,9 +95,6 @@ http://93.190.139.64:8000/get.php?username=new&password=new2&type=m3u
 
 #EXTINF:-1 group-title="6/1/2017",crazybull2
 http://5.196.83.164:9889/get.php?username=crazybull2&password=crazybull2&type=m3u
-#EXTINF:-1 group-title="6/1/2017",mihael1
-http://300panel3.com:80/get.php?username=mihael1&password=8m3k6ih&type=m3u
-
 
 Free m3u playlist 6-1-2017 {New m3u} By Tony | January 5, 2017 0 Comment
 #EXTINF:-1 group-title="6/1/2017",adric&
@@ -116,8 +115,6 @@ http://193.70.12.98/get.php?username=1234&password=1234&type=m3u
 
 #EXTINF:-1 group-title="6/1/2017",thierry
 http://system.fpiptv.com:8080/get.php?username=thierry&password=thierry&type=m3u
-#EXTINF:-1 group-title="6/1/2017",pepito
-http://system.fpiptv.com:8080/get.php?username=pepito&password=pepito&type=m3u
 #EXTINF:-1 group-title="6/1/2017",mcphail
 http://system.fpiptv.com:8080/get.php?username=mcphail&password=mcphail&type=m3u
 #EXTINF:-1 group-title="6/1/2017",kamel
