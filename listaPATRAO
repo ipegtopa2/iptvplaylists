@@ -789,6 +789,674 @@ http://149.202.95.229:8000/movie/Hasan-Sabt/tyhgjghjuihhjkjk/4172.mkv
 #EXTINF:-1 group-title="11/01/2017",Quiet_Days_in_Clichy_1990
 http://149.202.95.229:8000/movie/Hasan-Sabt/tyhgjghjuihhjkjk/5486.mkv
 
+#EXTM3U
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/3.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/4.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 5
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/5.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports F1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/6.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/7.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports Mix
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2074.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/22.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/23.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 3 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/24.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/25.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports 5 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/26.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports News HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/27.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Sports F1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/28.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ESPN
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/8.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT Sport 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/9.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT Sport 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/29.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT Sport 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/10.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT Sport 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/30.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT SPORT 3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/119.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT Sport Europe
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/11.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BT Sport europe HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/31.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: British Eurosport
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/12.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Eurosport 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1926.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: British Eurosport 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/13.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Eurosport 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1913.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Premier Sports
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/14.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Racing UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/15.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Setanta Ireland
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/16.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Chelsea
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/17.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Chelsea_FCHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2984.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:MUTVHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2973.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MUTV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/18.ts
+
+
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BoxNation
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/19.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Liverpool
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/20.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: RealMadrid
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/21.ts
+
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Sport_1_HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2066.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Sport_2_HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2065.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Sport_3_HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2064.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Sport_4_HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2063.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Sport_5_HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2062.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK-Sky-Sports-F1
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/774.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Sport_News_HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2060.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Box_NationHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2985.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:BT-Sports-1
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/765.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:BT-Sports-2
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/766.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:E4
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2990.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:EuroSport_1HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2981.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:MTV_HitsHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2974.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Setanta_Sports_IrelandHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2964.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Arts
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2963.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_AtlanticHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2962.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_LivingHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2961.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_ActionHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2960.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_Comedy
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/691.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_Disney
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/690.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_DramaHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2959.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_Family
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/688.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_Modern_GreatHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2958.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_Premiere
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/686.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Movies_SelectHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2957.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_NewsHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2956.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_OneHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2955.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:Sky_Two
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2059.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:SyFyHD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2954.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:True_Movies_1
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2953.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: FIGHTBOX HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1941.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: At The Races UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/32.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Motor TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/86.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Select
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/33.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Scifi and horror
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/34.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Premiere +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/35.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Premiere
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/36.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky ShowCase
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/37.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Greats
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/38.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Family
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/39.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Drama
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/40.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Action
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/41.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Thriller
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/42.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Comedy
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/43.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Atlantic
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/44.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Atlantic +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/123.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Movies ShowCase
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/100.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/45.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky One HD +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1942.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Two HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/46.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Arts +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/47.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Living
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/76.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Living +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1943.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BBC Entertainment
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1893.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BBC One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/59.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BBC2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/60.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BBC 3 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/61.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BBC 4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/62.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BBC News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/63.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:BBC_1HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2989.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:BBC_2HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2988.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:BBC_3HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2987.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:BBC_4HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2986.ts
+
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:ITV1HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2978.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:ITV2HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2977.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:ITV3HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2976.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK:ITV4HD
+http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2975.ts
+
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV Encore
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/64.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV BE
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/65.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV 1 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/66.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV One SD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/67.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/68.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/69.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV 3 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/70.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ITV 4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/71.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Yesterday
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/57.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: More4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/75.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Viva
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1928.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Vh1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/115.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/116.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Music
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/117.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Hits
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/118.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Live HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1923.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1922.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Base
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1921.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Dance
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1920.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Rocks
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1919.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MTV Classic
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1918.ts
+
+
+
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TCM
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/58.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Challenge
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1924.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Horror Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/122.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: True Movies
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/55.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: True Movies 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/56.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sony Movie Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1937.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sony Movie Channel +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1944.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sony Movie +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2071.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: MOVIES24
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1909.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Comedy Central
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/54.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Comedy Central Extra
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1917.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: RTEjr
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1903.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: RTE 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/72.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: RTE 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/73.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Universal
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1889.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: History +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/124.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Film 4 UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/52.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Movies 4 Men
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/87.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Fox
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/90.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Dmax
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/79.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: E!
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1900.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: SyFy
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/51.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Syfy +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/121.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Dave
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/53.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Spike
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1902.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Drama
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1899.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Tru TV UK
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1927.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: CBS Action
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1896.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: CBS Drama
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1895.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: CBS Reality
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1894.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Tiny Pop
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/120.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Utv
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1932.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: UTV Ireland
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1901.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Flava
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2072.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: BET
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1951.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: REAL Lives
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1907.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Alibi
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/84.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Comedy Central +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1934.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TV3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/48.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Home
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/77.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Gold
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/78.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Channel5
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/80.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Channel 5 USA
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/81.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Channel 5Star
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/82.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Channel4 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/83.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Pick TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/85.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: 3E
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1888.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TV3 IE
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1887.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: E4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/88.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Watch
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/49.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Vintage TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1949.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Quest
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1898.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Five
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1897.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: The Box
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1948.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: CITV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1933.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Lifetime
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1925.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: iConcerts HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1947.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Nautical HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1945.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: REALLY
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1908.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: The Vault
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1906.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Eden
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1905.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Magic
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1910.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Cartoon Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/89.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Cartoon Network +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2073.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Nicktoons
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/91.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Nickelodeon Jr
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/92.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Nickelodeon
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/93.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Baby Tv
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/94.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Boomerang
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/95.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: NickJr Too
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1916.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Sky Disney
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/96.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Disney Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/97.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Disney Channel +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/125.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: DISNEY JUNIOR
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/98.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Disney Junior +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/127.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Disney XD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/99.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Disney XD +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/126.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Nat Geo Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/102.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Animal planet
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1890.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TLC +1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1950.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: ID Xtra HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1946.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Crime Investigation
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1939.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Fine Living Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1938.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: National Geography Wild
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/101.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: National Geographic HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1931.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: NatGeo Wild HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1930.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Horse and Country
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1929.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Animal Planet HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1915.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: H2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/50.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/104.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TLC +2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1914.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery Home & Health
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1912.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery Shed
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1911.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery History
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/105.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery Science
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/106.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery Turbo
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/107.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Investion Discovery
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/103.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TLC
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/108.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: History Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/109.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Travel Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/110.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Food Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/111.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: TG4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/74.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: RT News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1935.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: SkyNews
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/112.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Fox News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1904.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Discovery Sci HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1940.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: NHK World
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1936.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Bloomberg
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/114.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",UK: Cnn Int
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/113.ts
+
+#EXTINF:0 group-title="UK & USA 13/01/2017",SG: Mio Stadium 102 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1035.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",SG: mio Stadium 104 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1036.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",SG: mio Stadium 105 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1037.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",SG: mio Stadium 106 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1038.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",SG: mio Stadium 107 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1039.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",SG: mio Stadium 108 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1040.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: NFL Network Now
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1041.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: RDS2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1086.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Astro SuperSport 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1031.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Astro SuperSport 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1032.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Astro SuperSport 3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1033.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Astro SuperSport 4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1034.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TSN 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1042.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TSN 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1043.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TSN 3
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1044.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TSN 4
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1045.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TSN 5
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1046.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: SportsNet One HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2065.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: SportsNet Ontario
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2064.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: SportsNet World HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2063.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: SportsNet 360
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2066.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Bein Sports USA HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1066.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: FOX Sport 1
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1050.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: FOX Sport 2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1051.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: ESPN
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1053.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: ESPN2
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1052.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: NBA TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1047.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: NBC SPORT
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1048.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: NBC GOLF
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1049.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: NFL Network HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1054.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: NHL Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1106.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: W*E Network HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1099.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: HBO HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1056.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: HBO Signature HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1057.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: HBO East HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1058.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: HBO Zone HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1059.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: HBO2 EAST
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1094.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Cinemax East
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1068.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Cinemax 5 StarMax
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1067.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Cinemax ActionMax East
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1069.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Cinemax Moremax
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1070.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: STARZ CINEMA HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1075.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Starz Comedy
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1072.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: STARZ EDGE HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1073.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Showtime West HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1063.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Showtime HD East
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1074.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Showtime Showcase
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1087.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: ShowTime 2 HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1060.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Hallmark Channel HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1088.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: FX
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1061.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Spike
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1062.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TNT
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1096.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: AMC
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1097.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: TBS
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1098.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: SYFY
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1095.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Bravo HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1055.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: KTLA /CW
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1089.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: BYU TV
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1085.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: FOX
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1101.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: CW
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1071.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: E!
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1102.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Fox HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1093.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Cartoon Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1103.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Toonami Aftermath
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1105.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Nick
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1064.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: CHCH HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1065.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Food Network HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1084.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Travel Channel
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1100.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: National Geographic
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1076.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Discovery Channel HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1080.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Discovery Science HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1081.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Investigation Discovery
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1082.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Animal Planet HD
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1078.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: HISTORY
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1077.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: DIY Network
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1079.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: A&E
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1083.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: CNN
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1107.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: CNBC
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1090.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: ABC
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1092.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: ABC News
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1091.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: Bloomberg
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1108.ts
+#EXTINF:0 group-title="UK & USA 13/01/2017",US: WGN
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1104.ts
 
 #EXTINF:-1 group-title="11/01/2017",_¤_¤_¤_¤_¤_CSAT_SPORT_FR__¤_¤_¤_¤_¤
 http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2579.ts
@@ -1860,121 +2528,6 @@ http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/1401.ts
 http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2075.ts
 #EXTINF:-1 group-title="11/01/2017",ES:TVE_1
 http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2073.ts
-
-
-#EXTINF:-1 group-title="11/01/2017",_¤_¤_¤_¤_¤_SKY_UK__¤_¤_¤_¤_¤
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/1677.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Box_NationHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2985.ts
-#EXTINF:-1 group-title="11/01/2017",UK:BT-Sports-1
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/765.ts
-#EXTINF:-1 group-title="11/01/2017",UK:BT-Sports-2
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/766.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Chelsea_FCHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2984.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Discovery-Science1
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/721.ts
-#EXTINF:-1 group-title="11/01/2017",UK:DiscoveryHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2983.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Disney_JuniorHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2982.ts
-#EXTINF:-1 group-title="11/01/2017",UK:E4
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2990.ts
-#EXTINF:-1 group-title="11/01/2017",UK:EuroSport_1HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2981.ts
-#EXTINF:-1 group-title="11/01/2017",IT:SKY_Discovery_Channel
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2828.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Film_4HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2980.ts
-#EXTINF:-1 group-title="11/01/2017",UK:HistoryHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2979.ts
-#EXTINF:-1 group-title="11/01/2017",UK:ITV1HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2978.ts
-#EXTINF:-1 group-title="11/01/2017",UK:ITV2HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2977.ts
-#EXTINF:-1 group-title="11/01/2017",UK:ITV3HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2976.ts
-#EXTINF:-1 group-title="11/01/2017",UK:ITV4HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2975.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Movies_Sci-Fi_&_Horror
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/685.ts
-#EXTINF:-1 group-title="11/01/2017",UK:MTV_HitsHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2974.ts
-#EXTINF:-1 group-title="11/01/2017",UK:MUTVHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2973.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Nat_GeoHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2972.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Nat_Geo_WildHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2971.ts
-#EXTINF:-1 group-title="11/01/2017",UK:NickelodeonHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2970.ts
-#EXTINF:-1 group-title="11/01/2017",UK:NicktoonsHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2969.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Premier_SportsHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2968.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Racing_UKHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2967.ts
-#EXTINF:-1 group-title="11/01/2017",UK:RTE_OneHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2966.ts
-#EXTINF:-1 group-title="11/01/2017",UK:RTE_TwoHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2965.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Setanta_Sports_IrelandHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2964.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Arts
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2963.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_AtlanticHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2962.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_LivingHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2961.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_ActionHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2960.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_Comedy
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/691.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_Disney
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/690.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_DramaHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2959.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_Family
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/688.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_Modern_GreatHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2958.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_Premiere
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/686.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Movies_SelectHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2957.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_NewsHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2956.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_OneHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2955.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Sport_1_HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2066.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Sport_2_HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2065.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Sport_3_HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2064.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Sport_4_HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2063.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Sport_5_HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2062.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Sport_News_HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2060.ts
-#EXTINF:-1 group-title="11/01/2017",UK:Sky_Two
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2059.ts
-#EXTINF:-1 group-title="11/01/2017",UK:SyFyHD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2954.ts
-#EXTINF:-1 group-title="11/01/2017",UK:True_Movies_1
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2953.ts
-#EXTINF:-1 group-title="11/01/2017",UK-Sky-Sports-F1
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/774.ts
-#EXTINF:-1 group-title="11/01/2017",UK:BBC_1HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2989.ts
-#EXTINF:-1 group-title="11/01/2017",UK:BBC_2HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2988.ts
-#EXTINF:-1 group-title="11/01/2017",UK:BBC_3HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2987.ts
-#EXTINF:-1 group-title="11/01/2017",UK:BBC_4HD
-http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2986.ts
-
 
 #EXTINF:-1 group-title="11/01/2017",_¤_¤_¤_¤_¤_NORLAND__¤_¤_¤_¤_¤
 http://149.202.95.229:8000/live/Hasan-Sabt/tyhgjghjuihhjkjk/2339.ts
