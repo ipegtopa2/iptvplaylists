@@ -11,278 +11,339 @@ http://www.tv-msn.com/player/player.swf
 ######################################################################################################################
 
 
+#####################################################################################
+17/01/2017
+#####################################################################################
+#EXTM3U
+
+
+#EXTINF:-1 group-title="17/01/2017", Quran (Meca)
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/417.ts
+
+#EXTINF:-1 group-title="17/01/2017",Arab ---- BEIN  HD Channels ----
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/364.ts
+#EXTINF:-1 group-title="17/01/2017",Arab BEIN MAX 2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/413.ts
+#EXTINF:-1 group-title="17/01/2017",Arab BEIN MAX 1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/412.ts
+#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 1HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/5.ts
+#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 2HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/6.ts
+#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 3HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/7.ts
+#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 4HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/8.ts
+#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 5HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/9.ts
+
+
+#EXTINF:-1 group-title="17/01/2017",Arab == ★★ SPORTS CHANNELS ★★==
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/470.ts
+#EXTINF:-1 group-title="17/01/2017",Arab Alfajer HD2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/213.ts
+#EXTINF:-1 group-title="17/01/2017",Arab Alfajer HD1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/212.ts
+#EXTINF:-1 group-title="17/01/2017",Arab adsports1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/486.ts
+#EXTINF:-1 group-title="17/01/2017",Arab adsports2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/487.ts
+#EXTINF:-1 group-title="17/01/2017",Arab adsports3
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/488.ts
+#EXTINF:-1 group-title="17/01/2017",Arab adsports4
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/489.ts
+#EXTINF:-1 group-title="17/01/2017",Arab adsports5
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/490.ts
+#EXTINF:-1 group-title="17/01/2017",Arab OSN_AlKASS_1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/378.ts
+#EXTINF:-1 group-title="17/01/2017",Arab OSN_AlKASS_2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/379.ts
+#EXTINF:-1 group-title="17/01/2017",Arab OSN_ALKASS_3
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/382.ts
+#EXTINF:-1 group-title="17/01/2017",Arab OSN_ALKASS_4
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/380.ts
+#EXTINF:-1 group-title="17/01/2017",Arab OSN_ALKASS_5
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/381.ts
+#EXTINF:-1 group-title="17/01/2017",Arab Dubai Sport
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/503.ts
+#EXTINF:-1 group-title="17/01/2017",Arab National Geo Abu Dhabi
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/525.ts
+
+#EXTINF:-1 group-title="17/01/2017",OneBY UHD 4K
+http://rtmp.one.by:1400
+
 ### ITALIAN: SKY ITALIA ###
 http://46.105.115.37:8000/live/iptv1790/179065287/1.ts
-#EXTINF:-1 group-title="11/01/2017",IT: SKYIT F1 HD
+#EXTINF:-1 group-title="17/01/2017",IT: SKYIT F1 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/2.ts
-#EXTINF:-1 group-title="11/01/2017",IT Sky Supercalcio
+#EXTINF:-1 group-title="17/01/2017",IT Sky Supercalcio
 http://46.105.115.37:8000/live/iptv1790/179065287/8.ts
-#EXTINF:-1 group-title="11/01/2017",IT Sky Sport Plus
+#EXTINF:-1 group-title="17/01/2017",IT Sky Sport Plus
 http://46.105.115.37:8000/live/iptv1790/179065287/9.ts
-#EXTINF:-1 group-title="11/01/2017",IT Sky Sport 24
+#EXTINF:-1 group-title="17/01/2017",IT Sky Sport 24
 http://46.105.115.37:8000/live/iptv1790/179065287/12.ts
-#EXTINF:-1 group-title="11/01/2017",IT Sky Sport 1
+#EXTINF:-1 group-title="17/01/2017",IT Sky Sport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/14.ts
-#EXTINF:-1 group-title="11/01/2017",IT Sky Sport 2
+#EXTINF:-1 group-title="17/01/2017",IT Sky Sport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/13.ts
-#EXTINF:-1 group-title="11/01/2017",IT Sky Sport 3
+#EXTINF:-1 group-title="17/01/2017",IT Sky Sport 3
 http://46.105.115.37:8000/live/iptv1790/179065287/11.ts
-#EXTINF:-1 group-title="11/01/2017",IT: Sky Sport MotoGP HD
+#EXTINF:-1 group-title="17/01/2017",IT: Sky Sport MotoGP HD
 http://46.105.115.37:8000/live/iptv1790/179065287/16.ts
 
-#EXTINF:-1 group-title="11/01/2017",IT Sky Atlantic
+#EXTINF:-1 group-title="17/01/2017",IT Sky Atlantic
 http://46.105.115.37:8000/live/iptv1790/179065287/29.ts
 
-#EXTINF:-1 group-title="11/01/2017",IT Rai 1
+#EXTINF:-1 group-title="17/01/2017",IT Rai 1
 http://46.105.115.37:8000/live/iptv1790/179065287/34.ts
-#EXTINF:-1 group-title="11/01/2017",IT Rai 2
+#EXTINF:-1 group-title="17/01/2017",IT Rai 2
 http://46.105.115.37:8000/live/iptv1790/179065287/33.ts
-#EXTINF:-1 group-title="11/01/2017",IT Rai 3
+#EXTINF:-1 group-title="17/01/2017",IT Rai 3
 http://46.105.115.37:8000/live/iptv1790/179065287/32.ts
-#EXTINF:-1 group-title="11/01/2017",IT Rai 4
+#EXTINF:-1 group-title="17/01/2017",IT Rai 4
 http://46.105.115.37:8000/live/iptv1790/179065287/713.ts
-#EXTINF:-1 group-title="11/01/2017",IT Rai 5
+#EXTINF:-1 group-title="17/01/2017",IT Rai 5
 http://46.105.115.37:8000/live/iptv1790/179065287/714.ts
-#EXTINF:-1 group-title="11/01/2017",IT Caccia e Pesca
+#EXTINF:-1 group-title="17/01/2017",IT Caccia e Pesca
 http://46.105.115.37:8000/live/iptv1790/179065287/719.ts
-#EXTINF:-1 group-title="11/01/2017",IT Rai Sport 1
+#EXTINF:-1 group-title="17/01/2017",IT Rai Sport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/676.ts
-#EXTINF:-1 group-title="11/01/2017",IT Rai Sport 2 HD
+#EXTINF:-1 group-title="17/01/2017",IT Rai Sport 2 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/677.ts
-#EXTINF:-1 group-title="11/01/2017",IT National Geographic
+#EXTINF:-1 group-title="17/01/2017",IT National Geographic
 http://46.105.115.37:8000/live/iptv1790/179065287/71.ts
-#EXTINF:-1 group-title="11/01/2017",IT NatGeo Wild
+#EXTINF:-1 group-title="17/01/2017",IT NatGeo Wild
 http://46.105.115.37:8000/live/iptv1790/179065287/72.ts
-#EXTINF:-1 group-title="11/01/2017",IT LA 7
+#EXTINF:-1 group-title="17/01/2017",IT LA 7
 http://46.105.115.37:8000/live/iptv1790/179065287/73.ts
-#EXTINF:-1 group-title="11/01/2017",IT Italia 1
+#EXTINF:-1 group-title="17/01/2017",IT Italia 1
 http://46.105.115.37:8000/live/iptv1790/179065287/74.ts
-#EXTINF:-1 group-title="11/01/2017",IT HIstory
+#EXTINF:-1 group-title="17/01/2017",IT HIstory
 http://46.105.115.37:8000/live/iptv1790/179065287/75.ts
-#EXTINF:-1 group-title="11/01/2017",IT Fox Sport 1
+#EXTINF:-1 group-title="17/01/2017",IT Fox Sport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/76.ts
 
-#EXTINF:-1 group-title="11/01/2017",IT Premium Studio Universal
+#EXTINF:-1 group-title="17/01/2017",IT Premium Studio Universal
 http://46.105.115.37:8000/live/iptv1790/179065287/54.ts
-#EXTINF:-1 group-title="11/01/2017",IT Premium Sport
+#EXTINF:-1 group-title="17/01/2017",IT Premium Sport
 http://46.105.115.37:8000/live/iptv1790/179065287/830.ts
 
-#EXTINF:-1 group-title="11/01/2017",####### USA #######
+#EXTINF:-1 group-title="17/01/2017",####### USA #######
 http://46.105.115.37:8000/live/iptv1790/179065287/219.ts
-#EXTINF:-1 group-title="11/01/2017",USA Fox Sports 1
+#EXTINF:-1 group-title="17/01/2017",USA Fox Sports 1
 http://46.105.115.37:8000/live/iptv1790/179065287/226.ts
-#EXTINF:-1 group-title="11/01/2017",USA TSN 1
+#EXTINF:-1 group-title="17/01/2017",USA TSN 1
 http://46.105.115.37:8000/live/iptv1790/179065287/223.ts
-#EXTINF:-1 group-title="11/01/2017",USA TSN 2
+#EXTINF:-1 group-title="17/01/2017",USA TSN 2
 http://46.105.115.37:8000/live/iptv1790/179065287/224.ts
-#EXTINF:-1 group-title="11/01/2017",USA TSN 4
+#EXTINF:-1 group-title="17/01/2017",USA TSN 4
 http://46.105.115.37:8000/live/iptv1790/179065287/225.ts
-#EXTINF:-1 group-title="11/01/2017",### SKY UK CHANNELS ###
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports News
+#EXTINF:-1 group-title="17/01/2017",### SKY UK CHANNELS ###
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports News
 http://46.105.115.37:8000/live/iptv1790/179065287/121.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports F1
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports F1
 http://46.105.115.37:8000/live/iptv1790/179065287/122.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports 1
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports 1
 http://46.105.115.37:8000/live/iptv1790/179065287/127.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports 2
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports 2
 http://46.105.115.37:8000/live/iptv1790/179065287/126.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports 3
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports 3
 http://46.105.115.37:8000/live/iptv1790/179065287/125.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports 4
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports 4
 http://46.105.115.37:8000/live/iptv1790/179065287/124.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Sports 5
+#EXTINF:-1 group-title="17/01/2017",UK Sky Sports 5
 http://46.105.115.37:8000/live/iptv1790/179065287/123.ts
-#EXTINF:-1 group-title="11/01/2017",UK Sky Premiere Sports
+#EXTINF:-1 group-title="17/01/2017",UK Sky Premiere Sports
 http://46.105.115.37:8000/live/iptv1790/179065287/128.ts
 
-#EXTINF:-1 group-title="11/01/2017",UK More 4
+#EXTINF:-1 group-title="17/01/2017",UK More 4
 http://46.105.115.37:8000/live/iptv1790/179065287/139.ts
-#EXTINF:-1 group-title="11/01/2017",UK ITV 1
+#EXTINF:-1 group-title="17/01/2017",UK ITV 1
 http://46.105.115.37:8000/live/iptv1790/179065287/143.ts
-#EXTINF:-1 group-title="11/01/2017",UK ITV 2
+#EXTINF:-1 group-title="17/01/2017",UK ITV 2
 http://46.105.115.37:8000/live/iptv1790/179065287/142.ts
-#EXTINF:-1 group-title="11/01/2017",UK ITV 3
+#EXTINF:-1 group-title="17/01/2017",UK ITV 3
 http://46.105.115.37:8000/live/iptv1790/179065287/141.ts
 
 
-#EXTINF:-1 group-title="11/01/2017",UK Gold
+#EXTINF:-1 group-title="17/01/2017",UK Gold
 http://46.105.115.37:8000/live/iptv1790/179065287/146.ts
 
-#EXTINF:-1 group-title="11/01/2017",UK Eurosport 2
+#EXTINF:-1 group-title="17/01/2017",UK Eurosport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/90.ts
-#EXTINF:-1 group-title="11/01/2017",UK Eurosport 1
+#EXTINF:-1 group-title="17/01/2017",UK Eurosport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/91.ts
-#EXTINF:-1 group-title="11/01/2017",UK ESPN
+#EXTINF:-1 group-title="17/01/2017",UK ESPN
 http://46.105.115.37:8000/live/iptv1790/179065287/92.ts
 
-#EXTINF:-1 group-title="11/01/2017",UK Channel 4
+#EXTINF:-1 group-title="17/01/2017",UK Channel 4
 http://46.105.115.37:8000/live/iptv1790/179065287/102.ts
-#EXTINF:-1 group-title="11/01/2017",UK BT Sports 2
+#EXTINF:-1 group-title="17/01/2017",UK BT Sports 2
 http://46.105.115.37:8000/live/iptv1790/179065287/103.ts
-#EXTINF:-1 group-title="11/01/2017",UK BT Sports 1
+#EXTINF:-1 group-title="17/01/2017",UK BT Sports 1
 http://46.105.115.37:8000/live/iptv1790/179065287/104.ts
-#EXTINF:-1 group-title="11/01/2017",UK Boxnation
+#EXTINF:-1 group-title="17/01/2017",UK Boxnation
 http://46.105.115.37:8000/live/iptv1790/179065287/105.ts
-#EXTINF:-1 group-title="11/01/2017",UK BBC 1
+#EXTINF:-1 group-title="17/01/2017",UK BBC 1
 http://46.105.115.37:8000/live/iptv1790/179065287/109.ts
-#EXTINF:-1 group-title="11/01/2017",UK BBC 2
+#EXTINF:-1 group-title="17/01/2017",UK BBC 2
 http://46.105.115.37:8000/live/iptv1790/179065287/108.ts
-#EXTINF:-1 group-title="11/01/2017",UK BBC 3
+#EXTINF:-1 group-title="17/01/2017",UK BBC 3
 http://46.105.115.37:8000/live/iptv1790/179065287/107.ts
-#EXTINF:-1 group-title="11/01/2017",UK BBC 4
+#EXTINF:-1 group-title="17/01/2017",UK BBC 4
 http://46.105.115.37:8000/live/iptv1790/179065287/106.ts
-#EXTINF:-1 group-title="11/01/2017",UK At The Races
+#EXTINF:-1 group-title="17/01/2017",UK At The Races
 http://46.105.115.37:8000/live/iptv1790/179065287/110.ts
-#EXTINF:-1 group-title="11/01/2017",UK Animal Planet
+#EXTINF:-1 group-title="17/01/2017",UK Animal Planet
 http://46.105.115.37:8000/live/iptv1790/179065287/111.ts
-#EXTINF:-1 group-title="11/01/2017",UK Alibi
+#EXTINF:-1 group-title="17/01/2017",UK Alibi
 http://46.105.115.37:8000/live/iptv1790/179065287/112.ts
-#EXTINF:-1 group-title="11/01/2017",UK: MTV Classic
+#EXTINF:-1 group-title="17/01/2017",UK: MTV Classic
 http://46.105.115.37:8000/live/iptv1790/179065287/757.ts
 
-#EXTINF:-1 group-title="11/01/2017",UK : skyatlanticuk
+#EXTINF:-1 group-title="17/01/2017",UK : skyatlanticuk
 http://46.105.115.37:8000/live/iptv1790/179065287/786.ts
 
-#EXTINF:-1 group-title="11/01/2017",UK : Setanta sport
+#EXTINF:-1 group-title="17/01/2017",UK : Setanta sport
 http://46.105.115.37:8000/live/iptv1790/179065287/782.ts
-#EXTINF:-1 group-title="11/01/2017",UK : RacingUK
+#EXTINF:-1 group-title="17/01/2017",UK : RacingUK
 
-#EXTINF:-1 group-title="11/01/2017",UK : MUTV
+#EXTINF:-1 group-title="17/01/2017",UK : MUTV
 http://46.105.115.37:8000/live/iptv1790/179065287/778.ts
-#EXTINF:-1 group-title="11/01/2017",UK : Motorsuk
+#EXTINF:-1 group-title="17/01/2017",UK : Motorsuk
 http://46.105.115.37:8000/live/iptv1790/179065287/777.ts
-#EXTINF:-1 group-title="11/01/2017",UK : liverpooltv
+#EXTINF:-1 group-title="17/01/2017",UK : liverpooltv
 http://46.105.115.37:8000/live/iptv1790/179065287/776.ts
 
-#EXTINF:-1 group-title="11/01/2017",UK : ChelseaTV
+#EXTINF:-1 group-title="17/01/2017",UK : ChelseaTV
 http://46.105.115.37:8000/live/iptv1790/179065287/767.ts
-#EXTINF:-1 group-title="11/01/2017",UK : channel 5
+#EXTINF:-1 group-title="17/01/2017",UK : channel 5
 http://46.105.115.37:8000/live/iptv1790/179065287/766.ts
-#EXTINF:-1 group-title="11/01/2017",UK : CartoonNetuk
+#EXTINF:-1 group-title="17/01/2017",UK : CartoonNetuk
 http://46.105.115.37:8000/live/iptv1790/179065287/765.ts
-#EXTINF:-1 group-title="11/01/2017",UK : BTSportsEU
+#EXTINF:-1 group-title="17/01/2017",UK : BTSportsEU
 http://46.105.115.37:8000/live/iptv1790/179065287/763.ts
 
-#EXTINF:-1 group-title="11/01/2017",TR: TRT SPOR
+#EXTINF:-1 group-title="17/01/2017",TR: TRT SPOR
 http://46.105.115.37:8000/live/iptv1790/179065287/229.ts
 
-#EXTINF:-1 group-title="11/01/2017",### SPORTS CHANNELS ###
+#EXTINF:-1 group-title="17/01/2017",### SPORTS CHANNELS ###
 http://46.105.115.37:8000/live/iptv1790/179065287/240.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Sport Klub 1
+#EXTINF:-1 group-title="17/01/2017",SPORTS Sport Klub 1
 http://46.105.115.37:8000/live/iptv1790/179065287/243.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Sport Klub 2
+#EXTINF:-1 group-title="17/01/2017",SPORTS Sport Klub 2
 http://46.105.115.37:8000/live/iptv1790/179065287/242.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Sport Klub 3
+#EXTINF:-1 group-title="17/01/2017",SPORTS Sport Klub 3
 http://46.105.115.37:8000/live/iptv1790/179065287/241.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS LIG TV1
+#EXTINF:-1 group-title="17/01/2017",SPORTS LIG TV1
 http://46.105.115.37:8000/live/iptv1790/179065287/246.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS LIG TV2
+#EXTINF:-1 group-title="17/01/2017",SPORTS LIG TV2
 http://46.105.115.37:8000/live/iptv1790/179065287/245.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS LIG TV3
+#EXTINF:-1 group-title="17/01/2017",SPORTS LIG TV3
 http://46.105.115.37:8000/live/iptv1790/179065287/244.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Arena sport 1
+#EXTINF:-1 group-title="17/01/2017",SPORTS Arena sport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/254.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Arena sport 2
+#EXTINF:-1 group-title="17/01/2017",SPORTS Arena sport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/253.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Arena sport 3 HR
+#EXTINF:-1 group-title="17/01/2017",SPORTS Arena sport 3 HR
 http://46.105.115.37:8000/live/iptv1790/179065287/252.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Arena sport 4 SRB
+#EXTINF:-1 group-title="17/01/2017",SPORTS Arena sport 4 SRB
 http://46.105.115.37:8000/live/iptv1790/179065287/251.ts
-#EXTINF:-1 group-title="11/01/2017",SPORTS Arena sport 5
+#EXTINF:-1 group-title="17/01/2017",SPORTS Arena sport 5
 http://46.105.115.37:8000/live/iptv1790/179065287/250.ts
 
-#EXTINF:-1 group-title="11/01/2017",PT Benfica TV1
+#EXTINF:-1 group-title="17/01/2017",PT Benfica TV1
 http://46.105.115.37:8000/live/iptv1790/179065287/416.ts
-#EXTINF:-1 group-title="11/01/2017",PT Benfica TV2
+#EXTINF:-1 group-title="17/01/2017",PT Benfica TV2
 http://46.105.115.37:8000/live/iptv1790/179065287/718.ts
 
-#EXTINF:-1 group-title="11/01/2017",PT Sport TV 1
+#EXTINF:-1 group-title="17/01/2017",PT Sport TV 1
 http://46.105.115.37:8000/live/iptv1790/179065287/895.ts
-#EXTINF:-1 group-title="11/01/2017",PT Sport TV 2
+#EXTINF:-1 group-title="17/01/2017",PT Sport TV 2
 http://46.105.115.37:8000/live/iptv1790/179065287/415.ts
-#EXTINF:-1 group-title="11/01/2017",PT Sport TV 4
+#EXTINF:-1 group-title="17/01/2017",PT Sport TV 4
 http://46.105.115.37:8000/live/iptv1790/179065287/832.ts
-#EXTINF:-1 group-title="11/01/2017",PT Sport TV 3
+#EXTINF:-1 group-title="17/01/2017",PT Sport TV 3
 http://46.105.115.37:8000/live/iptv1790/179065287/833.ts
 
-#EXTINF:-1 group-title="11/01/2017",####### NEDHERLAND #######
+#EXTINF:-1 group-title="17/01/2017",####### NEDHERLAND #######
 http://46.105.115.37:8000/live/iptv1790/179065287/175.ts
-#EXTINF:-1 group-title="11/01/2017",RTL 4 HD
+#EXTINF:-1 group-title="17/01/2017",RTL 4 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/515.ts
-#EXTINF:-1 group-title="11/01/2017",NPO 1
+#EXTINF:-1 group-title="17/01/2017",NPO 1
 http://46.105.115.37:8000/live/iptv1790/179065287/716.ts
-#EXTINF:-1 group-title="11/01/2017",NPO 2 HD
+#EXTINF:-1 group-title="17/01/2017",NPO 2 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/182.ts
-#EXTINF:-1 group-title="11/01/2017",NPO 3 HD
+#EXTINF:-1 group-title="17/01/2017",NPO 3 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/176.ts
-#EXTINF:-1 group-title="11/01/2017",HBO 1 HD
+#EXTINF:-1 group-title="17/01/2017",HBO 1 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/512.ts
-#EXTINF:-1 group-title="11/01/2017",HBO 2 HD
+#EXTINF:-1 group-title="17/01/2017",HBO 2 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/513.ts
-#EXTINF:-1 group-title="11/01/2017",HBO 3 HD
+#EXTINF:-1 group-title="17/01/2017",HBO 3 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/514.ts
-#EXTINF:-1 group-title="11/01/2017",National Geographic Channel HD NL
+#EXTINF:-1 group-title="17/01/2017",National Geographic Channel HD NL
 http://46.105.115.37:8000/live/iptv1790/179065287/521.ts
-#EXTINF:-1 group-title="11/01/2017",Fox Sports 4
+#EXTINF:-1 group-title="17/01/2017",Fox Sports 4
 http://46.105.115.37:8000/live/iptv1790/179065287/526.ts
-#EXTINF:-1 group-title="11/01/2017",Fox Sports 3
+#EXTINF:-1 group-title="17/01/2017",Fox Sports 3
 http://46.105.115.37:8000/live/iptv1790/179065287/525.ts
-#EXTINF:-1 group-title="11/01/2017",Fox Sports 2
+#EXTINF:-1 group-title="17/01/2017",Fox Sports 2
 http://46.105.115.37:8000/live/iptv1790/179065287/524.ts
-#EXTINF:-1 group-title="11/01/2017",Fox Sports 1
+#EXTINF:-1 group-title="17/01/2017",Fox Sports 1
 http://46.105.115.37:8000/live/iptv1790/179065287/523.ts
-#EXTINF:-1 group-title="11/01/2017",Disney Channel NL
+#EXTINF:-1 group-title="17/01/2017",Disney Channel NL
 http://46.105.115.37:8000/live/iptv1790/179065287/533.ts
 
-#EXTINF:-1 group-title="11/01/2017",### FRENCH CHANNELS: CANAL  ###
+#EXTINF:-1 group-title="17/01/2017",### FRENCH CHANNELS: CANAL  ###
 http://46.105.115.37:8000/live/iptv1790/179065287/255.ts
-#EXTINF:-1 group-title="11/01/2017",FR CANAL  SPORT
+#EXTINF:-1 group-title="17/01/2017",FR CANAL  SPORT
 http://46.105.115.37:8000/live/iptv1790/179065287/535.ts
-#EXTINF:-1 group-title="11/01/2017",FR TMC
+#EXTINF:-1 group-title="17/01/2017",FR TMC
 http://46.105.115.37:8000/live/iptv1790/179065287/273.ts
-#EXTINF:-1 group-title="11/01/2017",FR Syfy
+#EXTINF:-1 group-title="17/01/2017",FR Syfy
 http://46.105.115.37:8000/live/iptv1790/179065287/274.ts
-#EXTINF:-1 group-title="11/01/2017",FR NRJ 12
+#EXTINF:-1 group-title="17/01/2017",FR NRJ 12
 http://46.105.115.37:8000/live/iptv1790/179065287/275.ts
-#EXTINF:-1 group-title="11/01/2017",FR France O
+#EXTINF:-1 group-title="17/01/2017",FR France O
 http://46.105.115.37:8000/live/iptv1790/179065287/276.ts
-#EXTINF:-1 group-title="11/01/2017",FR France 2
+#EXTINF:-1 group-title="17/01/2017",FR France 2
 http://46.105.115.37:8000/live/iptv1790/179065287/280.ts
-#EXTINF:-1 group-title="11/01/2017",FR France 3
+#EXTINF:-1 group-title="17/01/2017",FR France 3
 http://46.105.115.37:8000/live/iptv1790/179065287/279.ts
-#EXTINF:-1 group-title="11/01/2017",FR France 4
+#EXTINF:-1 group-title="17/01/2017",FR France 4
 http://46.105.115.37:8000/live/iptv1790/179065287/278.ts
-#EXTINF:-1 group-title="11/01/2017",FR France 5
+#EXTINF:-1 group-title="17/01/2017",FR France 5
 http://46.105.115.37:8000/live/iptv1790/179065287/277.ts
-#EXTINF:-1 group-title="11/01/2017",FR Eurosport 1
+#EXTINF:-1 group-title="17/01/2017",FR Eurosport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/282.ts
-#EXTINF:-1 group-title="11/01/2017",FR Eurosport 2
+#EXTINF:-1 group-title="17/01/2017",FR Eurosport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/281.ts
 
-#EXTINF:-1 group-title="11/01/2017",FR BFMTV
+#EXTINF:-1 group-title="17/01/2017",FR BFMTV
 http://46.105.115.37:8000/live/iptv1790/179065287/288.ts
-#EXTINF:-1 group-title="11/01/2017",FR Bein Sport 1
+#EXTINF:-1 group-title="17/01/2017",FR Bein Sport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/290.ts
-#EXTINF:-1 group-title="11/01/2017",FR Bein Sport 2
+#EXTINF:-1 group-title="17/01/2017",FR Bein Sport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/289.ts
-#EXTINF:-1 group-title="11/01/2017",FR Bein Sport 3
+#EXTINF:-1 group-title="17/01/2017",FR Bein Sport 3
 http://46.105.115.37:8000/live/iptv1790/179065287/717.ts
-#EXTINF:-1 group-title="11/01/2017",FR Arte
+#EXTINF:-1 group-title="17/01/2017",FR Arte
 http://46.105.115.37:8000/live/iptv1790/179065287/291.ts
-#EXTINF:-1 group-title="11/01/2017",FR: TF1 HD
+#EXTINF:-1 group-title="17/01/2017",FR: TF1 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/271.ts
 
-#EXTINF:-1 group-title="11/01/2017",DE ZDF
+#EXTINF:-1 group-title="17/01/2017",DE ZDF
 http://46.105.115.37:8000/live/iptv1790/179065287/306.ts
-#EXTINF:-1 group-title="11/01/2017",DE VOX
+#EXTINF:-1 group-title="17/01/2017",DE VOX
 http://46.105.115.37:8000/live/iptv1790/179065287/307.ts
-#EXTINF:-1 group-title="11/01/2017",DE SRF 1
+#EXTINF:-1 group-title="17/01/2017",DE SRF 1
 http://46.105.115.37:8000/live/iptv1790/179065287/308.ts
-#EXTINF:-1 group-title="11/01/2017",DE SPORT TIME TV 1
+#EXTINF:-1 group-title="17/01/2017",DE SPORT TIME TV 1
 http://46.105.115.37:8000/live/iptv1790/179065287/721.ts
-#EXTINF:-1 group-title="11/01/2017",DE Sky Sport 1
+#EXTINF:-1 group-title="17/01/2017",DE Sky Sport 1
 http://46.105.115.37:8000/live/iptv1790/179065287/316.ts
-#EXTINF:-1 group-title="11/01/2017",DE Sky Sport 2
+#EXTINF:-1 group-title="17/01/2017",DE Sky Sport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/315.ts
 
 
