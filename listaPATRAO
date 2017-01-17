@@ -20,60 +20,101 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 group-title="17/01/2017", Quran (Meca)
 http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/417.ts
 
-#EXTINF:-1 group-title="17/01/2017",Arab ---- BEIN  HD Channels ----
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/364.ts
-#EXTINF:-1 group-title="17/01/2017",Arab BEIN MAX 2
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/413.ts
-#EXTINF:-1 group-title="17/01/2017",Arab BEIN MAX 1
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/412.ts
-#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 1HD
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/5.ts
-#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 2HD
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/6.ts
-#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 3HD
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/7.ts
-#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 4HD
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/8.ts
-#EXTINF:-1 group-title="17/01/2017",Arab AR_BEIN SPORT 5HD
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/9.ts
-
-
-#EXTINF:-1 group-title="17/01/2017",Arab == ★★ SPORTS CHANNELS ★★==
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/470.ts
-#EXTINF:-1 group-title="17/01/2017",Arab Alfajer HD2
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/213.ts
-#EXTINF:-1 group-title="17/01/2017",Arab Alfajer HD1
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/212.ts
-#EXTINF:-1 group-title="17/01/2017",Arab adsports1
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/486.ts
-#EXTINF:-1 group-title="17/01/2017",Arab adsports2
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/487.ts
-#EXTINF:-1 group-title="17/01/2017",Arab adsports3
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/488.ts
-#EXTINF:-1 group-title="17/01/2017",Arab adsports4
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/489.ts
-#EXTINF:-1 group-title="17/01/2017",Arab adsports5
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/490.ts
-#EXTINF:-1 group-title="17/01/2017",Arab OSN_AlKASS_1
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/378.ts
-#EXTINF:-1 group-title="17/01/2017",Arab OSN_AlKASS_2
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/379.ts
-#EXTINF:-1 group-title="17/01/2017",Arab OSN_ALKASS_3
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/382.ts
-#EXTINF:-1 group-title="17/01/2017",Arab OSN_ALKASS_4
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/380.ts
-#EXTINF:-1 group-title="17/01/2017",Arab OSN_ALKASS_5
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/381.ts
-#EXTINF:-1 group-title="17/01/2017",Arab Dubai Sport
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/503.ts
-#EXTINF:-1 group-title="17/01/2017",Arab National Geo Abu Dhabi
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/525.ts
-
 #EXTINF:-1 group-title="17/01/2017",OneBY UHD 4K
 http://rtmp.one.by:1400
 
+#EXTINF:-1 group-title="17/01/2017"***** PORTUGAL *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2813.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVI REALITY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2803.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2804.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2791.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2790.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2789.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2788.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TV SERIES
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2805.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SPORTING TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2792.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SIC NOTICIAS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2807.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SIC MULHER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2808.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SIC Kids
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2802.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SIC RADICAL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2794.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TRACE URBAN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2801.ts
+#EXTINF:-1 group-title="17/01/2017"PT | RTP AFRICA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2800.ts
+#EXTINF:-1 group-title="17/01/2017"PT | RTP 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2799.ts
+#EXTINF:-1 group-title="17/01/2017"PT | RTP 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2798.ts
+#EXTINF:-1 group-title="17/01/2017"PT | RTP 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2797.ts
+#EXTINF:-1 group-title="17/01/2017"PT | PFC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2809.ts
+#EXTINF:-1 group-title="17/01/2017"PT | RTP MEMORIA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2810.ts
+#EXTINF:-1 group-title="17/01/2017"PT | FOX COMEDY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2811.ts
+#EXTINF:-1 group-title="17/01/2017"PT | BENFICA TV 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2796.ts
+#EXTINF:-1 group-title="17/01/2017"PT | BENFICA TV 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2795.ts
+#EXTINF:-1 group-title="17/01/2017"PT | AXN WHITE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2812.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2989.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2990.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2991.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2992.ts
+#EXTINF:-1 group-title="17/01/2017"PT | TVI 24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3080.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 5 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3087.ts
+#EXTINF:-1 group-title="17/01/2017"PT | SIC CARAS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3082.ts
+#EXTINF:-1 group-title="17/01/2017"PT | NAT GEO HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3101.ts
+#EXTINF:-1 group-title="17/01/2017"PT | MOV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3095.ts
+#EXTINF:-1 group-title="17/01/2017"PT | JIM JAM
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3085.ts
+#EXTINF:-1 group-title="17/01/2017"PT | HOLLYWOOD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3093.ts
+#EXTINF:-1 group-title="17/01/2017"PT | FOX HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3098.ts
+#EXTINF:-1 group-title="17/01/2017"PT | FOX CRIME HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3099.ts
+#EXTINF:-1 group-title="17/01/2017"PT | DISNEY JUNIOR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3083.ts
+#EXTINF:-1 group-title="17/01/2017"PT | DISCOVERY CHANNEL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3102.ts
+#EXTINF:-1 group-title="17/01/2017"PT | CMTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3081.ts
+#EXTINF:-1 group-title="17/01/2017"PT | CANAL PANDA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3084.ts
+#EXTINF:-1 group-title="17/01/2017"PT | AXN HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3096.ts
+#EXTINF:-1 group-title="17/01/2017"PT | AXN BLACK HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3097.ts
+#EXTINF:-1 group-title="17/01/2017"PT | A BOLA TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3090.ts
+
+
+
 ### ITALIAN: SKY ITALIA ###
-http://46.105.115.37:8000/live/iptv1790/179065287/1.ts
 #EXTINF:-1 group-title="17/01/2017",IT: SKYIT F1 HD
 http://46.105.115.37:8000/live/iptv1790/179065287/2.ts
 #EXTINF:-1 group-title="17/01/2017",IT Sky Supercalcio
@@ -346,6 +387,1848 @@ http://46.105.115.37:8000/live/iptv1790/179065287/316.ts
 #EXTINF:-1 group-title="17/01/2017",DE Sky Sport 2
 http://46.105.115.37:8000/live/iptv1790/179065287/315.ts
 
+
+#EXTINF:-1 group-title="17/01/2017"---- BEIN  HD Channels ----
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/364.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN MAX 2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/413.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN MAX 1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/412.ts
+#EXTINF:-1 group-title="17/01/2017"AR_BEIN SPORT 1HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/5.ts
+#EXTINF:-1 group-title="17/01/2017"AR_BEIN SPORT 2HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/6.ts
+#EXTINF:-1 group-title="17/01/2017"AR_BEIN SPORT 3HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/7.ts
+#EXTINF:-1 group-title="17/01/2017"AR_BEIN SPORT 4HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/8.ts
+#EXTINF:-1 group-title="17/01/2017"AR_BEIN SPORT 5HD
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/9.ts
+
+
+#EXTINF:-1 group-title="17/01/2017"========== ★★ SPORTS CHANNELS ★★=========
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/470.ts
+#EXTINF:-1 group-title="17/01/2017"Alfajer HD2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/213.ts
+#EXTINF:-1 group-title="17/01/2017"Alfajer HD1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/212.ts
+#EXTINF:-1 group-title="17/01/2017"adsports1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/486.ts
+#EXTINF:-1 group-title="17/01/2017"adsports2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/487.ts
+#EXTINF:-1 group-title="17/01/2017"adsports3
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/488.ts
+#EXTINF:-1 group-title="17/01/2017"adsports4
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/489.ts
+#EXTINF:-1 group-title="17/01/2017"adsports5
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/490.ts
+#EXTINF:-1 group-title="17/01/2017"OSN_AlKASS_1
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/378.ts
+#EXTINF:-1 group-title="17/01/2017"OSN_AlKASS_2
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/379.ts
+#EXTINF:-1 group-title="17/01/2017"OSN_ALKASS_3
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/382.ts
+#EXTINF:-1 group-title="17/01/2017"OSN_ALKASS_4
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/380.ts
+#EXTINF:-1 group-title="17/01/2017"OSN_ALKASS_5
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/381.ts
+#EXTINF:-1 group-title="17/01/2017"Dubai Sport
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/503.ts
+#EXTINF:-1 group-title="17/01/2017"National Geo Abu Dhabi
+http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/525.ts
+
+#EXTINF:-1 group-title="17/01/2017"***** UK *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1028.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySportF1Uk
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1073.ts
+#EXTINF:-1 group-title="17/01/2017"UK | PremierSport
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1074.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SetantaSport
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1075.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Setanta
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1076.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BTSportESPN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1077.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BTSport2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1078.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BTSport1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1079.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BTSportEurope
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1085.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkysportNews
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1086.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySportNewsUk
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1087.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkysportF1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1088.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySport5 UK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1089.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySport4  UK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1090.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySport3 UK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1091.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySport2 UK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1092.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkySport1 UK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1093.ts
+#EXTINF:-1 group-title="17/01/2017"UK | EUROSPORT2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1094.ts
+#EXTINF:-1 group-title="17/01/2017"UK | EUROSPORT1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1095.ts
+#EXTINF:-1 group-title="17/01/2017"UK | MotorsTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1097.ts
+#EXTINF:-1 group-title="17/01/2017"UK | CNBC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1098.ts
+#EXTINF:-1 group-title="17/01/2017"UK | CNN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1099.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Dmax.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1100.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Yesterday
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1102.ts
+#EXTINF:-1 group-title="17/01/2017"UK | RTE One
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1104.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Rte Two
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1103.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Sky Movies Premiere HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1105.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Sky Movies Scifi / Horror HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1106.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Sky Movies Family HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1107.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Sky Movies Action
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1108.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Sky Movies Comedy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1109.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkyMTV Hits
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1110.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Movies 4Men
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1111.ts
+#EXTINF:-1 group-title="17/01/2017"UK | More4+1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1112.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkyOne HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1113.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkTrueMovies 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1114.ts
+#EXTINF:-1 group-title="17/01/2017"UK | True Movies1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1115.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Racing
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1116.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Watch Ireland
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1117.ts
+#EXTINF:-1 group-title="17/01/2017"UK | FOX News
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1118.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BBC News
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1119.ts
+#EXTINF:-1 group-title="17/01/2017"UK | 5USA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1120.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkyMoviesDrama HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1121.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkyMoviesSelect HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1122.ts
+#EXTINF:-1 group-title="17/01/2017"UK | SkyMoviesThriller
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1123.ts
+#EXTINF:-1 group-title="17/01/2017"UK | NationalGeographic
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1124.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Discovery Investigation HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1125.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Discovery Turbo HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1126.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Discovery Science HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1127.ts
+#EXTINF:-1 group-title="17/01/2017"UK | DiscoveryShed
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1128.ts
+#EXTINF:-1 group-title="17/01/2017"UK | DiscoveryHistory
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1129.ts
+#EXTINF:-1 group-title="17/01/2017"UK | DiscoveryChannelHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1130.ts
+#EXTINF:-1 group-title="17/01/2017"UK | DisneyChannel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1131.ts
+#EXTINF:-1 group-title="17/01/2017"UK | DisneyJunior
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1132.ts
+#EXTINF:-1 group-title="17/01/2017"UK | ComedyCentral
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1133.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Channel5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1134.ts
+#EXTINF:-1 group-title="17/01/2017"UK | Channel4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1135.ts
+#EXTINF:-1 group-title="17/01/2017"UK | CBSAction
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1136.ts
+#EXTINF:-1 group-title="17/01/2017"UK | CBSDrama
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1137.ts
+#EXTINF:-1 group-title="17/01/2017"UK | CBSReality
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1138.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BBC4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1139.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BBC3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1140.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BBC2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1141.ts
+#EXTINF:-1 group-title="17/01/2017"UK | BBC1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1142.ts
+#EXTINF:-1 group-title="17/01/2017"UK | ITV4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1143.ts
+#EXTINF:-1 group-title="17/01/2017"UK | ITV3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1144.ts
+#EXTINF:-1 group-title="17/01/2017"UK | ITV2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1145.ts
+#EXTINF:-1 group-title="17/01/2017"UK | ITV1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1146.ts
+#EXTINF:-1 group-title="17/01/2017"***** UK VOD *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4661.ts
+#EXTINF:-1 group-title="17/01/2017"***** NL NETHERLANDS *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/763.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX LIFE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/781.ts
+#EXTINF:-1 group-title="17/01/2017"NL | HBO 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/784.ts
+#EXTINF:-1 group-title="17/01/2017"NL | HBO 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/783.ts
+#EXTINF:-1 group-title="17/01/2017"NL | BOOMERANG
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/772.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FILM 1 SPOTLIGHT
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/776.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FILM 1 SUNDANCE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/778.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FILM 1 ACTION
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/779.ts
+#EXTINF:-1 group-title="17/01/2017"NL | CARTOON NETWORK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/773.ts
+#EXTINF:-1 group-title="17/01/2017"NL | COMEDY CENTRAL NEDERLAND
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/775.ts
+#EXTINF:-1 group-title="17/01/2017"NL | DISNEY CHANNEL NEDERLAND
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/774.ts
+#EXTINF:-1 group-title="17/01/2017"NL | EDGE SPORT
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/764.ts
+#EXTINF:-1 group-title="17/01/2017"NL | EXTREME SPORTS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/765.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FILM 1 COMEDY  KIDS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/777.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FILM 1 PREMIER HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/780.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX CHANNEL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/782.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX SPORT 1 EREDIVISIE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/771.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX SPORTS 2 INTERNATIONAL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/770.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX SPORTS 3 EREDIVISIE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/769.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX SPORTS 4 INTERNATIONAL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/768.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX SPORTS 5 EREDIVISIE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/767.ts
+#EXTINF:-1 group-title="17/01/2017"NL | FOX SPORTS 6 INTERNATIONAL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/766.ts
+#EXTINF:-1 group-title="17/01/2017"NL | ZIGGO SPORT VOETBAL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2814.ts
+#EXTINF:-1 group-title="17/01/2017"NL | ZIGGO SPORT SELECT HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/737.ts
+#EXTINF:-1 group-title="17/01/2017"NL | ZIGGO SPORT RACING
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/734.ts
+#EXTINF:-1 group-title="17/01/2017"NL | ZIGGO SPORT GOLF
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/733.ts
+#EXTINF:-1 group-title="17/01/2017"NL | ZIGGO SPORT EXTRA 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/735.ts
+#EXTINF:-1 group-title="17/01/2017"NL | ZIGGO SPORT EXTRA 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/736.ts
+#EXTINF:-1 group-title="17/01/2017"NL | HBO HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/785.ts
+#EXTINF:-1 group-title="17/01/2017"NL | MOTORS TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1852.ts
+#EXTINF:-1 group-title="17/01/2017"NL | NET 5 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/792.ts
+#EXTINF:-1 group-title="17/01/2017"NL | NPO 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/795.ts
+#EXTINF:-1 group-title="17/01/2017"NL | NPO 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/794.ts
+#EXTINF:-1 group-title="17/01/2017"NL | NPO 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/793.ts
+#EXTINF:-1 group-title="17/01/2017"NL | RTL 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/791.ts
+#EXTINF:-1 group-title="17/01/2017"NL | RTL 5 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/790.ts
+#EXTINF:-1 group-title="17/01/2017"NL | RTL 7 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/789.ts
+#EXTINF:-1 group-title="17/01/2017"NL | RTL 8 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/788.ts
+#EXTINF:-1 group-title="17/01/2017"NL | SBS 6 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/787.ts
+#EXTINF:-1 group-title="17/01/2017"NL | SBS 9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/786.ts
+#EXTINF:-1 group-title="17/01/2017"NL | SPORT 1 RACING
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1851.ts
+#EXTINF:-1 group-title="17/01/2017"***** FR FRANCE *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/796.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 10
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/889.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CINE CLASSIC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/879.ts
+#EXTINF:-1 group-title="17/01/2017"FR | Cine Polar
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/878.ts
+#EXTINF:-1 group-title="17/01/2017"FR | TF1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/882.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/890.ts
+#EXTINF:-1 group-title="17/01/2017"FR | OCS MAX HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/888.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/892.ts
+#EXTINF:-1 group-title="17/01/2017"FR | InfoSport+
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/857.ts
+#EXTINF:-1 group-title="17/01/2017"FR | M6 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/858.ts
+#EXTINF:-1 group-title="17/01/2017"FR | SERIE CLUB HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/859.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL J HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/868.ts
+#EXTINF:-1 group-title="17/01/2017"FR | FRANCE O HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/903.ts
+#EXTINF:-1 group-title="17/01/2017"FR | FRANCE 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/902.ts
+#EXTINF:-1 group-title="17/01/2017"FR | FRANCE 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/901.ts
+#EXTINF:-1 group-title="17/01/2017"FR | FRANCE 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/900.ts
+#EXTINF:-1 group-title="17/01/2017"FR | FRANCE 5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/899.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/898.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/897.ts
+#EXTINF:-1 group-title="17/01/2017"FR | TMC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/860.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CINE  FRISSON HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/873.ts
+#EXTINF:-1 group-title="17/01/2017"FR | D17 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/880.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/896.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/895.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/894.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CINE+ FAMILY HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/874.ts
+#EXTINF:-1 group-title="17/01/2017"FR | NRJ 12 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/866.ts
+#EXTINF:-1 group-title="17/01/2017"FR | Voyage
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/867.ts
+#EXTINF:-1 group-title="17/01/2017"FR | Foot+ 24 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/861.ts
+#EXTINF:-1 group-title="17/01/2017"FR | NT 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/863.ts
+#EXTINF:-1 group-title="17/01/2017"FR | DISCOVERY SCIENCE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/884.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CINE FX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/876.ts
+#EXTINF:-1 group-title="17/01/2017"FR | ANIMAUX HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/862.ts
+#EXTINF:-1 group-title="17/01/2017"FR | DISNEY JUNIOR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/885.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CINE+ PREMIER HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/877.ts
+#EXTINF:-1 group-title="17/01/2017"FR | RTL9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/881.ts
+#EXTINF:-1 group-title="17/01/2017"FR | ARTE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/872.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CHERIE 25 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/871.ts
+#EXTINF:-1 group-title="17/01/2017"FR | OCS City
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/887.ts
+#EXTINF:-1 group-title="17/01/2017"FR | OCS CHOC HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/886.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CINE+ Emotion HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/875.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 8
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/891.ts
+#EXTINF:-1 group-title="17/01/2017"FR | Cartoon NetWork
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/865.ts
+#EXTINF:-1 group-title="17/01/2017"FR | Teva HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/855.ts
+#EXTINF:-1 group-title="17/01/2017"FR | AB1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/856.ts
+#EXTINF:-1 group-title="17/01/2017"FR | Discovery HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/854.ts
+#EXTINF:-1 group-title="17/01/2017"FR | L'EQUIPE 21
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/883.ts
+#EXTINF:-1 group-title="17/01/2017"FR | A LA CARTE 6
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/893.ts
+#EXTINF:-1 group-title="17/01/2017"FR | HD1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/835.ts
+#EXTINF:-1 group-title="17/01/2017"FR | WEO
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2523.ts
+#EXTINF:-1 group-title="17/01/2017"FR | W9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2500.ts
+#EXTINF:-1 group-title="17/01/2017"FR | USHUAIA HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2519.ts
+#EXTINF:-1 group-title="17/01/2017"FR | TV BREITZ
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2521.ts
+#EXTINF:-1 group-title="17/01/2017"FR | TELETOON HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2515.ts
+#EXTINF:-1 group-title="17/01/2017"FR | SYFY HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2537.ts
+#EXTINF:-1 group-title="17/01/2017"FR | RMC DECOUVERTE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2527.ts
+#EXTINF:-1 group-title="17/01/2017"FR | PLANETE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2526.ts
+#EXTINF:-1 group-title="17/01/2017"FR | PLANETE  CI HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2525.ts
+#EXTINF:-1 group-title="17/01/2017"FR | PIWI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2518.ts
+#EXTINF:-1 group-title="17/01/2017"FR | NAT GEO WILD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2524.ts
+#EXTINF:-1 group-title="17/01/2017"FR | MANGAS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2508.ts
+#EXTINF:-1 group-title="17/01/2017"FR | M6 MUSIC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2502.ts
+#EXTINF:-1 group-title="17/01/2017"FR | I TELE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2528.ts
+#EXTINF:-1 group-title="17/01/2017"FR | GULLI HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2511.ts
+#EXTINF:-1 group-title="17/01/2017"FR | GONG
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2514.ts
+#EXTINF:-1 group-title="17/01/2017"FR | FRANCE 24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2529.ts
+#EXTINF:-1 group-title="17/01/2017"FR | EQUIDIA LIVE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2532.ts
+#EXTINF:-1 group-title="17/01/2017"FR | DISNEY XD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2513.ts
+#EXTINF:-1 group-title="17/01/2017"FR | DISNEY Channel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2509.ts
+#EXTINF:-1 group-title="17/01/2017"FR | D8
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2501.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CHASSE ET PECHE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2504.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL SPORT HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2539.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL PLAY 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2550.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL PLAY 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2549.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL PLAY 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2548.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL PLAY 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2547.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2540.ts
+#EXTINF:-1 group-title="17/01/2017"FR | CANAL DECALE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2538.ts
+#EXTINF:-1 group-title="17/01/2017"FR | BFM TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2530.ts
+#EXTINF:-1 group-title="17/01/2017"FR | ACTION
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2536.ts
+#EXTINF:-1 group-title="17/01/2017"FR | AB3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2544.ts
+#EXTINF:-1 group-title="17/01/2017"FR | AB MOTEURS HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2533.ts
+#EXTINF:-1 group-title="17/01/2017"FR | 6TER HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2546.ts
+#EXTINF:-1 group-title="17/01/2017"FR | 13 EME RUE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2543.ts
+
+
+#EXTINF:-1 group-title="17/01/2017"***** SPAIN *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2669.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2650.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL  XTRA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2649.ts
+#EXTINF:-1 group-title="17/01/2017"SP | DCINE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2651.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2645.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL SERIES
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2655.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL HOLLYWOOD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2656.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CUATRO
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2652.ts
+#EXTINF:-1 group-title="17/01/2017"SP | TVE 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2660.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Antena 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2659.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla6
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2664.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Barca TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2665.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2646.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL+ DEPORTES
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2661.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Real Madrid tv
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2648.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2647.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CAZA Y PESCA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2653.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL+ TOROS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2654.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL ESTRENOS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2657.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CALLE 13
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2658.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL+ FUTBOL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2662.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL+ COMEDIA HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2640.ts
+#EXTINF:-1 group-title="17/01/2017"SP | NEOX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2641.ts
+#EXTINF:-1 group-title="17/01/2017"SP | NOVA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2642.ts
+#EXTINF:-1 group-title="17/01/2017"SP | BEIN SPORT ES
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2639.ts
+#EXTINF:-1 group-title="17/01/2017"SP | TVE LA1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2666.ts
+#EXTINF:-1 group-title="17/01/2017"SP | A&E
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2667.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Canal+ Accion HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2668.ts
+#EXTINF:-1 group-title="17/01/2017"SP | CANAL+ LIGA HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2663.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2643.ts
+#EXTINF:-1 group-title="17/01/2017"SP | Taquilla4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2644.ts
+
+
+
+#EXTINF:-1 group-title="17/01/2017"***** WORLD SPORTS *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/904.ts
+#EXTINF:-1 group-title="17/01/2017"STAR SPORTS 1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/946.ts
+#EXTINF:-1 group-title="17/01/2017"STAR SPORTS 2HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/945.ts
+#EXTINF:-1 group-title="17/01/2017"STAR SPORTS 3HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/944.ts
+#EXTINF:-1 group-title="17/01/2017"STAR SPORTS 4HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/943.ts
+#EXTINF:-1 group-title="17/01/2017"MBC Pro Sports 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/927.ts
+#EXTINF:-1 group-title="17/01/2017"MBC Pro Sports 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/926.ts
+#EXTINF:-1 group-title="17/01/2017"MBC ProSports 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/925.ts
+#EXTINF:-1 group-title="17/01/2017"GOL TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/955.ts
+#EXTINF:-1 group-title="17/01/2017"AD Sports 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/957.ts
+#EXTINF:-1 group-title="17/01/2017"AD Sports 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/956.ts
+#EXTINF:-1 group-title="17/01/2017"Dubai Sports 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/959.ts
+#EXTINF:-1 group-title="17/01/2017"Dubai Sports 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/958.ts
+#EXTINF:-1 group-title="17/01/2017"Dubai Racing
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/974.ts
+#EXTINF:-1 group-title="17/01/2017"CANAL LIGA HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/921.ts
+#EXTINF:-1 group-title="17/01/2017"CANAL GOLF HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/920.ts
+#EXTINF:-1 group-title="17/01/2017"CANAL FUTBALL HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/919.ts
+#EXTINF:-1 group-title="17/01/2017"CANAL DEPORTES HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/918.ts
+#EXTINF:-1 group-title="17/01/2017"Real Madrid TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/947.ts
+#EXTINF:-1 group-title="17/01/2017"EQUIDIA Life
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/948.ts
+#EXTINF:-1 group-title="17/01/2017"EQUIDIA LIVE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/949.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN SPORT 1 FR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/954.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN SPORT 2 FR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/953.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN SPORT 3 FR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/952.ts
+#EXTINF:-1 group-title="17/01/2017"FR Eurosport 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/951.ts
+#EXTINF:-1 group-title="17/01/2017"FR Eurosport 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/950.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/942.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/941.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/940.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/939.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 5 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/938.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 6 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/937.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 7 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/936.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 8 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/935.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 9 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/934.ts
+#EXTINF:-1 group-title="17/01/2017"BEIN 10 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/933.ts
+#EXTINF:-1 group-title="17/01/2017"BARCA TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/914.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Sport Bundesliga 1 uuu.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3314.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Sport Bundesliga 1 uuu...
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3045.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3046.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3047.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3048.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3049.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3050.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3051.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3052.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3053.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3054.ts
+#EXTINF:-1 group-title="17/01/2017"ARENA SPORT 1 HR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3076.ts
+#EXTINF:-1 group-title="17/01/2017"ARENA SPORT 2 HR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3077.ts
+#EXTINF:-1 group-title="17/01/2017"ARENA SPORT 3 HR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3078.ts
+#EXTINF:-1 group-title="17/01/2017"ARENA SPORT 4 HR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3079.ts
+
+
+
+#EXTINF:-1 group-title="17/01/2017"***** ITALIAN *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1233.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RaiPremium
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1392.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1397.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1396.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1395.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1394.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RaiGulp
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1367.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai Yoyo
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1368.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Italia1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1388.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai sport1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1391.ts
+#EXTINF:-1 group-title="17/01/2017"IT | AXN HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1373.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Alice
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1374.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Cielo
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1375.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema Passion
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1381.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Sky Cinema Family HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1380.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema+24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1382.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema Comedy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1379.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Dmax.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1376.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyUno
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1377.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RaiMovie
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1393.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Premium Cinema HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1366.ts
+#EXTINF:-1 group-title="17/01/2017"IT | FoxComedyHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1370.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Fox.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1372.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema Max
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1383.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumAction
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1362.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Premium Cinema2+24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1363.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Premium Cinema2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1365.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Premium Cinema+24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1364.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumJoi
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1361.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCrimeHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1360.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumEnergy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1359.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema Hits
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1384.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Sky Cinema Cult HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1378.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1398.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1385.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Canale5 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1386.ts
+#EXTINF:-1 group-title="17/01/2017"IT | MediasatExtra
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1389.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Rai Sport2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1390.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RETE 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1387.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCrime24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1356.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCinemaEmotion
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1357.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumComedy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1358.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumStories
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1355.ts
+#EXTINF:-1 group-title="17/01/2017"IT | DiscoveryFocus
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1353.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Premium Studio Universal
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1354.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Caccia e Pesca
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1352.ts
+#EXTINF:-1 group-title="17/01/2017"IT | NatGeoWild
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1351.ts
+#EXTINF:-1 group-title="17/01/2017"IT | AnimalPlanet
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1350.ts
+#EXTINF:-1 group-title="17/01/2017"IT | DiscoverySci HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1349.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RSI La1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1321.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkySport1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1336.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkySport2HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1335.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkySport3HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1334.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkySport24HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1333.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkySportF1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1332.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema 3D
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1337.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCinema Classic
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1338.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Super Tennis
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1341.ts
+#EXTINF:-1 group-title="17/01/2017"IT | FOX Sport HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1340.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumSport2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1342.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumSport
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1343.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumDisneyJunior
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1345.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumDisneyChannel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1344.ts
+#EXTINF:-1 group-title="17/01/2017"IT | CartoonNetwork
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1346.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyTG24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1319.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RSI La2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1320.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKY CINEMA MAX 1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2557.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKY CINEMA HITS HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2558.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKY CINEMA COMEDY HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2560.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PREMIUM JOY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2574.ts
+#EXTINF:-1 group-title="17/01/2017"IT | CARTOONITO
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2599.ts
+#EXTINF:-1 group-title="17/01/2017"IT | BOING
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2600.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Videolina
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3018.ts
+#EXTINF:-1 group-title="17/01/2017"IT | TvGlobo
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3017.ts
+#EXTINF:-1 group-title="17/01/2017"IT | TopCrime
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2999.ts
+#EXTINF:-1 group-title="17/01/2017"IT | TG ARCHITETTURA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3022.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Teleticino
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3021.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SPORT ITALIA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3010.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3000.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3001.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3002.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3003.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3004.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila6
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3005.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3006.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila8
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3007.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3008.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyPrimafila10
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3009.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkySuperCalcio
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3023.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCalcio1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3024.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCalcio2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3025.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCalcio3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3026.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCalcio4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3027.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCalcio5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3028.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SkyCalcio6
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3029.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKYCalcio7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3030.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKYCalcio8
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3031.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKYCalcio9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3032.ts
+#EXTINF:-1 group-title="17/01/2017"IT | SKYCalcio10
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3033.ts
+#EXTINF:-1 group-title="17/01/2017"IT | RaiNews24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2994.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumEuroSport1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3011.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumEuroSport2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3012.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3034.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcioHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3035.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3036.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3037.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3038.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3039.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3040.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio6
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3041.ts
+#EXTINF:-1 group-title="17/01/2017"IT | PremiumCalcio7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3042.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Nuvolari
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2996.ts
+#EXTINF:-1 group-title="17/01/2017"IT | National Geo HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3014.ts
+#EXTINF:-1 group-title="17/01/2017"IT | MEDIASET TOP CRIME
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3013.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Mediaset Iris
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3020.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Lei
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3019.ts
+#EXTINF:-1 group-title="17/01/2017"IT | La7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2995.ts
+#EXTINF:-1 group-title="17/01/2017"IT | InterChannel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3043.ts
+#EXTINF:-1 group-title="17/01/2017"IT | History
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2993.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Giallo
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2997.ts
+#EXTINF:-1 group-title="17/01/2017"IT | GamberoRosso
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2998.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Fox Crime HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3016.ts
+#EXTINF:-1 group-title="17/01/2017"IT | DiscoveryChannelHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3015.ts
+#EXTINF:-1 group-title="17/01/2017"IT | Bike Channel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3044.ts
+#EXTINF:-1 group-title="17/01/2017"IT VOD | 11 Donne A Parigi 2014
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4750.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | 12 Alberi di Natale 2013
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4751.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | 3 Headed Shark Attack 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4752.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Alvin Superstar Nessuno Ci Puo Fermare 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4753.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Angeli 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4754.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Bad Cop Polizia Violenta 2010
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4755.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Before We Go 2014
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4756.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Belle E Sebastien L Avventura Continua 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4757.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Carol 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4767.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4766.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU 0y svb 1t4
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4764.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU 7h3 d4n15h g1rl svb 174
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4758.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU Noble 2014
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4759.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU Piccoli Brividi
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4760.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU Pixies
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4761.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU Queen of Spades 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4762.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU svffr4g3tt3
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4765.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | CB01 EU The Wave 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4763.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Little Sister 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4768.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Masha E Orso Amici Per Sempre 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4769.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Max 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4770.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Mustang 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4771.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Naked among wolves  Il.bambino nella valigia 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4772.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Natale Col Boss 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4773.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Non essere cattivo 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4774.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Perfect Day 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4775.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Quo Vado 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4776.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Sicario 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4777.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Spring 2014
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4778.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Star Wars Episodio VII Il Risveglio Della Forza 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4779.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Strangerland 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4780.mp4
+#EXTINF:-1 group-title="17/01/2017"IT VOD | Teen Beach 2 2015
+http://193.70.116.156:8080/movie/azerty55/3HIBGDkzlj/4781.mp4
+
+
+#EXTINF:-1 group-title="17/01/2017"***** GERMANY *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1147.ts
+#EXTINF:-1 group-title="17/01/2017"DE | a.tv uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1430.ts
+#EXTINF:-1 group-title="17/01/2017"DE | KiKA uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1429.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Pro7 MAXX / ProSiebenSat.1 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1506.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Pro7
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1507.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL_LIVING
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1508.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL Television uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1420.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTLII HD uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1427.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL Crime / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1509.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL HD / CBC uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1513.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL2/CBC uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1512.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL NITRO/CBC uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1511.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTLplus uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4667.ts
+#EXTINF:-1 group-title="17/01/2017"DE | RTL Passion / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2626.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SUPER RTL uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1419.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Krimi / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1400.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema Hits uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1401.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema Nostalgie / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1406.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema Comedy uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1407.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1408.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SkyAction
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1404.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Atlantic uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1403.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SkyCinema24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1405.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SkyCinema
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1425.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema +1 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1410.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema Emotion uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2630.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema Action uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2628.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY MGM HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1399.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY TNT SERIES HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2625.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY TNT FILME HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2624.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY NATGEO WILD HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2633.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SAT.1 RhlPf uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1426.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SAT.1 A  uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4666.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SAT.1 CH uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4665.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SAT.1 Gold uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4664.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SAT.1 NRW / ProSiebenSat.1 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1418.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SPORT1 HD uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1417.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SPORT 2 HD uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1415.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SPORT NEWS HD uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1431.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Sport Bundesliga 1 uuu..
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1416.ts
+#EXTINF:-1 group-title="17/01/2017"DE | EURO SPORT
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1412.ts
+#EXTINF:-1 group-title="17/01/2017"DE | EUROSPORT2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1413.ts
+#EXTINF:-1 group-title="17/01/2017"DE | N.24 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1411.ts
+#EXTINF:-1 group-title="17/01/2017"DE | 13Street
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1402.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ORF1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1421.ts
+#EXTINF:-1 group-title="17/01/2017"DE | VOX HD uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1423.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ZDF  uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1422.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ZDFinfo/ZDFvision uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1473.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ProSieben / ProSiebenSat.1 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1409.ts
+#EXTINF:-1 group-title="17/01/2017"DE | NDR HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1477.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Fox hd
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1522.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Fox Serie uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4670.ts
+#EXTINF:-1 group-title="17/01/2017"DE | AXN.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1523.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sat1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1510.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Srf1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1472.ts
+#EXTINF:-1 group-title="17/01/2017"DE | N TV.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1474.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ROMANCE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1475.ts
+#EXTINF:-1 group-title="17/01/2017"DE | zdf neo/ZDFvision uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1476.ts
+#EXTINF:-1 group-title="17/01/2017"DE | WDRHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1480.ts
+#EXTINF:-1 group-title="17/01/2017"DE | VOX/CBC uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1514.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Sport Bundesliga 1 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1481.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SPORT NEWS HD uuu.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1482.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKYSPORT AUSTRIA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1483.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SPORT 2 HD uuu.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1484.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SPORT1 US HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1485.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SPORT +1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1486.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SPORT 1  HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1487.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SELECT 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1495.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SKY SELECT 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1494.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Select 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1493.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Select 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1492.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Select 5 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1491.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Select 6 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1490.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Select 7 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1489.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Select 8HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1488.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ZDF /ZDFvision uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1515.ts
+#EXTINF:-1 group-title="17/01/2017"DE | ORF2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1517.ts
+#EXTINF:-1 group-title="17/01/2017"DE | D MAX HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1518.ts
+#EXTINF:-1 group-title="17/01/2017"DE | HISTORY CHANNEL HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1497.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Sky Cinema Family / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1498.ts
+#EXTINF:-1 group-title="17/01/2017"DE | TNT Serie HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1520.ts
+#EXTINF:-1 group-title="17/01/2017"DE | N24    uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1499.ts
+#EXTINF:-1 group-title="17/01/2017"DE | arte / ARD  uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1500.ts
+#EXTINF:-1 group-title="17/01/2017"DE | arte / ARD uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1516.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Disney Junior / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1501.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Disney_XD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1502.ts
+#EXTINF:-1 group-title="17/01/2017"DE | NICK_JR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1504.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SYFY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1521.ts
+#EXTINF:-1 group-title="17/01/2017"DE | WDR uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1505.ts
+#EXTINF:-1 group-title="17/01/2017"DE | SIXX.
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1519.ts
+#EXTINF:-1 group-title="17/01/2017"DE | kabel eins / ProSiebenSat.1 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2627.ts
+#EXTINF:-1 group-title="17/01/2017"DE | HEIMAT KANAL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2631.ts
+#EXTINF:-1 group-title="17/01/2017"DE | Disney Cinemagic / SKY uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2632.ts
+#EXTINF:-1 group-title="17/01/2017"DE | kabel eins Doku uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4669.ts
+#EXTINF:-1 group-title="17/01/2017"DE | N24 uuu
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4668.ts
+
+
+
+
+#EXTINF:-1 group-title="17/01/2017"***** TURKISH *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3194.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIG TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/49.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIGTV 1 H.265.HVEC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2785.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIG TV 1  HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3150.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIGTV 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/135.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIG TV 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/134.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIG TV 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/133.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART  SMART SPOR 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/85.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART SMART SPOR 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/86.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LIGTV 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/132.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | BEIN SPORT 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3195.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | BEIN SPORT 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3196.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | TIVIBU SPOR 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/87.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | TIVIBU SPOR 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/126.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | TIVIBU SPOR 4 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/125.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | TIVIBU SPOR HD 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/88.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  | TIVIBU SINE TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/113.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LOCA 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/121.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LOCA 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/120.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | LOCA 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/119.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | SALON 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/129.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | SALON 2  HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/128.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | SALON 3 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/127.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | SALON 3D HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3108.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | VIP CHANNEL HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/131.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | VIP CHANNEL 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/115.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | VIP CHANNEL TURK HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/124.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILBOX EUROSPORT HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1824.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  | FILBOX SINEMA TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1826.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILBOX FIL TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1827.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILBOX Sinetivi Karnaval HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1831.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILBOX Sinetivi HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1832.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART FX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4663.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART FILMBOX HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1821.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART DIZISMART PLATIN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/107.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART MOVIE PREMIUM 2  HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1820.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  | D-SMART  DISCOVERY CHANNEL HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1825.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART MOVIE PREMIUM HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1833.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART MOVIE PREMIUM 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1839.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART Movie Platin 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1838.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART MOVIE GOLD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1830.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART MOVIE FAMILY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1829.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART Movies Platin 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1823.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART DIZI PREMIUM HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/109.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART BOOMERANG COCUK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3105.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  | D-SMART SMART COCUK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3106.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART DIZI TV HD FILBOX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/106.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART EUROSPORT 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/103.ts
+#EXTINF:-1 group-title="17/01/2017"VIP I D-SMART 24 KITCHEN HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4673.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART FX DIZI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4674.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART MOVIESMART TURK HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/118.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART BBC Earth HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/100.ts
+#EXTINF:-1 group-title="17/01/2017"VIP I D-SMART FOX CRIME HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4672.ts
+#EXTINF:-1 group-title="17/01/2017"VIP I DIGITURK DIZIMAX COMEDY HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4269.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | DIGITURK ID Xtra Europe HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1822.ts
+#EXTINF:-1 group-title="17/01/2017"VIP I DIGITURK NAT GEO HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/112.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  | DIGITURK DIZIMAX SCI-FI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1842.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  | DIGITURK  IZ TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4259.ts
+#EXTINF:-1 group-title="17/01/2017"VIP  I DIGITURK History HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/101.ts
+#EXTINF:-1 group-title="17/01/2017"VIP I DIGITURK  NATIONAL GEOPRAFIC HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/105.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILBOX VIASAT NATURE/HISTORY CH HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/102.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILBOX SINEMATV AKSIYON HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2787.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | National Geographic Wild
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1837.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | Animal Planet
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1836.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | ANIMASYON HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/114.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | YESILCAM 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/123.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | YESILCAM 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/122.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | FILM TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/116.ts
+#EXTINF:-1 group-title="17/01/2017"VIP I NAT GEO PEOPLE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/108.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | MOVIEMAX COMEDY HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/104.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | MOVIEMAX FAMILY HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/111.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | MOVIEMAX PREMIER 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/110.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | MOVIEMAX PREMIER HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/130.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | MOVIEMAX TURK HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/117.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/94.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT 1 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/77.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT 3 SPOR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/61.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT BELGESEL HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/71.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT COCUK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/73.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT HABER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/72.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT MUZIK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/57.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT KURDI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4264.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TRT SPOR HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/60.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SHOW TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/90.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SHOW TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/63.ts
+#EXTINF:-1 group-title="17/01/2017"TR | STAR TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/91.ts
+#EXTINF:-1 group-title="17/01/2017"TR | STAR TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/62.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KANAL D
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/79.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KANAL D HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/68.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ATV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/93.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ATV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/66.ts
+#EXTINF:-1 group-title="17/01/2017"TR | FOX TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/80.ts
+#EXTINF:-1 group-title="17/01/2017"TR | FOX HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/64.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TV8
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/92.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TV8 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/59.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TV8.5
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3107.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TLC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/74.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BEYAZ TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/65.ts
+#EXTINF:-1 group-title="17/01/2017"TR | A HABER HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/67.ts
+#EXTINF:-1 group-title="17/01/2017"TR | A SPOR HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/95.ts
+#EXTINF:-1 group-title="17/01/2017"TR I A2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4268.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TV 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/75.ts
+#EXTINF:-1 group-title="17/01/2017"TR | FLASH TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/55.ts
+#EXTINF:-1 group-title="17/01/2017"TR | HALK TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/99.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KANAL 7 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/69.ts
+#EXTINF:-1 group-title="17/01/2017"TR | MINIKA COCUK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/82.ts
+#EXTINF:-1 group-title="17/01/2017"TR | DISNEY CHANNEL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4671.ts
+#EXTINF:-1 group-title="17/01/2017"TR | MINIKA GO
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/81.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BLOOMBERG TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/83.ts
+#EXTINF:-1 group-title="17/01/2017"TR | CAY TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/53.ts
+#EXTINF:-1 group-title="17/01/2017"TR | CNN TURK HABER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/84.ts
+#EXTINF:-1 group-title="17/01/2017"TR | HABER TURK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2786.ts
+#EXTINF:-1 group-title="17/01/2017"TR | EGE TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/54.ts
+#EXTINF:-1 group-title="17/01/2017"TR | YABAN TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/50.ts
+#EXTINF:-1 group-title="17/01/2017"TR | VIVA TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1841.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SPORTS TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1834.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SEMERKAND TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1843.ts
+#EXTINF:-1 group-title="17/01/2017"TR | PLANET TURK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1844.ts
+#EXTINF:-1 group-title="17/01/2017"TR | PLANET PEMBE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1845.ts
+#EXTINF:-1 group-title="17/01/2017"TR | PLANET MUTFAK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1846.ts
+#EXTINF:-1 group-title="17/01/2017"TR | PLANET COCUK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1847.ts
+#EXTINF:-1 group-title="17/01/2017"TR | NUMBER ONE TURK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1849.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KANAL CAY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1848.ts
+#EXTINF:-1 group-title="17/01/2017"TR | GS TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1840.ts
+#EXTINF:-1 group-title="17/01/2017"VIP | D-SMART NBA TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/89.ts
+#EXTINF:-1 group-title="17/01/2017"TR | NTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/98.ts
+#EXTINF:-1 group-title="17/01/2017"TR | NTV SPOR HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/97.ts
+#EXTINF:-1 group-title="17/01/2017"TR | NUMBER ONE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/51.ts
+#EXTINF:-1 group-title="17/01/2017"TR | POWERTURK HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4657.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KRAL TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4658.ts
+#EXTINF:-1 group-title="17/01/2017"TR | FB TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1835.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BJK TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2775.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BABY TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1828.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ULUSAL TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4261.ts
+#EXTINF:-1 group-title="17/01/2017"TR I FOX LIFE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4262.ts
+#EXTINF:-1 group-title="17/01/2017"TR | IP Mutfak
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4265.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BURSASPOR  TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4260.ts
+#EXTINF:-1 group-title="17/01/2017"TR I CEM TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4263.ts
+#EXTINF:-1 group-title="17/01/2017"TR I TBMM TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4656.ts
+#EXTINF:-1 group-title="17/01/2017"TR I SKY 360
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/4267.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ICERDE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3123.ts
+#EXTINF:-1 group-title="17/01/2017"TR | YETER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3131.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BABAM VE A?LES?
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3114.ts
+#EXTINF:-1 group-title="17/01/2017"TR | TATLI INTIKAM
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3117.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BODRUM MASALI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3122.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SEVDA KUSUN KANADINDA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3142.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SEKSENLER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3124.ts
+#EXTINF:-1 group-title="17/01/2017"TR | POYRAZ KARAYEL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3135.ts
+#EXTINF:-1 group-title="17/01/2017"TR | PARAMPARCA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3111.ts
+#EXTINF:-1 group-title="17/01/2017"TR | VATANIM SENS?N
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3112.ts
+#EXTINF:-1 group-title="17/01/2017"TR | O SES TURKIYE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3137.ts
+#EXTINF:-1 group-title="17/01/2017"TR | O HAYAT BEN?M
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3125.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KARA SEVDA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3138.ts
+#EXTINF:-1 group-title="17/01/2017"TR | MÜDÜR NE YAPTIN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3127.ts
+#EXTINF:-1 group-title="17/01/2017"TR | MUHTESEM YUZYIL KOSEM
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3148.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KURTLAR VADISI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3144.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KORDUGUM
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3129.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KIRGIN CICEKLER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3146.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KIRALIK ASK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3109.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KERTENKELE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3140.ts
+#EXTINF:-1 group-title="17/01/2017"TR | YUZYILLIK MUHUR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3139.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KARAGUL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3132.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ILISKI DURUMU EVLI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3116.ts
+#EXTINF:-1 group-title="17/01/2017"TR | HAYAT SARKISI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3115.ts
+#EXTINF:-1 group-title="17/01/2017"TR | GULUMSE YETER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3141.ts
+#EXTINF:-1 group-title="17/01/2017"TR | GULDUR GULDUR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3133.ts
+#EXTINF:-1 group-title="17/01/2017"TR | HAYATIMIN ASKI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3118.ts
+#EXTINF:-1 group-title="17/01/2017"TR | YUKSEK SOSYETE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3121.ts
+#EXTINF:-1 group-title="17/01/2017"TR | FAMILYA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3128.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ESKIYA DUNYAYA HUKUMDAR OLMAZ
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3143.ts
+#EXTINF:-1 group-title="17/01/2017"TR | DIRILIS ERTUGRUL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3136.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ASK LAFTAN ANLAMAZ
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3149.ts
+#EXTINF:-1 group-title="17/01/2017"TR | RUZGARIN KALBI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3126.ts
+#EXTINF:-1 group-title="17/01/2017"TR | SEV?YOR SEVM?YOR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3130.ts
+#EXTINF:-1 group-title="17/01/2017"TR | CESUR YUREK
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3134.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ASK YENIDEN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3120.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ASK YALANI SEVER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3113.ts
+#EXTINF:-1 group-title="17/01/2017"TR | ARKA SOKAKLAR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3119.ts
+#EXTINF:-1 group-title="17/01/2017"TR | KALBIMDE KI DENIZ
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3145.ts
+#EXTINF:-1 group-title="17/01/2017"TR | BABA CANDIR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3110.ts
+
+
+
+
+#EXTINF:-1 group-title="17/01/2017"***** RS EX-YU *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/555.ts
+#EXTINF:-1 group-title="17/01/2017"RS | DISCOVERY CHANNEL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1882.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK CRIME&MISTERY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1898.ts
+#EXTINF:-1 group-title="17/01/2017"RS | HRT 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1892.ts
+#EXTINF:-1 group-title="17/01/2017"RS | HRT 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1890.ts
+#EXTINF:-1 group-title="17/01/2017"RS | VIASAT HISTORY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1889.ts
+#EXTINF:-1 group-title="17/01/2017"RS | HBO   ADRIA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1888.ts
+#EXTINF:-1 group-title="17/01/2017"RS | HRT 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1891.ts
+#EXTINF:-1 group-title="17/01/2017"RS | HRT 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1893.ts
+#EXTINF:-1 group-title="17/01/2017"RS | FTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1887.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK  PREMIUM
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1905.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK SHOW
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1909.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK PLUS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1904.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK Movie
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1903.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTL  2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1916.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1915.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK FOLK 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1900.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK SCI-FI&FANTASY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1907.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK HORROR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1901.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK  WORLD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1913.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTS1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1920.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTL CRIME  HR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1917.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK KIDS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1902.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTL  KOCKICA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1918.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK FILM
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1899.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK REALITY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1906.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTL  LIVING
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1919.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK Serije
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1908.ts
+#EXTINF:-1 group-title="17/01/2017"RS | RTS2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1921.ts
+#EXTINF:-1 group-title="17/01/2017"RS | TV1000
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1922.ts
+#EXTINF:-1 group-title="17/01/2017"RS | FOX  MOVIES
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1886.ts
+#EXTINF:-1 group-title="17/01/2017"RS | NOVA HR
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1894.ts
+#EXTINF:-1 group-title="17/01/2017"RS | Pink
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1895.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK ACTION
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1896.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK COMEDY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1897.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK  ZABAVA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1914.ts
+#EXTINF:-1 group-title="17/01/2017"RS | CINEMAX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1877.ts
+#EXTINF:-1 group-title="17/01/2017"RS | FOX  LIFE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1885.ts
+#EXTINF:-1 group-title="17/01/2017"RS | CINESTAR PREMIERE 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1881.ts
+#EXTINF:-1 group-title="17/01/2017"RS | CINEMAX 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1878.ts
+#EXTINF:-1 group-title="17/01/2017"RS | FOX  CRIME
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1884.ts
+#EXTINF:-1 group-title="17/01/2017"RS | FOX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1883.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK  STYLE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1910.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK  WESTERN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1911.ts
+#EXTINF:-1 group-title="17/01/2017"RS | PINK  THRILLER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1912.ts
+#EXTINF:-1 group-title="17/01/2017"RS | CINESTAR ACTION
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1879.ts
+#EXTINF:-1 group-title="17/01/2017"RS | CINESTAR PREMIERE 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1880.ts
+#EXTINF:-1 group-title="17/01/2017"RS | ANIMAL PLANET
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1876.ts
+#EXTINF:-1 group-title="17/01/2017"RS | 24 KITCHEN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/1875.ts
+#EXTINF:-1 group-title="17/01/2017"***** ALB ALBANIAN *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/678.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING TRING
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/760.ts
+#EXTINF:-1 group-title="17/01/2017"AL | FILM THRILLER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/745.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING SUPER
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/759.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING SMILE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/758.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TOP Cannel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/739.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING WORLD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/762.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING VIZION PLUS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/761.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING HISTORY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/755.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Filme 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/740.ts
+#EXTINF:-1 group-title="17/01/2017"AL | KLAN KOSOVA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/746.ts
+#EXTINF:-1 group-title="17/01/2017"AL | KTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/747.ts
+#EXTINF:-1 group-title="17/01/2017"AL | SUPER SPORT  2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/749.ts
+#EXTINF:-1 group-title="17/01/2017"AL | SUPER SPORT  3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/750.ts
+#EXTINF:-1 group-title="17/01/2017"AL | SUPER SPORT  4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/751.ts
+#EXTINF:-1 group-title="17/01/2017"AL | SUPER SPORT  1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/748.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TIP TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/752.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING FANTASY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/754.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING 3+
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/753.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING LIFE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/757.ts
+#EXTINF:-1 group-title="17/01/2017"AL | TRING JOLLY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/756.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Super Sport 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/741.ts
+#EXTINF:-1 group-title="17/01/2017"AL | FILM DY
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/744.ts
+#EXTINF:-1 group-title="17/01/2017"AL | ERA TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/743.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Super Sport 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/742.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Tring Comedy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2499.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Film Komedi
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2498.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Film GOLD 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2497.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Film GOLD 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2496.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Film GOLD 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2495.ts
+#EXTINF:-1 group-title="17/01/2017"AL | Film GOLD 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2494.ts
+#EXTINF:-1 group-title="17/01/2017"***** GREEK *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3151.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Zougla
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3188.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Vouli
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3153.ts
+#EXTINF:-1 group-title="17/01/2017"GR | TV100
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3154.ts
+#EXTINF:-1 group-title="17/01/2017"GR | TV 4E
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3155.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Sunny Channel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3162.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Star
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3156.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Smile
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3157.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Skai
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3158.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Sigma Cy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3159.ts
+#EXTINF:-1 group-title="17/01/2017"GR | SBC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3160.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Rise
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3161.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Nickelodeon
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3190.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Nea
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3163.ts
+#EXTINF:-1 group-title="17/01/2017"GR | National Geographic
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3191.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Mega
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3164.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Mad Cy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3175.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Mad
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3165.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Lyxnoc
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3166.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Krhth Tv
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3167.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Kontra
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3168.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Jazee
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3193.ts
+#EXTINF:-1 group-title="17/01/2017"GR | High
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3169.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Extra
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3170.ts
+#EXTINF:-1 group-title="17/01/2017"GR | ERT HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3173.ts
+#EXTINF:-1 group-title="17/01/2017"GR | ERT 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3171.ts
+#EXTINF:-1 group-title="17/01/2017"GR | ERT 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3172.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Epirus Tv1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3174.ts
+#EXTINF:-1 group-title="17/01/2017"GR | E TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3176.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Creta
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3189.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Channel 9
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3187.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Boyah
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3177.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Blue Sky
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3178.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Attica
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3179.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Astra
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3180.ts
+#EXTINF:-1 group-title="17/01/2017"GR | APT
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3181.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Ant1 Cy
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3182.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Ant1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3183.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Animal Planet
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3192.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Alpha
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3184.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Aigaio TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3152.ts
+#EXTINF:-1 group-title="17/01/2017"GR | Action 24
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3185.ts
+#EXTINF:-1 group-title="17/01/2017"GR | AB Channel
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3186.ts
+#EXTINF:-1 group-title="17/01/2017"***** ARABIC *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2364.ts
+#EXTINF:-1 group-title="17/01/2017"AR | LDC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2355.ts
+#EXTINF:-1 group-title="17/01/2017"AR | DW ARABIA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2351.ts
+#EXTINF:-1 group-title="17/01/2017"AR | KUWAIT 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2353.ts
+#EXTINF:-1 group-title="17/01/2017"AR | FIRST TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2352.ts
+#EXTINF:-1 group-title="17/01/2017"AR | SAMA DUBAI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2360.ts
+#EXTINF:-1 group-title="17/01/2017"AR | NESSMA TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2330.ts
+#EXTINF:-1 group-title="17/01/2017"AR | MBC MAX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2346.ts
+#EXTINF:-1 group-title="17/01/2017"AR | AL JAZEERA KIDS
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2345.ts
+#EXTINF:-1 group-title="17/01/2017"AR | AL JAZEERA DOCU
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2344.ts
+#EXTINF:-1 group-title="17/01/2017"AR | AL JAZEERA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2343.ts
+#EXTINF:-1 group-title="17/01/2017"AR | MBC ACTION
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2342.ts
+#EXTINF:-1 group-title="17/01/2017"AR | MBC 4
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2341.ts
+#EXTINF:-1 group-title="17/01/2017"AR | MBC 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2340.ts
+#EXTINF:-1 group-title="17/01/2017"AR | MBC 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2339.ts
+#EXTINF:-1 group-title="17/01/2017"AR | MBC 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2338.ts
+#EXTINF:-1 group-title="17/01/2017"AR | DUBAI TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2350.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ROTANA CINEMA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2334.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ROTANA CLIP
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2335.ts
+#EXTINF:-1 group-title="17/01/2017"AR | 2M MAROC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2336.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ROTANA MASRIYA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2361.ts
+#EXTINF:-1 group-title="17/01/2017"AR | SHARJAH
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2362.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ROTANA KHALIJIAH
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2359.ts
+#EXTINF:-1 group-title="17/01/2017"AR | O TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2357.ts
+#EXTINF:-1 group-title="17/01/2017"AR | NOOR DUBAI
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2356.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ROTANA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2358.ts
+#EXTINF:-1 group-title="17/01/2017"AR | BEIN MOVIES 2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2333.ts
+#EXTINF:-1 group-title="17/01/2017"AR | AL ARABIYA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2337.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ALAAN
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2347.ts
+#EXTINF:-1 group-title="17/01/2017"AR | KUWAIT 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2354.ts
+#EXTINF:-1 group-title="17/01/2017"AR | BBC ARABIC
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2348.ts
+#EXTINF:-1 group-title="17/01/2017"AR | DUBAI ONE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2349.ts
+#EXTINF:-1 group-title="17/01/2017"AR | AJYAL TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2331.ts
+#EXTINF:-1 group-title="17/01/2017"AR | ART CINEMA
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2332.ts
+#EXTINF:-1 group-title="17/01/2017"AR | LBC INT
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2363.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Star world
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3074.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN STAR MOVIES HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3075.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN ON DEMAND EXTRA 3HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3066.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN ON DEMAND EXTRA 2HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3065.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN ON DEMAND EXTRA 1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3064.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN ON DEMAND 3HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3069.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN ON DEMAND 2HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3068.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN ON DEMAND 1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3067.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Premiere plus 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3055.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Premiere HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3056.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Kids HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3057.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Festival HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3058.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Drama HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3059.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Comedy Plus2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3060.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Comedy HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3061.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Box Office 3HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3073.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Box Office 2HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3072.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Box Office 1HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3071.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Action2 HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3062.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN Movies Action HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3070.ts
+#EXTINF:-1 group-title="17/01/2017"AR | OSN MOVIE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3063.ts
 
 
 #####################################################################################
