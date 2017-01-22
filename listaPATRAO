@@ -15,948 +15,949 @@ http://www.tv-msn.com/player/player.swf
 #############################################################
 
 
-#EXTINF:-1 group-title="21/01/2017"====== Music Streams ======(Test)
+#EXTINF:-1 group-title="21/01/2017",====== Music Streams ======(Test)
 
-#EXTINF:-1 group-title="21/01/2017"Afro Music
+#EXTINF:-1 group-title="21/01/2017",Afro Music
 http://83.79.134.18:9000/play/a07y
 
-#EXTINF:-1 group-title="21/01/2017"Antena 3
+#EXTINF:-1 group-title="21/01/2017",Antena 3
 http://83.79.134.18:9000/play/a087
-#EXTINF:-1 group-title="21/01/2017"Antena 2
+#EXTINF:-1 group-title="21/01/2017",Antena 2
 http://83.79.134.18:9000/play/a086
-#EXTINF:-1 group-title="21/01/2017"Mega Hits
+#EXTINF:-1 group-title="21/01/2017",Mega Hits
 http://83.79.134.18:9000/play/a08j
 
-#EXTINF:-1 group-title="21/01/2017"M80
+#EXTINF:-1 group-title="21/01/2017",M80
 http://83.79.134.18:9000/play/a08n
-#EXTINF:-1 group-title="21/01/2017"80s RFM
+#EXTINF:-1 group-title="21/01/2017",80s RFM
 http://83.79.134.18:9000/play/a08i
 
-#EXTINF:-1 group-title="21/01/2017"Oceano Pacifico
+#EXTINF:-1 group-title="21/01/2017",Oceano Pacifico
 http://83.79.134.18:9000/play/a08g
-#EXTINF:-1 group-title="21/01/2017"Radio Comercial
+#EXTINF:-1 group-title="21/01/2017",Radio Comercial
 http://83.79.134.18:9000/play/a08m
-#EXTINF:-1 group-title="21/01/2017"RFM Clubbing
+#EXTINF:-1 group-title="21/01/2017",RFM Clubbing
 http://83.79.134.18:9000/play/a08h
-#EXTINF:-1 group-title="21/01/2017"RFM
+#EXTINF:-1 group-title="21/01/2017",RFM
 http://83.79.134.18:9000/play/a08f
-#EXTINF:-1 group-title="21/01/2017"Cidade FM
+#EXTINF:-1 group-title="21/01/2017",Cidade FM
 http://83.79.134.18:9000/play/a08o
 
 
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/134.ts
-#EXTINF:-1 group-title="21/01/2017"MU: MTV Music
+#EXTINF:-1 group-title="21/01/2017",MU: MTV Music
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/940.ts
-#EXTINF:-1 group-title="21/01/2017"MU: MTV Rocks
+#EXTINF:-1 group-title="21/01/2017",MU: MTV Rocks
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1107.ts
-#EXTINF:-1 group-title="21/01/2017"MU: MTV Hits
+#EXTINF:-1 group-title="21/01/2017",MU: MTV Hits
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1106.ts
-#EXTINF:-1 group-title="21/01/2017"MU: Jukebox
+#EXTINF:-1 group-title="21/01/2017",MU: Jukebox
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1155.ts
-#EXTINF:-1 group-title="21/01/2017"MU: Goldstar TV
+#EXTINF:-1 group-title="21/01/2017",MU: Goldstar TV
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/862.ts
-#EXTINF:-1 group-title="21/01/2017"Radio: Monster FM
+#EXTINF:-1 group-title="21/01/2017",Radio: Monster FM
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1172.ts
-#EXTINF:-1 group-title="21/01/2017"Radio: Hunter FM
+#EXTINF:-1 group-title="21/01/2017",Radio: Hunter FM
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1173.ts
-#EXTINF:-1 group-title="21/01/2017"Radio: RTL 104.6 FM
+#EXTINF:-1 group-title="21/01/2017",Radio: RTL 104.6 FM
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1158.ts
 
 
 
-#EXTINF:-1 group-title="21/01/2017"Eurosport 2 Xtra HD
+#EXTINF:-1 group-title="21/01/2017",Eurosport 2 Xtra HD
 http://83.79.134.18:9000/play/euroextrahd1234
-#EXTINF:-1 group-title="21/01/2017"Eurosport
+#EXTINF:-1 group-title="21/01/2017",Eurosport
 http://83.79.134.18:9000/play/eurosport1234
 
-#EXTINF:-1 group-title="21/01/2017"SPORT TV +
+#EXTINF:-1 group-title="21/01/2017",SPORT TV +
 http://83.79.134.18:9000/play/a07c
 
-#EXTINF:-1 group-title="21/01/2017"Sport TV 1
+#EXTINF:-1 group-title="21/01/2017",Sport TV 1
 http://83.79.134.18:9000/play/sptv11234
-#EXTINF:-1 group-title="21/01/2017"Sport TV 2
+#EXTINF:-1 group-title="21/01/2017",Sport TV 2
 http://83.79.134.18:9000/play/sptv21234
-#EXTINF:-1 group-title="21/01/2017"Sport TV 3
+#EXTINF:-1 group-title="21/01/2017",Sport TV 3
 http://83.79.134.18:9000/play/sptv1234
-#EXTINF:-1 group-title="21/01/2017"Sport TV 4
+#EXTINF:-1 group-title="21/01/2017",Sport TV 4
 http://83.79.134.18:9000/play/sptv41234
-#EXTINF:-1 group-title="21/01/2017"Sport TV 5
+#EXTINF:-1 group-title="21/01/2017",Sport TV 5
 http://83.79.134.18:9000/play/a068
 
 
 
 
-#EXTINF:-1 group-title="21/01/2017"BTV 1
+#EXTINF:-1 group-title="21/01/2017",BTV 1
 http://83.79.134.18:9000/play/btv11234
-#EXTINF:-1 group-title="21/01/2017"BTV 1 HD
+#EXTINF:-1 group-title="21/01/2017",BTV 1 HD
 http://83.79.134.18:9000/play/a05w
-#EXTINF:-1 group-title="21/01/2017"Sporting TV
+#EXTINF:-1 group-title="21/01/2017",Sporting TV
 http://83.79.134.18:9000/play/a06c
 
-#EXTINF:-1 group-title="21/01/2017"A Bola TV
+#EXTINF:-1 group-title="21/01/2017",A Bola TV
 http://83.79.134.18:9000/play/a083
-#EXTINF:-1 group-title="21/01/2017"Motors TV
+#EXTINF:-1 group-title="21/01/2017",Motors TV
 http://83.79.134.18:9000/play/a07o
-#EXTINF:-1 group-title="21/01/2017"Fuel TV
+#EXTINF:-1 group-title="21/01/2017",Fuel TV
 http://83.79.134.18:9000/play/fueltv1234
-#EXTINF:-1 group-title="21/01/2017"Caca e Pesca
+#EXTINF:-1 group-title="21/01/2017",Caca e Pesca
 http://83.79.134.18:9000/play/cacapesca1234
-#EXTINF:-1 group-title="21/01/2017"C+ GOLF
+#EXTINF:-1 group-title="21/01/2017",C+ GOLF
 http://83.79.134.18:9000/play/a057
 
-#EXTINF:-1 group-title="21/01/2017"Motorvision
+#EXTINF:-1 group-title="21/01/2017",Motorvision
 http://83.79.134.18:9000/play/motorvision1234
 
-#EXTINF:-1 group-title="21/01/2017"SIC Caras
+#EXTINF:-1 group-title="21/01/2017",SIC Caras
 http://83.79.134.18:9000/play/a09m
-#EXTINF:-1 group-title="21/01/2017"SIC Mulher
+#EXTINF:-1 group-title="21/01/2017",SIC Mulher
 http://83.79.134.18:9000/play/a063
-#EXTINF:-1 group-title="21/01/2017"TVI Reality
+#EXTINF:-1 group-title="21/01/2017",TVI Reality
 http://83.79.134.18:9000/play/a062
 
 
-#EXTINF:-1 group-title="21/01/2017"UK: Sky UK Sports News
+#EXTINF:-1 group-title="21/01/2017",UK: Sky UK Sports News
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/240.ts
-#EXTINF:-1 group-title="21/01/2017"UK: Sky UK Sports HD 1
+#EXTINF:-1 group-title="21/01/2017",UK: Sky UK Sports HD 1
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/234.ts
-#EXTINF:-1 group-title="21/01/2017"UK: Sky UK Sports HD 2
+#EXTINF:-1 group-title="21/01/2017",UK: Sky UK Sports HD 2
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/235.ts
-#EXTINF:-1 group-title="21/01/2017"UK: Sky UK Sports HD 3
+#EXTINF:-1 group-title="21/01/2017",UK: Sky UK Sports HD 3
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/236.ts
-#EXTINF:-1 group-title="21/01/2017"UK: Sky UK Sports HD 4
+#EXTINF:-1 group-title="21/01/2017",UK: Sky UK Sports HD 4
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/237.ts
-#EXTINF:-1 group-title="21/01/2017"UK: Sky UK Sports HD 5
+#EXTINF:-1 group-title="21/01/2017",UK: Sky UK Sports HD 5
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/238.ts
-#EXTINF:-1 group-title="21/01/2017"UK: BT Sport 1 HD
+#EXTINF:-1 group-title="21/01/2017",UK: BT Sport 1 HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/631.ts
-#EXTINF:-1 group-title="21/01/2017"UK: BT Sport 2 HD
+#EXTINF:-1 group-title="21/01/2017",UK: BT Sport 2 HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/632.ts
 
-#EXTINF:-1 group-title="21/01/2017"TR: Sports TV
+#EXTINF:-1 group-title="21/01/2017",TR: Sports TV
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/343.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK: Boxnation HD
+#EXTINF:-1 group-title="21/01/2017",UK: Boxnation HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/932.ts
-#EXTINF:-1 group-title="21/01/2017"UK: ITV 1 HD
+#EXTINF:-1 group-title="21/01/2017",UK: ITV 1 HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/927.ts
-#EXTINF:-1 group-title="21/01/2017"UK: ITV 2 HD
+#EXTINF:-1 group-title="21/01/2017",UK: ITV 2 HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/928.ts
-#EXTINF:-1 group-title="21/01/2017"UK: BBC 1 HD
+#EXTINF:-1 group-title="21/01/2017",UK: BBC 1 HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/926.ts
-#EXTINF:-1 group-title="21/01/2017"UK: BBC 2 HD
+#EXTINF:-1 group-title="21/01/2017",UK: BBC 2 HD
 http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/929.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"PT : BENFICA TV HD
+#EXTINF:-1 group-title="21/01/2017",PT : BENFICA TV HD
 http://151.80.97.110:25461/live/daniel/daniel/10005.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORT TV 1 HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORT TV 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/9998.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORT TV 2 HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORT TV 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/9999.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORT TV 3 HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORT TV 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/10000.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORT TV 4 HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORT TV 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/10001.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORT TV 5 HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORT TV 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/10002.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORT TV PLUS HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORT TV PLUS HD
 http://151.80.97.110:25461/live/daniel/daniel/10003.ts
-#EXTINF:-1 group-title="21/01/2017"PT : SPORTING TV HD
+#EXTINF:-1 group-title="21/01/2017",PT : SPORTING TV HD
 http://151.80.97.110:25461/live/daniel/daniel/10004.ts
-#EXTINF:-1 group-title="21/01/2017"AU: Motor Racing
+#EXTINF:-1 group-title="21/01/2017",AU: Motor Racing
 http://151.80.97.110:25461/live/daniel/daniel/10138.ts
-#EXTINF:-1 group-title="21/01/2017"RO: Digi Sport 1
+#EXTINF:-1 group-title="21/01/2017",RO: Digi Sport 1
 http://151.80.97.110:25461/live/daniel/daniel/10222.ts
-#EXTINF:-1 group-title="21/01/2017"RO: Digi Sport 2
+#EXTINF:-1 group-title="21/01/2017",RO: Digi Sport 2
 http://151.80.97.110:25461/live/daniel/daniel/10223.ts
-#EXTINF:-1 group-title="21/01/2017"RO: Digi Sport 3
+#EXTINF:-1 group-title="21/01/2017",RO: Digi Sport 3
 http://151.80.97.110:25461/live/daniel/daniel/10224.ts
-#EXTINF:-1 group-title="21/01/2017"RO: Digi Sport 4
+#EXTINF:-1 group-title="21/01/2017",RO: Digi Sport 4
 http://151.80.97.110:25461/live/daniel/daniel/10225.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"CMTV
+#EXTINF:-1 group-title="21/01/2017",CMTV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/775.ts
-#EXTINF:-1 group-title="21/01/2017"SPORT TV + FULL HD
+#EXTINF:-1 group-title="21/01/2017",SPORT TV + FULL HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/804.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV  PT 1
+#EXTINF:-1 group-title="21/01/2017",SPORTV  PT 1
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/666.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV  PT 2
+#EXTINF:-1 group-title="21/01/2017",SPORTV  PT 2
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/667.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV  PT 3
+#EXTINF:-1 group-title="21/01/2017",SPORTV  PT 3
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/668.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV  PT 4
+#EXTINF:-1 group-title="21/01/2017",SPORTV  PT 4
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/669.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV   PT 5
+#EXTINF:-1 group-title="21/01/2017",SPORTV   PT 5
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/674.ts
-#EXTINF:-1 group-title="21/01/2017"Benfica TV
+#EXTINF:-1 group-title="21/01/2017",Benfica TV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/675.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTING TV FULL HD
+#EXTINF:-1 group-title="21/01/2017",SPORTING TV FULL HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/805.ts
-#EXTINF:-1 group-title="21/01/2017"CHELSEA TV
+#EXTINF:-1 group-title="21/01/2017",CHELSEA TV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/806.ts
-#EXTINF:-1 group-title="21/01/2017"Real Madrid Tv
+#EXTINF:-1 group-title="21/01/2017",Real Madrid Tv
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/766.ts
-#EXTINF:-1 group-title="21/01/2017"Bein Sports
+#EXTINF:-1 group-title="21/01/2017",Bein Sports
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/758.ts
-#EXTINF:-1 group-title="21/01/2017"EUROSPORT 1 HD
+#EXTINF:-1 group-title="21/01/2017",EUROSPORT 1 HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/802.ts
-#EXTINF:-1 group-title="21/01/2017"EUROSPORT 2 XTRA HD
+#EXTINF:-1 group-title="21/01/2017",EUROSPORT 2 XTRA HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/803.ts
-#EXTINF:-1 group-title="21/01/2017"EUROSPORT NEWS
+#EXTINF:-1 group-title="21/01/2017",EUROSPORT NEWS
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/801.ts
 
-#EXTINF:-1 group-title="21/01/2017"PT: Sporting TV
+#EXTINF:-1 group-title="21/01/2017",PT: Sporting TV
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3690.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Sport TV 5 HD
+#EXTINF:-1 group-title="21/01/2017",PT: Sport TV 5 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3688.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Sport TV 4 HD
+#EXTINF:-1 group-title="21/01/2017",PT: Sport TV 4 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3687.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Sport TV 3 HD
+#EXTINF:-1 group-title="21/01/2017",PT: Sport TV 3 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3686.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Sport TV 2 HD
+#EXTINF:-1 group-title="21/01/2017",PT: Sport TV 2 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3685.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Sport TV 1 HD
+#EXTINF:-1 group-title="21/01/2017",PT: Sport TV 1 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3684.ts
-#EXTINF:-1 group-title="21/01/2017"PT: RTP International
+#EXTINF:-1 group-title="21/01/2017",PT: RTP International
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3676.ts
-#EXTINF:-1 group-title="21/01/2017"PT: CM TV
+#EXTINF:-1 group-title="21/01/2017",PT: CM TV
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3670.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Cinemundo
+#EXTINF:-1 group-title="21/01/2017",PT: Cinemundo
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3669.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Canal Panda
+#EXTINF:-1 group-title="21/01/2017",PT: Canal Panda
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3668.ts
-#EXTINF:-1 group-title="21/01/2017"PT: Cacavision HD
+#EXTINF:-1 group-title="21/01/2017",PT: Cacavision HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3667.ts
-#EXTINF:-1 group-title="21/01/2017"PT: CACA E PESCA
+#EXTINF:-1 group-title="21/01/2017",PT: CACA E PESCA
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3666.ts
-#EXTINF:-1 group-title="21/01/2017"PT: BH News
+#EXTINF:-1 group-title="21/01/2017",PT: BH News
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3665.ts
-#EXTINF:-1 group-title="21/01/2017"PT: BENFICA TV2 HD
+#EXTINF:-1 group-title="21/01/2017",PT: BENFICA TV2 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3664.ts
-#EXTINF:-1 group-title="21/01/2017"PT: BENEFICA TV1 HD
+#EXTINF:-1 group-title="21/01/2017",PT: BENEFICA TV1 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3663.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar Moto GP
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar Moto GP
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3650.ts
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar  Xtra HD
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar  Xtra HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3656.ts
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar  Golf
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar  Golf
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3655.ts
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar  Futbol
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar  Futbol
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3654.ts
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar  Formula 1
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar  Formula 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3653.ts
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar  Deportes 2
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar  Deportes 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3652.ts
-#EXTINF:-1 group-title="21/01/2017"ES: Movistar  Deportes 1
+#EXTINF:-1 group-title="21/01/2017",ES: Movistar  Deportes 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3651.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"BAND SPORTS HD
+#EXTINF:-1 group-title="21/01/2017",BAND SPORTS HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/515.ts
-#EXTINF:-1 group-title="21/01/2017"Band Sports
+#EXTINF:-1 group-title="21/01/2017",Band Sports
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/717.ts
-#EXTINF:-1 group-title="21/01/2017"Fox Sports HD
+#EXTINF:-1 group-title="21/01/2017",Fox Sports HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/464.ts
-#EXTINF:-1 group-title="21/01/2017"Fox Sports
+#EXTINF:-1 group-title="21/01/2017",Fox Sports
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/695.ts
-#EXTINF:-1 group-title="21/01/2017"FOX SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",FOX SPORTS 2 HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/465.ts
-#EXTINF:-1 group-title="21/01/2017"Fox Sports 2
+#EXTINF:-1 group-title="21/01/2017",Fox Sports 2
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/696.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV  HD
+#EXTINF:-1 group-title="21/01/2017",SPORTV  HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/512.ts
-#EXTINF:-1 group-title="21/01/2017"SporTV
+#EXTINF:-1 group-title="21/01/2017",SporTV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/212.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV 2 HD
+#EXTINF:-1 group-title="21/01/2017",SPORTV 2 HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/508.ts
-#EXTINF:-1 group-title="21/01/2017"SporTV 2
+#EXTINF:-1 group-title="21/01/2017",SporTV 2
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/213.ts
-#EXTINF:-1 group-title="21/01/2017"SPORTV 3 HD
+#EXTINF:-1 group-title="21/01/2017",SPORTV 3 HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/511.ts
-#EXTINF:-1 group-title="21/01/2017"SporTV 3
+#EXTINF:-1 group-title="21/01/2017",SporTV 3
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/214.ts
-#EXTINF:-1 group-title="21/01/2017"ESPN BRASIL HD
+#EXTINF:-1 group-title="21/01/2017",ESPN BRASIL HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/492.ts
-#EXTINF:-1 group-title="21/01/2017"ESPN BRASIL- HD
+#EXTINF:-1 group-title="21/01/2017",ESPN BRASIL- HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/520.ts
-#EXTINF:-1 group-title="21/01/2017"ESPN- HD
+#EXTINF:-1 group-title="21/01/2017",ESPN- HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/521.ts
-#EXTINF:-1 group-title="21/01/2017"ESPN
+#EXTINF:-1 group-title="21/01/2017",ESPN
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/697.ts
-#EXTINF:-1 group-title="21/01/2017"ESPN + HD
+#EXTINF:-1 group-title="21/01/2017",ESPN + HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/522.ts
-#EXTINF:-1 group-title="21/01/2017"ESPN +
+#EXTINF:-1 group-title="21/01/2017",ESPN +
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/698.ts
-#EXTINF:-1 group-title="21/01/2017"Esporte Interativo HD
+#EXTINF:-1 group-title="21/01/2017",Esporte Interativo HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/662.ts
-#EXTINF:-1 group-title="21/01/2017"EI Maxx HD
+#EXTINF:-1 group-title="21/01/2017",EI Maxx HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/660.ts
-#EXTINF:-1 group-title="21/01/2017"EI Maxx 2 HD
+#EXTINF:-1 group-title="21/01/2017",EI Maxx 2 HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/661.ts
-#EXTINF:-1 group-title="21/01/2017"COMBATE HD
+#EXTINF:-1 group-title="21/01/2017",COMBATE HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/451.ts
-#EXTINF:-1 group-title="21/01/2017"Combate
+#EXTINF:-1 group-title="21/01/2017",Combate
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/114.ts
-#EXTINF:-1 group-title="21/01/2017"ALL SPORTS BR
+#EXTINF:-1 group-title="21/01/2017",ALL SPORTS BR
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/765.ts
-#EXTINF:-1 group-title="21/01/2017"MULTISHOW HD
+#EXTINF:-1 group-title="21/01/2017",MULTISHOW HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/476.ts
-#EXTINF:-1 group-title="21/01/2017"Multishow
+#EXTINF:-1 group-title="21/01/2017",Multishow
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/174.ts
-#EXTINF:-1 group-title="21/01/2017"MTV-HD
+#EXTINF:-1 group-title="21/01/2017",MTV-HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/620.ts
-#EXTINF:-1 group-title="21/01/2017"OFF
+#EXTINF:-1 group-title="21/01/2017",OFF
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/183.ts
-#EXTINF:-1 group-title="21/01/2017"VIVA HD
+#EXTINF:-1 group-title="21/01/2017",VIVA HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/491.ts
-#EXTINF:-1 group-title="21/01/2017"Viva
+#EXTINF:-1 group-title="21/01/2017",Viva
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/243.ts
-#EXTINF:-1 group-title="21/01/2017"BIS
+#EXTINF:-1 group-title="21/01/2017",BIS
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/102.ts
-#EXTINF:-1 group-title="21/01/2017"VH1 HD
+#EXTINF:-1 group-title="21/01/2017",VH1 HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/676.ts
-#EXTINF:-1 group-title="21/01/2017"VH 1 Mega Hits
+#EXTINF:-1 group-title="21/01/2017",VH 1 Mega Hits
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/735.ts
-#EXTINF:-1 group-title="21/01/2017"VH1 CLASSIC
+#EXTINF:-1 group-title="21/01/2017",VH1 CLASSIC
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/792.ts
-#EXTINF:-1 group-title="21/01/2017"VH1 SHUFFLE
+#EXTINF:-1 group-title="21/01/2017",VH1 SHUFFLE
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/793.ts
-#EXTINF:-1 group-title="21/01/2017"ICONCERTS
+#EXTINF:-1 group-title="21/01/2017",ICONCERTS
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/796.ts
-#EXTINF:-1 group-title="21/01/2017"FASHION TV
+#EXTINF:-1 group-title="21/01/2017",FASHION TV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/797.ts
-#EXTINF:-1 group-title="21/01/2017"Mix TV
+#EXTINF:-1 group-title="21/01/2017",Mix TV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/715.ts
-#EXTINF:-1 group-title="21/01/2017"TRUTV
+#EXTINF:-1 group-title="21/01/2017",TRUTV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/716.ts
-#EXTINF:-1 group-title="21/01/2017"Music Box Brasil
+#EXTINF:-1 group-title="21/01/2017",Music Box Brasil
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/762.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"Play TV
+#EXTINF:-1 group-title="21/01/2017",Play TV
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/744.ts
-#EXTINF:-1 group-title="21/01/2017"Prime Box Brasil
+#EXTINF:-1 group-title="21/01/2017",Prime Box Brasil
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/764.ts
-#EXTINF:-1 group-title="21/01/2017"GNT
+#EXTINF:-1 group-title="21/01/2017",GNT
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/157.ts
-#EXTINF:-1 group-title="21/01/2017"COMEDY CENTRAL HD
+#EXTINF:-1 group-title="21/01/2017",COMEDY CENTRAL HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/452.ts
-#EXTINF:-1 group-title="21/01/2017"FOX-HD
+#EXTINF:-1 group-title="21/01/2017",FOX-HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/671.ts
-#EXTINF:-1 group-title="21/01/2017"FOX HQ
+#EXTINF:-1 group-title="21/01/2017",FOX HQ
 http://lbsp04.ddns.me:25461/live/YL6wdqDmAe/JXrT1V9qwq/103.ts
-#EXTINF:-1 group-title="21/01/2017"FOX
+#EXTINF:-1 group-title="21/01/2017",FOX
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/816.ts
-#EXTINF:-1 group-title="21/01/2017"FX HD
+#EXTINF:-1 group-title="21/01/2017",FX HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/462.ts
-#EXTINF:-1 group-title="21/01/2017"FX
+#EXTINF:-1 group-title="21/01/2017",FX
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/670.ts
-#EXTINF:-1 group-title="21/01/2017"Fox Action
+#EXTINF:-1 group-title="21/01/2017",Fox Action
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/743.ts
-#EXTINF:-1 group-title="21/01/2017"FOX LIFE HD
+#EXTINF:-1 group-title="21/01/2017",FOX LIFE HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/463.ts
-#EXTINF:-1 group-title="21/01/2017"UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="21/01/2017",UNIVERSAL CHANNEL
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/700.ts
-#EXTINF:-1 group-title="21/01/2017"STUDIO UNIVERSAL
+#EXTINF:-1 group-title="21/01/2017",STUDIO UNIVERSAL
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/720.ts
-#EXTINF:-1 group-title="21/01/2017"CANAL SONY HD
+#EXTINF:-1 group-title="21/01/2017",CANAL SONY HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/507.ts
-#EXTINF:-1 group-title="21/01/2017"SONNY
+#EXTINF:-1 group-title="21/01/2017",SONNY
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/719.ts
-#EXTINF:-1 group-title="21/01/2017"WARNER CHANNEL HD
+#EXTINF:-1 group-title="21/01/2017",WARNER CHANNEL HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/500.ts
-#EXTINF:-1 group-title="21/01/2017"Waner Channel
+#EXTINF:-1 group-title="21/01/2017",Waner Channel
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/739.ts
-#EXTINF:-1 group-title="21/01/2017"Lifetime
+#EXTINF:-1 group-title="21/01/2017",Lifetime
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/725.ts
-#EXTINF:-1 group-title="21/01/2017"AMC HD
+#EXTINF:-1 group-title="21/01/2017",AMC HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/701.ts
-#EXTINF:-1 group-title="21/01/2017"SYFY HD
+#EXTINF:-1 group-title="21/01/2017",SYFY HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/480.ts
-#EXTINF:-1 group-title="21/01/2017"A&E HD
+#EXTINF:-1 group-title="21/01/2017",A&E HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/745.ts
-#EXTINF:-1 group-title="21/01/2017"TBS
+#EXTINF:-1 group-title="21/01/2017",TBS
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/683.ts
-#EXTINF:-1 group-title="21/01/2017"I-SAT
+#EXTINF:-1 group-title="21/01/2017",I-SAT
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/727.ts
-#EXTINF:-1 group-title="21/01/2017"AXN HD
+#EXTINF:-1 group-title="21/01/2017",AXN HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/447.ts
-#EXTINF:-1 group-title="21/01/2017"CINEMAX HD
+#EXTINF:-1 group-title="21/01/2017",CINEMAX HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/450.ts
-#EXTINF:-1 group-title="21/01/2017"Paramount HD
+#EXTINF:-1 group-title="21/01/2017",Paramount HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/709.ts
-#EXTINF:-1 group-title="21/01/2017"SPACE HD
+#EXTINF:-1 group-title="21/01/2017",SPACE HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/479.ts
-#EXTINF:-1 group-title="21/01/2017"SPACE
+#EXTINF:-1 group-title="21/01/2017",SPACE
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/713.ts
-#EXTINF:-1 group-title="21/01/2017"MEGAPIX HD
+#EXTINF:-1 group-title="21/01/2017",MEGAPIX HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/475.ts
-#EXTINF:-1 group-title="21/01/2017"MEGAPIX
+#EXTINF:-1 group-title="21/01/2017",MEGAPIX
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/722.ts
-#EXTINF:-1 group-title="21/01/2017"MAX UP HD
+#EXTINF:-1 group-title="21/01/2017",MAX UP HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/503.ts
-#EXTINF:-1 group-title="21/01/2017"MAX UP
+#EXTINF:-1 group-title="21/01/2017",MAX UP
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/730.ts
-#EXTINF:-1 group-title="21/01/2017"MAX PRIME HD
+#EXTINF:-1 group-title="21/01/2017",MAX PRIME HD
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/502.ts
-#EXTINF:-1 group-title="21/01/2017"MAX PRIME
+#EXTINF:-1 group-title="21/01/2017",MAX PRIME
 http://painel.tvdigitalsbl.net:8081/live/CarlosWilliam/9heQomiJYl/729.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports F1 HD
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports F1 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5164.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 5
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 5
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5163.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 4
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 4
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5162.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 3
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 3
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5161.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 2
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5160.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 1
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5159.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sport News
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sport News
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5165.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Premier Sports HD
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Premier Sports HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5166.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: BT Sport 3
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: BT Sport 3
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5158.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: BT Sport 2
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: BT Sport 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5157.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: BT Sport 1
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: BT Sport 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5156.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 1 HD
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/18.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/16.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORT 3 HD
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORT 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/14.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 4 HD
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/12.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 5 HD
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/10.ts
-#EXTINF:-1 group-title="21/01/2017"UK SKY SPORTS F1 HD
+#EXTINF:-1 group-title="21/01/2017",UK SKY SPORTS F1 HD
 http://151.80.97.110:25461/live/daniel/daniel/51.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS 1 HD
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/1849.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/5.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS 3 HD
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/2.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 1
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 1
 http://151.80.97.110:25461/live/daniel/daniel/17.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 2
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 2
 http://151.80.97.110:25461/live/daniel/daniel/15.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 3
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 3
 http://151.80.97.110:25461/live/daniel/daniel/13.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 4
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 4
 http://151.80.97.110:25461/live/daniel/daniel/11.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS 5
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS 5
 http://151.80.97.110:25461/live/daniel/daniel/9.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS F1
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS F1
 http://151.80.97.110:25461/live/daniel/daniel/2703.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS NEWS HD
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS NEWS HD
 http://151.80.97.110:25461/live/daniel/daniel/8.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SKY SPORTS MIX
+#EXTINF:-1 group-title="21/01/2017",UK : SKY SPORTS MIX
 http://151.80.97.110:25461/live/daniel/daniel/1660.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK: SkySpBoxOff (PPV Events Only)
+#EXTINF:-1 group-title="21/01/2017",UK: SkySpBoxOff (PPV Events Only)
 http://151.80.97.110:25461/live/daniel/daniel/858.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS 1
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS 1
 http://151.80.97.110:25461/live/daniel/daniel/6.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS 2
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS 2
 http://151.80.97.110:25461/live/daniel/daniel/4.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS 3
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS 3
 http://151.80.97.110:25461/live/daniel/daniel/2702.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORT ESPN HD
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORT ESPN HD
 http://151.80.97.110:25461/live/daniel/daniel/3.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS EXTRA 1
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS EXTRA 1
 http://151.80.97.110:25461/live/daniel/daniel/870.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS EXTRA 2
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS EXTRA 2
 http://151.80.97.110:25461/live/daniel/daniel/871.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS EXTRA 3
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS EXTRA 3
 http://151.80.97.110:25461/live/daniel/daniel/872.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS EXTRA 4
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS EXTRA 4
 http://151.80.97.110:25461/live/daniel/daniel/873.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS EXTRA 5
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS EXTRA 5
 http://151.80.97.110:25461/live/daniel/daniel/874.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BT SPORTS MOSAIC
+#EXTINF:-1 group-title="21/01/2017",UK : BT SPORTS MOSAIC
 http://151.80.97.110:25461/live/daniel/daniel/876.ts
-#EXTINF:-1 group-title="21/01/2017"UK BT SPORTS MOSAIC 2
+#EXTINF:-1 group-title="21/01/2017",UK BT SPORTS MOSAIC 2
 http://151.80.97.110:25461/live/daniel/daniel/877.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BRITISH EUROSPORTS
+#EXTINF:-1 group-title="21/01/2017",UK : BRITISH EUROSPORTS
 http://151.80.97.110:25461/live/daniel/daniel/947.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BRITISH EURO SPORTS 2
+#EXTINF:-1 group-title="21/01/2017",UK : BRITISH EURO SPORTS 2
 http://151.80.97.110:25461/live/daniel/daniel/485.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"UK: MUTV HD
+#EXTINF:-1 group-title="21/01/2017",UK: MUTV HD
 http://151.80.97.110:25461/live/daniel/daniel/1103.ts
-#EXTINF:-1 group-title="21/01/2017"UK : MUTV
+#EXTINF:-1 group-title="21/01/2017",UK : MUTV
 http://151.80.97.110:25461/live/daniel/daniel/254.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK : PREMIER SPORTS HD
+#EXTINF:-1 group-title="21/01/2017",UK : PREMIER SPORTS HD
 http://151.80.97.110:25461/live/daniel/daniel/21.ts
-#EXTINF:-1 group-title="21/01/2017"UK : PREMIER SPORTS
+#EXTINF:-1 group-title="21/01/2017",UK : PREMIER SPORTS
 http://151.80.97.110:25461/live/daniel/daniel/244.ts
 
-#EXTINF:-1 group-title="21/01/2017"IRE : SKY SPORTS 1
+#EXTINF:-1 group-title="21/01/2017",IRE : SKY SPORTS 1
 http://151.80.97.110:25461/live/daniel/daniel/5343.ts
-#EXTINF:-1 group-title="21/01/2017"IRE : SKY SPORTS 2
+#EXTINF:-1 group-title="21/01/2017",IRE : SKY SPORTS 2
 http://151.80.97.110:25461/live/daniel/daniel/5342.ts
-#EXTINF:-1 group-title="21/01/2017"IRE : SKY SPORTS 3
+#EXTINF:-1 group-title="21/01/2017",IRE : SKY SPORTS 3
 http://151.80.97.110:25461/live/daniel/daniel/5341.ts
-#EXTINF:-1 group-title="21/01/2017"IRE : SKY SPORTS 4
+#EXTINF:-1 group-title="21/01/2017",IRE : SKY SPORTS 4
 http://151.80.97.110:25461/live/daniel/daniel/5340.ts
-#EXTINF:-1 group-title="21/01/2017"IRE : SKY SPORTS 5
+#EXTINF:-1 group-title="21/01/2017",IRE : SKY SPORTS 5
 http://151.80.97.110:25461/live/daniel/daniel/5339.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SKY BOX OFFICE
+#EXTINF:-1 group-title="21/01/2017",UK: SKY BOX OFFICE
 http://151.80.97.110:25461/live/daniel/daniel/19.ts
-#EXTINF:-1 group-title="21/01/2017"UK : Extreme Sports
+#EXTINF:-1 group-title="21/01/2017",UK : Extreme Sports
 http://151.80.97.110:25461/live/daniel/daniel/1442.ts
-#EXTINF:-1 group-title="21/01/2017"UK : BOX NATION
+#EXTINF:-1 group-title="21/01/2017",UK : BOX NATION
 http://151.80.97.110:25461/live/daniel/daniel/243.ts
-#EXTINF:-1 group-title="21/01/2017"UK : EIR SPORTS 2
+#EXTINF:-1 group-title="21/01/2017",UK : EIR SPORTS 2
 http://151.80.97.110:25461/live/daniel/daniel/841.ts
-#EXTINF:-1 group-title="21/01/2017"UK : EIR SPORTS 1
+#EXTINF:-1 group-title="21/01/2017",UK : EIR SPORTS 1
 http://151.80.97.110:25461/live/daniel/daniel/842.ts
-#EXTINF:-1 group-title="21/01/2017"UK : LFC TV
+#EXTINF:-1 group-title="21/01/2017",UK : LFC TV
 http://151.80.97.110:25461/live/daniel/daniel/253.ts
-#EXTINF:-1 group-title="21/01/2017"UK : CHELSEA TV
+#EXTINF:-1 group-title="21/01/2017",UK : CHELSEA TV
 http://151.80.97.110:25461/live/daniel/daniel/247.ts
-#EXTINF:-1 group-title="21/01/2017"UK : RANGERS TV
+#EXTINF:-1 group-title="21/01/2017",UK : RANGERS TV
 http://151.80.97.110:25461/live/daniel/daniel/946.ts
-#EXTINF:-1 group-title="21/01/2017"UK : CELTIC TV
+#EXTINF:-1 group-title="21/01/2017",UK : CELTIC TV
 http://151.80.97.110:25461/live/daniel/daniel/945.ts
-#EXTINF:-1 group-title="21/01/2017"UK : SENTANTA
+#EXTINF:-1 group-title="21/01/2017",UK : SENTANTA
 http://151.80.97.110:25461/live/daniel/daniel/245.ts
-#EXTINF:-1 group-title="21/01/2017"UK : AT THE RACES
+#EXTINF:-1 group-title="21/01/2017",UK : AT THE RACES
 http://151.80.97.110:25461/live/daniel/daniel/242.ts
-#EXTINF:-1 group-title="21/01/2017"UK : RACING UK HD
+#EXTINF:-1 group-title="21/01/2017",UK : RACING UK HD
 http://151.80.97.110:25461/live/daniel/daniel/22.ts
-#EXTINF:-1 group-title="21/01/2017"UK: Racing UK
+#EXTINF:-1 group-title="21/01/2017",UK: Racing UK
 http://151.80.97.110:25461/live/daniel/daniel/831.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK : MOTORS TV
+#EXTINF:-1 group-title="21/01/2017",UK : MOTORS TV
 http://151.80.97.110:25461/live/daniel/daniel/193.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK : BIKE
+#EXTINF:-1 group-title="21/01/2017",UK : BIKE
 http://151.80.97.110:25461/live/daniel/daniel/881.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK : REDBULL TV
+#EXTINF:-1 group-title="21/01/2017",UK : REDBULL TV
 http://151.80.97.110:25461/live/daniel/daniel/10116.ts
 
-#EXTINF:-1 group-title="21/01/2017"UK : AMC FROM BT
+#EXTINF:-1 group-title="21/01/2017",UK : AMC FROM BT
 http://151.80.97.110:25461/live/daniel/daniel/884.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports F1 HD
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports F1 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5164.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 5
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 5
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5163.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 4
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 4
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5162.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 3
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 3
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5161.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 2
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5160.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sports 1
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sports 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5159.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Sky Sport News
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Sky Sport News
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5165.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: Premier Sports HD
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: Premier Sports HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5166.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: BT Sport 3
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: BT Sport 3
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5158.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: BT Sport 2
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: BT Sport 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5157.ts
-#EXTINF:-1 group-title="21/01/2017"UK: SPORT: BT Sport 1
+#EXTINF:-1 group-title="21/01/2017",UK: SPORT: BT Sport 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/5156.ts
 
-#EXTINF:-1 group-title="21/01/2017"IT: Rai Sports 2
+#EXTINF:-1 group-title="21/01/2017",IT: Rai Sports 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4226.ts
-#EXTINF:-1 group-title="21/01/2017"IT: Rai Sports 1
+#EXTINF:-1 group-title="21/01/2017",IT: Rai Sports 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4227.ts
 
-#EXTINF:-1 group-title="21/01/2017"==================NETHERLANDS===================
+#EXTINF:-1 group-title="21/01/2017",==================NETHERLANDS===================
 http://151.80.97.110:25461/live/daniel/daniel/4794.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Fox Sport 1
+#EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 1
 http://151.80.97.110:25461/live/daniel/daniel/912.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Fox Sport 2
+#EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 2
 http://151.80.97.110:25461/live/daniel/daniel/911.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Fox Sport 3
+#EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 3
 http://151.80.97.110:25461/live/daniel/daniel/910.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Fox Sport 4
+#EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 4
 http://151.80.97.110:25461/live/daniel/daniel/909.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Fox Sport 5
+#EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 5
 http://151.80.97.110:25461/live/daniel/daniel/908.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Fox Sport 6
+#EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 6
 http://151.80.97.110:25461/live/daniel/daniel/907.ts
-#EXTINF:-1 group-title="21/01/2017"NL: ZIGGO Golf
+#EXTINF:-1 group-title="21/01/2017",NL: ZIGGO Golf
 http://151.80.97.110:25461/live/daniel/daniel/902.ts
-#EXTINF:-1 group-title="21/01/2017"NL | Sport1 Votbal
+#EXTINF:-1 group-title="21/01/2017",NL | Sport1 Votbal
 http://151.80.97.110:25461/live/daniel/daniel/898.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Sport1 Racing
+#EXTINF:-1 group-title="21/01/2017",NL: Sport1 Racing
 http://151.80.97.110:25461/live/daniel/daniel/899.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Sport1 Golf
+#EXTINF:-1 group-title="21/01/2017",NL: Sport1 Golf
 http://151.80.97.110:25461/live/daniel/daniel/900.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Sport 1 Select HD
+#EXTINF:-1 group-title="21/01/2017",NL: Sport 1 Select HD
 http://151.80.97.110:25461/live/daniel/daniel/901.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Sport 1 Extra 2
+#EXTINF:-1 group-title="21/01/2017",NL: Sport 1 Extra 2
 http://151.80.97.110:25461/live/daniel/daniel/903.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Sport 1 Extra 1
+#EXTINF:-1 group-title="21/01/2017",NL: Sport 1 Extra 1
 http://151.80.97.110:25461/live/daniel/daniel/904.ts
-#EXTINF:-1 group-title="21/01/2017"NL: Sport 1 Extra
+#EXTINF:-1 group-title="21/01/2017",NL: Sport 1 Extra
 http://151.80.97.110:25461/live/daniel/daniel/905.ts
-#EXTINF:-1 group-title="21/01/2017"Sport1-Voetbal NL
+#EXTINF:-1 group-title="21/01/2017",Sport1-Voetbal NL
 http://newlook.ddns.net:9880/live/amy1_94940/45028/2766.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"AUS : HISENSE ARENA*
+#EXTINF:-1 group-title="21/01/2017",AUS : HISENSE ARENA*
 http://151.80.97.110:25461/live/daniel/daniel/10489.ts
-#EXTINF:-1 group-title="21/01/2017"AUS : MARGARET COURT AREAN*
+#EXTINF:-1 group-title="21/01/2017",AUS : MARGARET COURT AREAN*
 http://151.80.97.110:25461/live/daniel/daniel/10490.ts
-#EXTINF:-1 group-title="21/01/2017"AUS : ROD LAVER ARENA*
+#EXTINF:-1 group-title="21/01/2017",AUS : ROD LAVER ARENA*
 http://151.80.97.110:25461/live/daniel/daniel/10491.ts
-#EXTINF:-1 group-title="21/01/2017"AUS : SHOW COURT 2*
+#EXTINF:-1 group-title="21/01/2017",AUS : SHOW COURT 2*
 http://151.80.97.110:25461/live/daniel/daniel/10503.ts
-#EXTINF:-1 group-title="21/01/2017"AUS : SHOW COURT 3*
+#EXTINF:-1 group-title="21/01/2017",AUS : SHOW COURT 3*
 http://151.80.97.110:25461/live/daniel/daniel/10504.ts
-#EXTINF:-1 group-title="21/01/2017"AUS : SHOW COURT 5*
+#EXTINF:-1 group-title="21/01/2017",AUS : SHOW COURT 5*
 http://151.80.97.110:25461/live/daniel/daniel/10702.ts
-#EXTINF:-1 group-title="21/01/2017"AUS : SHOW COURT 13*
+#EXTINF:-1 group-title="21/01/2017",AUS : SHOW COURT 13*
 http://151.80.97.110:25461/live/daniel/daniel/10703.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"=================WORLD=================
+#EXTINF:-1 group-title="21/01/2017",=================WORLD=================
 http://151.80.97.110:25461/live/daniel/daniel/4792.ts
-#EXTINF:-1 group-title="21/01/2017"IN : WILLOW HD
+#EXTINF:-1 group-title="21/01/2017",IN : WILLOW HD
 http://151.80.97.110:25461/live/daniel/daniel/1554.ts
-#EXTINF:-1 group-title="21/01/2017"ML : ASTRO SUPERSPORTS 1 HD
+#EXTINF:-1 group-title="21/01/2017",ML : ASTRO SUPERSPORTS 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/1433.ts
-#EXTINF:-1 group-title="21/01/2017"ML : ASTRO SUPERSPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",ML : ASTRO SUPERSPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/1434.ts
-#EXTINF:-1 group-title="21/01/2017"ML : ASTRO SUPERSPORTS 3 HD
+#EXTINF:-1 group-title="21/01/2017",ML : ASTRO SUPERSPORTS 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/1435.ts
-#EXTINF:-1 group-title="21/01/2017"ML : ASTRO SUPERSPORTS 4 HD
+#EXTINF:-1 group-title="21/01/2017",ML : ASTRO SUPERSPORTS 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/1436.ts
 
 
 
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 1 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/8741.ts
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 2 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/8742.ts
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 3 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/8743.ts
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 4 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/8744.ts
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 5 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/8745.ts
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 6 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 6 HD
 http://151.80.97.110:25461/live/daniel/daniel/8746.ts
-#EXTINF:-1 group-title="21/01/2017"USA : NBC XTRA TIME 7 HD
+#EXTINF:-1 group-title="21/01/2017",USA : NBC XTRA TIME 7 HD
 http://151.80.97.110:25461/live/daniel/daniel/8747.ts
-#EXTINF:-1 group-title="21/01/2017"USA : TENNIS CHANNEL HD
+#EXTINF:-1 group-title="21/01/2017",USA : TENNIS CHANNEL HD
 http://151.80.97.110:25461/live/daniel/daniel/10466.ts
-#EXTINF:-1 group-title="21/01/2017"================CANADA=================
+#EXTINF:-1 group-title="21/01/2017",================CANADA=================
 http://151.80.97.110:25461/live/daniel/daniel/4788.ts
-#EXTINF:-1 group-title="21/01/2017"CA : TSN 1 HD
+#EXTINF:-1 group-title="21/01/2017",CA : TSN 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/259.ts
-#EXTINF:-1 group-title="21/01/2017"CA : TSN 2 HD
+#EXTINF:-1 group-title="21/01/2017",CA : TSN 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/260.ts
-#EXTINF:-1 group-title="21/01/2017"CA : TSN 3 HD
+#EXTINF:-1 group-title="21/01/2017",CA : TSN 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/270.ts
-#EXTINF:-1 group-title="21/01/2017"CA : TSN 4 HD
+#EXTINF:-1 group-title="21/01/2017",CA : TSN 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/262.ts
-#EXTINF:-1 group-title="21/01/2017"CA : TSN 5 HD
+#EXTINF:-1 group-title="21/01/2017",CA : TSN 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/269.ts
-#EXTINF:-1 group-title="21/01/2017"CA : SPORTSNET WORLD HD
+#EXTINF:-1 group-title="21/01/2017",CA : SPORTSNET WORLD HD
 http://151.80.97.110:25461/live/daniel/daniel/1558.ts
-#EXTINF:-1 group-title="21/01/2017"CA : SPORTSNET PACIFIC HD
+#EXTINF:-1 group-title="21/01/2017",CA : SPORTSNET PACIFIC HD
 http://151.80.97.110:25461/live/daniel/daniel/1690.ts
-#EXTINF:-1 group-title="21/01/2017"CA : Sportsnet West HD
+#EXTINF:-1 group-title="21/01/2017",CA : Sportsnet West HD
 http://151.80.97.110:25461/live/daniel/daniel/1691.ts
-#EXTINF:-1 group-title="21/01/2017"CA : Sportsnet One HD
+#EXTINF:-1 group-title="21/01/2017",CA : Sportsnet One HD
 http://151.80.97.110:25461/live/daniel/daniel/1622.ts
-#EXTINF:-1 group-title="21/01/2017"CA : Sportsnet 360 HD
+#EXTINF:-1 group-title="21/01/2017",CA : Sportsnet 360 HD
 http://151.80.97.110:25461/live/daniel/daniel/1623.ts
-#EXTINF:-1 group-title="21/01/2017"==============V.I.P==============
+#EXTINF:-1 group-title="21/01/2017",==============V.I.P==============
 http://151.80.97.110:25461/live/daniel/daniel/2707.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: BT Sport 1 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: BT Sport 1 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4974.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: BT Sport 2 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: BT Sport 2 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4973.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: BT Sport 3 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: BT Sport 3 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4972.ts
-#EXTINF:-1 group-title="21/01/2017"UFC Fight PASS HD (Live Events Only)
+#EXTINF:-1 group-title="21/01/2017",UFC Fight PASS HD (Live Events Only)
 http://151.80.97.110:25461/live/daniel/daniel/10441.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports 1 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports 1 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4971.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: Sky Sports 2 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: Sky Sports 2 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4970.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: Sky Sports 3 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: Sky Sports 3 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4969.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: Sky Sports 4 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: Sky Sports 4 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4968.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: SKY SPORTS 5 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: SKY SPORTS 5 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4967.ts
-#EXTINF:-1 group-title="21/01/2017"VIP: SKY SPORTS F1 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP: SKY SPORTS F1 FHD
 http://151.80.97.110:25461/live/daniel/daniel/4966.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports 1 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/4985.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports 2 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/4984.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports 3 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/4983.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports 4 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/4982.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports 5 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/4981.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Spts F1 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Spts F1 HD
 http://151.80.97.110:25461/live/daniel/daniel/4980.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : Sky Sports News HD
+#EXTINF:-1 group-title="21/01/2017",VIP : Sky Sports News HD
 http://151.80.97.110:25461/live/daniel/daniel/4979.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS MIX HD
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS MIX HD
 http://151.80.97.110:25461/live/daniel/daniel/4978.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : BT SPORTS 1 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : BT SPORTS 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/4977.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : BT SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : BT SPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/4976.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : BT SPORTS 3 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : BT SPORTS 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/4975.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : SKY SPORTS MIX HD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : SKY SPORTS MIX HD
 http://151.80.97.110:25461/live/daniel/daniel/2587.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : BRITISH EUROSPORTS HD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : BRITISH EUROSPORTS HD
 http://151.80.97.110:25461/live/daniel/daniel/1823.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : BRITISH EUROSPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : BRITISH EUROSPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/1824.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : PREMIER SPORTS FHD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : PREMIER SPORTS FHD
 http://151.80.97.110:25461/live/daniel/daniel/9850.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : EIR SPORTS 2 FHD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : EIR SPORTS 2 FHD
 http://151.80.97.110:25461/live/daniel/daniel/9848.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : EIR SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : EIR SPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/9849.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : LFC TV HD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : LFC TV HD
 http://151.80.97.110:25461/live/daniel/daniel/2322.ts
-#EXTINF:-1 group-title="21/01/2017"VIP UK : MUTV FHD
+#EXTINF:-1 group-title="21/01/2017",VIP UK : MUTV FHD
 http://151.80.97.110:25461/live/daniel/daniel/9906.ts
-#EXTINF:-1 group-title="21/01/2017"VIp : SKYNET SPORTS 1 SD
+#EXTINF:-1 group-title="21/01/2017",VIp : SKYNET SPORTS 1 SD
 http://151.80.97.110:25461/live/daniel/daniel/4991.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKYNET SPORTS 2 SD
+#EXTINF:-1 group-title="21/01/2017",VIP : SKYNET SPORTS 2 SD
 http://151.80.97.110:25461/live/daniel/daniel/4990.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKYNET SPORTS 3 SD
+#EXTINF:-1 group-title="21/01/2017",VIP : SKYNET SPORTS 3 SD
 http://151.80.97.110:25461/live/daniel/daniel/4989.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKYNET SPORTS 4 SD
+#EXTINF:-1 group-title="21/01/2017",VIP : SKYNET SPORTS 4 SD
 http://151.80.97.110:25461/live/daniel/daniel/4988.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKYNET SPORTS 5 SD
+#EXTINF:-1 group-title="21/01/2017",VIP : SKYNET SPORTS 5 SD
 http://151.80.97.110:25461/live/daniel/daniel/4987.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKYNET SPORTS 6 SD
+#EXTINF:-1 group-title="21/01/2017",VIP : SKYNET SPORTS 6 SD
 http://151.80.97.110:25461/live/daniel/daniel/4986.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 1
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 1
 http://151.80.97.110:25461/live/daniel/daniel/7775.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 2
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 2
 http://151.80.97.110:25461/live/daniel/daniel/7776.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 3
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 3
 http://151.80.97.110:25461/live/daniel/daniel/7777.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 4
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 4
 http://151.80.97.110:25461/live/daniel/daniel/7778.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 5
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 5
 http://151.80.97.110:25461/live/daniel/daniel/7779.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 6
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 6
 http://151.80.97.110:25461/live/daniel/daniel/7780.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 7
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 7
 http://151.80.97.110:25461/live/daniel/daniel/7781.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 8
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 8
 http://151.80.97.110:25461/live/daniel/daniel/7782.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 9
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 9
 http://151.80.97.110:25461/live/daniel/daniel/7783.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : SKY SPORTS ACTIVE 10
+#EXTINF:-1 group-title="21/01/2017",VIP : SKY SPORTS ACTIVE 10
 http://151.80.97.110:25461/live/daniel/daniel/7784.ts
 
-#EXTINF:-1 group-title="21/01/2017"OSN Sports 1 HD
+#EXTINF:-1 group-title="21/01/2017",OSN Sports 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/9654.ts
-#EXTINF:-1 group-title="21/01/2017"OSN Sports 2 HD
+#EXTINF:-1 group-title="21/01/2017",OSN Sports 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/9655.ts
-#EXTINF:-1 group-title="21/01/2017"OSN Sports 3 HD
+#EXTINF:-1 group-title="21/01/2017",OSN Sports 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/9656.ts
-#EXTINF:-1 group-title="21/01/2017"OSN Sports 4 HD
+#EXTINF:-1 group-title="21/01/2017",OSN Sports 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/9657.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : CHCH HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : CHCH HD
 http://151.80.97.110:25461/live/daniel/daniel/5057.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : COOKING CHANNEL
+#EXTINF:-1 group-title="21/01/2017",VIP CA : COOKING CHANNEL
 http://151.80.97.110:25461/live/daniel/daniel/5058.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : ION HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : ION HD
 http://151.80.97.110:25461/live/daniel/daniel/5056.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : PIX 11 HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : PIX 11 HD
 http://151.80.97.110:25461/live/daniel/daniel/5059.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : CBS HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : CBS HD
 http://151.80.97.110:25461/live/daniel/daniel/5065.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : CTV HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : CTV HD
 http://151.80.97.110:25461/live/daniel/daniel/5063.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : FOX HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : FOX HD
 http://151.80.97.110:25461/live/daniel/daniel/5062.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : NBC HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : NBC HD
 http://151.80.97.110:25461/live/daniel/daniel/5061.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : PBS FHD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : PBS FHD
 http://151.80.97.110:25461/live/daniel/daniel/5067.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SLICE HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SLICE HD
 http://151.80.97.110:25461/live/daniel/daniel/5060.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET 360 HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET 360 HD
 http://151.80.97.110:25461/live/daniel/daniel/9908.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET EAST HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET EAST HD
 http://151.80.97.110:25461/live/daniel/daniel/9909.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET ONE HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET ONE HD
 http://151.80.97.110:25461/live/daniel/daniel/9907.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET ONTARIO HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET ONTARIO HD
 http://151.80.97.110:25461/live/daniel/daniel/9910.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET PACIFIC HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET PACIFIC HD
 http://151.80.97.110:25461/live/daniel/daniel/9911.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET WEST HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET WEST HD
 http://151.80.97.110:25461/live/daniel/daniel/9912.ts
-#EXTINF:-1 group-title="21/01/2017"VIP CA : SPORTSNET WORLD HD
+#EXTINF:-1 group-title="21/01/2017",VIP CA : SPORTSNET WORLD HD
 http://151.80.97.110:25461/live/daniel/daniel/9913.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : ELEVEN HD
+#EXTINF:-1 group-title="21/01/2017",VIP : ELEVEN HD
 http://151.80.97.110:25461/live/daniel/daniel/9929.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : ELEVEN SPORTS HD
+#EXTINF:-1 group-title="21/01/2017",VIP : ELEVEN SPORTS HD
 http://151.80.97.110:25461/live/daniel/daniel/9928.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : MIO STADMIUM 102 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : MIO STADMIUM 102 HD
 http://151.80.97.110:25461/live/daniel/daniel/9927.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : ELEVEN PLUS 103 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : ELEVEN PLUS 103 HD
 http://151.80.97.110:25461/live/daniel/daniel/9926.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : MIO STADIUM 104 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : MIO STADIUM 104 HD
 http://151.80.97.110:25461/live/daniel/daniel/9925.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : MIO STADIUM 105 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : MIO STADIUM 105 HD
 http://151.80.97.110:25461/live/daniel/daniel/9924.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : MIO STADIUM 106 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : MIO STADIUM 106 HD
 http://151.80.97.110:25461/live/daniel/daniel/9923.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : MIO STADIUM 107 HD
+#EXTINF:-1 group-title="21/01/2017",VIP : MIO STADIUM 107 HD
 http://151.80.97.110:25461/live/daniel/daniel/9922.ts
-#EXTINF:-1 group-title="21/01/2017"UK : UTV FHD
+#EXTINF:-1 group-title="21/01/2017",UK : UTV FHD
 http://151.80.97.110:25461/live/daniel/daniel/9989.ts
-#EXTINF:-1 group-title="21/01/2017"ML : FOX SPORTS 1 HD
+#EXTINF:-1 group-title="21/01/2017",ML : FOX SPORTS 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/9997.ts
-#EXTINF:-1 group-title="21/01/2017"ML : FOX SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",ML : FOX SPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/9996.ts
-#EXTINF:-1 group-title="21/01/2017"ML : FOX SPORTS 3 HD
+#EXTINF:-1 group-title="21/01/2017",ML : FOX SPORTS 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/9995.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports HK 1 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports HK 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/10088.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 1 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/10089.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 10 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 10 HD
 http://151.80.97.110:25461/live/daniel/daniel/10098.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 2 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/10090.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 3 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/10091.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 4 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/10092.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 5 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/10093.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 6 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 6 HD
 http://151.80.97.110:25461/live/daniel/daniel/10094.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 7 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 7 HD
 http://151.80.97.110:25461/live/daniel/daniel/10095.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 8 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 8 HD
 http://151.80.97.110:25461/live/daniel/daniel/10096.ts
-#EXTINF:-1 group-title="21/01/2017"LE Sports Now HK 9 HD
+#EXTINF:-1 group-title="21/01/2017",LE Sports Now HK 9 HD
 http://151.80.97.110:25461/live/daniel/daniel/10097.ts
-#EXTINF:-1 group-title="21/01/2017"VIP : NBC SPORTS NETWORK HD
+#EXTINF:-1 group-title="21/01/2017",VIP : NBC SPORTS NETWORK HD
 http://151.80.97.110:25461/live/daniel/daniel/10124.ts
-#EXTINF:-1 group-title="21/01/2017"OSN WWE HD
+#EXTINF:-1 group-title="21/01/2017",OSN WWE HD
 http://151.80.97.110:25461/live/daniel/daniel/10133.ts
-#EXTINF:-1 group-title="21/01/2017"USA: El Ray Network
+#EXTINF:-1 group-title="21/01/2017",USA: El Ray Network
 http://151.80.97.110:25461/live/daniel/daniel/10137.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BBC ARABIC
+#EXTINF:-1 group-title="21/01/2017",AR : BBC ARABIC
 http://151.80.97.110:25461/live/daniel/daniel/10252.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 1 HD
 http://151.80.97.110:25461/live/daniel/daniel/9902.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 10 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 10 HD
 http://151.80.97.110:25461/live/daniel/daniel/9901.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 11 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 11 HD
 http://151.80.97.110:25461/live/daniel/daniel/9900.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 12 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 12 HD
 http://151.80.97.110:25461/live/daniel/daniel/9899.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 13 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 13 HD
 http://151.80.97.110:25461/live/daniel/daniel/9898.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 2 HD
 http://151.80.97.110:25461/live/daniel/daniel/9897.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 3 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 3 HD
 http://151.80.97.110:25461/live/daniel/daniel/9896.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 4 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 4 HD
 http://151.80.97.110:25461/live/daniel/daniel/9895.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 5 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 5 HD
 http://151.80.97.110:25461/live/daniel/daniel/9894.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 6 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 6 HD
 http://151.80.97.110:25461/live/daniel/daniel/9893.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 7 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 7 HD
 http://151.80.97.110:25461/live/daniel/daniel/9892.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 8 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 8 HD
 http://151.80.97.110:25461/live/daniel/daniel/9891.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS 9 HD
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS 9 HD
 http://151.80.97.110:25461/live/daniel/daniel/9890.ts
-#EXTINF:-1 group-title="21/01/2017"AR : BEIN SPORTS NEWS
+#EXTINF:-1 group-title="21/01/2017",AR : BEIN SPORTS NEWS
 http://151.80.97.110:25461/live/daniel/daniel/10266.ts
 
-#EXTINF:-1 group-title="21/01/2017"AR:Dubai Sport 3
+#EXTINF:-1 group-title="21/01/2017",AR:Dubai Sport 3
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3597.ts
-#EXTINF:-1 group-title="21/01/2017"AR:Dubai Sport 1
+#EXTINF:-1 group-title="21/01/2017",AR:Dubai Sport 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3596.ts
-#EXTINF:-1 group-title="21/01/2017"AR:AD Sport 2
+#EXTINF:-1 group-title="21/01/2017",AR:AD Sport 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3599.ts
-#EXTINF:-1 group-title="21/01/2017"AR:AD Sport 1
+#EXTINF:-1 group-title="21/01/2017",AR:AD Sport 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3598.ts
 
-#EXTINF:-1 group-title="21/01/2017"AR: Dubai Sport 1
+#EXTINF:-1 group-title="21/01/2017",AR: Dubai Sport 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3980.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Dubai Racing 2
+#EXTINF:-1 group-title="21/01/2017",AR: Dubai Racing 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3981.ts
 
-#EXTINF:-1 group-title="21/01/2017"AR: Dubai Sports 4
+#EXTINF:-1 group-title="21/01/2017",AR: Dubai Sports 4
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4574.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Dubai Sports 3
+#EXTINF:-1 group-title="21/01/2017",AR: Dubai Sports 3
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4573.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Dubai Sports 1
+#EXTINF:-1 group-title="21/01/2017",AR: Dubai Sports 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4572.ts
 
-#EXTINF:-1 group-title="21/01/2017"AR: AD Sports 2
+#EXTINF:-1 group-title="21/01/2017",AR: AD Sports 2
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4533.ts
-#EXTINF:-1 group-title="21/01/2017"AR: AD Sports 1
+#EXTINF:-1 group-title="21/01/2017",AR: AD Sports 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4532.ts
 
-#EXTINF:-1 group-title="21/01/2017"FR: SFR SPORT 3 HD
+#EXTINF:-1 group-title="21/01/2017",FR: SFR SPORT 3 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4642.ts
-#EXTINF:-1 group-title="21/01/2017"FR: SFR SPORT 2 HD
+#EXTINF:-1 group-title="21/01/2017",FR: SFR SPORT 2 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4641.ts
-#EXTINF:-1 group-title="21/01/2017"FR: SFR SPORT 1 HD
+#EXTINF:-1 group-title="21/01/2017",FR: SFR SPORT 1 HD
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4640.ts
 
 
-#EXTINF:-1 group-title="21/01/2017"Arena Sport 2
+#EXTINF:-1 group-title="21/01/2017",Arena Sport 2
 http://109.175.6.67:4023/udp/239.0.1.2:1234
-#EXTINF:-1 group-title="21/01/2017"Arena Sport 3
+#EXTINF:-1 group-title="21/01/2017",Arena Sport 3
 http://109.175.6.67:4023/udp/239.0.1.3:1234
-#EXTINF:-1 group-title="21/01/2017"Arena Sport 4
+#EXTINF:-1 group-title="21/01/2017",Arena Sport 4
 http://109.175.6.67:4023/udp/239.0.1.4:1234
 
 100000 CONNEXIONS : BEIN MAX HD NAT GEO HD GULLI HD
-#EXTINF:-1 group-title="21/01/2017"BEIN SPORT 1 HD 720P LOCAL
+#EXTINF:-1 group-title="21/01/2017",BEIN SPORT 1 HD 720P LOCAL
 http://163.172.105.191:8888/live/test/test/143.ts
-#EXTINF:-1 group-title="21/01/2017"BEIN SPORT 2 HD 720P LOCAL
+#EXTINF:-1 group-title="21/01/2017",BEIN SPORT 2 HD 720P LOCAL
 http://163.172.105.191:8888/live/test/test/145.ts
-#EXTINF:-1 group-title="21/01/2017"BEIN SPORT 3 HD 720P LOCAL
+#EXTINF:-1 group-title="21/01/2017",BEIN SPORT 3 HD 720P LOCAL
 http://163.172.105.191:8888/live/test/test/146.ts
 
-#EXTINF:-1 group-title="21/01/2017"NAT GEO ABU DHABI HD LOCAL
+#EXTINF:-1 group-title="21/01/2017",NAT GEO ABU DHABI HD LOCAL
 http://163.172.105.191:8888/live/test/test/147.ts
-#EXTINF:-1 group-title="21/01/2017"AL AOULA MAROC HD LOCAL
+#EXTINF:-1 group-title="21/01/2017",AL AOULA MAROC HD LOCAL
 http://163.172.105.191:8888/live/test/test/148.ts
-#EXTINF:-1 group-title="21/01/2017"GULLI HD LOCAL
+#EXTINF:-1 group-title="21/01/2017",GULLI HD LOCAL
 http://163.172.105.191:8888/live/test/test/144.ts
+
 
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056",MUTV (source #01)
