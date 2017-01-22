@@ -581,6 +581,170 @@ http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli
 #EXTINF:-1 group-title="21/01/2017",IT: Rai Sports 1
 http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/4227.ts
 
+
+
+
+
+#EXTINF:-1 group-title="21/01/2017",RTP INTERNACIONAL
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1 group-title="21/01/2017",RTP INTERNACIONAL #2
+rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=rtp-play/direto/canais-tv/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 group-title="21/01/2017",BENFICA TV (source #01)
+http://198.255.76.34:8080/benfica1/index.m3u8
+#EXTINF:-1 group-title="21/01/2017",BENFICA TV (source #02)
+http://83.79.134.18:9000/play/btv11234
+
+#EXTINF:-1 group-title="21/01/2017",CM TV (source #02)
+http://83.79.134.18:9000/play/cmtv1234
+
+#EXTINF:-1 group-title="21/01/2017",AFRO MUSIC (source #02)
+http://83.79.134.18:9000/play/a07y
+#EXTINF:-1 group-title="21/01/2017",M6 MUSIQUE (source #01)
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",LA 1 (source #01)
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",LA 5 (source #01)
+http://88.129.154.211:8080/play/a04o
+
+#EXTINF:-1 group-title="21/01/2017",LA 7 (source #01)
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+
+
+#EXTINF:-1 group-title="21/01/2017",LA SEXTA (source #01)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",TV GALICIA (source #01)
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:-1 group-title="21/01/2017",TV GALICIA (source #02)
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",MOVISTAR GOLF (source #01)
+http://83.79.134.18:9000/play/a057
+
+#EXTINF:-1 group-title="21/01/2017",PREMIUM SPORT (source #01)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/536.m3u8
+
+
+#EXTINF:-1 group-title="21/01/2017",PREMIUM STUDIO UNIVERSAL (source #01)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/510.m3u8
+
+
+#EXTINF:-1 group-title="21/01/2017",RAI 1 (source #01)
+http://185.59.220.134/rai1/mpegts
+#EXTINF:-1 group-title="21/01/2017",RAI 1 (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/229.m3u8
+#EXTINF:-1 group-title="21/01/2017",RAI 2 (source #01)
+http://185.59.220.134/rai2/mpegts
+
+
+#EXTINF:-1 group-title="21/01/2017",RAI 5 (source #01)
+http://stream12.rai.it/live/rai5.smil/master.m3u8
+#EXTINF:-1 group-title="21/01/2017",RAI 5 (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/519.m3u8
+
+
+#EXTINF:-1 group-title="21/01/2017",RAI SPORT 1 (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/521.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT 1 IT (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/220.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT 24 (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/227.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT 3 IT (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/267.m3u8
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT F1 IT (source #01)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/221.m3u8
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT F1 IT (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/223.m3u8
+
+
+#EXTINF:-1 group-title="21/01/2017" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056",MUTV (source #01)
+http://mcdn-play-358.5centscdn.net/mutvextv/stream1.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="21/01/2017" tvg-logo="http://i.imgur.com/0pwoujZ.png",SETANTA SPORTS (source #01)
+http://mcdn-play-358.5centscdn.net/setantasportsextv/stream1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="21/01/2017" tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORTS 1 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.1:1234
+
+
+#EXTINF:-1 group-title="21/01/2017" tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.2:1234
+#EXTINF:-1 group-title="21/01/2017" tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 (source #02)
+http://mcdn-play-358.5centscdn.net/skysports2extv/stream1.stream/playlist.m3u8
+#EXTINF:-1 group-title="21/01/2017" tvg-logo="http://i.imgur.com/CfwpEyD.png",SKY SPORTS 3 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.3:1234
+
+
+#EXTINF:-1 group-title="21/01/2017",SKY SPORTS 4 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.4:1234
+#EXTINF:-1 group-title="21/01/2017",SKY SPORTS 4 (source #02)
+http://mcdn-play-358.5centscdn.net/skysports4extv/stream1.stream/playlist.m3u8
+#EXTINF:-1 group-title="21/01/2017",SKY SPORTS 5 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.5:1234
+
+
+#EXTINF:-1 group-title="21/01/2017",SKY SPORTS F1 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.6:1234
+
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT 1 DE (source #01)
+http://185.53.163.214:9506
+#EXTINF:-1 group-title="21/01/2017",SKY SPORT 1 DE (source #02)
+http://185.53.163.214:9505
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORT 2 DE (source #02)
+http://83.79.183.53:6037
+
+#EXTINF:-1 group-title="21/01/2017",SUPER RTL (source #01)
+http://185.24.34.190:8000/play/a04w
+#EXTINF:-1 group-title="21/01/2017",SUPER RTL (source #02)
+http://185.53.163.214:9602
+
+#EXTINF:-1 group-title="21/01/2017",BT SPORT 2 (source #01)
+http://91.126.142.7:4022/udp/239.0.0.10:1234
+#EXTINF:-1 group-title="21/01/2017",BT SPORT 2 (source #02)
+http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/253.m3u8
+
+#EXTINF:-1 group-title="21/01/2017",BT SPORT ESPN (source #01)
+http://91.126.142.7:4022/udp/239.0.0.8:1234
+
+#EXTINF:-1 group-title="21/01/2017",FOX SPORTS 2 (source #01)
+http://www.tunisiaiptv.com:8000/live/SSSST/4442/3247.m3u8
+#EXTINF:-1 group-title="21/01/2017",NBA TV (source #01)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?TeamBlue
+#EXTINF:-1 group-title="21/01/2017",NBA TV (source #02)
+http://www.tunisiaiptv.com:8000/live/SSSST/4442/3253.m3u8
+#EXTINF:-1 group-title="21/01/2017",,NBC TV (source #01)
+http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Arizona (source #01)
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Bay Area (source #01)
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Los Angeles (source #01)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Moutain (source #01)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Network (National) (source #01)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Oregon (source #01)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Washington (source #01)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-logo="https://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png",POKER CENTRAL (source #01)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png",TSN2 (source #01)
+http://www.tunisiaiptv.com:8000/live/SSSST/4442/3256.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png",TSN3 (source #01)
+http://www.tunisiaiptv.com:8000/live/SSSST/4442/3257.m3u8
+
+
 #EXTINF:-1 group-title="21/01/2017",==================NETHERLANDS===================
 http://151.80.97.110:25461/live/daniel/daniel/4794.ts
 #EXTINF:-1 group-title="21/01/2017",NL: Fox Sport 1
@@ -957,689 +1121,6 @@ http://163.172.105.191:8888/live/test/test/147.ts
 http://163.172.105.191:8888/live/test/test/148.ts
 #EXTINF:-1 group-title="21/01/2017",GULLI HD LOCAL
 http://163.172.105.191:8888/live/test/test/144.ts
-
-
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056",MUTV (source #01)
-http://mcdn-play-358.5centscdn.net/mutvextv/stream1.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0pwoujZ.png",SETANTA SPORTS (source #01)
-http://mcdn-play-358.5centscdn.net/setantasportsextv/stream1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORTS 1 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.1:1234
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.2:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORTS 2 (source #02)
-http://mcdn-play-358.5centscdn.net/skysports2extv/stream1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png",SKY SPORTS 3 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.3:1234
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3ha97Ea.png",SKY SPORTS 4 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.4:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3ha97Ea.png",SKY SPORTS 4 (source #02)
-http://mcdn-play-358.5centscdn.net/skysports4extv/stream1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0xHzWmL.png",SKY SPORTS 5 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.5:1234
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORTS F1 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.6:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORT 1 DE (source #01)
-http://185.53.163.214:9506
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORT 1 DE (source #02)
-http://185.53.163.214:9505
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JM9osWD.png",SKY SPORT 2 DE (source #02)
-http://83.79.183.53:6037
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png",SUPER RTL (source #01)
-http://185.24.34.190:8000/play/a04w
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NDgJgRa.png",SUPER RTL (source #02)
-http://185.53.163.214:9602
-
-
-
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png",BT SPORT 2 (source #01)
-http://91.126.142.7:4022/udp/239.0.0.10:1234
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%202%20HD%20(1).png",BT SPORT 2 (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/253.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://livetvmatches.com/sites/default/files/2016-01/BT%20Sport%20ESPN%20HD%20(1).png",BT SPORT ESPN (source #01)
-http://91.126.142.7:4022/udp/239.0.0.8:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dMiWcSV.png",CM TV (source #02)
-http://83.79.134.18:9000/play/cmtv1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DS8VGbH.png",AFRO MUSIC (source #02)
-http://83.79.134.18:9000/play/a07y
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UUjLsQg.png",M6 MUSIQUE (source #01)
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png",LA 1 (source #01)
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png",LA 5 (source #01)
-http://88.129.154.211:8080/play/a04o
-
-
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_7_it.png",LA 7 (source #01)
-http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0Z0iDCF.png",LA SEXTA (source #01)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png",TV GALICIA (source #01)
-http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zXT4FCD.png",TV GALICIA (source #02)
-http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png",MOVISTAR GOLF (source #01)
-http://83.79.134.18:9000/play/a057
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7WANvWD.png",PREMIUM SPORT (source #01)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/536.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KKvkqg3.png",PREMIUM STUDIO UNIVERSAL (source #01)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/510.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hVDJfWs.png",RAI 1 (source #01)
-http://185.59.220.134/rai1/mpegts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hVDJfWs.png",RAI 1 (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/229.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5XaTbVX.png",RAI 2 (source #01)
-http://185.59.220.134/rai2/mpegts
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rsXgfD7.png",RAI 5 (source #01)
-http://stream12.rai.it/live/rai5.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rsXgfD7.png",RAI 5 (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/519.m3u8
-
-
-#EXTINF:-1 
-
-tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/570px-Logo_Rai_Sport_1_2010.svg.p
-
-ng",RAI SPORT 1 (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/521.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GM9BhHH.png",SKY SPORT 1 IT (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/220.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AeLroKj.png",SKY SPORT 24 (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/227.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CfwpEyD.png",SKY SPORT 3 IT (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/267.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORT F1 IT (source #01)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/221.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",SKY SPORT F1 IT (source #02)
-http://camera.bajatv.info:20792/live/bbalkancafeeeee/bbalkancafeerazmjenaaaaaa/223.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORTS 2 (source #01)
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3247.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png",NBA TV (source 
-
-#01)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?TeamBlue
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png",NBA TV (source 
-
-#02)
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3253.m3u8
-#EXTINF:-1 
-
-tvg-logo="http://vignette4.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest?cb=20120109171307&path-
-
-prefix=en",NBC TV (source #01)
-http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Arizona (source #01)
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Bay Area (source #01)
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Los Angeles (source #01)
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Moutain (source #01)
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Network (National) (source 
-
-#01)
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Oregon (source #01)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png",PAC 12 Washington (source #01)
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 tvg-logo="https://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png",POKER CENTRAL (source 
-
-#01)
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png",TSN2 (source #01)
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3256.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png",TSN3 (source #01)
-http://www.tunisiaiptv.com:8000/live/SSSST/4442/3257.m3u8
-#EXTINF:-1 
-
-tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/6d/Usa_network_hd.png/revision/latest?cb=20110408015547",
-
-USA NETWORK (source #01)
-
-
-
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 
-
-INTERNACIONAL[/B][/I][/COLOR]
-http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.
-
-0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 
-
-INTERNACIONAL[/B][/I][/COLOR]
-rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch120h264 
-
-swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=rtp-play/direto/canais-tv/rtpinternacional?mag swfVfy=1 live=1 
-
-timeout=15
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV (source #01)
-http://198.255.76.34:8080/benfica1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3MPQyry.png",BENFICA TV (source #02)
-http://83.79.134.18:9000/play/btv11234
-
-#EXTINF:-1 group-title="21/01/2017"Eurosport 2
-http://46.37.196.187:8889/Eurosport-2
-#EXTINF:-1 group-title="21/01/2017"Eurosport
-http://46.37.196.187:8889/Eurosport-1
-
-
-#EXTINF:-1 
-
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015
-
-.svg.png",EUROSPORT 1 (source #02)
-http://83.79.134.18:9000/play/eurosport1234
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0tybBJ0.jpg",EUROSPORT 2 XTRA (source #01)
-http://213.188.51.185:9981/play/a013
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0tybBJ0.jpg",EUROSPORT 2 XTRA (source #02)
-http://83.79.134.18:9000/play/euroextrahd1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #01)
-http://198.255.76.34:8080/sporttv1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",SPORT TV 1 (source #02)
-http://83.79.134.18:9000/play/sptv11234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #01)
-http://198.255.76.34:8080/sporttv2/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",SPORT TV 2 (source #02)
-http://83.79.134.18:9000/play/sptv21234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #01)
-http://198.255.76.34:8080/sporttv3/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",SPORT TV 3 (source #02)
-http://83.79.134.18:9000/play/sptv1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #01)
-http://198.255.76.34:8080/sporttv4/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",SPORT TV 4 (source #02)
-http://83.79.134.18:9000/play/sptv41234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 (source #01)
-http://213.188.51.185:9981/play/a008
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",SPORT TV 5 (source #02)
-http://83.79.134.18:9000/play/a068
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV (source #01)
-http://213.188.51.185:9981/play/a009
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",SPORTING TV (source #02)
-http://83.79.134.18:9000/play/a06c
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kQ7wwBO.png",MOTORS TV (source #02)
-http://83.79.134.18:9000/play/a07o
-
-
-
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 2
-http://91.126.142.7:4022/udp/239.0.0.2:1234
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 1
-http://91.126.142.7:4022/udp/239.0.0.1:1234
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 3
-http://91.126.142.7:4022/udp/239.0.0.3:1234
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 4
-http://91.126.142.7:4022/udp/239.0.0.4:1234
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 5
-http://91.126.142.7:4022/udp/239.0.0.5:1234
-#EXTINF:-1 group-title="21/01/2017"Sky Sports F1
-http://91.126.142.7:4022/udp/239.0.0.6:1234
-#EXTINF:-1 group-title="21/01/2017"Sky Sp NewsHQ
-http://91.126.142.7:4022/udp/239.0.0.7:1234
-#EXTINF:-1 group-title="21/01/2017"BT Sport//ESPN
-http://91.126.142.7:4022/udp/239.0.0.8:1234
-#EXTINF:-1 group-title="21/01/2017"BT Sport 2
-http://91.126.142.7:4022/udp/239.0.0.10:1234
-
-#EXTINF:-1 group-title="21/01/2017"--- SPORT UK ---
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2871.ts
-#EXTINF:-1 group-title="21/01/2017"Box Nation UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/22045.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport News UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2872.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 1 HD UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2873.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 2 UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2874.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 3 HD UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2875.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 4 HD UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2876.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sports 5 HD UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2877.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sports F1 UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2878.ts
-#EXTINF:-1 group-title="21/01/2017"BT SPORTS EXTRA UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2879.ts
-#EXTINF:-1 group-title="21/01/2017"BT Sports 1 HD UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2880.ts
-#EXTINF:-1 group-title="21/01/2017"BT Sports 2 UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2881.ts
-#EXTINF:-1 group-title="21/01/2017"BT Sports ESPN UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2882.ts
-#EXTINF:-1 group-title="21/01/2017"BT Europe HD UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2883.ts
-#EXTINF:-1 group-title="21/01/2017"Premier sport UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2884.ts
-#EXTINF:-1 group-title="21/01/2017"Setanta Sports UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2885.ts
-#EXTINF:-1 group-title="21/01/2017"Chelsea UK
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2886.ts
-
-
-#EXTINF:-1 group-title="21/01/2017"Infosport FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2659.ts
-#EXTINF:-1 group-title="21/01/2017"Canal + Sport HD FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2672.ts
-#EXTINF:-1 group-title="21/01/2017"L Equipe21 FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2658.ts
-#EXTINF:-1 group-title="21/01/2017"Eurosport 1 FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2664.ts
-#EXTINF:-1 group-title="21/01/2017"Eurosport 2  FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2966.ts
-#EXTINF:-1 group-title="21/01/2017"BeinSports 1HD FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2967.ts
-#EXTINF:-1 group-title="21/01/2017"BeinSports 2HD FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2968.ts
-#EXTINF:-1 group-title="21/01/2017"BeinSports 3HD FR
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2969.ts
-
-#EXTINF:-1 group-title="21/01/2017"---NL SPORT---
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2738.ts
-#EXTINF:-1 group-title="21/01/2017"Sport -1-SelectHD NL
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2751.ts
-#EXTINF:-1 group-title="21/01/2017"FOX SPORTS 1 HD NL
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2752.ts
-#EXTINF:-1 group-title="21/01/2017"FOX SPORTS 2 HD NL
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2753.ts
-#EXTINF:-1 group-title="21/01/2017"FOX SPORTS 3HD NL
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2754.ts
-#EXTINF:-1 group-title="21/01/2017"FOX SPORTS 4HD NL
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2755.ts
-#EXTINF:-1 group-title="21/01/2017"FOX SPORTS 5 HD NL
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2756.ts
-
-############################################################################
-
-
-#EXTINF:-1 group-title="21/01/2017"- - - S P O R T - - -
-http://newlook.ddns.net:9880/live/amy1_94940/45028/143.ts
-
-#EXTINF:-1 group-title="21/01/2017"Eurosport 1 IT
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3035.ts
-#EXTINF:-1 group-title="21/01/2017"Eurosport 2 IT
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3031.ts
-
-#EXTINF:-1 group-title="21/01/2017"Sky Sport 24 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/22311.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport 24 SD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/56.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport Plus HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2646.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport Mix
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3036.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport 1 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/57.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport 2 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2772.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport 3 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2647.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Supercalcio HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3077.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Supercalcio sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3022.ts
-#EXTINF:-1 group-title="21/01/2017"Sky MotoGP
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2643.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Sport F1 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/55.ts
-#EXTINF:-1 group-title="21/01/2017"Fox Sport
-http://newlook.ddns.net:9880/live/amy1_94940/45028/62.ts
-#EXTINF:-1 group-title="21/01/2017"Bike Channel HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2696.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 1 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2770.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 2 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2769.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 3 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2768.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 4 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2767.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 5 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3015.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 6 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3014.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 7 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3013.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 8 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3012.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 9 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3011.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 10 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3034.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 11 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3033.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 12 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3032.ts
-#EXTINF:-1 group-title="21/01/2017"Sky Calcio 13 sd
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3039.ts
-#EXTINF:-1 group-title="21/01/2017"Milan Channel
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3028.ts
-#EXTINF:-1 group-title="21/01/2017"Lazio Style Channel
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3029.ts
-#EXTINF:-1 group-title="21/01/2017"Juventus Channel
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3027.ts
-#EXTINF:-1 group-title="21/01/2017"Inter Channel
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3026.ts
-#EXTINF:-1 group-title="21/01/2017"Roma Channel
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3025.ts
-
-
-
-#EXTINF:-1 group-title="21/01/2017"Rai 1 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/87.ts
-#EXTINF:-1 group-title="21/01/2017"Rai 2 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/127.ts
-#EXTINF:-1 group-title="21/01/2017"Rai 3 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/126.ts
-#EXTINF:-1 group-title="21/01/2017"Rete 4 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/118.ts
-#EXTINF:-1 group-title="21/01/2017"Canale 5 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/133.ts
-#EXTINF:-1 group-title="21/01/2017"Italia 1 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/130.ts
-#EXTINF:-1 group-title="21/01/2017"la7
-http://newlook.ddns.net:9880/live/amy1_94940/45028/129.ts
-#EXTINF:-1 group-title="21/01/2017"Rsi La1
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2995.ts
-#EXTINF:-1 group-title="21/01/2017"Rsi La2
-http://newlook.ddns.net:9880/live/amy1_94940/45028/2994.ts
-#EXTINF:-1 group-title="21/01/2017"Mediaset Extra
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3038.ts
-#EXTINF:-1 group-title="21/01/2017"Rai Storia
-http://newlook.ddns.net:9880/live/amy1_94940/45028/120.ts
-#EXTINF:-1 group-title="21/01/2017"Iris
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3037.ts
-#EXTINF:-1 group-title="21/01/2017"SportItalia
-http://newlook.ddns.net:9880/live/amy1_94940/45028/22104.ts
-#EXTINF:-1 group-title="21/01/2017"Rai Sport 1 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/122.ts
-#EXTINF:-1 group-title="21/01/2017"Rai Sport 2 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/121.ts
-#EXTINF:-1 group-title="21/01/2017"Rai Premium
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3067.ts
-#EXTINF:-1 group-title="21/01/2017"Rai 4 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3068.ts
-#EXTINF:-1 group-title="21/01/2017"Rai 5 HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/22085.ts
-#EXTINF:-1 group-title="21/01/2017"Rai Movie HD
-http://newlook.ddns.net:9880/live/amy1_94940/45028/22084.ts
-#EXTINF:-1 group-title="21/01/2017"Giallo
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3030.ts
-#EXTINF:-1 group-title="21/01/2017"Lei
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3001.ts
-#EXTINF:-1 group-title="21/01/2017"laeffe
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3002.ts
-#EXTINF:-1 group-title="21/01/2017"La3
-http://newlook.ddns.net:9880/live/amy1_94940/45028/3003.ts
-
-#EXTINF:-1 group-title="21/01/2017"====== SKY GERMANY BUNDESLIGA ======
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/61.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 1 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/62.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 2 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/63.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 3 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/64.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 4 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/65.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 5 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/66.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 6 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/67.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 7 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/68.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 8 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/517.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 9 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/518.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Bundesliga 10 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/519.ts
-
-#EXTINF:-1 group-title="21/01/2017"DE: Bundesliga 1 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/664.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Bundesliga 2 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1251.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Bundesliga 3 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1252.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport News Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/669.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 1 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/670.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 2 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/671.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 3 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1253.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 4 Mobile Low BW
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1254.ts
-
-
-#EXTINF:-1 group-title="21/01/2017"====== SKY SPORT GERMANY ======
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/42.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport News HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/58.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 1 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/47.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 2 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/48.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 3 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/49.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 4 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/50.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 5 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/51.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 6 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/52.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 7 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/53.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 8 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/54.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 9 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/520.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 11 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/522.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sky Sport 10 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/521.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Eurosport 1 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/59.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Eurosport 2 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/60.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sport 1 HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/43.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sport1+ HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/44.ts
-#EXTINF:-1 group-title="21/01/2017"DE: Sportdigital HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/142.ts
-#EXTINF:-1 group-title="21/01/2017"AT: Sky Sport Austria
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/46.ts
-#EXTINF:-1 group-title="21/01/2017"AT: ORF Sport+
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/1149.ts
-#EXTINF:-1 group-title="21/01/2017"US: Sport1 US HD
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/45.ts
-
-
-
-
-#EXTINF:-1 group-title="21/01/2017"====== Bein Sport ====== (Test)
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/241.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 1
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/242.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 2
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/243.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 3
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/244.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 4
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/245.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 5
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/246.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 6
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/247.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 7
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/248.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 8
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/249.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 9
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/250.ts
-#EXTINF:-1 group-title="21/01/2017"AR: Bein Sport HD 10
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/251.ts
-#EXTINF:-1 group-title="21/01/2017"SP: Bein Sport HD Spain
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/856.ts
-#EXTINF:-1 group-title="21/01/2017"US: Bein Sport HD US
-http://149.202.193.205:8330/live/Blaupunkt79/qO1AxhGgyL/860.ts
-
-
-
-#####################################################################################
-17/01/2017
-#####################################################################################
-#EXTM3U
-
-
-#EXTINF:-1 group-title="17/01/2017", Quran (Meca)
-http://gh-ah.ddns.net:8000/live/rSlXCcOR8k/uRFqdHIzH8/417.ts
-
-#EXTINF:-1 group-title="17/01/2017",OneBY UHD 4K
-http://rtmp.one.by:1400
-
-#EXTINF:-1 group-title="17/01/2017"***** PORTUGAL *****
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2813.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVI REALITY
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2803.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVI
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2804.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 4
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2791.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 3
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2790.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 2
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2789.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVCINE 1
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2788.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TV SERIES
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2805.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SPORTING TV
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2792.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SIC NOTICIAS
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2807.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SIC MULHER
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2808.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SIC Kids
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2802.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SIC RADICAL
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2794.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TRACE URBAN
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2801.ts
-#EXTINF:-1 group-title="17/01/2017"PT | RTP AFRICA
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2800.ts
-#EXTINF:-1 group-title="17/01/2017"PT | RTP 3
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2799.ts
-#EXTINF:-1 group-title="17/01/2017"PT | RTP 2
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2798.ts
-#EXTINF:-1 group-title="17/01/2017"PT | RTP 1
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2797.ts
-#EXTINF:-1 group-title="17/01/2017"PT | PFC
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2809.ts
-#EXTINF:-1 group-title="17/01/2017"PT | RTP MEMORIA
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2810.ts
-#EXTINF:-1 group-title="17/01/2017"PT | FOX COMEDY
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2811.ts
-#EXTINF:-1 group-title="17/01/2017"PT | BENFICA TV 2 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2796.ts
-#EXTINF:-1 group-title="17/01/2017"PT | BENFICA TV 1 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2795.ts
-#EXTINF:-1 group-title="17/01/2017"PT | AXN WHITE HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2812.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 1 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2989.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 2 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2990.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 3 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2991.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 4 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2992.ts
-#EXTINF:-1 group-title="17/01/2017"PT | TVI 24
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3080.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SPORT TV 5 HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3087.ts
-#EXTINF:-1 group-title="17/01/2017"PT | SIC CARAS
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3082.ts
-#EXTINF:-1 group-title="17/01/2017"PT | NAT GEO HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3101.ts
-#EXTINF:-1 group-title="17/01/2017"PT | MOV
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3095.ts
-#EXTINF:-1 group-title="17/01/2017"PT | JIM JAM
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3085.ts
-#EXTINF:-1 group-title="17/01/2017"PT | HOLLYWOOD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3093.ts
-#EXTINF:-1 group-title="17/01/2017"PT | FOX HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3098.ts
-#EXTINF:-1 group-title="17/01/2017"PT | FOX CRIME HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3099.ts
-#EXTINF:-1 group-title="17/01/2017"PT | DISNEY JUNIOR
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3083.ts
-#EXTINF:-1 group-title="17/01/2017"PT | DISCOVERY CHANNEL
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3102.ts
-#EXTINF:-1 group-title="17/01/2017"PT | CMTV
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3081.ts
-#EXTINF:-1 group-title="17/01/2017"PT | CANAL PANDA
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3084.ts
-#EXTINF:-1 group-title="17/01/2017"PT | AXN HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3096.ts
-#EXTINF:-1 group-title="17/01/2017"PT | AXN BLACK HD
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3097.ts
-#EXTINF:-1 group-title="17/01/2017"PT | A BOLA TV
-http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/3090.ts
-
-
 
 ### ITALIAN: SKY ITALIA ###
 #EXTINF:-1 group-title="17/01/2017",IT: SKYIT F1 HD
