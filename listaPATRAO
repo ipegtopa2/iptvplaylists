@@ -12,22 +12,387 @@ http://www.tv-msn.com/player/player.swf
 
 #EXTM3U
 
+#EXTINF:-1 group-title="03/02/2017",●●●●●● DESPORTO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1797.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV +
+http://163.172.50.189:8000/live/cabral/cabral/1430.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV + HD
+http://163.172.50.189:8000/live/cabral/cabral/1668.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 1
+http://163.172.50.189:8000/live/cabral/cabral/1944.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1431.ts
+#EXTINF:-1 group-title="03/02/2017",Sport TV 1 HD (ALT1)
+http://163.172.50.189:8000/live/cabral/cabral/1933.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 1 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1669.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 2 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1670.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1436.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 2
+http://163.172.50.189:8000/live/cabral/cabral/1437.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 3 HD
+http://163.172.50.189:8000/live/cabral/cabral/1439.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 3 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1671.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 3
+http://163.172.50.189:8000/live/cabral/cabral/1440.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 4
+http://163.172.50.189:8000/live/cabral/cabral/1441.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 4 HD
+http://163.172.50.189:8000/live/cabral/cabral/1672.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 5
+http://163.172.50.189:8000/live/cabral/cabral/1442.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 5 HD
+http://163.172.50.189:8000/live/cabral/cabral/1673.ts
+#EXTINF:-1 group-title="03/02/2017",BTV 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1443.ts
+#EXTINF:-1 group-title="03/02/2017",BTV 1 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1675.ts
+#EXTINF:-1 group-title="03/02/2017",BTV 1
+http://163.172.50.189:8000/live/cabral/cabral/1674.ts
+#EXTINF:-1 group-title="03/02/2017",SPORTING TV
+http://163.172.50.189:8000/live/cabral/cabral/1448.ts
+#EXTINF:-1 group-title="03/02/2017",A BOLA TV
+http://163.172.50.189:8000/live/cabral/cabral/1449.ts
+#EXTINF:-1 group-title="03/02/2017",EUROSPORT 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1450.ts
+#EXTINF:-1 group-title="03/02/2017",EUROSPORT
+http://163.172.50.189:8000/live/cabral/cabral/1451.ts
+#EXTINF:-1 group-title="03/02/2017",EUROSPORT 2
+http://163.172.50.189:8000/live/cabral/cabral/1452.ts
+#EXTINF:-1 group-title="03/02/2017",EUROSPORT 2 XTRA HD
+http://163.172.50.189:8000/live/cabral/cabral/1453.ts
+#EXTINF:-1 group-title="03/02/2017",CACAVISION
+http://163.172.50.189:8000/live/cabral/cabral/1454.ts
+#EXTINF:-1 group-title="03/02/2017",CACA E PESCA
+http://163.172.50.189:8000/live/cabral/cabral/1455.ts
+#EXTINF:-1 group-title="03/02/2017",TOROS TV
+http://163.172.50.189:8000/live/cabral/cabral/1456.ts
+#EXTINF:-1 group-title="03/02/2017",KOMBAT SPORT
+http://163.172.50.189:8000/live/cabral/cabral/1457.ts
+#EXTINF:-1 group-title="03/02/2017",REAL MADRID TV
+http://163.172.50.189:8000/live/cabral/cabral/1458.ts
+#EXTINF:-1 group-title="03/02/2017",CHELSEA TV
+http://163.172.50.189:8000/live/cabral/cabral/1459.ts
+#EXTINF:-1 group-title="03/02/2017",MOTORVISION
+http://163.172.50.189:8000/live/cabral/cabral/1460.ts
+#EXTINF:-1 group-title="03/02/2017",MOTORS TV
+http://163.172.50.189:8000/live/cabral/cabral/1461.ts
+#EXTINF:-1 group-title="03/02/2017",FUEL TV
+http://163.172.50.189:8000/live/cabral/cabral/1462.ts
+#EXTINF:-1 group-title="03/02/2017",FIGHT NETWORK
+http://163.172.50.189:8000/live/cabral/cabral/1463.ts
+#EXTINF:-1 group-title="03/02/2017",PFC
+http://163.172.50.189:8000/live/cabral/cabral/1464.ts
 
 
+#EXTINF:-1 group-title="03/02/2017",●●●●●● NACIONAIS ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1946.ts
+#EXTINF:-1 group-title="03/02/2017",RTP 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1405.ts
+#EXTINF:-1 group-title="03/02/2017",RTP 1
+http://163.172.50.189:8000/live/cabral/cabral/1790.ts
+#EXTINF:-1 group-title="03/02/2017",RTP 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1406.ts
+#EXTINF:-1 group-title="03/02/2017",RTP 2
+http://163.172.50.189:8000/live/cabral/cabral/1407.ts
+#EXTINF:-1 group-title="03/02/2017",RTP 3
+http://163.172.50.189:8000/live/cabral/cabral/1408.ts
+#EXTINF:-1 group-title="03/02/2017",SIC HD
+http://163.172.50.189:8000/live/cabral/cabral/1409.ts
+#EXTINF:-1 group-title="03/02/2017",SIC
+http://163.172.50.189:8000/live/cabral/cabral/1410.ts
+#EXTINF:-1 group-title="03/02/2017",TVI ( sd )
+http://163.172.50.189:8000/live/cabral/cabral/1416.ts
+#EXTINF:-1 group-title="03/02/2017",TVI HD
+http://163.172.50.189:8000/live/cabral/cabral/1413.ts
+
+
+#EXTINF:-1 group-title="03/02/2017",●●●●●● INFORMAÇÃO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1792.ts
+#EXTINF:-1 group-title="03/02/2017",SIC NOTICIAS
+http://163.172.50.189:8000/live/cabral/cabral/1417.ts
+#EXTINF:-1 group-title="03/02/2017",TVI 24
+http://163.172.50.189:8000/live/cabral/cabral/1418.ts
+#EXTINF:-1 group-title="03/02/2017",CMTV
+http://163.172.50.189:8000/live/cabral/cabral/1419.ts
+#EXTINF:-1 group-title="03/02/2017",PORTO CANAL
+http://163.172.50.189:8000/live/cabral/cabral/1420.ts
+#EXTINF:-1 group-title="03/02/2017",CNN
+http://163.172.50.189:8000/live/cabral/cabral/1421.ts
+
+
+#EXTINF:-1 group-title="03/02/2017",●●●●●● ENTRETENIMENTO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1795.ts
+#EXTINF:-1 group-title="03/02/2017",SIC RADICAL
+http://163.172.50.189:8000/live/cabral/cabral/1422.ts
+#EXTINF:-1 group-title="03/02/2017",SIC MULHER
+http://163.172.50.189:8000/live/cabral/cabral/1423.ts
+#EXTINF:-1 group-title="03/02/2017",SIC CARAS
+http://163.172.50.189:8000/live/cabral/cabral/1424.ts
+#EXTINF:-1 group-title="03/02/2017",TVI FICCAO
+http://163.172.50.189:8000/live/cabral/cabral/1425.ts
+#EXTINF:-1 group-title="03/02/2017",TVI REALITY
+http://163.172.50.189:8000/live/cabral/cabral/1426.ts
+#EXTINF:-1 group-title="03/02/2017",24 KITCHEN HD
+http://163.172.50.189:8000/live/cabral/cabral/1427.ts
+#EXTINF:-1 group-title="03/02/2017",CANAL Q
+http://163.172.50.189:8000/live/cabral/cabral/1428.ts
+
+#EXTINF:-1 group-title="03/02/2017",●●●●●● FILMES  ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1800.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1465.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1467.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 3 HD
+http://163.172.50.189:8000/live/cabral/cabral/1469.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 4 HD
+http://163.172.50.189:8000/live/cabral/cabral/1471.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 1
+http://163.172.50.189:8000/live/cabral/cabral/1466.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 2
+http://163.172.50.189:8000/live/cabral/cabral/1468.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 3
+http://163.172.50.189:8000/live/cabral/cabral/1470.ts
+#EXTINF:-1 group-title="03/02/2017",TVCINE 4
+http://163.172.50.189:8000/live/cabral/cabral/1472.ts
+#EXTINF:-1 group-title="03/02/2017",HOLLYWOOD HD
+http://163.172.50.189:8000/live/cabral/cabral/1473.ts
+#EXTINF:-1 group-title="03/02/2017",HOLLYWOOD
+http://163.172.50.189:8000/live/cabral/cabral/1474.ts
+#EXTINF:-1 group-title="03/02/2017",FOX MOVIES
+http://163.172.50.189:8000/live/cabral/cabral/1475.ts
+#EXTINF:-1 group-title="03/02/2017",MOV HD
+http://163.172.50.189:8000/live/cabral/cabral/1476.ts
+#EXTINF:-1 group-title="03/02/2017",AMC
+http://163.172.50.189:8000/live/cabral/cabral/1477.ts
+#EXTINF:-1 group-title="03/02/2017",CINEMUNDO
+http://163.172.50.189:8000/live/cabral/cabral/1478.ts
+#EXTINF:-1 group-title="03/02/2017",●●●●●● SERIES ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1801.ts
+#EXTINF:-1 group-title="03/02/2017",TV SERIES HD
+http://163.172.50.189:8000/live/cabral/cabral/1479.ts
+#EXTINF:-1 group-title="03/02/2017",TV SERIES
+http://163.172.50.189:8000/live/cabral/cabral/1480.ts
+#EXTINF:-1 group-title="03/02/2017",AXN HD
+http://163.172.50.189:8000/live/cabral/cabral/1481.ts
+#EXTINF:-1 group-title="03/02/2017",AXN WHITE HD
+http://163.172.50.189:8000/live/cabral/cabral/1482.ts
+#EXTINF:-1 group-title="03/02/2017",AXN BLACK HD
+http://163.172.50.189:8000/live/cabral/cabral/1483.ts
+#EXTINF:-1 group-title="03/02/2017",FOX LIVE HD
+http://163.172.50.189:8000/live/cabral/cabral/1485.ts
+#EXTINF:-1 group-title="03/02/2017",FOX LIFE
+http://163.172.50.189:8000/live/cabral/cabral/1487.ts
+#EXTINF:-1 group-title="03/02/2017",FOX HD
+http://163.172.50.189:8000/live/cabral/cabral/1484.ts
+#EXTINF:-1 group-title="03/02/2017",FOX CRIME HD
+http://163.172.50.189:8000/live/cabral/cabral/1486.ts
+#EXTINF:-1 group-title="03/02/2017",FOX COMEDY
+http://163.172.50.189:8000/live/cabral/cabral/1488.ts
+#EXTINF:-1 group-title="03/02/2017",SYFY
+http://163.172.50.189:8000/live/cabral/cabral/1489.ts
+#EXTINF:-1 group-title="03/02/2017",SUNDANCE HD
+http://163.172.50.189:8000/live/cabral/cabral/1490.ts
+#EXTINF:-1 group-title="03/02/2017",●●●●●● INFANTIL ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1804.ts
+#EXTINF:-1 group-title="03/02/2017",DISNEY JUNIOR
+http://163.172.50.189:8000/live/cabral/cabral/1491.ts
+#EXTINF:-1 group-title="03/02/2017",DISNEY CHANNEL
+http://163.172.50.189:8000/live/cabral/cabral/1492.ts
+#EXTINF:-1 group-title="03/02/2017",SIC K
+http://163.172.50.189:8000/live/cabral/cabral/1493.ts
+#EXTINF:-1 group-title="03/02/2017",CANAL PANDA
+http://163.172.50.189:8000/live/cabral/cabral/1494.ts
+#EXTINF:-1 group-title="03/02/2017",BABY TV
+http://163.172.50.189:8000/live/cabral/cabral/1495.ts
+#EXTINF:-1 group-title="03/02/2017",BABY FIRST
+http://163.172.50.189:8000/live/cabral/cabral/1496.ts
+#EXTINF:-1 group-title="03/02/2017",BIGGS
+http://163.172.50.189:8000/live/cabral/cabral/1497.ts
+#EXTINF:-1 group-title="03/02/2017",CARTOON NETWORK
+http://163.172.50.189:8000/live/cabral/cabral/1498.ts
+#EXTINF:-1 group-title="03/02/2017",JIM JAM
+http://163.172.50.189:8000/live/cabral/cabral/1499.ts
+#EXTINF:-1 group-title="03/02/2017",NICKELODEON
+http://163.172.50.189:8000/live/cabral/cabral/1500.ts
+#EXTINF:-1 group-title="03/02/2017",●●●●●● Musica ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1805.ts
+#EXTINF:-1 group-title="03/02/2017",VH1 CLASSIC
+http://163.172.50.189:8000/live/cabral/cabral/1502.ts
+#EXTINF:-1 group-title="03/02/2017",VH1
+http://163.172.50.189:8000/live/cabral/cabral/1501.ts
+#EXTINF:-1 group-title="03/02/2017",TRACE TV
+http://163.172.50.189:8000/live/cabral/cabral/1503.ts
+#EXTINF:-1 group-title="03/02/2017",MTV PORTUGAL
+http://163.172.50.189:8000/live/cabral/cabral/1504.ts
+#EXTINF:-1 group-title="03/02/2017",MTV DANCE
+http://163.172.50.189:8000/live/cabral/cabral/1505.ts
+#EXTINF:-1 group-title="03/02/2017",MCM POP
+http://163.172.50.189:8000/live/cabral/cabral/1507.ts
+#EXTINF:-1 group-title="03/02/2017",C-MUSIC
+http://163.172.50.189:8000/live/cabral/cabral/1508.ts
+#EXTINF:-1 group-title="03/02/2017",AFRO MUSIC
+http://163.172.50.189:8000/live/cabral/cabral/1509.ts
+#EXTINF:-1 group-title="03/02/2017",●●●●●● DOCUMENTARIOS ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1808.ts
+#EXTINF:-1 group-title="03/02/2017",DISCOVERY HD SHOWCASE
+http://163.172.50.189:8000/live/cabral/cabral/1510.ts
+#EXTINF:-1 group-title="03/02/2017",DISCOVERY CHANNEL
+http://163.172.50.189:8000/live/cabral/cabral/1511.ts
+#EXTINF:-1 group-title="03/02/2017",MCS EXTREME
+http://163.172.50.189:8000/live/cabral/cabral/1512.ts
+#EXTINF:-1 group-title="03/02/2017",TRAVEL CHANNEL HD
+http://163.172.50.189:8000/live/cabral/cabral/1513.ts
+#EXTINF:-1 group-title="03/02/2017",NATIONAL GEOGRAPHIC HD
+http://163.172.50.189:8000/live/cabral/cabral/1514.ts
+#EXTINF:-1 group-title="03/02/2017",NAT GEO WILD
+http://163.172.50.189:8000/live/cabral/cabral/1515.ts
+#EXTINF:-1 group-title="03/02/2017",ODISSEIA
+http://163.172.50.189:8000/live/cabral/cabral/1516.ts
+#EXTINF:-1 group-title="03/02/2017",HISTORIA
+http://163.172.50.189:8000/live/cabral/cabral/1517.ts
+#EXTINF:-1 group-title="03/02/2017",SKY NEWS
+http://163.172.50.189:8000/live/cabral/cabral/1518.ts
+#EXTINF:-1 group-title="03/02/2017",FRANCE 24
+http://163.172.50.189:8000/live/cabral/cabral/1519.ts
+#EXTINF:-1 group-title="03/02/2017",EURONEWS
+http://163.172.50.189:8000/live/cabral/cabral/1520.ts
+#EXTINF:-1 group-title="03/02/2017",BBC WORLD NEWS
+http://163.172.50.189:8000/live/cabral/cabral/1521.ts
+#EXTINF:-1 group-title="03/02/2017",BBC WORLD
+http://163.172.50.189:8000/live/cabral/cabral/1522.ts
+#EXTINF:-1 group-title="03/02/2017",BBC ENTERTAINMENT
+http://163.172.50.189:8000/live/cabral/cabral/1523.ts
+#EXTINF:-1 group-title="03/02/2017",E! ENTERTAINMENT
+http://163.172.50.189:8000/live/cabral/cabral/1524.ts
+#EXTINF:-1 group-title="03/02/2017",CBS REALITY
+http://163.172.50.189:8000/live/cabral/cabral/1525.ts
+#EXTINF:-1 group-title="03/02/2017",MCS LIFESTYLE
+http://163.172.50.189:8000/live/cabral/cabral/1526.ts
+#EXTINF:-1 group-title="03/02/2017",TLC
+http://163.172.50.189:8000/live/cabral/cabral/1527.ts
+#EXTINF:-1 group-title="03/02/2017",●●●●●● INTERNACIONAIS ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1813.ts
+#EXTINF:-1 group-title="03/02/2017",GLOBO PREMIUM
+http://163.172.50.189:8000/live/cabral/cabral/1528.ts
+#EXTINF:-1 group-title="03/02/2017",GLOBO
+http://163.172.50.189:8000/live/cabral/cabral/1529.ts
+#EXTINF:-1 group-title="03/02/2017",TV RECORD
+http://163.172.50.189:8000/live/cabral/cabral/1530.ts
+#EXTINF:-1 group-title="03/02/2017",RTP MEMORIA
+http://163.172.50.189:8000/live/cabral/cabral/1531.ts
+#EXTINF:-1 group-title="03/02/2017",RTP MADEIRA
+http://163.172.50.189:8000/live/cabral/cabral/1532.ts
+#EXTINF:-1 group-title="03/02/2017",RTP AFRICA
+http://163.172.50.189:8000/live/cabral/cabral/1533.ts
+#EXTINF:-1 group-title="03/02/2017",RTP ACORES
+http://163.172.50.189:8000/live/cabral/cabral/1534.ts
+#EXTINF:-1 group-title="03/02/2017",TV GALICIA
+http://163.172.50.189:8000/live/cabral/cabral/1535.ts
+#EXTINF:-1 group-title="03/02/2017",FTV
+http://163.172.50.189:8000/live/cabral/cabral/1538.ts
+#EXTINF:-1 group-title="03/02/2017",A.E
+http://163.172.50.189:8000/live/cabral/cabral/1539.ts
+
+
+####################################################################################
+
+#################################################################################################
 #EXTINF:-1 group-title="27/01/2017",7 Pecados Rurais
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/388.mp4
 
-#EXTINF:-1 group-title="27/01/2017",The Hobbit The Desolation Of Smaug
+#EXTINF:-1 group-title="03/02/2017",The Hobbit The Desolation Of Smaug
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/400.mp4
-#EXTINF:-1 group-title="27/01/2017",The Boy Next Door
+#EXTINF:-1 group-title="03/02/2017",The Boy Next Door
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/398.mp4
-#EXTINF:-1 group-title="27/01/2017",The Marine.2
+#EXTINF:-1 group-title="03/02/2017",The Marine.2
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/348.mp4
-#EXTINF:-1 group-title="27/01/2017",The Marine
+#EXTINF:-1 group-title="03/02/2017",The Marine
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/349.mp4
 
-#EXTINF:-1 group-title="27/01/2017",13 Hours
+#EXTINF:-1 group-title="03/02/2017",13 Hours
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/153.mkv
+
+
+
+#EXTINF:-1 group-title="03/02/2017",Rtp Madeira
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/62.ts
+#EXTINF:-1 group-title="03/02/2017",Rtp Acores
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/63.ts
+#EXTINF:-1 group-title="03/02/2017",Tv Record
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/74.ts
+#EXTINF:-1 group-title="03/02/2017",Globo Portugal
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/128.ts
+#EXTINF:-1 group-title="03/02/2017",Globo Premium
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/59.ts
+#EXTINF:-1 group-title="03/02/2017",A Bola Tv
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/11.ts
+#EXTINF:-1 group-title="03/02/2017",Sportv +
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/208.ts
+#EXTINF:-1 group-title="03/02/2017",SPORTV1 HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/34.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 1
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/146.ts
+#EXTINF:-1 group-title="03/02/2017",Sport TV 1  LOW
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/213.ts
+#EXTINF:-1 group-title="03/02/2017",Sport TV 2 HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/333.ts
+#EXTINF:-1 group-title="03/02/2017",SPORT TV 2
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/145.ts
+#EXTINF:-1 group-title="03/02/2017",Sport TV 2 LOW
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/214.ts
+#EXTINF:-1 group-title="03/02/2017",Sport TV 3 HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/334.ts
+#EXTINF:-1 group-title="03/02/2017",Sporttv3
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/15.ts
+#EXTINF:-1 group-title="03/02/2017",Sporttv4
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/16.ts
+#EXTINF:-1 group-title="03/02/2017",Sport TV 5 Full HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/17.ts
+#EXTINF:-1 group-title="03/02/2017",Sportv HD XTR
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/269.ts
+#EXTINF:-1 group-title="03/02/2017",BenficaTV 1 Full HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/18.ts
+#EXTINF:-1 group-title="03/02/2017",Benfica TV 1 LOW
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/215.ts
+#EXTINF:-1 group-title="03/02/2017",Sportting TV
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/47.ts
+
+#EXTINF:-1 group-title="03/02/2017",Porto Canal
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/9.ts
+#EXTINF:-1 group-title="03/02/2017",Real Madrid TV
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/143.ts
+#EXTINF:-1 group-title="03/02/2017",Pfc
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/20.ts
+#EXTINF:-1 group-title="03/02/2017",Eurosport 1
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/21.ts
+#EXTINF:-1 group-title="03/02/2017",Eurosport 2
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/22.ts
+#EXTINF:-1 group-title="03/02/2017",Eurosport Xtra HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/148.ts
+#EXTINF:-1 group-title="03/02/2017",MotorsTv
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/46.ts
+#EXTINF:-1 group-title="03/02/2017",MOTORVISION
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/88.ts
+#EXTINF:-1 group-title="03/02/2017",Toros Tv
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/48.ts
+#EXTINF:-1 group-title="03/02/2017",Caça e Pesca
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/49.ts
+#EXTINF:-1 group-title="03/02/2017",Cazavision
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/93.ts
+#EXTINF:-1 group-title="03/02/2017",Tvcine 1 Full HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/30.ts
+#EXTINF:-1 group-title="03/02/2017",Tvcine 2 Full HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/31.ts
+#EXTINF:-1 group-title="03/02/2017",Tvcine 3 Full HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/32.ts
+#EXTINF:-1 group-title="03/02/2017",Tvcine 4 Full HD
+http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/33.ts
+
 
 
 #EXTINF:-1 group-title="27/01/2017",RTP 1
@@ -48,79 +413,6 @@ http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/125.t
 #EXTINF:-1 group-title="27/01/2017",Novidades
 http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/190.ts
 
-#EXTINF:-1 group-title="27/01/2017",Rtp Madeira
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/62.ts
-#EXTINF:-1 group-title="27/01/2017",Rtp Acores
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/63.ts
-#EXTINF:-1 group-title="27/01/2017",Tv Record
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/74.ts
-#EXTINF:-1 group-title="27/01/2017",Globo Portugal
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/128.ts
-#EXTINF:-1 group-title="27/01/2017",Globo Premium
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/59.ts
-#EXTINF:-1 group-title="27/01/2017",A Bola Tv
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/11.ts
-#EXTINF:-1 group-title="27/01/2017",Sportv +
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/208.ts
-#EXTINF:-1 group-title="27/01/2017",SPORTV1 HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/34.ts
-#EXTINF:-1 group-title="27/01/2017",SPORT TV 1
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/146.ts
-#EXTINF:-1 group-title="27/01/2017",Sport TV 1  LOW
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/213.ts
-#EXTINF:-1 group-title="27/01/2017",Sport TV 2 HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/333.ts
-#EXTINF:-1 group-title="27/01/2017",SPORT TV 2
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/145.ts
-#EXTINF:-1 group-title="27/01/2017",Sport TV 2 LOW
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/214.ts
-#EXTINF:-1 group-title="27/01/2017",Sport TV 3 HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/334.ts
-#EXTINF:-1 group-title="27/01/2017",Sporttv3
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/15.ts
-#EXTINF:-1 group-title="27/01/2017",Sporttv4
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/16.ts
-#EXTINF:-1 group-title="27/01/2017",Sport TV 5 Full HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/17.ts
-#EXTINF:-1 group-title="27/01/2017",Sportv HD XTR
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/269.ts
-#EXTINF:-1 group-title="27/01/2017",BenficaTV 1 Full HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/18.ts
-#EXTINF:-1 group-title="27/01/2017",Benfica TV 1 LOW
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/215.ts
-#EXTINF:-1 group-title="27/01/2017",Sportting TV
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/47.ts
-
-#EXTINF:-1 group-title="27/01/2017",Porto Canal
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/9.ts
-#EXTINF:-1 group-title="27/01/2017",Real Madrid TV
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/143.ts
-#EXTINF:-1 group-title="27/01/2017",Pfc
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/20.ts
-#EXTINF:-1 group-title="27/01/2017",Eurosport 1
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/21.ts
-#EXTINF:-1 group-title="27/01/2017",Eurosport 2
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/22.ts
-#EXTINF:-1 group-title="27/01/2017",Eurosport Xtra HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/148.ts
-#EXTINF:-1 group-title="27/01/2017",MotorsTv
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/46.ts
-#EXTINF:-1 group-title="27/01/2017",MOTORVISION
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/88.ts
-#EXTINF:-1 group-title="27/01/2017",Toros Tv
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/48.ts
-#EXTINF:-1 group-title="27/01/2017",Caça e Pesca
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/49.ts
-#EXTINF:-1 group-title="27/01/2017",Cazavision
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/93.ts
-#EXTINF:-1 group-title="27/01/2017",Tvcine 1 Full HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/30.ts
-#EXTINF:-1 group-title="27/01/2017",Tvcine 2 Full HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/31.ts
-#EXTINF:-1 group-title="27/01/2017",Tvcine 3 Full HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/32.ts
-#EXTINF:-1 group-title="27/01/2017",Tvcine 4 Full HD
-http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/33.ts
 
 #EXTINF:-1 group-title="27/01/2017",AMC
 http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/209.ts
