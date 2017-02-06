@@ -10,314 +10,3121 @@ http://www.tv-msn.com/player/player.swf
 
 ####################################################################
 
-#EXTM3U
-
-#EXTINF:-1 group-title="03/02/2017",●●●●●● DESPORTO ●●●●●●
+#EXTINF:-1 group-title="05/02/2017",●●●●●● DESPORTO ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1797.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV +
+#EXTINF:-1 group-title="05/02/2017",SPORT TV +
 http://163.172.50.189:8000/live/cabral/cabral/1430.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV + HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV + HD
 http://163.172.50.189:8000/live/cabral/cabral/1668.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 1
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1
 http://163.172.50.189:8000/live/cabral/cabral/1944.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 1 HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1 HD
 http://163.172.50.189:8000/live/cabral/cabral/1431.ts
-#EXTINF:-1 group-title="03/02/2017",Sport TV 1 HD (ALT1)
+#EXTINF:-1 group-title="05/02/2017",Sport TV 1 HD (ALT1)
 http://163.172.50.189:8000/live/cabral/cabral/1933.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 1 FULL HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1 FULL HD
 http://163.172.50.189:8000/live/cabral/cabral/1669.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 2 FULL HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2 FULL HD
 http://163.172.50.189:8000/live/cabral/cabral/1670.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 2 HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2 HD
 http://163.172.50.189:8000/live/cabral/cabral/1436.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 2
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2
 http://163.172.50.189:8000/live/cabral/cabral/1437.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 3 HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3 HD
 http://163.172.50.189:8000/live/cabral/cabral/1439.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 3 FULL HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3 FULL HD
 http://163.172.50.189:8000/live/cabral/cabral/1671.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 3
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3
 http://163.172.50.189:8000/live/cabral/cabral/1440.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 4
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 4
 http://163.172.50.189:8000/live/cabral/cabral/1441.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 4 HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 4 HD
 http://163.172.50.189:8000/live/cabral/cabral/1672.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 5
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 5
 http://163.172.50.189:8000/live/cabral/cabral/1442.ts
-#EXTINF:-1 group-title="03/02/2017",SPORT TV 5 HD
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 5 HD
 http://163.172.50.189:8000/live/cabral/cabral/1673.ts
-#EXTINF:-1 group-title="03/02/2017",BTV 1 HD
+#EXTINF:-1 group-title="05/02/2017",BTV 1 HD
 http://163.172.50.189:8000/live/cabral/cabral/1443.ts
-#EXTINF:-1 group-title="03/02/2017",BTV 1 FULL HD
+#EXTINF:-1 group-title="05/02/2017",BTV 1 FULL HD
 http://163.172.50.189:8000/live/cabral/cabral/1675.ts
-#EXTINF:-1 group-title="03/02/2017",BTV 1
+#EXTINF:-1 group-title="05/02/2017",BTV 1
 http://163.172.50.189:8000/live/cabral/cabral/1674.ts
-#EXTINF:-1 group-title="03/02/2017",SPORTING TV
+#EXTINF:-1 group-title="05/02/2017",SPORTING TV
 http://163.172.50.189:8000/live/cabral/cabral/1448.ts
-#EXTINF:-1 group-title="03/02/2017",A BOLA TV
+#EXTINF:-1 group-title="05/02/2017",A BOLA TV
 http://163.172.50.189:8000/live/cabral/cabral/1449.ts
-#EXTINF:-1 group-title="03/02/2017",EUROSPORT 1 HD
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 1 HD
 http://163.172.50.189:8000/live/cabral/cabral/1450.ts
-#EXTINF:-1 group-title="03/02/2017",EUROSPORT
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT
 http://163.172.50.189:8000/live/cabral/cabral/1451.ts
-#EXTINF:-1 group-title="03/02/2017",EUROSPORT 2
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2
 http://163.172.50.189:8000/live/cabral/cabral/1452.ts
-#EXTINF:-1 group-title="03/02/2017",EUROSPORT 2 XTRA HD
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA HD
 http://163.172.50.189:8000/live/cabral/cabral/1453.ts
-#EXTINF:-1 group-title="03/02/2017",CACAVISION
+#EXTINF:-1 group-title="05/02/2017",CACAVISION
 http://163.172.50.189:8000/live/cabral/cabral/1454.ts
-#EXTINF:-1 group-title="03/02/2017",CACA E PESCA
+#EXTINF:-1 group-title="05/02/2017",CACA E PESCA
 http://163.172.50.189:8000/live/cabral/cabral/1455.ts
-#EXTINF:-1 group-title="03/02/2017",TOROS TV
+#EXTINF:-1 group-title="05/02/2017",TOROS TV
 http://163.172.50.189:8000/live/cabral/cabral/1456.ts
-#EXTINF:-1 group-title="03/02/2017",KOMBAT SPORT
+#EXTINF:-1 group-title="05/02/2017",KOMBAT SPORT
 http://163.172.50.189:8000/live/cabral/cabral/1457.ts
-#EXTINF:-1 group-title="03/02/2017",REAL MADRID TV
+#EXTINF:-1 group-title="05/02/2017",REAL MADRID TV
 http://163.172.50.189:8000/live/cabral/cabral/1458.ts
-#EXTINF:-1 group-title="03/02/2017",CHELSEA TV
+#EXTINF:-1 group-title="05/02/2017",CHELSEA TV
 http://163.172.50.189:8000/live/cabral/cabral/1459.ts
-#EXTINF:-1 group-title="03/02/2017",MOTORVISION
+#EXTINF:-1 group-title="05/02/2017",MOTORVISION
 http://163.172.50.189:8000/live/cabral/cabral/1460.ts
-#EXTINF:-1 group-title="03/02/2017",MOTORS TV
+#EXTINF:-1 group-title="05/02/2017",MOTORS TV
 http://163.172.50.189:8000/live/cabral/cabral/1461.ts
-#EXTINF:-1 group-title="03/02/2017",FUEL TV
+#EXTINF:-1 group-title="05/02/2017",FUEL TV
 http://163.172.50.189:8000/live/cabral/cabral/1462.ts
-#EXTINF:-1 group-title="03/02/2017",FIGHT NETWORK
+#EXTINF:-1 group-title="05/02/2017",FIGHT NETWORK
 http://163.172.50.189:8000/live/cabral/cabral/1463.ts
-#EXTINF:-1 group-title="03/02/2017",PFC
+#EXTINF:-1 group-title="05/02/2017",PFC
 http://163.172.50.189:8000/live/cabral/cabral/1464.ts
 
 
-#EXTINF:-1 group-title="03/02/2017",●●●●●● NACIONAIS ●●●●●●
+#EXTINF:-1 group-title="05/02/2017",SPORTV + FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1477.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV +
+http://149.202.72.15:8000/live/marisa/marisa/1038.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1 FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1476.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1 HD
+http://149.202.72.15:8000/live/marisa/marisa/193.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1
+http://149.202.72.15:8000/live/marisa/marisa/286.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2 FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1475.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2 HD
+http://149.202.72.15:8000/live/marisa/marisa/192.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2
+http://149.202.72.15:8000/live/marisa/marisa/285.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3 FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1474.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3 HD
+http://149.202.72.15:8000/live/marisa/marisa/202.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3
+http://149.202.72.15:8000/live/marisa/marisa/688.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4 FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1473.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4 HD
+http://149.202.72.15:8000/live/marisa/marisa/201.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4
+http://149.202.72.15:8000/live/marisa/marisa/687.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5 FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1472.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5 HD
+http://149.202.72.15:8000/live/marisa/marisa/200.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5
+http://149.202.72.15:8000/live/marisa/marisa/686.ts
+#EXTINF:-1 group-title="05/02/2017",A BOLA TV
+http://149.202.72.15:8000/live/marisa/marisa/199.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1479.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 HD
+http://149.202.72.15:8000/live/marisa/marisa/245.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1
+http://149.202.72.15:8000/live/marisa/marisa/288.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTING TV HD
+http://149.202.72.15:8000/live/marisa/marisa/203.ts
+#EXTINF:-1 group-title="05/02/2017",REAL MADRID TV
+http://149.202.72.15:8000/live/marisa/marisa/854.ts
+#EXTINF:-1 group-title="05/02/2017",BARCA TV
+http://149.202.72.15:8000/live/marisa/marisa/863.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT HD
+http://149.202.72.15:8000/live/marisa/marisa/207.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2
+http://149.202.72.15:8000/live/marisa/marisa/227.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA FULL HD
+http://149.202.72.15:8000/live/marisa/marisa/1478.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA
+http://149.202.72.15:8000/live/marisa/marisa/899.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT NEWS
+http://149.202.72.15:8000/live/marisa/marisa/786.ts
+#EXTINF:-1 group-title="05/02/2017",POKER CENTRAL
+http://149.202.72.15:8000/live/marisa/marisa/1503.ts
+#EXTINF:-1 group-title="05/02/2017",PFC
+http://149.202.72.15:8000/live/marisa/marisa/228.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORS TV
+http://149.202.72.15:8000/live/marisa/marisa/214.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORVISION
+http://149.202.72.15:8000/live/marisa/marisa/206.ts
+#EXTINF:-1 group-title="05/02/2017",MCS EXTREME
+http://149.202.72.15:8000/live/marisa/marisa/1396.ts
+#EXTINF:-1 group-title="05/02/2017",FUEL TV
+http://149.202.72.15:8000/live/marisa/marisa/276.ts
+#EXTINF:-1 group-title="05/02/2017",FIGHT NETWORK
+http://149.202.72.15:8000/live/marisa/marisa/705.ts
+#EXTINF:-1 group-title="05/02/2017",KOMBAT SPORT
+http://149.202.72.15:8000/live/marisa/marisa/900.ts
+#EXTINF:-1 group-title="05/02/2017",CACAVISION
+http://149.202.72.15:8000/live/marisa/marisa/216.ts
+#EXTINF:-1 group-title="05/02/2017",CAÇA E PESCA
+http://149.202.72.15:8000/live/marisa/marisa/208.ts
+#EXTINF:-1 group-title="05/02/2017",OUTDOOR
+http://149.202.72.15:8000/live/marisa/marisa/784.ts
+#EXTINF:-1 group-title="05/02/2017",TOROS TV
+http://149.202.72.15:8000/live/marisa/marisa/278.ts
+#EXTINF:-1 group-title="05/02/2017",DOG TV
+http://149.202.72.15:8000/live/marisa/marisa/706.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1 HD
+http://149.202.72.15:8000/live/marisa/marisa/229.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2 HD
+http://149.202.72.15:8000/live/marisa/marisa/230.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3 HD
+http://149.202.72.15:8000/live/marisa/marisa/231.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4 HD
+http://149.202.72.15:8000/live/marisa/marisa/232.ts
+
+#EXTINF:-1 group-title="05/02/2017",TV RECORD MOBILE
+http://149.202.72.15:8000/live/casa/casa/1415.ts
+#EXTINF:-1 group-title="05/02/2017",GLOBO MOBILE
+http://149.202.72.15:8000/live/casa/casa/1416.ts
+#EXTINF:-1 group-title="05/02/2017",GLOBO PREMIUM MOBILE
+http://149.202.72.15:8000/live/casa/casa/1417.ts
+#EXTINF:-1 group-title="05/02/2017",ABOLA TV MOBILE
+http://149.202.72.15:8000/live/casa/casa/1418.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV + MOBILE
+http://149.202.72.15:8000/live/casa/casa/1419.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1420.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1421.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1422.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1423.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1424.ts
+#EXTINF:-1 group-title="05/02/2017",BENFICA TV 1 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1425.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT MOBILE
+http://149.202.72.15:8000/live/casa/casa/1428.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA MOBILE
+http://149.202.72.15:8000/live/casa/casa/1430.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1429.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTING TV MOBILE
+http://149.202.72.15:8000/live/casa/casa/1426.ts
+#EXTINF:-1 group-title="05/02/2017",PFC MOBILE
+http://149.202.72.15:8000/live/casa/casa/1427.ts
+#EXTINF:-1 group-title="05/02/2017",CAÇA E PESCA MOBILE
+http://149.202.72.15:8000/live/casa/casa/1434.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORS TV MOBILE
+http://149.202.72.15:8000/live/casa/casa/1432.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORVISION MOBILE
+http://149.202.72.15:8000/live/casa/casa/1431.ts
+#EXTINF:-1 group-title="05/02/2017",KOMBAT SPORT MOBILE
+http://149.202.72.15:8000/live/casa/casa/1433.ts
+
+
+#EXTINF:-1 group-title="05/02/2017",SPORTV + FULL HD
+http://149.202.72.15:8000/live/casa/casa/1477.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV +
+http://149.202.72.15:8000/live/casa/casa/1038.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1 FULL HD
+http://149.202.72.15:8000/live/casa/casa/1476.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1 HD
+http://149.202.72.15:8000/live/casa/casa/193.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 1
+http://149.202.72.15:8000/live/casa/casa/286.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2 FULL HD
+http://149.202.72.15:8000/live/casa/casa/1475.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2 HD
+http://149.202.72.15:8000/live/casa/casa/192.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 2
+http://149.202.72.15:8000/live/casa/casa/285.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3 FULL HD
+http://149.202.72.15:8000/live/casa/casa/1474.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3 HD
+http://149.202.72.15:8000/live/casa/casa/202.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 3
+http://149.202.72.15:8000/live/casa/casa/688.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4 FULL HD
+http://149.202.72.15:8000/live/casa/casa/1473.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4 HD
+http://149.202.72.15:8000/live/casa/casa/201.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 4
+http://149.202.72.15:8000/live/casa/casa/687.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5 FULL HD
+http://149.202.72.15:8000/live/casa/casa/1472.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5 HD
+http://149.202.72.15:8000/live/casa/casa/200.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTV 5
+http://149.202.72.15:8000/live/casa/casa/686.ts
+#EXTINF:-1 group-title="05/02/2017",A BOLA TV
+http://149.202.72.15:8000/live/casa/casa/199.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 FULL HD
+http://149.202.72.15:8000/live/casa/casa/1479.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 HD
+http://149.202.72.15:8000/live/casa/casa/245.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1
+http://149.202.72.15:8000/live/casa/casa/288.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTING TV HD
+http://149.202.72.15:8000/live/casa/casa/203.ts
+#EXTINF:-1 group-title="05/02/2017",REAL MADRID TV
+http://149.202.72.15:8000/live/casa/casa/854.ts
+#EXTINF:-1 group-title="05/02/2017",BARCA TV
+http://149.202.72.15:8000/live/casa/casa/863.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT HD
+http://149.202.72.15:8000/live/casa/casa/207.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2
+http://149.202.72.15:8000/live/casa/casa/227.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA FULL HD
+http://149.202.72.15:8000/live/casa/casa/1478.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA
+http://149.202.72.15:8000/live/casa/casa/899.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT NEWS
+http://149.202.72.15:8000/live/casa/casa/786.ts
+#EXTINF:-1 group-title="05/02/2017",POKER CENTRAL
+http://149.202.72.15:8000/live/casa/casa/1503.ts
+#EXTINF:-1 group-title="05/02/2017",PFC
+http://149.202.72.15:8000/live/casa/casa/228.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORS TV
+http://149.202.72.15:8000/live/casa/casa/214.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORVISION
+http://149.202.72.15:8000/live/casa/casa/206.ts
+#EXTINF:-1 group-title="05/02/2017",MCS EXTREME
+http://149.202.72.15:8000/live/casa/casa/1396.ts
+#EXTINF:-1 group-title="05/02/2017",FUEL TV
+http://149.202.72.15:8000/live/casa/casa/276.ts
+#EXTINF:-1 group-title="05/02/2017",FIGHT NETWORK
+http://149.202.72.15:8000/live/casa/casa/705.ts
+#EXTINF:-1 group-title="05/02/2017",KOMBAT SPORT
+http://149.202.72.15:8000/live/casa/casa/900.ts
+#EXTINF:-1 group-title="05/02/2017",CACAVISION
+http://149.202.72.15:8000/live/casa/casa/216.ts
+#EXTINF:-1 group-title="05/02/2017",CAÇA E PESCA
+http://149.202.72.15:8000/live/casa/casa/208.ts
+#EXTINF:-1 group-title="05/02/2017",OUTDOOR
+http://149.202.72.15:8000/live/casa/casa/784.ts
+#EXTINF:-1 group-title="05/02/2017",TOROS TV
+http://149.202.72.15:8000/live/casa/casa/278.ts
+#EXTINF:-1 group-title="05/02/2017",DOG TV
+http://149.202.72.15:8000/live/casa/casa/706.ts
+
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● DESPORTO ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1797.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV +
+http://163.172.50.189:8000/live/kobe/kobe/1430.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV + HD
+http://163.172.50.189:8000/live/kobe/kobe/1668.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1
+http://163.172.50.189:8000/live/kobe/kobe/1944.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1 HD
+http://163.172.50.189:8000/live/kobe/kobe/1431.ts
+#EXTINF:-1 group-title="05/02/2017",Sport TV 1 HD (ALT1)
+http://163.172.50.189:8000/live/kobe/kobe/1933.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1 FULL HD
+http://163.172.50.189:8000/live/kobe/kobe/1669.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2 FULL HD
+http://163.172.50.189:8000/live/kobe/kobe/1670.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2 HD
+http://163.172.50.189:8000/live/kobe/kobe/1436.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2
+http://163.172.50.189:8000/live/kobe/kobe/1437.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3 HD
+http://163.172.50.189:8000/live/kobe/kobe/1439.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3 FULL HD
+http://163.172.50.189:8000/live/kobe/kobe/1671.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3
+http://163.172.50.189:8000/live/kobe/kobe/1440.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 4
+http://163.172.50.189:8000/live/kobe/kobe/1441.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 4 HD
+http://163.172.50.189:8000/live/kobe/kobe/1672.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 5
+http://163.172.50.189:8000/live/kobe/kobe/1442.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 5 HD
+http://163.172.50.189:8000/live/kobe/kobe/1673.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 HD
+http://163.172.50.189:8000/live/kobe/kobe/1443.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 FULL HD
+http://163.172.50.189:8000/live/kobe/kobe/1675.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1
+http://163.172.50.189:8000/live/kobe/kobe/1674.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTING TV
+http://163.172.50.189:8000/live/kobe/kobe/1448.ts
+#EXTINF:-1 group-title="05/02/2017",A BOLA TV
+http://163.172.50.189:8000/live/kobe/kobe/1449.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 1 HD
+http://163.172.50.189:8000/live/kobe/kobe/1450.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT
+http://163.172.50.189:8000/live/kobe/kobe/1451.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2
+http://163.172.50.189:8000/live/kobe/kobe/1452.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA HD
+http://163.172.50.189:8000/live/kobe/kobe/1453.ts
+#EXTINF:-1 group-title="05/02/2017",CACAVISION
+http://163.172.50.189:8000/live/kobe/kobe/1454.ts
+#EXTINF:-1 group-title="05/02/2017",CACA E PESCA
+http://163.172.50.189:8000/live/kobe/kobe/1455.ts
+#EXTINF:-1 group-title="05/02/2017",TOROS TV
+http://163.172.50.189:8000/live/kobe/kobe/1456.ts
+#EXTINF:-1 group-title="05/02/2017",KOMBAT SPORT
+http://163.172.50.189:8000/live/kobe/kobe/1457.ts
+#EXTINF:-1 group-title="05/02/2017",REAL MADRID TV
+http://163.172.50.189:8000/live/kobe/kobe/1458.ts
+#EXTINF:-1 group-title="05/02/2017",CHELSEA TV
+http://163.172.50.189:8000/live/kobe/kobe/1459.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORVISION
+http://163.172.50.189:8000/live/kobe/kobe/1460.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORS TV
+http://163.172.50.189:8000/live/kobe/kobe/1461.ts
+#EXTINF:-1 group-title="05/02/2017",FUEL TV
+http://163.172.50.189:8000/live/kobe/kobe/1462.ts
+#EXTINF:-1 group-title="05/02/2017",FIGHT NETWORK
+http://163.172.50.189:8000/live/kobe/kobe/1463.ts
+#EXTINF:-1 group-title="05/02/2017",PFC
+http://163.172.50.189:8000/live/kobe/kobe/1464.ts
+
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● DESPORTO ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1797.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV +
+http://163.172.50.189:8000/live/cabral/cabral/1430.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV + HD
+http://163.172.50.189:8000/live/cabral/cabral/1668.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1
+http://163.172.50.189:8000/live/cabral/cabral/1944.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1431.ts
+#EXTINF:-1 group-title="05/02/2017",Sport TV 1 HD (ALT1)
+http://163.172.50.189:8000/live/cabral/cabral/1933.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 1 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1669.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1670.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1436.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 2
+http://163.172.50.189:8000/live/cabral/cabral/1437.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3 HD
+http://163.172.50.189:8000/live/cabral/cabral/1439.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1671.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 3
+http://163.172.50.189:8000/live/cabral/cabral/1440.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 4
+http://163.172.50.189:8000/live/cabral/cabral/1441.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 4 HD
+http://163.172.50.189:8000/live/cabral/cabral/1672.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 5
+http://163.172.50.189:8000/live/cabral/cabral/1442.ts
+#EXTINF:-1 group-title="05/02/2017",SPORT TV 5 HD
+http://163.172.50.189:8000/live/cabral/cabral/1673.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1443.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1 FULL HD
+http://163.172.50.189:8000/live/cabral/cabral/1675.ts
+#EXTINF:-1 group-title="05/02/2017",BTV 1
+http://163.172.50.189:8000/live/cabral/cabral/1674.ts
+#EXTINF:-1 group-title="05/02/2017",SPORTING TV
+http://163.172.50.189:8000/live/cabral/cabral/1448.ts
+#EXTINF:-1 group-title="05/02/2017",A BOLA TV
+http://163.172.50.189:8000/live/cabral/cabral/1449.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1450.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT
+http://163.172.50.189:8000/live/cabral/cabral/1451.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2
+http://163.172.50.189:8000/live/cabral/cabral/1452.ts
+#EXTINF:-1 group-title="05/02/2017",EUROSPORT 2 XTRA HD
+http://163.172.50.189:8000/live/cabral/cabral/1453.ts
+#EXTINF:-1 group-title="05/02/2017",CACAVISION
+http://163.172.50.189:8000/live/cabral/cabral/1454.ts
+#EXTINF:-1 group-title="05/02/2017",CACA E PESCA
+http://163.172.50.189:8000/live/cabral/cabral/1455.ts
+#EXTINF:-1 group-title="05/02/2017",TOROS TV
+http://163.172.50.189:8000/live/cabral/cabral/1456.ts
+#EXTINF:-1 group-title="05/02/2017",KOMBAT SPORT
+http://163.172.50.189:8000/live/cabral/cabral/1457.ts
+#EXTINF:-1 group-title="05/02/2017",REAL MADRID TV
+http://163.172.50.189:8000/live/cabral/cabral/1458.ts
+#EXTINF:-1 group-title="05/02/2017",CHELSEA TV
+http://163.172.50.189:8000/live/cabral/cabral/1459.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORVISION
+http://163.172.50.189:8000/live/cabral/cabral/1460.ts
+#EXTINF:-1 group-title="05/02/2017",MOTORS TV
+http://163.172.50.189:8000/live/cabral/cabral/1461.ts
+#EXTINF:-1 group-title="05/02/2017",FUEL TV
+http://163.172.50.189:8000/live/cabral/cabral/1462.ts
+#EXTINF:-1 group-title="05/02/2017",FIGHT NETWORK
+http://163.172.50.189:8000/live/cabral/cabral/1463.ts
+#EXTINF:-1 group-title="05/02/2017",PFC
+http://163.172.50.189:8000/live/cabral/cabral/1464.ts
+
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● FILMES  ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1800.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1 HD
+http://163.172.50.189:8000/live/cabral/cabral/1465.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2 HD
+http://163.172.50.189:8000/live/cabral/cabral/1467.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3 HD
+http://163.172.50.189:8000/live/cabral/cabral/1469.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4 HD
+http://163.172.50.189:8000/live/cabral/cabral/1471.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1
+http://163.172.50.189:8000/live/cabral/cabral/1466.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2
+http://163.172.50.189:8000/live/cabral/cabral/1468.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3
+http://163.172.50.189:8000/live/cabral/cabral/1470.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4
+http://163.172.50.189:8000/live/cabral/cabral/1472.ts
+#EXTINF:-1 group-title="05/02/2017",HOLLYWOOD HD
+http://163.172.50.189:8000/live/cabral/cabral/1473.ts
+#EXTINF:-1 group-title="05/02/2017",HOLLYWOOD
+http://163.172.50.189:8000/live/cabral/cabral/1474.ts
+#EXTINF:-1 group-title="05/02/2017",FOX MOVIES
+http://163.172.50.189:8000/live/cabral/cabral/1475.ts
+#EXTINF:-1 group-title="05/02/2017",MOV HD
+http://163.172.50.189:8000/live/cabral/cabral/1476.ts
+#EXTINF:-1 group-title="05/02/2017",AMC
+http://163.172.50.189:8000/live/cabral/cabral/1477.ts
+#EXTINF:-1 group-title="05/02/2017",CINEMUNDO
+http://163.172.50.189:8000/live/cabral/cabral/1478.ts
+#EXTINF:-1 group-title="05/02/2017",●●●●●● SERIES ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1801.ts
+#EXTINF:-1 group-title="05/02/2017",TV SERIES HD
+http://163.172.50.189:8000/live/cabral/cabral/1479.ts
+#EXTINF:-1 group-title="05/02/2017",TV SERIES
+http://163.172.50.189:8000/live/cabral/cabral/1480.ts
+#EXTINF:-1 group-title="05/02/2017",AXN HD
+http://163.172.50.189:8000/live/cabral/cabral/1481.ts
+#EXTINF:-1 group-title="05/02/2017",AXN WHITE HD
+http://163.172.50.189:8000/live/cabral/cabral/1482.ts
+#EXTINF:-1 group-title="05/02/2017",AXN BLACK HD
+http://163.172.50.189:8000/live/cabral/cabral/1483.ts
+#EXTINF:-1 group-title="05/02/2017",FOX LIVE HD
+http://163.172.50.189:8000/live/cabral/cabral/1485.ts
+#EXTINF:-1 group-title="05/02/2017",FOX LIFE
+http://163.172.50.189:8000/live/cabral/cabral/1487.ts
+#EXTINF:-1 group-title="05/02/2017",FOX HD
+http://163.172.50.189:8000/live/cabral/cabral/1484.ts
+#EXTINF:-1 group-title="05/02/2017",FOX CRIME HD
+http://163.172.50.189:8000/live/cabral/cabral/1486.ts
+#EXTINF:-1 group-title="05/02/2017",FOX COMEDY
+http://163.172.50.189:8000/live/cabral/cabral/1488.ts
+#EXTINF:-1 group-title="05/02/2017",SYFY
+http://163.172.50.189:8000/live/cabral/cabral/1489.ts
+#EXTINF:-1 group-title="05/02/2017",SUNDANCE HD
+http://163.172.50.189:8000/live/cabral/cabral/1490.ts
+
+
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● FILMES  ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1800.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1 HD
+http://163.172.50.189:8000/live/kobe/kobe/1465.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2 HD
+http://163.172.50.189:8000/live/kobe/kobe/1467.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3 HD
+http://163.172.50.189:8000/live/kobe/kobe/1469.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4 HD
+http://163.172.50.189:8000/live/kobe/kobe/1471.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1
+http://163.172.50.189:8000/live/kobe/kobe/1466.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2
+http://163.172.50.189:8000/live/kobe/kobe/1468.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3
+http://163.172.50.189:8000/live/kobe/kobe/1470.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4
+http://163.172.50.189:8000/live/kobe/kobe/1472.ts
+
+
+
+
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1 HD
+http://149.202.72.15:8000/live/casa/casa/229.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2 HD
+http://149.202.72.15:8000/live/casa/casa/230.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3 HD
+http://149.202.72.15:8000/live/casa/casa/231.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4 HD
+http://149.202.72.15:8000/live/casa/casa/232.ts
+
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● Musica ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1805.ts
+#EXTINF:-1 group-title="05/02/2017",VH1 CLASSIC
+http://163.172.50.189:8000/live/kobe/kobe/1502.ts
+#EXTINF:-1 group-title="05/02/2017",VH1
+http://163.172.50.189:8000/live/kobe/kobe/1501.ts
+#EXTINF:-1 group-title="05/02/2017",TRACE TV
+http://163.172.50.189:8000/live/kobe/kobe/1503.ts
+#EXTINF:-1 group-title="05/02/2017",MTV PORTUGAL
+http://163.172.50.189:8000/live/kobe/kobe/1504.ts
+#EXTINF:-1 group-title="05/02/2017",MTV DANCE
+http://163.172.50.189:8000/live/kobe/kobe/1505.ts
+#EXTINF:-1 group-title="05/02/2017",MCM POP
+http://163.172.50.189:8000/live/kobe/kobe/1507.ts
+#EXTINF:-1 group-title="05/02/2017",C-MUSIC
+http://163.172.50.189:8000/live/kobe/kobe/1508.ts
+#EXTINF:-1 group-title="05/02/2017",AFRO MUSIC
+http://163.172.50.189:8000/live/kobe/kobe/1509.ts
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● Musica ●●●●●●
+http://163.172.50.189:8000/live/cabral/cabral/1805.ts
+#EXTINF:-1 group-title="05/02/2017",VH1 CLASSIC
+http://163.172.50.189:8000/live/cabral/cabral/1502.ts
+#EXTINF:-1 group-title="05/02/2017",VH1
+http://163.172.50.189:8000/live/cabral/cabral/1501.ts
+#EXTINF:-1 group-title="05/02/2017",TRACE TV
+http://163.172.50.189:8000/live/cabral/cabral/1503.ts
+#EXTINF:-1 group-title="05/02/2017",MTV PORTUGAL
+http://163.172.50.189:8000/live/cabral/cabral/1504.ts
+#EXTINF:-1 group-title="05/02/2017",MTV DANCE
+http://163.172.50.189:8000/live/cabral/cabral/1505.ts
+#EXTINF:-1 group-title="05/02/2017",MCM POP
+http://163.172.50.189:8000/live/cabral/cabral/1507.ts
+#EXTINF:-1 group-title="05/02/2017",C-MUSIC
+http://163.172.50.189:8000/live/cabral/cabral/1508.ts
+#EXTINF:-1 group-title="05/02/2017",AFRO MUSIC
+http://163.172.50.189:8000/live/cabral/cabral/1509.ts
+
+
+#EXTM3U
+#EXTINF:-1 group-title="05/02/2017",●●●●●● NACIONAIS ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1946.ts
-#EXTINF:-1 group-title="03/02/2017",RTP 1 HD
+#EXTINF:-1 group-title="05/02/2017",RTP 1 HD
 http://163.172.50.189:8000/live/cabral/cabral/1405.ts
-#EXTINF:-1 group-title="03/02/2017",RTP 1
+#EXTINF:-1 group-title="05/02/2017",RTP 1
 http://163.172.50.189:8000/live/cabral/cabral/1790.ts
-#EXTINF:-1 group-title="03/02/2017",RTP 2 HD
+#EXTINF:-1 group-title="05/02/2017",RTP 2 HD
 http://163.172.50.189:8000/live/cabral/cabral/1406.ts
-#EXTINF:-1 group-title="03/02/2017",RTP 2
+#EXTINF:-1 group-title="05/02/2017",RTP 2
 http://163.172.50.189:8000/live/cabral/cabral/1407.ts
-#EXTINF:-1 group-title="03/02/2017",RTP 3
+#EXTINF:-1 group-title="05/02/2017",RTP 3
 http://163.172.50.189:8000/live/cabral/cabral/1408.ts
-#EXTINF:-1 group-title="03/02/2017",SIC HD
+#EXTINF:-1 group-title="05/02/2017",SIC HD
 http://163.172.50.189:8000/live/cabral/cabral/1409.ts
-#EXTINF:-1 group-title="03/02/2017",SIC
+#EXTINF:-1 group-title="05/02/2017",SIC
 http://163.172.50.189:8000/live/cabral/cabral/1410.ts
-#EXTINF:-1 group-title="03/02/2017",TVI ( sd )
+#EXTINF:-1 group-title="05/02/2017",TVI ( sd )
 http://163.172.50.189:8000/live/cabral/cabral/1416.ts
-#EXTINF:-1 group-title="03/02/2017",TVI HD
+#EXTINF:-1 group-title="05/02/2017",TVI HD
 http://163.172.50.189:8000/live/cabral/cabral/1413.ts
-
-
-#EXTINF:-1 group-title="03/02/2017",●●●●●● INFORMAÇÃO ●●●●●●
+#EXTINF:-1 group-title="05/02/2017",●●●●●● INFORMAÇÃO ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1792.ts
-#EXTINF:-1 group-title="03/02/2017",SIC NOTICIAS
+#EXTINF:-1 group-title="05/02/2017",SIC NOTICIAS
 http://163.172.50.189:8000/live/cabral/cabral/1417.ts
-#EXTINF:-1 group-title="03/02/2017",TVI 24
+#EXTINF:-1 group-title="05/02/2017",TVI 24
 http://163.172.50.189:8000/live/cabral/cabral/1418.ts
-#EXTINF:-1 group-title="03/02/2017",CMTV
+#EXTINF:-1 group-title="05/02/2017",CMTV
 http://163.172.50.189:8000/live/cabral/cabral/1419.ts
-#EXTINF:-1 group-title="03/02/2017",PORTO CANAL
+#EXTINF:-1 group-title="05/02/2017",PORTO CANAL
 http://163.172.50.189:8000/live/cabral/cabral/1420.ts
-#EXTINF:-1 group-title="03/02/2017",CNN
+#EXTINF:-1 group-title="05/02/2017",CNN
 http://163.172.50.189:8000/live/cabral/cabral/1421.ts
-
-
-#EXTINF:-1 group-title="03/02/2017",●●●●●● ENTRETENIMENTO ●●●●●●
+#EXTINF:-1 group-title="05/02/2017",●●●●●● ENTRETENIMENTO ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1795.ts
-#EXTINF:-1 group-title="03/02/2017",SIC RADICAL
+#EXTINF:-1 group-title="05/02/2017",SIC RADICAL
 http://163.172.50.189:8000/live/cabral/cabral/1422.ts
-#EXTINF:-1 group-title="03/02/2017",SIC MULHER
+#EXTINF:-1 group-title="05/02/2017",SIC MULHER
 http://163.172.50.189:8000/live/cabral/cabral/1423.ts
-#EXTINF:-1 group-title="03/02/2017",SIC CARAS
+#EXTINF:-1 group-title="05/02/2017",SIC CARAS
 http://163.172.50.189:8000/live/cabral/cabral/1424.ts
-#EXTINF:-1 group-title="03/02/2017",TVI FICCAO
+#EXTINF:-1 group-title="05/02/2017",TVI FICCAO
 http://163.172.50.189:8000/live/cabral/cabral/1425.ts
-#EXTINF:-1 group-title="03/02/2017",TVI REALITY
+#EXTINF:-1 group-title="05/02/2017",TVI REALITY
 http://163.172.50.189:8000/live/cabral/cabral/1426.ts
-#EXTINF:-1 group-title="03/02/2017",24 KITCHEN HD
+#EXTINF:-1 group-title="05/02/2017",24 KITCHEN HD
 http://163.172.50.189:8000/live/cabral/cabral/1427.ts
-#EXTINF:-1 group-title="03/02/2017",CANAL Q
+#EXTINF:-1 group-title="05/02/2017",CANAL Q
 http://163.172.50.189:8000/live/cabral/cabral/1428.ts
 
-#EXTINF:-1 group-title="03/02/2017",●●●●●● FILMES  ●●●●●●
-http://163.172.50.189:8000/live/cabral/cabral/1800.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 1 HD
-http://163.172.50.189:8000/live/cabral/cabral/1465.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 2 HD
-http://163.172.50.189:8000/live/cabral/cabral/1467.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 3 HD
-http://163.172.50.189:8000/live/cabral/cabral/1469.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 4 HD
-http://163.172.50.189:8000/live/cabral/cabral/1471.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 1
-http://163.172.50.189:8000/live/cabral/cabral/1466.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 2
-http://163.172.50.189:8000/live/cabral/cabral/1468.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 3
-http://163.172.50.189:8000/live/cabral/cabral/1470.ts
-#EXTINF:-1 group-title="03/02/2017",TVCINE 4
-http://163.172.50.189:8000/live/cabral/cabral/1472.ts
-#EXTINF:-1 group-title="03/02/2017",HOLLYWOOD HD
-http://163.172.50.189:8000/live/cabral/cabral/1473.ts
-#EXTINF:-1 group-title="03/02/2017",HOLLYWOOD
-http://163.172.50.189:8000/live/cabral/cabral/1474.ts
-#EXTINF:-1 group-title="03/02/2017",FOX MOVIES
-http://163.172.50.189:8000/live/cabral/cabral/1475.ts
-#EXTINF:-1 group-title="03/02/2017",MOV HD
-http://163.172.50.189:8000/live/cabral/cabral/1476.ts
-#EXTINF:-1 group-title="03/02/2017",AMC
-http://163.172.50.189:8000/live/cabral/cabral/1477.ts
-#EXTINF:-1 group-title="03/02/2017",CINEMUNDO
-http://163.172.50.189:8000/live/cabral/cabral/1478.ts
-#EXTINF:-1 group-title="03/02/2017",●●●●●● SERIES ●●●●●●
-http://163.172.50.189:8000/live/cabral/cabral/1801.ts
-#EXTINF:-1 group-title="03/02/2017",TV SERIES HD
-http://163.172.50.189:8000/live/cabral/cabral/1479.ts
-#EXTINF:-1 group-title="03/02/2017",TV SERIES
-http://163.172.50.189:8000/live/cabral/cabral/1480.ts
-#EXTINF:-1 group-title="03/02/2017",AXN HD
-http://163.172.50.189:8000/live/cabral/cabral/1481.ts
-#EXTINF:-1 group-title="03/02/2017",AXN WHITE HD
-http://163.172.50.189:8000/live/cabral/cabral/1482.ts
-#EXTINF:-1 group-title="03/02/2017",AXN BLACK HD
-http://163.172.50.189:8000/live/cabral/cabral/1483.ts
-#EXTINF:-1 group-title="03/02/2017",FOX LIVE HD
-http://163.172.50.189:8000/live/cabral/cabral/1485.ts
-#EXTINF:-1 group-title="03/02/2017",FOX LIFE
-http://163.172.50.189:8000/live/cabral/cabral/1487.ts
-#EXTINF:-1 group-title="03/02/2017",FOX HD
-http://163.172.50.189:8000/live/cabral/cabral/1484.ts
-#EXTINF:-1 group-title="03/02/2017",FOX CRIME HD
-http://163.172.50.189:8000/live/cabral/cabral/1486.ts
-#EXTINF:-1 group-title="03/02/2017",FOX COMEDY
-http://163.172.50.189:8000/live/cabral/cabral/1488.ts
-#EXTINF:-1 group-title="03/02/2017",SYFY
-http://163.172.50.189:8000/live/cabral/cabral/1489.ts
-#EXTINF:-1 group-title="03/02/2017",SUNDANCE HD
-http://163.172.50.189:8000/live/cabral/cabral/1490.ts
-#EXTINF:-1 group-title="03/02/2017",●●●●●● INFANTIL ●●●●●●
+#EXTINF:-1 group-title="05/02/2017",●●●●●● INFANTIL ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1804.ts
-#EXTINF:-1 group-title="03/02/2017",DISNEY JUNIOR
+#EXTINF:-1 group-title="05/02/2017",DISNEY JUNIOR
 http://163.172.50.189:8000/live/cabral/cabral/1491.ts
-#EXTINF:-1 group-title="03/02/2017",DISNEY CHANNEL
+#EXTINF:-1 group-title="05/02/2017",DISNEY CHANNEL
 http://163.172.50.189:8000/live/cabral/cabral/1492.ts
-#EXTINF:-1 group-title="03/02/2017",SIC K
+#EXTINF:-1 group-title="05/02/2017",SIC K
 http://163.172.50.189:8000/live/cabral/cabral/1493.ts
-#EXTINF:-1 group-title="03/02/2017",CANAL PANDA
+#EXTINF:-1 group-title="05/02/2017",CANAL PANDA
 http://163.172.50.189:8000/live/cabral/cabral/1494.ts
-#EXTINF:-1 group-title="03/02/2017",BABY TV
+#EXTINF:-1 group-title="05/02/2017",BABY TV
 http://163.172.50.189:8000/live/cabral/cabral/1495.ts
-#EXTINF:-1 group-title="03/02/2017",BABY FIRST
+#EXTINF:-1 group-title="05/02/2017",BABY FIRST
 http://163.172.50.189:8000/live/cabral/cabral/1496.ts
-#EXTINF:-1 group-title="03/02/2017",BIGGS
+#EXTINF:-1 group-title="05/02/2017",BIGGS
 http://163.172.50.189:8000/live/cabral/cabral/1497.ts
-#EXTINF:-1 group-title="03/02/2017",CARTOON NETWORK
+#EXTINF:-1 group-title="05/02/2017",CARTOON NETWORK
 http://163.172.50.189:8000/live/cabral/cabral/1498.ts
-#EXTINF:-1 group-title="03/02/2017",JIM JAM
+#EXTINF:-1 group-title="05/02/2017",JIM JAM
 http://163.172.50.189:8000/live/cabral/cabral/1499.ts
-#EXTINF:-1 group-title="03/02/2017",NICKELODEON
+#EXTINF:-1 group-title="05/02/2017",NICKELODEON
 http://163.172.50.189:8000/live/cabral/cabral/1500.ts
-#EXTINF:-1 group-title="03/02/2017",●●●●●● Musica ●●●●●●
-http://163.172.50.189:8000/live/cabral/cabral/1805.ts
-#EXTINF:-1 group-title="03/02/2017",VH1 CLASSIC
-http://163.172.50.189:8000/live/cabral/cabral/1502.ts
-#EXTINF:-1 group-title="03/02/2017",VH1
-http://163.172.50.189:8000/live/cabral/cabral/1501.ts
-#EXTINF:-1 group-title="03/02/2017",TRACE TV
-http://163.172.50.189:8000/live/cabral/cabral/1503.ts
-#EXTINF:-1 group-title="03/02/2017",MTV PORTUGAL
-http://163.172.50.189:8000/live/cabral/cabral/1504.ts
-#EXTINF:-1 group-title="03/02/2017",MTV DANCE
-http://163.172.50.189:8000/live/cabral/cabral/1505.ts
-#EXTINF:-1 group-title="03/02/2017",MCM POP
-http://163.172.50.189:8000/live/cabral/cabral/1507.ts
-#EXTINF:-1 group-title="03/02/2017",C-MUSIC
-http://163.172.50.189:8000/live/cabral/cabral/1508.ts
-#EXTINF:-1 group-title="03/02/2017",AFRO MUSIC
-http://163.172.50.189:8000/live/cabral/cabral/1509.ts
-#EXTINF:-1 group-title="03/02/2017",●●●●●● DOCUMENTARIOS ●●●●●●
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● DOCUMENTARIOS ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1808.ts
-#EXTINF:-1 group-title="03/02/2017",DISCOVERY HD SHOWCASE
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY HD SHOWCASE
 http://163.172.50.189:8000/live/cabral/cabral/1510.ts
-#EXTINF:-1 group-title="03/02/2017",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY CHANNEL
 http://163.172.50.189:8000/live/cabral/cabral/1511.ts
-#EXTINF:-1 group-title="03/02/2017",MCS EXTREME
+#EXTINF:-1 group-title="05/02/2017",MCS EXTREME
 http://163.172.50.189:8000/live/cabral/cabral/1512.ts
-#EXTINF:-1 group-title="03/02/2017",TRAVEL CHANNEL HD
+#EXTINF:-1 group-title="05/02/2017",TRAVEL CHANNEL HD
 http://163.172.50.189:8000/live/cabral/cabral/1513.ts
-#EXTINF:-1 group-title="03/02/2017",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="05/02/2017",NATIONAL GEOGRAPHIC HD
 http://163.172.50.189:8000/live/cabral/cabral/1514.ts
-#EXTINF:-1 group-title="03/02/2017",NAT GEO WILD
+#EXTINF:-1 group-title="05/02/2017",NAT GEO WILD
 http://163.172.50.189:8000/live/cabral/cabral/1515.ts
-#EXTINF:-1 group-title="03/02/2017",ODISSEIA
+#EXTINF:-1 group-title="05/02/2017",ODISSEIA
 http://163.172.50.189:8000/live/cabral/cabral/1516.ts
-#EXTINF:-1 group-title="03/02/2017",HISTORIA
+#EXTINF:-1 group-title="05/02/2017",HISTORIA
 http://163.172.50.189:8000/live/cabral/cabral/1517.ts
-#EXTINF:-1 group-title="03/02/2017",SKY NEWS
+#EXTINF:-1 group-title="05/02/2017",SKY NEWS
 http://163.172.50.189:8000/live/cabral/cabral/1518.ts
-#EXTINF:-1 group-title="03/02/2017",FRANCE 24
+#EXTINF:-1 group-title="05/02/2017",FRANCE 24
 http://163.172.50.189:8000/live/cabral/cabral/1519.ts
-#EXTINF:-1 group-title="03/02/2017",EURONEWS
+#EXTINF:-1 group-title="05/02/2017",EURONEWS
 http://163.172.50.189:8000/live/cabral/cabral/1520.ts
-#EXTINF:-1 group-title="03/02/2017",BBC WORLD NEWS
+#EXTINF:-1 group-title="05/02/2017",BBC WORLD NEWS
 http://163.172.50.189:8000/live/cabral/cabral/1521.ts
-#EXTINF:-1 group-title="03/02/2017",BBC WORLD
+#EXTINF:-1 group-title="05/02/2017",BBC WORLD
 http://163.172.50.189:8000/live/cabral/cabral/1522.ts
-#EXTINF:-1 group-title="03/02/2017",BBC ENTERTAINMENT
+#EXTINF:-1 group-title="05/02/2017",BBC ENTERTAINMENT
 http://163.172.50.189:8000/live/cabral/cabral/1523.ts
-#EXTINF:-1 group-title="03/02/2017",E! ENTERTAINMENT
+#EXTINF:-1 group-title="05/02/2017",E! ENTERTAINMENT
 http://163.172.50.189:8000/live/cabral/cabral/1524.ts
-#EXTINF:-1 group-title="03/02/2017",CBS REALITY
+#EXTINF:-1 group-title="05/02/2017",CBS REALITY
 http://163.172.50.189:8000/live/cabral/cabral/1525.ts
-#EXTINF:-1 group-title="03/02/2017",MCS LIFESTYLE
+#EXTINF:-1 group-title="05/02/2017",MCS LIFESTYLE
 http://163.172.50.189:8000/live/cabral/cabral/1526.ts
-#EXTINF:-1 group-title="03/02/2017",TLC
+#EXTINF:-1 group-title="05/02/2017",TLC
 http://163.172.50.189:8000/live/cabral/cabral/1527.ts
-#EXTINF:-1 group-title="03/02/2017",●●●●●● INTERNACIONAIS ●●●●●●
+#EXTINF:-1 group-title="05/02/2017",●●●●●● INTERNACIONAIS ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1813.ts
-#EXTINF:-1 group-title="03/02/2017",GLOBO PREMIUM
+#EXTINF:-1 group-title="05/02/2017",GLOBO PREMIUM
 http://163.172.50.189:8000/live/cabral/cabral/1528.ts
-#EXTINF:-1 group-title="03/02/2017",GLOBO
+#EXTINF:-1 group-title="05/02/2017",GLOBO
 http://163.172.50.189:8000/live/cabral/cabral/1529.ts
-#EXTINF:-1 group-title="03/02/2017",TV RECORD
+#EXTINF:-1 group-title="05/02/2017",TV RECORD
 http://163.172.50.189:8000/live/cabral/cabral/1530.ts
-#EXTINF:-1 group-title="03/02/2017",RTP MEMORIA
+#EXTINF:-1 group-title="05/02/2017",RTP MEMORIA
 http://163.172.50.189:8000/live/cabral/cabral/1531.ts
-#EXTINF:-1 group-title="03/02/2017",RTP MADEIRA
+#EXTINF:-1 group-title="05/02/2017",RTP MADEIRA
 http://163.172.50.189:8000/live/cabral/cabral/1532.ts
-#EXTINF:-1 group-title="03/02/2017",RTP AFRICA
+#EXTINF:-1 group-title="05/02/2017",RTP AFRICA
 http://163.172.50.189:8000/live/cabral/cabral/1533.ts
-#EXTINF:-1 group-title="03/02/2017",RTP ACORES
+#EXTINF:-1 group-title="05/02/2017",RTP ACORES
 http://163.172.50.189:8000/live/cabral/cabral/1534.ts
-#EXTINF:-1 group-title="03/02/2017",TV GALICIA
+#EXTINF:-1 group-title="05/02/2017",TV GALICIA
 http://163.172.50.189:8000/live/cabral/cabral/1535.ts
-#EXTINF:-1 group-title="03/02/2017",FTV
+#EXTINF:-1 group-title="05/02/2017",FTV
 http://163.172.50.189:8000/live/cabral/cabral/1538.ts
-#EXTINF:-1 group-title="03/02/2017",A.E
+#EXTINF:-1 group-title="05/02/2017",A.E
 http://163.172.50.189:8000/live/cabral/cabral/1539.ts
 
 
-####################################################################################
+#EXTM3U
 
-#################################################################################################
-#EXTINF:-1 group-title="27/01/2017",7 Pecados Rurais
+#EXTINF:-1 group-title="05/02/2017",●●●●●● NACIONAIS ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1946.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 1 HD
+http://163.172.50.189:8000/live/kobe/kobe/1405.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 1
+http://163.172.50.189:8000/live/kobe/kobe/1790.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 2 HD
+http://163.172.50.189:8000/live/kobe/kobe/1406.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 2
+http://163.172.50.189:8000/live/kobe/kobe/1407.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 3
+http://163.172.50.189:8000/live/kobe/kobe/1408.ts
+#EXTINF:-1 group-title="05/02/2017",SIC HD
+http://163.172.50.189:8000/live/kobe/kobe/1409.ts
+#EXTINF:-1 group-title="05/02/2017",SIC
+http://163.172.50.189:8000/live/kobe/kobe/1410.ts
+#EXTINF:-1 group-title="05/02/2017",TVI ( sd )
+http://163.172.50.189:8000/live/kobe/kobe/1416.ts
+#EXTINF:-1 group-title="05/02/2017",TVI HD
+http://163.172.50.189:8000/live/kobe/kobe/1413.ts
+#EXTINF:-1 group-title="05/02/2017",●●●●●● INFORMAÇÃO ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1792.ts
+#EXTINF:-1 group-title="05/02/2017",SIC NOTICIAS
+http://163.172.50.189:8000/live/kobe/kobe/1417.ts
+#EXTINF:-1 group-title="05/02/2017",TVI 24
+http://163.172.50.189:8000/live/kobe/kobe/1418.ts
+#EXTINF:-1 group-title="05/02/2017",CMTV
+http://163.172.50.189:8000/live/kobe/kobe/1419.ts
+#EXTINF:-1 group-title="05/02/2017",PORTO CANAL
+http://163.172.50.189:8000/live/kobe/kobe/1420.ts
+#EXTINF:-1 group-title="05/02/2017",CNN
+http://163.172.50.189:8000/live/kobe/kobe/1421.ts
+#EXTINF:-1 group-title="05/02/2017",●●●●●● ENTRETENIMENTO ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1795.ts
+#EXTINF:-1 group-title="05/02/2017",SIC RADICAL
+http://163.172.50.189:8000/live/kobe/kobe/1422.ts
+#EXTINF:-1 group-title="05/02/2017",SIC MULHER
+http://163.172.50.189:8000/live/kobe/kobe/1423.ts
+#EXTINF:-1 group-title="05/02/2017",SIC CARAS
+http://163.172.50.189:8000/live/kobe/kobe/1424.ts
+#EXTINF:-1 group-title="05/02/2017",TVI FICCAO
+http://163.172.50.189:8000/live/kobe/kobe/1425.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALITY
+http://163.172.50.189:8000/live/kobe/kobe/1426.ts
+#EXTINF:-1 group-title="05/02/2017",24 KITCHEN HD
+http://163.172.50.189:8000/live/kobe/kobe/1427.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL Q
+http://163.172.50.189:8000/live/kobe/kobe/1428.ts
+
+#EXTINF:-1 group-title="05/02/2017",HOLLYWOOD HD
+http://163.172.50.189:8000/live/kobe/kobe/1473.ts
+#EXTINF:-1 group-title="05/02/2017",HOLLYWOOD
+http://163.172.50.189:8000/live/kobe/kobe/1474.ts
+#EXTINF:-1 group-title="05/02/2017",FOX MOVIES
+http://163.172.50.189:8000/live/kobe/kobe/1475.ts
+#EXTINF:-1 group-title="05/02/2017",MOV HD
+http://163.172.50.189:8000/live/kobe/kobe/1476.ts
+#EXTINF:-1 group-title="05/02/2017",AMC
+http://163.172.50.189:8000/live/kobe/kobe/1477.ts
+#EXTINF:-1 group-title="05/02/2017",CINEMUNDO
+http://163.172.50.189:8000/live/kobe/kobe/1478.ts
+#EXTINF:-1 group-title="05/02/2017",●●●●●● SERIES ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1801.ts
+#EXTINF:-1 group-title="05/02/2017",TV SERIES HD
+http://163.172.50.189:8000/live/kobe/kobe/1479.ts
+#EXTINF:-1 group-title="05/02/2017",TV SERIES
+http://163.172.50.189:8000/live/kobe/kobe/1480.ts
+#EXTINF:-1 group-title="05/02/2017",AXN HD
+http://163.172.50.189:8000/live/kobe/kobe/1481.ts
+#EXTINF:-1 group-title="05/02/2017",AXN WHITE HD
+http://163.172.50.189:8000/live/kobe/kobe/1482.ts
+#EXTINF:-1 group-title="05/02/2017",AXN BLACK HD
+http://163.172.50.189:8000/live/kobe/kobe/1483.ts
+#EXTINF:-1 group-title="05/02/2017",FOX LIVE HD
+http://163.172.50.189:8000/live/kobe/kobe/1485.ts
+#EXTINF:-1 group-title="05/02/2017",FOX LIFE
+http://163.172.50.189:8000/live/kobe/kobe/1487.ts
+#EXTINF:-1 group-title="05/02/2017",FOX HD
+http://163.172.50.189:8000/live/kobe/kobe/1484.ts
+#EXTINF:-1 group-title="05/02/2017",FOX CRIME HD
+http://163.172.50.189:8000/live/kobe/kobe/1486.ts
+#EXTINF:-1 group-title="05/02/2017",FOX COMEDY
+http://163.172.50.189:8000/live/kobe/kobe/1488.ts
+#EXTINF:-1 group-title="05/02/2017",SYFY
+http://163.172.50.189:8000/live/kobe/kobe/1489.ts
+#EXTINF:-1 group-title="05/02/2017",SUNDANCE HD
+http://163.172.50.189:8000/live/kobe/kobe/1490.ts
+#EXTINF:-1 group-title="05/02/2017",●●●●●● INFANTIL ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1804.ts
+#EXTINF:-1 group-title="05/02/2017",DISNEY JUNIOR
+http://163.172.50.189:8000/live/kobe/kobe/1491.ts
+#EXTINF:-1 group-title="05/02/2017",DISNEY CHANNEL
+http://163.172.50.189:8000/live/kobe/kobe/1492.ts
+#EXTINF:-1 group-title="05/02/2017",SIC K
+http://163.172.50.189:8000/live/kobe/kobe/1493.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL PANDA
+http://163.172.50.189:8000/live/kobe/kobe/1494.ts
+#EXTINF:-1 group-title="05/02/2017",BABY TV
+http://163.172.50.189:8000/live/kobe/kobe/1495.ts
+#EXTINF:-1 group-title="05/02/2017",BABY FIRST
+http://163.172.50.189:8000/live/kobe/kobe/1496.ts
+#EXTINF:-1 group-title="05/02/2017",BIGGS
+http://163.172.50.189:8000/live/kobe/kobe/1497.ts
+#EXTINF:-1 group-title="05/02/2017",CARTOON NETWORK
+http://163.172.50.189:8000/live/kobe/kobe/1498.ts
+#EXTINF:-1 group-title="05/02/2017",JIM JAM
+http://163.172.50.189:8000/live/kobe/kobe/1499.ts
+#EXTINF:-1 group-title="05/02/2017",NICKELODEON
+http://163.172.50.189:8000/live/kobe/kobe/1500.ts
+
+#EXTINF:-1 group-title="05/02/2017",●●●●●● DOCUMENTARIOS ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1808.ts
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY HD SHOWCASE
+http://163.172.50.189:8000/live/kobe/kobe/1510.ts
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY CHANNEL
+http://163.172.50.189:8000/live/kobe/kobe/1511.ts
+#EXTINF:-1 group-title="05/02/2017",MCS EXTREME
+http://163.172.50.189:8000/live/kobe/kobe/1512.ts
+#EXTINF:-1 group-title="05/02/2017",TRAVEL CHANNEL HD
+http://163.172.50.189:8000/live/kobe/kobe/1513.ts
+#EXTINF:-1 group-title="05/02/2017",NATIONAL GEOGRAPHIC HD
+http://163.172.50.189:8000/live/kobe/kobe/1514.ts
+#EXTINF:-1 group-title="05/02/2017",NAT GEO WILD
+http://163.172.50.189:8000/live/kobe/kobe/1515.ts
+#EXTINF:-1 group-title="05/02/2017",ODISSEIA
+http://163.172.50.189:8000/live/kobe/kobe/1516.ts
+#EXTINF:-1 group-title="05/02/2017",HISTORIA
+http://163.172.50.189:8000/live/kobe/kobe/1517.ts
+#EXTINF:-1 group-title="05/02/2017",SKY NEWS
+http://163.172.50.189:8000/live/kobe/kobe/1518.ts
+#EXTINF:-1 group-title="05/02/2017",FRANCE 24
+http://163.172.50.189:8000/live/kobe/kobe/1519.ts
+#EXTINF:-1 group-title="05/02/2017",EURONEWS
+http://163.172.50.189:8000/live/kobe/kobe/1520.ts
+#EXTINF:-1 group-title="05/02/2017",BBC WORLD NEWS
+http://163.172.50.189:8000/live/kobe/kobe/1521.ts
+#EXTINF:-1 group-title="05/02/2017",BBC WORLD
+http://163.172.50.189:8000/live/kobe/kobe/1522.ts
+#EXTINF:-1 group-title="05/02/2017",BBC ENTERTAINMENT
+http://163.172.50.189:8000/live/kobe/kobe/1523.ts
+#EXTINF:-1 group-title="05/02/2017",E! ENTERTAINMENT
+http://163.172.50.189:8000/live/kobe/kobe/1524.ts
+#EXTINF:-1 group-title="05/02/2017",CBS REALITY
+http://163.172.50.189:8000/live/kobe/kobe/1525.ts
+#EXTINF:-1 group-title="05/02/2017",MCS LIFESTYLE
+http://163.172.50.189:8000/live/kobe/kobe/1526.ts
+#EXTINF:-1 group-title="05/02/2017",TLC
+http://163.172.50.189:8000/live/kobe/kobe/1527.ts
+#EXTINF:-1 group-title="05/02/2017",●●●●●● INTERNACIONAIS ●●●●●●
+http://163.172.50.189:8000/live/kobe/kobe/1813.ts
+#EXTINF:-1 group-title="05/02/2017",GLOBO PREMIUM
+http://163.172.50.189:8000/live/kobe/kobe/1528.ts
+#EXTINF:-1 group-title="05/02/2017",GLOBO
+http://163.172.50.189:8000/live/kobe/kobe/1529.ts
+#EXTINF:-1 group-title="05/02/2017",TV RECORD
+http://163.172.50.189:8000/live/kobe/kobe/1530.ts
+#EXTINF:-1 group-title="05/02/2017",RTP MEMORIA
+http://163.172.50.189:8000/live/kobe/kobe/1531.ts
+#EXTINF:-1 group-title="05/02/2017",RTP MADEIRA
+http://163.172.50.189:8000/live/kobe/kobe/1532.ts
+#EXTINF:-1 group-title="05/02/2017",RTP AFRICA
+http://163.172.50.189:8000/live/kobe/kobe/1533.ts
+#EXTINF:-1 group-title="05/02/2017",RTP ACORES
+http://163.172.50.189:8000/live/kobe/kobe/1534.ts
+#EXTINF:-1 group-title="05/02/2017",TV GALICIA
+http://163.172.50.189:8000/live/kobe/kobe/1535.ts
+#EXTINF:-1 group-title="05/02/2017",FTV
+http://163.172.50.189:8000/live/kobe/kobe/1538.ts
+#EXTINF:-1 group-title="05/02/2017",A.E
+http://163.172.50.189:8000/live/kobe/kobe/1539.ts
+
+
+#EXTINF:-1 group-title="05/02/2017",RTP 1
+http://149.202.72.15:8000/live/casa/casa/185.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 2
+http://149.202.72.15:8000/live/casa/casa/184.ts
+#EXTINF:-1 group-title="05/02/2017",SIC
+http://149.202.72.15:8000/live/casa/casa/183.ts
+#EXTINF:-1 group-title="05/02/2017",TVI
+http://149.202.72.15:8000/live/casa/casa/191.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 1 FHD
+http://149.202.72.15:8000/live/casa/casa/1505.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 2 FHD
+http://149.202.72.15:8000/live/casa/casa/1506.ts
+#EXTINF:-1 group-title="05/02/2017",SIC FHD
+http://149.202.72.15:8000/live/casa/casa/1508.ts
+#EXTINF:-1 group-title="05/02/2017",TVI FHD
+http://149.202.72.15:8000/live/casa/casa/1507.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 3
+http://149.202.72.15:8000/live/casa/casa/212.ts
+#EXTINF:-1 group-title="05/02/2017",SIC NOTICIAS
+http://149.202.72.15:8000/live/casa/casa/195.ts
+#EXTINF:-1 group-title="05/02/2017",TVI 24
+http://149.202.72.15:8000/live/casa/casa/190.ts
+#EXTINF:-1 group-title="05/02/2017",RTP INTERNACIONAL
+http://149.202.72.15:8000/live/casa/casa/1395.ts
+#EXTINF:-1 group-title="05/02/2017",SIC MULHER
+http://149.202.72.15:8000/live/casa/casa/219.ts
+#EXTINF:-1 group-title="05/02/2017",SIC RADICAL
+http://149.202.72.15:8000/live/casa/casa/194.ts
+#EXTINF:-1 group-title="05/02/2017",SIC CARAS
+http://149.202.72.15:8000/live/casa/casa/204.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL Q
+http://149.202.72.15:8000/live/casa/casa/198.ts
+#EXTINF:-1 group-title="05/02/2017",PORTO CANAL
+http://149.202.72.15:8000/live/casa/casa/196.ts
+#EXTINF:-1 group-title="05/02/2017",CM TV
+http://149.202.72.15:8000/live/casa/casa/186.ts
+#EXTINF:-1 group-title="05/02/2017",RTP MEMORIA
+http://149.202.72.15:8000/live/casa/casa/700.ts
+#EXTINF:-1 group-title="05/02/2017",RTP AFRICA
+http://149.202.72.15:8000/live/casa/casa/518.ts
+#EXTINF:-1 group-title="05/02/2017",RTP MADEIRA
+http://149.202.72.15:8000/live/casa/casa/697.ts
+#EXTINF:-1 group-title="05/02/2017",RTP ACORES
+http://149.202.72.15:8000/live/casa/casa/698.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY
+http://149.202.72.15:8000/live/casa/casa/689.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY CAMERA 1
+http://149.202.72.15:8000/live/casa/casa/1394.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY CAMERA 2
+http://149.202.72.15:8000/live/casa/casa/1393.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY CAMERA 3
+http://149.202.72.15:8000/live/casa/casa/1392.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY CAMERA 4
+http://149.202.72.15:8000/live/casa/casa/1391.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY MOSAICO
+http://149.202.72.15:8000/live/casa/casa/1390.ts
+#EXTINF:-1 group-title="05/02/2017",TVI FICCAO
+http://149.202.72.15:8000/live/casa/casa/213.ts
+#EXTINF:-1 group-title="05/02/2017",ARTV
+http://149.202.72.15:8000/live/casa/casa/852.ts
+#EXTINF:-1 group-title="05/02/2017",TV RECORD
+http://149.202.72.15:8000/live/casa/casa/189.ts
+#EXTINF:-1 group-title="05/02/2017",GLOBO
+http://149.202.72.15:8000/live/casa/casa/512.ts
+#EXTINF:-1 group-title="05/02/2017",GLOBO PREMIUM
+http://149.202.72.15:8000/live/casa/casa/511.ts
+
+#EXTINF:-1 group-title="05/02/2017",HOLLYWOOD HD
+http://149.202.72.15:8000/live/casa/casa/234.ts
+#EXTINF:-1 group-title="05/02/2017",AMC
+http://149.202.72.15:8000/live/casa/casa/522.ts
+#EXTINF:-1 group-title="05/02/2017",FOX MOVIES
+http://149.202.72.15:8000/live/casa/casa/513.ts
+#EXTINF:-1 group-title="05/02/2017",CINEMUNDO
+http://149.202.72.15:8000/live/casa/casa/523.ts
+#EXTINF:-1 group-title="05/02/2017",MOV HD
+http://149.202.72.15:8000/live/casa/casa/521.ts
+#EXTINF:-1 group-title="05/02/2017",SUNDANCE
+http://149.202.72.15:8000/live/casa/casa/780.ts
+#EXTINF:-1 group-title="05/02/2017",SYFY
+http://149.202.72.15:8000/live/casa/casa/182.ts
+#EXTINF:-1 group-title="05/02/2017",AXN HD
+http://149.202.72.15:8000/live/casa/casa/217.ts
+#EXTINF:-1 group-title="05/02/2017",AXN WHITE HD
+http://149.202.72.15:8000/live/casa/casa/237.ts
+#EXTINF:-1 group-title="05/02/2017",AXN BLACK HD
+http://149.202.72.15:8000/live/casa/casa/238.ts
+#EXTINF:-1 group-title="05/02/2017",FOX HD
+http://149.202.72.15:8000/live/casa/casa/215.ts
+#EXTINF:-1 group-title="05/02/2017",FOX LIFE HD
+http://149.202.72.15:8000/live/casa/casa/235.ts
+#EXTINF:-1 group-title="05/02/2017",FOX CRIME HD
+http://149.202.72.15:8000/live/casa/casa/236.ts
+#EXTINF:-1 group-title="05/02/2017",FOX COMEDY
+http://149.202.72.15:8000/live/casa/casa/693.ts
+#EXTINF:-1 group-title="05/02/2017",CRIME   INVESTIGATION
+http://149.202.72.15:8000/live/casa/casa/1398.ts
+#EXTINF:-1 group-title="05/02/2017",TV SERIES HD
+http://149.202.72.15:8000/live/casa/casa/233.ts
+#EXTINF:-1 group-title="05/02/2017",E! ENTERTAINMENT
+http://149.202.72.15:8000/live/casa/casa/239.ts
+#EXTINF:-1 group-title="05/02/2017",CBS REALITY
+http://149.202.72.15:8000/live/casa/casa/517.ts
+#EXTINF:-1 group-title="05/02/2017",MCS LIFESTYLE
+http://149.202.72.15:8000/live/casa/casa/790.ts
+#EXTINF:-1 group-title="05/02/2017",NAT. GEOGRAPHIC
+http://149.202.72.15:8000/live/casa/casa/211.ts
+#EXTINF:-1 group-title="05/02/2017",NAT GEO WILD
+http://149.202.72.15:8000/live/casa/casa/242.ts
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY CHANNEL
+http://149.202.72.15:8000/live/casa/casa/180.ts
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY SHOWCASE
+http://149.202.72.15:8000/live/casa/casa/514.ts
+#EXTINF:-1 group-title="05/02/2017",TLC
+http://149.202.72.15:8000/live/casa/casa/240.ts
+#EXTINF:-1 group-title="05/02/2017",A & E
+http://149.202.72.15:8000/live/casa/casa/284.ts
+#EXTINF:-1 group-title="05/02/2017",ODISSEIA
+http://149.202.72.15:8000/live/casa/casa/280.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL HISTORIA
+http://149.202.72.15:8000/live/casa/casa/516.ts
+#EXTINF:-1 group-title="05/02/2017",24 KITCHEN
+http://149.202.72.15:8000/live/casa/casa/241.ts
+#EXTINF:-1 group-title="05/02/2017",FOOD NETWORK
+http://149.202.72.15:8000/live/casa/casa/695.ts
+#EXTINF:-1 group-title="05/02/2017",TRAVEL CHANNEL
+http://149.202.72.15:8000/live/casa/casa/509.ts
+#EXTINF:-1 group-title="05/02/2017",FASHION TV
+http://149.202.72.15:8000/live/casa/casa/696.ts
+#EXTINF:-1 group-title="05/02/2017",LUXE TV
+http://149.202.72.15:8000/live/casa/casa/783.ts
+#EXTINF:-1 group-title="05/02/2017",FINE LIVING HD
+http://149.202.72.15:8000/live/casa/casa/870.ts
+#EXTINF:-1 group-title="05/02/2017",ZEE TV
+http://149.202.72.15:8000/live/casa/casa/867.ts
+#EXTINF:-1 group-title="05/02/2017",MAX
+http://149.202.72.15:8000/live/casa/casa/869.ts
+#EXTINF:-1 group-title="05/02/2017",TRACE URBAN HD
+http://149.202.72.15:8000/live/casa/casa/868.ts
+#EXTINF:-1 group-title="05/02/2017",MTV PORTUGAL
+http://149.202.72.15:8000/live/casa/casa/692.ts
+#EXTINF:-1 group-title="05/02/2017",MTV ROCKS
+http://149.202.72.15:8000/live/casa/casa/918.ts
+#EXTINF:-1 group-title="05/02/2017",MTV MUSIC
+http://149.202.72.15:8000/live/casa/casa/919.ts
+#EXTINF:-1 group-title="05/02/2017",MTV DANCE
+http://149.202.72.15:8000/live/casa/casa/920.ts
+#EXTINF:-1 group-title="05/02/2017",MCM POP
+http://149.202.72.15:8000/live/casa/casa/788.ts
+#EXTINF:-1 group-title="05/02/2017",TRACE TV
+http://149.202.72.15:8000/live/casa/casa/787.ts
+#EXTINF:-1 group-title="05/02/2017",VH1
+http://149.202.72.15:8000/live/casa/casa/277.ts
+#EXTINF:-1 group-title="05/02/2017",VH1 CLASSIC
+http://149.202.72.15:8000/live/casa/casa/1036.ts
+#EXTINF:-1 group-title="05/02/2017",C-MUSIC
+http://149.202.72.15:8000/live/casa/casa/865.ts
+#EXTINF:-1 group-title="05/02/2017",iCONCERTS
+http://149.202.72.15:8000/live/casa/casa/704.ts
+#EXTINF:-1 group-title="05/02/2017",VIRGIN TV
+http://149.202.72.15:8000/live/casa/casa/1500.ts
+#EXTINF:-1 group-title="05/02/2017",AFRO TV
+http://149.202.72.15:8000/live/casa/casa/515.ts
+#EXTINF:-1 group-title="05/02/2017",MEZZO
+http://149.202.72.15:8000/live/casa/casa/781.ts
+#EXTINF:-1 group-title="05/02/2017",DISNEY CHANNEL
+http://149.202.72.15:8000/live/casa/casa/282.ts
+#EXTINF:-1 group-title="05/02/2017",DISNEY JUNIOR
+http://149.202.72.15:8000/live/casa/casa/243.ts
+#EXTINF:-1 group-title="05/02/2017",CARTOON NETWORK
+http://149.202.72.15:8000/live/casa/casa/519.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL PANDA
+http://149.202.72.15:8000/live/casa/casa/283.ts
+#EXTINF:-1 group-title="05/02/2017",PANDA BIGGS
+http://149.202.72.15:8000/live/casa/casa/279.ts
+#EXTINF:-1 group-title="05/02/2017",JIM JAM
+http://149.202.72.15:8000/live/casa/casa/281.ts
+#EXTINF:-1 group-title="05/02/2017",NICKELODEON
+http://149.202.72.15:8000/live/casa/casa/205.ts
+#EXTINF:-1 group-title="05/02/2017",SIC K
+http://149.202.72.15:8000/live/casa/casa/188.ts
+#EXTINF:-1 group-title="05/02/2017",BABY TV
+http://149.202.72.15:8000/live/casa/casa/187.ts
+#EXTINF:-1 group-title="05/02/2017",BABY FIRST
+http://149.202.72.15:8000/live/casa/casa/1504.ts
+#EXTINF:-1 group-title="05/02/2017",LOCALVISAO HD
+http://149.202.72.15:8000/live/casa/casa/855.ts
+#EXTINF:-1 group-title="05/02/2017",KURISKOS TV
+http://149.202.72.15:8000/live/casa/casa/1579.ts
+#EXTINF:-1 group-title="05/02/2017",REGIOES TV
+http://149.202.72.15:8000/live/casa/casa/898.ts
+#EXTINF:-1 group-title="05/02/2017",SANTUARIO FATIMA
+http://149.202.72.15:8000/live/casa/casa/225.ts
+#EXTINF:-1 group-title="05/02/2017",TPA INTERNACIONAL
+http://149.202.72.15:8000/live/casa/casa/699.ts
+#EXTINF:-1 group-title="05/02/2017",TV CABO VERDE
+http://149.202.72.15:8000/live/casa/casa/1502.ts
+#EXTINF:-1 group-title="05/02/2017",CANCAO NOVA
+http://149.202.72.15:8000/live/casa/casa/694.ts
+#EXTINF:-1 group-title="05/02/2017",RECORD NEWS
+http://149.202.72.15:8000/live/casa/casa/866.ts
+#EXTINF:-1 group-title="05/02/2017",EURONEWS
+http://149.202.72.15:8000/live/casa/casa/857.ts
+#EXTINF:-1 group-title="05/02/2017",CNN
+http://149.202.72.15:8000/live/casa/casa/859.ts
+#EXTINF:-1 group-title="05/02/2017",BBC WORLD NEWS
+http://149.202.72.15:8000/live/casa/casa/862.ts
+#EXTINF:-1 group-title="05/02/2017",CUBAVISION INTERNATIONAL
+http://149.202.72.15:8000/live/casa/casa/1397.ts
+#EXTINF:-1 group-title="05/02/2017",TV GALICIA
+http://149.202.72.15:8000/live/casa/casa/1037.ts
+#EXTINF:-1 group-title="05/02/2017",FRANCE 24
+http://149.202.72.15:8000/live/casa/casa/785.ts
+#EXTINF:-1 group-title="05/02/2017",TV5 MONDE
+http://149.202.72.15:8000/live/casa/casa/864.ts
+#EXTINF:-1 group-title="05/02/2017",DEUTSCHE WELLE
+http://149.202.72.15:8000/live/casa/casa/858.ts
+#EXTINF:-1 group-title="05/02/2017",BLOOMBERG
+http://149.202.72.15:8000/live/casa/casa/861.ts
+#EXTINF:-1 group-title="05/02/2017",M6
+http://149.202.72.15:8000/live/casa/casa/691.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: SEXTREME
+http://149.202.72.15:8000/live/casa/casa/690.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: PENTHOUSE
+http://149.202.72.15:8000/live/casa/casa/510.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: VENUS
+http://149.202.72.15:8000/live/casa/casa/181.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: PLAYBOY
+http://149.202.72.15:8000/live/casa/casa/304.ts
+#EXTINF:-1 group-title="05/02/2017",XXX HOT XXX
+http://149.202.72.15:8000/live/casa/casa/244.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: REDLIGHT HD
+http://149.202.72.15:8000/live/casa/casa/853.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: HUSTLER HD
+http://149.202.72.15:8000/live/casa/casa/856.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: SCT
+http://149.202.72.15:8000/live/casa/casa/805.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: SESTO SENSO TV
+http://149.202.72.15:8000/live/casa/casa/800.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: SCT HD
+http://149.202.72.15:8000/live/casa/casa/801.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: TGIRLS TV
+http://149.202.72.15:8000/live/casa/casa/799.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: PINK O TV
+http://149.202.72.15:8000/live/casa/casa/802.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: EXOTICA TV
+http://149.202.72.15:8000/live/casa/casa/803.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: CENTOXCENTO TV
+http://149.202.72.15:8000/live/casa/casa/804.ts
+#EXTINF:-1 group-title="05/02/2017",xXx: Hot Club 1
+http://149.202.72.15:8000/live/casa/casa/1328.ts
+#EXTINF:-1 group-title="05/02/2017",xXx: Hot Club 2
+http://149.202.72.15:8000/live/casa/casa/1327.ts
+#EXTINF:-1 group-title="05/02/2017",xXx: Hot Club 3
+http://149.202.72.15:8000/live/casa/casa/1326.ts
+#EXTINF:-1 group-title="05/02/2017",xXx: Hot Club 4
+http://149.202.72.15:8000/live/casa/casa/1325.ts
+#EXTINF:-1 group-title="05/02/2017",xXx: Hot Club 5
+http://149.202.72.15:8000/live/casa/casa/1324.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: Hot Club 6
+http://149.202.72.15:8000/live/casa/casa/1323.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: Hot Club 7
+http://149.202.72.15:8000/live/casa/casa/1322.ts
+#EXTINF:-1 group-title="05/02/2017",XXX: Hot Club 8
+http://149.202.72.15:8000/live/casa/casa/1321.ts
+#EXTINF:-1 group-title="05/02/2017",############# CANAIS EXTRA #############
+http://149.202.72.15:8000/live/casa/casa/524.ts
+#EXTINF:-1 group-title="05/02/2017",---☛ FRANÇAISE ☚---
+http://149.202.72.15:8000/live/casa/casa/1179.ts
+#EXTINF:-1 group-title="05/02/2017",FR: TF1 HD
+http://149.202.72.15:8000/live/casa/casa/1877.ts
+#EXTINF:-1 group-title="05/02/2017",FR: France O
+http://149.202.72.15:8000/live/casa/casa/1889.ts
+#EXTINF:-1 group-title="05/02/2017",FR: France 2
+http://149.202.72.15:8000/live/casa/casa/1893.ts
+#EXTINF:-1 group-title="05/02/2017",FR: France 3
+http://149.202.72.15:8000/live/casa/casa/1892.ts
+#EXTINF:-1 group-title="05/02/2017",FR: France 4
+http://149.202.72.15:8000/live/casa/casa/1891.ts
+#EXTINF:-1 group-title="05/02/2017",FR: France 5
+http://149.202.72.15:8000/live/casa/casa/1890.ts
+#EXTINF:-1 group-title="05/02/2017",FR: NRJ 12
+http://149.202.72.15:8000/live/casa/casa/1884.ts
+#EXTINF:-1 group-title="05/02/2017",FR: NT1
+http://149.202.72.15:8000/live/casa/casa/1883.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Planete A&E
+http://149.202.72.15:8000/live/casa/casa/1879.ts
+#EXTINF:-1 group-title="05/02/2017",FR: M6 HD
+http://149.202.72.15:8000/live/casa/casa/1887.ts
+#EXTINF:-1 group-title="05/02/2017",FR:  FOOT  24/24
+http://149.202.72.15:8000/live/casa/casa/1913.ts
+#EXTINF:-1 group-title="05/02/2017",FR:  TELETOON
+http://149.202.72.15:8000/live/casa/casa/1912.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Animaux HD
+http://149.202.72.15:8000/live/casa/casa/1911.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Bein Sports 1 HD
+http://149.202.72.15:8000/live/casa/casa/1910.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Bein Sports 2
+http://149.202.72.15:8000/live/casa/casa/1909.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Bein Sports 3 HD
+http://149.202.72.15:8000/live/casa/casa/1908.ts
+#EXTINF:-1 group-title="05/02/2017",FR: BFMTV
+http://149.202.72.15:8000/live/casa/casa/1914.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Canal
+http://149.202.72.15:8000/live/casa/casa/1907.ts
+#EXTINF:-1 group-title="05/02/2017",FR: CANAL  CINEMA
+http://149.202.72.15:8000/live/casa/casa/1906.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Canal  Decale
+http://149.202.72.15:8000/live/casa/casa/1905.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Canal  Sport
+http://149.202.72.15:8000/live/casa/casa/1904.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Cine  Classic
+http://149.202.72.15:8000/live/casa/casa/1903.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Cine  Club
+http://149.202.72.15:8000/live/casa/casa/1902.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Cine  Emotion
+http://149.202.72.15:8000/live/casa/casa/1901.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Cine  Famiz
+http://149.202.72.15:8000/live/casa/casa/1900.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Cine  Frisson
+http://149.202.72.15:8000/live/casa/casa/1899.ts
+#EXTINF:-1 group-title="05/02/2017",FR: CINE  PREMIER HD
+http://149.202.72.15:8000/live/casa/casa/1898.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Comedy
+http://149.202.72.15:8000/live/casa/casa/1897.ts
+#EXTINF:-1 group-title="05/02/2017",FR: D17
+http://149.202.72.15:8000/live/casa/casa/1915.ts
+#EXTINF:-1 group-title="05/02/2017",FR: D8
+http://149.202.72.15:8000/live/casa/casa/1916.ts
+#EXTINF:-1 group-title="05/02/2017",FR: discovery Channel HD
+http://149.202.72.15:8000/live/casa/casa/1896.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Discovery Science
+http://149.202.72.15:8000/live/casa/casa/1895.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Disney Channel
+http://149.202.72.15:8000/live/casa/casa/1894.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Gulli HD
+http://149.202.72.15:8000/live/casa/casa/1888.ts
+#EXTINF:-1 group-title="05/02/2017",FR: iTELE
+http://149.202.72.15:8000/live/casa/casa/1917.ts
+#EXTINF:-1 group-title="05/02/2017",FR: La Deux
+http://149.202.72.15:8000/live/casa/casa/1918.ts
+#EXTINF:-1 group-title="05/02/2017",FR: La Trois
+http://149.202.72.15:8000/live/casa/casa/1919.ts
+#EXTINF:-1 group-title="05/02/2017",FR: La Une
+http://149.202.72.15:8000/live/casa/casa/1920.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Nat. Geo Wild HD
+http://149.202.72.15:8000/live/casa/casa/1886.ts
+#EXTINF:-1 group-title="05/02/2017",FR: Nat. Geographic
+http://149.202.72.15:8000/live/casa/casa/1885.ts
+#EXTINF:-1 group-title="05/02/2017",FR: OCS City
+http://149.202.72.15:8000/live/casa/casa/1882.ts
+#EXTINF:-1 group-title="05/02/2017",FR: OCS GEANT
+http://149.202.72.15:8000/live/casa/casa/1881.ts
+#EXTINF:-1 group-title="05/02/2017",FR: OCS Max
+http://149.202.72.15:8000/live/casa/casa/1880.ts
+#EXTINF:-1 group-title="05/02/2017",FR: TELETOON
+http://149.202.72.15:8000/live/casa/casa/1878.ts
+#EXTINF:-1 group-title="05/02/2017",FR: TMC
+http://149.202.72.15:8000/live/casa/casa/1921.ts
+#EXTINF:-1 group-title="05/02/2017",FR: VOYAGE HD
+http://149.202.72.15:8000/live/casa/casa/1876.ts
+#EXTINF:-1 group-title="05/02/2017",FR: W9
+http://149.202.72.15:8000/live/casa/casa/1875.ts
+#EXTINF:-1 group-title="05/02/2017",---? BIEN SPORTS ?---
+http://149.202.72.15:8000/live/casa/casa/1873.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT1 HD
+http://149.202.72.15:8000/live/casa/casa/1922.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT2 HD
+http://149.202.72.15:8000/live/casa/casa/1925.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT3 HD
+http://149.202.72.15:8000/live/casa/casa/1926.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT4 HD
+http://149.202.72.15:8000/live/casa/casa/1927.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT5 HD
+http://149.202.72.15:8000/live/casa/casa/1928.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT6 HD
+http://149.202.72.15:8000/live/casa/casa/1929.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT7 HD
+http://149.202.72.15:8000/live/casa/casa/1930.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT8 HD
+http://149.202.72.15:8000/live/casa/casa/1931.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT9 HD
+http://149.202.72.15:8000/live/casa/casa/1932.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT10 HD
+http://149.202.72.15:8000/live/casa/casa/1923.ts
+#EXTINF:-1 group-title="05/02/2017",BEIN :SPORT11 HD
+http://149.202.72.15:8000/live/casa/casa/1924.ts
+#EXTINF:-1 group-title="05/02/2017",---? SWITZERLAND ?---
+http://149.202.72.15:8000/live/casa/casa/1874.ts
+#EXTINF:-1 group-title="05/02/2017",CH: CINEMA 1 DE
+http://149.202.72.15:8000/live/casa/casa/1933.ts
+#EXTINF:-1 group-title="05/02/2017",CH: CINEMA 1 FR
+http://149.202.72.15:8000/live/casa/casa/1934.ts
+#EXTINF:-1 group-title="05/02/2017",CH: CINEMA 1 IT
+http://149.202.72.15:8000/live/casa/casa/1935.ts
+#EXTINF:-1 group-title="05/02/2017",CH: CINEMA 2 DE
+http://149.202.72.15:8000/live/casa/casa/1936.ts
+#EXTINF:-1 group-title="05/02/2017",CH: CINEMA 2 FR
+http://149.202.72.15:8000/live/casa/casa/1937.ts
+#EXTINF:-1 group-title="05/02/2017",CH: CINEMA 2 IT
+http://149.202.72.15:8000/live/casa/casa/1938.ts
+#EXTINF:-1 group-title="05/02/2017",CH: La TELE HD
+http://149.202.72.15:8000/live/casa/casa/1939.ts
+#EXTINF:-1 group-title="05/02/2017",CH: RSI La 1 HD
+http://149.202.72.15:8000/live/casa/casa/1940.ts
+#EXTINF:-1 group-title="05/02/2017",CH: RSI La 2 HD
+http://149.202.72.15:8000/live/casa/casa/1941.ts
+#EXTINF:-1 group-title="05/02/2017",CH: RTS Deux
+http://149.202.72.15:8000/live/casa/casa/1942.ts
+#EXTINF:-1 group-title="05/02/2017",CH: RTS Un HD
+http://149.202.72.15:8000/live/casa/casa/1943.ts
+#EXTINF:-1 group-title="05/02/2017",CH: SFR Sport 1 HD
+http://149.202.72.15:8000/live/casa/casa/1944.ts
+#EXTINF:-1 group-title="05/02/2017",CH: SFR Sport 2 HD
+http://149.202.72.15:8000/live/casa/casa/1945.ts
+#EXTINF:-1 group-title="05/02/2017",CH: SFR Sport 3 HD
+http://149.202.72.15:8000/live/casa/casa/1946.ts
+#EXTINF:-1 group-title="05/02/2017",CH: SRF 1 HD
+http://149.202.72.15:8000/live/casa/casa/1947.ts
+#EXTINF:-1 group-title="05/02/2017",CH: SRF 2 HD
+http://149.202.72.15:8000/live/casa/casa/1948.ts
+#EXTINF:-1 group-title="05/02/2017",CH: SRF Info HD
+http://149.202.72.15:8000/live/casa/casa/1949.ts
+#EXTINF:-1 group-title="05/02/2017",CH: TELEBASEL
+http://149.202.72.15:8000/live/casa/casa/1950.ts
+#EXTINF:-1 group-title="05/02/2017",CH: TELECLUB SPORT 1HD
+http://149.202.72.15:8000/live/casa/casa/1951.ts
+#EXTINF:-1 group-title="05/02/2017",CH: TELECLUB SPORT 2HD
+http://149.202.72.15:8000/live/casa/casa/1952.ts
+#EXTINF:-1 group-title="05/02/2017",CH: TELECLUB SPORT 3HD
+http://149.202.72.15:8000/live/casa/casa/1953.ts
+#EXTINF:-1 group-title="05/02/2017",CH: Teleclub STAR HD
+http://149.202.72.15:8000/live/casa/casa/1954.ts
+#EXTINF:-1 group-title="05/02/2017",CH: TVM3 HD
+http://149.202.72.15:8000/live/casa/casa/1955.ts
+#EXTINF:-1 group-title="05/02/2017",---☛ SPAIN ☚---
+http://149.202.72.15:8000/live/casa/casa/1126.ts
+#EXTINF:-1 group-title="05/02/2017",ES: VIAJAR HD
+http://149.202.72.15:8000/live/casa/casa/1127.ts
+#EXTINF:-1 group-title="05/02/2017",ES: TNT HD
+http://149.202.72.15:8000/live/casa/casa/1128.ts
+#EXTINF:-1 group-title="05/02/2017",ES: TMC HD
+http://149.202.72.15:8000/live/casa/casa/1129.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Teledeporte
+http://149.202.72.15:8000/live/casa/casa/1130.ts
+#EXTINF:-1 group-title="05/02/2017",ES: TELECINCO HD
+http://149.202.72.15:8000/live/casa/casa/1131.ts
+#EXTINF:-1 group-title="05/02/2017",ES: SyFy
+http://149.202.72.15:8000/live/casa/casa/1132.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Real Madrid TV
+http://149.202.72.15:8000/live/casa/casa/1133.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Odisea
+http://149.202.72.15:8000/live/casa/casa/1134.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Nova
+http://149.202.72.15:8000/live/casa/casa/1135.ts
+#EXTINF:-1 group-title="05/02/2017",ES: NONSTOPEOPLE
+http://149.202.72.15:8000/live/casa/casa/1136.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Nickelodeon HD
+http://149.202.72.15:8000/live/casa/casa/1137.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Nat. Geographic HD
+http://149.202.72.15:8000/live/casa/casa/1138.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Nat. Geo Wild HD
+http://149.202.72.15:8000/live/casa/casa/1139.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Movistar MotoGP
+http://149.202.72.15:8000/live/casa/casa/1140.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Movistar F1
+http://149.202.72.15:8000/live/casa/casa/1141.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Ml  DCine
+http://149.202.72.15:8000/live/casa/casa/1142.ts
+#EXTINF:-1 group-title="05/02/2017",ES: MEGA
+http://149.202.72.15:8000/live/casa/casa/1143.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Xtra HD
+http://149.202.72.15:8000/live/casa/casa/1144.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Toros
+http://149.202.72.15:8000/live/casa/casa/1145.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Series Xtra HD
+http://149.202.72.15:8000/live/casa/casa/1146.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Golf HD
+http://149.202.72.15:8000/live/casa/casa/1147.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Futbol HD
+http://149.202.72.15:8000/live/casa/casa/1148.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Deportes HD
+http://149.202.72.15:8000/live/casa/casa/1149.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Deportes 2 HD
+http://149.202.72.15:8000/live/casa/casa/1150.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Comedia
+http://149.202.72.15:8000/live/casa/casa/1151.ts
+#EXTINF:-1 group-title="05/02/2017",ES: M  Accion
+http://149.202.72.15:8000/live/casa/casa/1152.ts
+#EXTINF:-1 group-title="05/02/2017",ES: La Sexta HD
+http://149.202.72.15:8000/live/casa/casa/1153.ts
+#EXTINF:-1 group-title="05/02/2017",ES: la liga tv HD
+http://149.202.72.15:8000/live/casa/casa/1154.ts
+#EXTINF:-1 group-title="05/02/2017",ES: La 2
+http://149.202.72.15:8000/live/casa/casa/1155.ts
+#EXTINF:-1 group-title="05/02/2017",ES: La 1 HD
+http://149.202.72.15:8000/live/casa/casa/1156.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Hollywood HD
+http://149.202.72.15:8000/live/casa/casa/1157.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Historia
+http://149.202.72.15:8000/live/casa/casa/1158.ts
+#EXTINF:-1 group-title="05/02/2017",ES: FOX Life
+http://149.202.72.15:8000/live/casa/casa/1159.ts
+#EXTINF:-1 group-title="05/02/2017",ES: FOX
+http://149.202.72.15:8000/live/casa/casa/1160.ts
+#EXTINF:-1 group-title="05/02/2017",ES: EUROSPORT 1 HD
+http://149.202.72.15:8000/live/casa/casa/1161.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Disney Junior
+http://149.202.72.15:8000/live/casa/casa/1162.ts
+#EXTINF:-1 group-title="05/02/2017",ES: DISNEY CHANNELS HD
+http://149.202.72.15:8000/live/casa/casa/1163.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Discovery Channel HD
+http://149.202.72.15:8000/live/casa/casa/1164.ts
+#EXTINF:-1 group-title="05/02/2017",ES: CUATRO
+http://149.202.72.15:8000/live/casa/casa/1165.ts
+#EXTINF:-1 group-title="05/02/2017",ES: CRIME INVESTIGACION
+http://149.202.72.15:8000/live/casa/casa/1166.ts
+#EXTINF:-1 group-title="05/02/2017",ES: COMEDY CENTRAL HD
+http://149.202.72.15:8000/live/casa/casa/1167.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Caza y Pesca
+http://149.202.72.15:8000/live/casa/casa/1168.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Canal Cocina
+http://149.202.72.15:8000/live/casa/casa/1169.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Canal  Estrenos Hd
+http://149.202.72.15:8000/live/casa/casa/1170.ts
+#EXTINF:-1 group-title="05/02/2017",ES: beIN Sport Ñ
+http://149.202.72.15:8000/live/casa/casa/1171.ts
+#EXTINF:-1 group-title="05/02/2017",ES: BEIN LA LIGA HD
+http://149.202.72.15:8000/live/casa/casa/1172.ts
+#EXTINF:-1 group-title="05/02/2017",ES: AXN HD
+http://149.202.72.15:8000/live/casa/casa/1173.ts
+#EXTINF:-1 group-title="05/02/2017",ES: Antena 3
+http://149.202.72.15:8000/live/casa/casa/1174.ts
+#EXTINF:-1 group-title="05/02/2017",ES: AMC
+http://149.202.72.15:8000/live/casa/casa/1175.ts
+#EXTINF:-1 group-title="05/02/2017",ES: A&E
+http://149.202.72.15:8000/live/casa/casa/1176.ts
+#EXTINF:-1 group-title="05/02/2017",ES: #0 HD
+http://149.202.72.15:8000/live/casa/casa/1177.ts
+#EXTINF:-1 group-title="05/02/2017",ES : COSMOS HD
+http://149.202.72.15:8000/live/casa/casa/1178.ts
+#EXTINF:-1 group-title="05/02/2017",---☛ BRASIL ☚---
+http://149.202.72.15:8000/live/casa/casa/1059.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Woohoo
+http://149.202.72.15:8000/live/casa/casa/1665.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Warner Channel
+http://149.202.72.15:8000/live/casa/casa/1666.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Viva
+http://149.202.72.15:8000/live/casa/casa/1667.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Universal Channel
+http://149.202.72.15:8000/live/casa/casa/1668.ts
+#EXTINF:-1 group-title="05/02/2017",BR: TV Cultura
+http://149.202.72.15:8000/live/casa/casa/1669.ts
+#EXTINF:-1 group-title="05/02/2017",BR: TV BrasiL
+http://149.202.72.15:8000/live/casa/casa/1670.ts
+#EXTINF:-1 group-title="05/02/2017",BR: TNT
+http://149.202.72.15:8000/live/casa/casa/1671.ts
+#EXTINF:-1 group-title="05/02/2017",BR: TLC
+http://149.202.72.15:8000/live/casa/casa/1672.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Telecine Touch
+http://149.202.72.15:8000/live/casa/casa/1673.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Telecine Premium
+http://149.202.72.15:8000/live/casa/casa/1674.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Telecine Pipoca
+http://149.202.72.15:8000/live/casa/casa/1675.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Telecine Fun
+http://149.202.72.15:8000/live/casa/casa/1676.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Telecine Cult
+http://149.202.72.15:8000/live/casa/casa/1677.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Telecine Action
+http://149.202.72.15:8000/live/casa/casa/1678.ts
+#EXTINF:-1 group-title="05/02/2017",BR: TBS
+http://149.202.72.15:8000/live/casa/casa/1679.ts
+#EXTINF:-1 group-title="05/02/2017",BR: sportv1
+http://149.202.72.15:8000/live/casa/casa/1680.ts
+#EXTINF:-1 group-title="05/02/2017",BR: SporTV 3
+http://149.202.72.15:8000/live/casa/casa/1681.ts
+#EXTINF:-1 group-title="05/02/2017",BR: SporTV 2
+http://149.202.72.15:8000/live/casa/casa/1682.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Space
+http://149.202.72.15:8000/live/casa/casa/1683.ts
+#EXTINF:-1 group-title="05/02/2017",BR: SBT
+http://149.202.72.15:8000/live/casa/casa/1684.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Rede TV
+http://149.202.72.15:8000/live/casa/casa/1685.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Record News
+http://149.202.72.15:8000/live/casa/casa/1686.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Record
+http://149.202.72.15:8000/live/casa/casa/1687.ts
+#EXTINF:-1 group-title="05/02/2017",BR: PFC
+http://149.202.72.15:8000/live/casa/casa/1688.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Paramount Channel
+http://149.202.72.15:8000/live/casa/casa/1689.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Nick Jr.
+http://149.202.72.15:8000/live/casa/casa/1690.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Nat. Geographic
+http://149.202.72.15:8000/live/casa/casa/1691.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Multishow
+http://149.202.72.15:8000/live/casa/casa/1692.ts
+#EXTINF:-1 group-title="05/02/2017",BR: MEGAPIX
+http://149.202.72.15:8000/live/casa/casa/1693.ts
+#EXTINF:-1 group-title="05/02/2017",BR: MAX Up
+http://149.202.72.15:8000/live/casa/casa/1694.ts
+#EXTINF:-1 group-title="05/02/2017",BR: MAX Prime
+http://149.202.72.15:8000/live/casa/casa/1695.ts
+#EXTINF:-1 group-title="05/02/2017",BR: MAX
+http://149.202.72.15:8000/live/casa/casa/1696.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Investigação Discovery
+http://149.202.72.15:8000/live/casa/casa/1697.ts
+#EXTINF:-1 group-title="05/02/2017",BR: History 2
+http://149.202.72.15:8000/live/casa/casa/1698.ts
+#EXTINF:-1 group-title="05/02/2017",BR: historia
+http://149.202.72.15:8000/live/casa/casa/1699.ts
+#EXTINF:-1 group-title="05/02/2017",BR: HBO Signature
+http://149.202.72.15:8000/live/casa/casa/1700.ts
+#EXTINF:-1 group-title="05/02/2017",BR: HBO Plus
+http://149.202.72.15:8000/live/casa/casa/1701.ts
+#EXTINF:-1 group-title="05/02/2017",BR: HBO Family
+http://149.202.72.15:8000/live/casa/casa/1702.ts
+#EXTINF:-1 group-title="05/02/2017",BR: HBO 2
+http://149.202.72.15:8000/live/casa/casa/1703.ts
+#EXTINF:-1 group-title="05/02/2017",BR: HBO
+http://149.202.72.15:8000/live/casa/casa/1704.ts
+#EXTINF:-1 group-title="05/02/2017",BR: GNT
+http://149.202.72.15:8000/live/casa/casa/1705.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Gloob
+http://149.202.72.15:8000/live/casa/casa/1706.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Globo PT
+http://149.202.72.15:8000/live/casa/casa/1707.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Globo Premium
+http://149.202.72.15:8000/live/casa/casa/1708.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Globo
+http://149.202.72.15:8000/live/casa/casa/1709.ts
+#EXTINF:-1 group-title="05/02/2017",BR: FX
+http://149.202.72.15:8000/live/casa/casa/1710.ts
+#EXTINF:-1 group-title="05/02/2017",BR: FOX Sports 2
+http://149.202.72.15:8000/live/casa/casa/1711.ts
+#EXTINF:-1 group-title="05/02/2017",BR: FOX Sports
+http://149.202.72.15:8000/live/casa/casa/1712.ts
+#EXTINF:-1 group-title="05/02/2017",BR: FOX Life
+http://149.202.72.15:8000/live/casa/casa/1713.ts
+#EXTINF:-1 group-title="05/02/2017",BR: FOX
+http://149.202.72.15:8000/live/casa/casa/1714.ts
+#EXTINF:-1 group-title="05/02/2017",BR: ESPN Brasil
+http://149.202.72.15:8000/live/casa/casa/1715.ts
+#EXTINF:-1 group-title="05/02/2017",BR: ESPN
+http://149.202.72.15:8000/live/casa/casa/1716.ts
+#EXTINF:-1 group-title="05/02/2017",BR: EI Maxx 2
+http://149.202.72.15:8000/live/casa/casa/1717.ts
+#EXTINF:-1 group-title="05/02/2017",BR: EI Maxx
+http://149.202.72.15:8000/live/casa/casa/1718.ts
+#EXTINF:-1 group-title="05/02/2017",BR: E!
+http://149.202.72.15:8000/live/casa/casa/1719.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Disney XD
+http://149.202.72.15:8000/live/casa/casa/1720.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Disney Junior
+http://149.202.72.15:8000/live/casa/casa/1721.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Disney Channel
+http://149.202.72.15:8000/live/casa/casa/1722.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Discovery Turbo
+http://149.202.72.15:8000/live/casa/casa/1723.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Discovery Science
+http://149.202.72.15:8000/live/casa/casa/1724.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Discovery Kids
+http://149.202.72.15:8000/live/casa/casa/1725.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Discovery Home & Health
+http://149.202.72.15:8000/live/casa/casa/1726.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Discovery Channel
+http://149.202.72.15:8000/live/casa/casa/1727.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Combate
+http://149.202.72.15:8000/live/casa/casa/1728.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Cartoon Network
+http://149.202.72.15:8000/live/casa/casa/1729.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Canal Off
+http://149.202.72.15:8000/live/casa/casa/1730.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Canal do Boi
+http://149.202.72.15:8000/live/casa/casa/1731.ts
+#EXTINF:-1 group-title="05/02/2017",BR: BIS
+http://149.202.72.15:8000/live/casa/casa/1732.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Band Sports
+http://149.202.72.15:8000/live/casa/casa/1733.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Band News
+http://149.202.72.15:8000/live/casa/casa/1734.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Band
+http://149.202.72.15:8000/live/casa/casa/1735.ts
+#EXTINF:-1 group-title="05/02/2017",BR: AXN
+http://149.202.72.15:8000/live/casa/casa/1736.ts
+#EXTINF:-1 group-title="05/02/2017",BR: Animal Planet
+http://149.202.72.15:8000/live/casa/casa/1737.ts
+#EXTINF:-1 group-title="05/02/2017",BR: A&E
+http://149.202.72.15:8000/live/casa/casa/1738.ts
+#EXTINF:-1 group-title="05/02/2017",---☛ ITALIA ☚---
+http://149.202.72.15:8000/live/casa/casa/1812.ts
+#EXTINF:-1 group-title="05/02/2017",IT Sky Fox Sports HD
+http://149.202.72.15:8000/live/casa/casa/1739.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Alice
+http://149.202.72.15:8000/live/casa/casa/1740.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Antenna 3
+http://149.202.72.15:8000/live/casa/casa/1741.ts
+#EXTINF:-1 group-title="05/02/2017",IT: AutoMoto TV
+http://149.202.72.15:8000/live/casa/casa/1742.ts
+#EXTINF:-1 group-title="05/02/2017",IT: BOING
+http://149.202.72.15:8000/live/casa/casa/1743.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Canale 21
+http://149.202.72.15:8000/live/casa/casa/1744.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Canale 5 HD
+http://149.202.72.15:8000/live/casa/casa/1745.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Canale Dieci
+http://149.202.72.15:8000/live/casa/casa/1746.ts
+#EXTINF:-1 group-title="05/02/2017",IT: CBL Classic
+http://149.202.72.15:8000/live/casa/casa/1747.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Cielo
+http://149.202.72.15:8000/live/casa/casa/1748.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Class CNBC
+http://149.202.72.15:8000/live/casa/casa/1749.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Class TV
+http://149.202.72.15:8000/live/casa/casa/1750.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Dee Jay TV
+http://149.202.72.15:8000/live/casa/casa/1751.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Nat Geo Wild HD
+http://149.202.72.15:8000/live/casa/casa/1752.ts
+#EXTINF:-1 group-title="05/02/2017",IT: OTTO 8 FM TV
+http://149.202.72.15:8000/live/casa/casa/1753.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Action  24 HD
+http://149.202.72.15:8000/live/casa/casa/1754.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Action HD
+http://149.202.72.15:8000/live/casa/casa/1755.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Cartoon Network
+http://149.202.72.15:8000/live/casa/casa/1756.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Cinema 24 HD
+http://149.202.72.15:8000/live/casa/casa/1757.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Cinema HD
+http://149.202.72.15:8000/live/casa/casa/1758.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Comedy HD
+http://149.202.72.15:8000/live/casa/casa/1759.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Crime HD
+http://149.202.72.15:8000/live/casa/casa/1760.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Disney Channel
+http://149.202.72.15:8000/live/casa/casa/1761.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Emotion HD
+http://149.202.72.15:8000/live/casa/casa/1762.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Energy HD
+http://149.202.72.15:8000/live/casa/casa/1763.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Joy
+http://149.202.72.15:8000/live/casa/casa/1764.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Sport 2 HD
+http://149.202.72.15:8000/live/casa/casa/1765.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Sport HD
+http://149.202.72.15:8000/live/casa/casa/1766.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Premium Stories HD
+http://149.202.72.15:8000/live/casa/casa/1767.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Primo Canale
+http://149.202.72.15:8000/live/casa/casa/1768.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Radionorba TV
+http://149.202.72.15:8000/live/casa/casa/1769.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai 1 HD
+http://149.202.72.15:8000/live/casa/casa/1770.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai 2 HD
+http://149.202.72.15:8000/live/casa/casa/1771.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai 3 HD
+http://149.202.72.15:8000/live/casa/casa/1772.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai 4 HD
+http://149.202.72.15:8000/live/casa/casa/1773.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Gulp
+http://149.202.72.15:8000/live/casa/casa/1774.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Movie
+http://149.202.72.15:8000/live/casa/casa/1775.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Premium
+http://149.202.72.15:8000/live/casa/casa/1776.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Scuola
+http://149.202.72.15:8000/live/casa/casa/1777.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Sport 1
+http://149.202.72.15:8000/live/casa/casa/1778.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Sport 2
+http://149.202.72.15:8000/live/casa/casa/1779.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Storia
+http://149.202.72.15:8000/live/casa/casa/1780.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rai Yoyo
+http://149.202.72.15:8000/live/casa/casa/1781.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rete 4 HD
+http://149.202.72.15:8000/live/casa/casa/1782.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rete 8 Sport
+http://149.202.72.15:8000/live/casa/casa/1783.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Rete55 Sport
+http://149.202.72.15:8000/live/casa/casa/1784.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Ricicla TV
+http://149.202.72.15:8000/live/casa/casa/1785.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Cinema  24 HD
+http://149.202.72.15:8000/live/casa/casa/1786.ts
+#EXTINF:-1 group-title="05/02/2017",IT: SKY CINEMA 1 HD
+http://149.202.72.15:8000/live/casa/casa/1787.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Cinema Comedy HD
+http://149.202.72.15:8000/live/casa/casa/1788.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Cinema Cult HD
+http://149.202.72.15:8000/live/casa/casa/1789.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Cinema Max HD
+http://149.202.72.15:8000/live/casa/casa/1790.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Cinema Passion HD
+http://149.202.72.15:8000/live/casa/casa/1791.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Discovery Channel HD
+http://149.202.72.15:8000/live/casa/casa/1792.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Fox HD
+http://149.202.72.15:8000/live/casa/casa/1793.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Moto GP HD
+http://149.202.72.15:8000/live/casa/casa/1794.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Sport 1 HD
+http://149.202.72.15:8000/live/casa/casa/1795.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Sport 2 HD
+http://149.202.72.15:8000/live/casa/casa/1796.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Sport 24 HD
+http://149.202.72.15:8000/live/casa/casa/1797.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Sport F1 HD
+http://149.202.72.15:8000/live/casa/casa/1798.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Sky Super Tennis HD
+http://149.202.72.15:8000/live/casa/casa/1799.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Super TV
+http://149.202.72.15:8000/live/casa/casa/1800.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Tele Luna
+http://149.202.72.15:8000/live/casa/casa/1801.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Tele Mantova
+http://149.202.72.15:8000/live/casa/casa/1802.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Tele Unica
+http://149.202.72.15:8000/live/casa/casa/1803.ts
+#EXTINF:-1 group-title="05/02/2017",IT: teleboario
+http://149.202.72.15:8000/live/casa/casa/1804.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Telecitta
+http://149.202.72.15:8000/live/casa/casa/1805.ts
+#EXTINF:-1 group-title="05/02/2017",IT: Tg Com 24
+http://149.202.72.15:8000/live/casa/casa/1806.ts
+#EXTINF:-1 group-title="05/02/2017",IT: TG Norba 24
+http://149.202.72.15:8000/live/casa/casa/1807.ts
+#EXTINF:-1 group-title="05/02/2017",IT: TRM TV
+http://149.202.72.15:8000/live/casa/casa/1808.ts
+#EXTINF:-1 group-title="05/02/2017",IT: TSN 1 Italy
+http://149.202.72.15:8000/live/casa/casa/1809.ts
+#EXTINF:-1 group-title="05/02/2017",IT: TSN 2 Italy
+http://149.202.72.15:8000/live/casa/casa/1810.ts
+#EXTINF:-1 group-title="05/02/2017",IT: TV 2000
+http://149.202.72.15:8000/live/casa/casa/1811.ts
+#EXTINF:-1 group-title="05/02/2017",---☛ DEUTSCH ☚---
+http://149.202.72.15:8000/live/casa/casa/1081.ts
+#EXTINF:-1 group-title="05/02/2017",DE: ZDF
+http://149.202.72.15:8000/live/casa/casa/1082.ts
+#EXTINF:-1 group-title="05/02/2017",DE: WDR
+http://149.202.72.15:8000/live/casa/casa/1083.ts
+#EXTINF:-1 group-title="05/02/2017",DE: VOX
+http://149.202.72.15:8000/live/casa/casa/1084.ts
+#EXTINF:-1 group-title="05/02/2017",DE: TNT Film
+http://149.202.72.15:8000/live/casa/casa/1085.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Tagesschau 24
+http://149.202.72.15:8000/live/casa/casa/1086.ts
+#EXTINF:-1 group-title="05/02/2017",DE: SuperRTL
+http://149.202.72.15:8000/live/casa/casa/1087.ts
+#EXTINF:-1 group-title="05/02/2017",DE: SRF2
+http://149.202.72.15:8000/live/casa/casa/1088.ts
+#EXTINF:-1 group-title="05/02/2017",DE: SRF1
+http://149.202.72.15:8000/live/casa/casa/1089.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Sports Austria
+http://149.202.72.15:8000/live/casa/casa/1090.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Sports 2 HD
+http://149.202.72.15:8000/live/casa/casa/1091.ts
+#EXTINF:-1 group-title="05/02/2017",DE: SKY SPORTS 1 HQ
+http://149.202.72.15:8000/live/casa/casa/1092.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Sport News
+http://149.202.72.15:8000/live/casa/casa/1093.ts
+#EXTINF:-1 group-title="05/02/2017",DE: SKY Krimi
+http://149.202.72.15:8000/live/casa/casa/1094.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky emotion
+http://149.202.72.15:8000/live/casa/casa/1095.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Comedy
+http://149.202.72.15:8000/live/casa/casa/1096.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Cinema HD
+http://149.202.72.15:8000/live/casa/casa/1097.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Cinema  24
+http://149.202.72.15:8000/live/casa/casa/1098.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Bundesliga 1
+http://149.202.72.15:8000/live/casa/casa/1099.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Sky Atlantic HD
+http://149.202.72.15:8000/live/casa/casa/1100.ts
+#EXTINF:-1 group-title="05/02/2017",DE: SAT 1
+http://149.202.72.15:8000/live/casa/casa/1101.ts
+#EXTINF:-1 group-title="05/02/2017",DE: RTLNitro
+http://149.202.72.15:8000/live/casa/casa/1102.ts
+#EXTINF:-1 group-title="05/02/2017",DE: RTL living
+http://149.202.72.15:8000/live/casa/casa/1103.ts
+#EXTINF:-1 group-title="05/02/2017",DE: RTL 2
+http://149.202.72.15:8000/live/casa/casa/1104.ts
+#EXTINF:-1 group-title="05/02/2017",DE: RTL 1
+http://149.202.72.15:8000/live/casa/casa/1105.ts
+#EXTINF:-1 group-title="05/02/2017",DE: RBB
+http://149.202.72.15:8000/live/casa/casa/1106.ts
+#EXTINF:-1 group-title="05/02/2017",DE: PRO 7
+http://149.202.72.15:8000/live/casa/casa/1107.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Phoenix
+http://149.202.72.15:8000/live/casa/casa/1108.ts
+#EXTINF:-1 group-title="05/02/2017",DE: ORF 2
+http://149.202.72.15:8000/live/casa/casa/1109.ts
+#EXTINF:-1 group-title="05/02/2017",DE: ORF 1
+http://149.202.72.15:8000/live/casa/casa/1110.ts
+#EXTINF:-1 group-title="05/02/2017",DE: NickelodeoN
+http://149.202.72.15:8000/live/casa/casa/1111.ts
+#EXTINF:-1 group-title="05/02/2017",DE: NDR
+http://149.202.72.15:8000/live/casa/casa/1112.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Nat. Geo Wild
+http://149.202.72.15:8000/live/casa/casa/1113.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Nat. Geo  HD
+http://149.202.72.15:8000/live/casa/casa/1114.ts
+#EXTINF:-1 group-title="05/02/2017",DE: N24
+http://149.202.72.15:8000/live/casa/casa/1115.ts
+#EXTINF:-1 group-title="05/02/2017",DE: KIKA
+http://149.202.72.15:8000/live/casa/casa/1116.ts
+#EXTINF:-1 group-title="05/02/2017",DE: History HD
+http://149.202.72.15:8000/live/casa/casa/1117.ts
+#EXTINF:-1 group-title="05/02/2017",DE: FOX HQ
+http://149.202.72.15:8000/live/casa/casa/1118.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Eurosport HD
+http://149.202.72.15:8000/live/casa/casa/1119.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Disney Cinemagic
+http://149.202.72.15:8000/live/casa/casa/1120.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Disney Channel DE
+http://149.202.72.15:8000/live/casa/casa/1121.ts
+#EXTINF:-1 group-title="05/02/2017",DE: Discovery Channel HD
+http://149.202.72.15:8000/live/casa/casa/1122.ts
+#EXTINF:-1 group-title="05/02/2017",DE: BR
+http://149.202.72.15:8000/live/casa/casa/1123.ts
+#EXTINF:-1 group-title="05/02/2017",DE: AXN HQ
+http://149.202.72.15:8000/live/casa/casa/1124.ts
+#EXTINF:-1 group-title="05/02/2017",DE: ARD
+http://149.202.72.15:8000/live/casa/casa/1125.ts
+#EXTINF:-1 group-title="05/02/2017",---☛ ENGLISH ☚---
+http://149.202.72.15:8000/live/casa/casa/1267.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Utv iRELAND
+http://149.202.72.15:8000/live/casa/casa/1268.ts
+#EXTINF:-1 group-title="05/02/2017",UK: True Movies
+http://149.202.72.15:8000/live/casa/casa/1269.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Travel channel
+http://149.202.72.15:8000/live/casa/casa/1270.ts
+#EXTINF:-1 group-title="05/02/2017",UK: TMC
+http://149.202.72.15:8000/live/casa/casa/1271.ts
+#EXTINF:-1 group-title="05/02/2017",UK: TLC
+http://149.202.72.15:8000/live/casa/casa/1272.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports News HQ
+http://149.202.72.15:8000/live/casa/casa/1273.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports F1
+http://149.202.72.15:8000/live/casa/casa/1274.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports 5 HD
+http://149.202.72.15:8000/live/casa/casa/1275.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports 4 HD
+http://149.202.72.15:8000/live/casa/casa/1276.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports 3 HD
+http://149.202.72.15:8000/live/casa/casa/1277.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports 2 HD
+http://149.202.72.15:8000/live/casa/casa/1278.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Sports 1 HD
+http://149.202.72.15:8000/live/casa/casa/1279.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Sci-fi & Horror
+http://149.202.72.15:8000/live/casa/casa/1280.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Premiere
+http://149.202.72.15:8000/live/casa/casa/1281.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Modern Greats
+http://149.202.72.15:8000/live/casa/casa/1282.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Family
+http://149.202.72.15:8000/live/casa/casa/1283.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Drama & Romance
+http://149.202.72.15:8000/live/casa/casa/1284.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Disney
+http://149.202.72.15:8000/live/casa/casa/1285.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Crime & Thriller
+http://149.202.72.15:8000/live/casa/casa/1286.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Comedy
+http://149.202.72.15:8000/live/casa/casa/1287.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Atlantic
+http://149.202.72.15:8000/live/casa/casa/1288.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky Movies Action & Adventure
+http://149.202.72.15:8000/live/casa/casa/1289.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Sky living
+http://149.202.72.15:8000/live/casa/casa/1290.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Racing
+http://149.202.72.15:8000/live/casa/casa/1291.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Premier Sports HD
+http://149.202.72.15:8000/live/casa/casa/1292.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Nicktoons
+http://149.202.72.15:8000/live/casa/casa/1293.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Nat. Geo
+http://149.202.72.15:8000/live/casa/casa/1294.ts
+#EXTINF:-1 group-title="05/02/2017",UK: More 4
+http://149.202.72.15:8000/live/casa/casa/1295.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Manchester TV
+http://149.202.72.15:8000/live/casa/casa/1296.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Liverpool FC  tv
+http://149.202.72.15:8000/live/casa/casa/1297.ts
+#EXTINF:-1 group-title="05/02/2017",UK: ITVBE
+http://149.202.72.15:8000/live/casa/casa/1298.ts
+#EXTINF:-1 group-title="05/02/2017",UK: ITV4
+http://149.202.72.15:8000/live/casa/casa/1299.ts
+#EXTINF:-1 group-title="05/02/2017",UK: ITV3
+http://149.202.72.15:8000/live/casa/casa/1300.ts
+#EXTINF:-1 group-title="05/02/2017",UK: ITV2
+http://149.202.72.15:8000/live/casa/casa/1301.ts
+#EXTINF:-1 group-title="05/02/2017",UK: ITV1
+http://149.202.72.15:8000/live/casa/casa/1302.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Gold
+http://149.202.72.15:8000/live/casa/casa/1303.ts
+#EXTINF:-1 group-title="05/02/2017",UK: E4
+http://149.202.72.15:8000/live/casa/casa/1304.ts
+#EXTINF:-1 group-title="05/02/2017",UK: Discovery Channel history
+http://149.202.72.15:8000/live/casa/casa/1305.ts
+#EXTINF:-1 group-title="05/02/2017",UK: CBS action
+http://149.202.72.15:8000/live/casa/casa/1306.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BT Sport Europe HD
+http://149.202.72.15:8000/live/casa/casa/1307.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BT Sport 2 HD
+http://149.202.72.15:8000/live/casa/casa/1308.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BT Sport 1 HD
+http://149.202.72.15:8000/live/casa/casa/1309.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BT ESPN HD
+http://149.202.72.15:8000/live/casa/casa/1310.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BOX NATION
+http://149.202.72.15:8000/live/casa/casa/1311.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BBC 4
+http://149.202.72.15:8000/live/casa/casa/1312.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BBC 3
+http://149.202.72.15:8000/live/casa/casa/1313.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BBC 2
+http://149.202.72.15:8000/live/casa/casa/1314.ts
+#EXTINF:-1 group-title="05/02/2017",UK: BBC 1
+http://149.202.72.15:8000/live/casa/casa/1315.ts
+#EXTINF:-1 group-title="05/02/2017",UK: AT RACES
+http://149.202.72.15:8000/live/casa/casa/1316.ts
+#EXTINF:-1 group-title="05/02/2017",UK : SETENTA
+http://149.202.72.15:8000/live/casa/casa/1317.ts
+#EXTINF:-1 group-title="05/02/2017",UK : FOX
+http://149.202.72.15:8000/live/casa/casa/1318.ts
+#EXTINF:-1 group-title="05/02/2017",UK : Food Network
+http://149.202.72.15:8000/live/casa/casa/1319.ts
+#EXTINF:-1 group-title="05/02/2017",############# CANAIS MOBILE #############
+http://149.202.72.15:8000/live/casa/casa/1471.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 1 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1399.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 2 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1400.ts
+#EXTINF:-1 group-title="05/02/2017",SIC MOBILE
+http://149.202.72.15:8000/live/casa/casa/1401.ts
+#EXTINF:-1 group-title="05/02/2017",TVI MOBILE
+http://149.202.72.15:8000/live/casa/casa/1402.ts
+#EXTINF:-1 group-title="05/02/2017",RTP 3 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1403.ts
+#EXTINF:-1 group-title="05/02/2017",SIC NOTICIAS MOBILE
+http://149.202.72.15:8000/live/casa/casa/1404.ts
+#EXTINF:-1 group-title="05/02/2017",TVI 24 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1405.ts
+#EXTINF:-1 group-title="05/02/2017",CMTV MOBILE
+http://149.202.72.15:8000/live/casa/casa/1406.ts
+#EXTINF:-1 group-title="05/02/2017",PORTO CANAL MOBILE
+http://149.202.72.15:8000/live/casa/casa/1407.ts
+#EXTINF:-1 group-title="05/02/2017",RTP MADEIRA MOBILE
+http://149.202.72.15:8000/live/casa/casa/1413.ts
+#EXTINF:-1 group-title="05/02/2017",RTP AÇORES MOBILE
+http://149.202.72.15:8000/live/casa/casa/1414.ts
+#EXTINF:-1 group-title="05/02/2017",SIC MULHER MOBILE
+http://149.202.72.15:8000/live/casa/casa/1411.ts
+#EXTINF:-1 group-title="05/02/2017",SIC CARAS MOBILE
+http://149.202.72.15:8000/live/casa/casa/1461.ts
+#EXTINF:-1 group-title="05/02/2017",SIC RADICAL MOBILE
+http://149.202.72.15:8000/live/casa/casa/1410.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL Q MOBILE
+http://149.202.72.15:8000/live/casa/casa/1412.ts
+#EXTINF:-1 group-title="05/02/2017",TVI FICCAO MOBILE
+http://149.202.72.15:8000/live/casa/casa/1408.ts
+#EXTINF:-1 group-title="05/02/2017",TVI REALTY MOBILE
+http://149.202.72.15:8000/live/casa/casa/1409.ts
+
+#EXTINF:-1 group-title="05/02/2017",TVCINE 1 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1435.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 2 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1436.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 3 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1437.ts
+#EXTINF:-1 group-title="05/02/2017",TVCINE 4 MOBILE
+http://149.202.72.15:8000/live/casa/casa/1438.ts
+#EXTINF:-1 group-title="05/02/2017",TVSERIES MOBILE
+http://149.202.72.15:8000/live/casa/casa/1439.ts
+#EXTINF:-1 group-title="05/02/2017",CINEMUNDO MOBILE
+http://149.202.72.15:8000/live/casa/casa/1442.ts
+#EXTINF:-1 group-title="05/02/2017",FOX MOBILE
+http://149.202.72.15:8000/live/casa/casa/1446.ts
+#EXTINF:-1 group-title="05/02/2017",FOX MOVIE MOBILE
+http://149.202.72.15:8000/live/casa/casa/1447.ts
+#EXTINF:-1 group-title="05/02/2017",FOX LIFE MOBILE
+http://149.202.72.15:8000/live/casa/casa/1448.ts
+#EXTINF:-1 group-title="05/02/2017",FOX CRIME MOBILE
+http://149.202.72.15:8000/live/casa/casa/1449.ts
+#EXTINF:-1 group-title="05/02/2017",FOX COMEDY MOBILE
+http://149.202.72.15:8000/live/casa/casa/1450.ts
+#EXTINF:-1 group-title="05/02/2017",AXN MOBILE
+http://149.202.72.15:8000/live/casa/casa/1443.ts
+#EXTINF:-1 group-title="05/02/2017",AXN WHITE MOBILE
+http://149.202.72.15:8000/live/casa/casa/1444.ts
+#EXTINF:-1 group-title="05/02/2017",AXN BLACK MOBILE
+http://149.202.72.15:8000/live/casa/casa/1445.ts
+#EXTINF:-1 group-title="05/02/2017",HOLLYWOOD MOBILE
+http://149.202.72.15:8000/live/casa/casa/1441.ts
+#EXTINF:-1 group-title="05/02/2017",MOV MOBILE
+http://149.202.72.15:8000/live/casa/casa/1440.ts
+#EXTINF:-1 group-title="05/02/2017",BABY TV MOBILE
+http://149.202.72.15:8000/live/casa/casa/1455.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL PANDA MOBILE
+http://149.202.72.15:8000/live/casa/casa/1467.ts
+#EXTINF:-1 group-title="05/02/2017",DISNEY CHANNEL MOBILE
+http://149.202.72.15:8000/live/casa/casa/1460.ts
+#EXTINF:-1 group-title="05/02/2017",DISNEY JUNIOR MOBILE
+http://149.202.72.15:8000/live/casa/casa/1459.ts
+#EXTINF:-1 group-title="05/02/2017",CARTOON NETWORK MOBILE
+http://149.202.72.15:8000/live/casa/casa/1464.ts
+#EXTINF:-1 group-title="05/02/2017",SIC K MOBILE
+http://149.202.72.15:8000/live/casa/casa/1465.ts
+#EXTINF:-1 group-title="05/02/2017",JIM JAM MOBILE
+http://149.202.72.15:8000/live/casa/casa/1463.ts
+#EXTINF:-1 group-title="05/02/2017",PANDA BIGGS MOBILE
+http://149.202.72.15:8000/live/casa/casa/1462.ts
+#EXTINF:-1 group-title="05/02/2017",NICKELODEON MOBILE
+http://149.202.72.15:8000/live/casa/casa/1466.ts
+#EXTINF:-1 group-title="05/02/2017",NAT GEOGRAFIC MOBILE
+http://149.202.72.15:8000/live/casa/casa/1451.ts
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY MOBILE
+http://149.202.72.15:8000/live/casa/casa/1452.ts
+#EXTINF:-1 group-title="05/02/2017",DISCOVERY SHOWCASE MOBILE
+http://149.202.72.15:8000/live/casa/casa/1453.ts
+#EXTINF:-1 group-title="05/02/2017",A & E MOBILE
+http://149.202.72.15:8000/live/casa/casa/1456.ts
+#EXTINF:-1 group-title="05/02/2017",TLC MOBILE
+http://149.202.72.15:8000/live/casa/casa/1457.ts
+#EXTINF:-1 group-title="05/02/2017",CANAL HISTORIA MOBILE
+http://149.202.72.15:8000/live/casa/casa/1454.ts
+#EXTINF:-1 group-title="05/02/2017",ODISSEIA MOBILE
+http://149.202.72.15:8000/live/casa/casa/1458.ts
+#EXTINF:-1 group-title="05/02/2017",XXX VENUS MOBILE
+http://149.202.72.15:8000/live/casa/casa/1468.ts
+#EXTINF:-1 group-title="05/02/2017",XXX PLAYBOY MOBILE
+http://149.202.72.15:8000/live/casa/casa/1469.ts
+#EXTINF:-1 group-title="05/02/2017",XXX HOT MOBILE
+http://149.202.72.15:8000/live/casa/casa/1470.ts
+#EXTINF:-1 group-title="05/02/2017",############# RADIO #############
+http://149.202.72.15:8000/live/casa/casa/917.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: SMOOTH FM
+http://149.202.72.15:8000/live/casa/casa/1481.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: RFM CLUBBING
+http://149.202.72.15:8000/live/casa/casa/1482.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: RFM
+http://149.202.72.15:8000/live/casa/casa/1483.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: TOCA A DANCAR
+http://149.202.72.15:8000/live/casa/casa/1480.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: RENASCENCA
+http://149.202.72.15:8000/live/casa/casa/1484.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: RDP INTERNACIONAL
+http://149.202.72.15:8000/live/casa/casa/1485.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: RDP AFRICA
+http://149.202.72.15:8000/live/casa/casa/1486.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: RADIO COMERCIAL
+http://149.202.72.15:8000/live/casa/casa/1487.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: OCEANO PACIFICO
+http://149.202.72.15:8000/live/casa/casa/1488.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: NOVA ERA
+http://149.202.72.15:8000/live/casa/casa/1489.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: MEGA HITS
+http://149.202.72.15:8000/live/casa/casa/1490.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: M80
+http://149.202.72.15:8000/live/casa/casa/1491.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: LUSITANIA
+http://149.202.72.15:8000/live/casa/casa/1492.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: CIDADE FM
+http://149.202.72.15:8000/live/casa/casa/1493.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: ANTENA 3 ROCK
+http://149.202.72.15:8000/live/casa/casa/1494.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: ANTENA 3 DANCE
+http://149.202.72.15:8000/live/casa/casa/1495.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: ANTENA 3
+http://149.202.72.15:8000/live/casa/casa/1496.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: ANTENA 2
+http://149.202.72.15:8000/live/casa/casa/1497.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: ANTENA 1 FADO
+http://149.202.72.15:8000/live/casa/casa/1498.ts
+#EXTINF:-1 group-title="05/02/2017",RADIO: 80s RFM
+http://149.202.72.15:8000/live/casa/casa/1499.ts
+
+#EXTINF:-1 group-title="05/02/2017",Filmes Da Semana 1
+http://149.202.72.15:8000/movie/marisa/marisa/1349.mp4
+#EXTINF:-1 group-title="05/02/2017",Filmes da Semana 2
+http://149.202.72.15:8000/movie/marisa/marisa/1350.mp4
+#EXTINF:-1 group-title="05/02/2017",Filmes da Semana 3
+http://149.202.72.15:8000/movie/marisa/marisa/1351.mp4
+#EXTINF:-1 group-title="05/02/2017",Filmes da Semana 4
+http://149.202.72.15:8000/movie/marisa/marisa/1352.mp4
+#EXTINF:-1 group-title="05/02/2017",Filmes Da Semana 5
+http://149.202.72.15:8000/movie/marisa/marisa/1353.mp4
+
+
+#EXTINF:-1,############# VIDEOCLUB #############
+#EXTINF:-1 group-title="05/02/2017 VOD",Filmes Da Semana 1
+http://149.202.72.15:8000/movie/casa/casa/1349.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Filmes da Semana 2
+http://149.202.72.15:8000/movie/casa/casa/1350.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Filmes da Semana 3
+http://149.202.72.15:8000/movie/casa/casa/1351.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Filmes da Semana 4
+http://149.202.72.15:8000/movie/casa/casa/1352.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Filmes Da Semana 5
+http://149.202.72.15:8000/movie/casa/casa/1353.mp4
+
+#EXTINF:-1 group-title="05/02/2017 VOD",Adulterers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/7.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Ultima Noitada
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/32.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Senhora da Furgoneta
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/33.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Modista
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/30.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",90 Minutes in Heaven
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/40.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",45 Anos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/11.mp4
+
+
+########################################################################################
+#EXTINF:-1 group-title="05/02/2017 VOD",7 Pecados Rurais
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/388.mp4
 
-#EXTINF:-1 group-title="03/02/2017",The Hobbit The Desolation Of Smaug
+#EXTINF:-1 group-title="05/02/2017 VOD",he Hobbit The Desolation Of Smaug
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/400.mp4
-#EXTINF:-1 group-title="03/02/2017",The Boy Next Door
+#EXTINF:-1 group-title="05/02/2017 VOD",he Boy Next Door
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/398.mp4
-#EXTINF:-1 group-title="03/02/2017",The Marine.2
+#EXTINF:-1 group-title="05/02/2017 VOD",he Marine.2
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/348.mp4
-#EXTINF:-1 group-title="03/02/2017",The Marine
+#EXTINF:-1 group-title="05/02/2017 VOD",he Marine
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/349.mp4
 
-#EXTINF:-1 group-title="03/02/2017",13 Hours
+#EXTINF:-1 group-title="05/02/2017 VOD",13 Hours
 http://revendedor.amxiptv.club:8000/movie/antonioR21092016/21092016antonioR/153.mkv
 
 
+
+
+
+http://149.202.72.15:8000/live/casa/casa/835.ts
+#EXTINF:-1 group-title="05/02/2017 VOD",A Guarda do Leao : Um Novo Rugido
+http://149.202.72.15:8000/movie/casa/casa/1960.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Rapariga no Comboio (2016)
+http://149.202.72.15:8000/movie/casa/casa/1961.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Stand Up Guy (2016)
+http://149.202.72.15:8000/movie/casa/casa/1962.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Street Cat Named Bob (2016)
+http://149.202.72.15:8000/movie/casa/casa/1963.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Absolutely Fabulous The Movie (2016)
+http://149.202.72.15:8000/movie/casa/casa/1964.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",All We Had (2016)
+http://149.202.72.15:8000/movie/casa/casa/1965.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Alone In Berlin (2016)
+http://149.202.72.15:8000/movie/casa/casa/1966.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Arrival (2016)
+http://149.202.72.15:8000/movie/casa/casa/1967.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Arsenal (2017)
+http://149.202.72.15:8000/movie/casa/casa/1968.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Beyond the Gates (2016)
+http://149.202.72.15:8000/movie/casa/casa/1969.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Christine (2016)
+http://149.202.72.15:8000/movie/casa/casa/1970.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Chronic (2015)
+http://149.202.72.15:8000/movie/casa/casa/1971.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Claire in Motion (2016)
+http://149.202.72.15:8000/movie/casa/casa/1972.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Clinical (2017)
+http://149.202.72.15:8000/movie/casa/casa/1973.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Coin Heist (2017)
+http://149.202.72.15:8000/movie/casa/casa/1974.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Collide (2016)
+http://149.202.72.15:8000/movie/casa/casa/1975.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",COME AND FIND ME (2016)
+http://149.202.72.15:8000/movie/casa/casa/1956.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Dana Carvey Straight White Male 60 (2016)
+http://149.202.72.15:8000/movie/casa/casa/1976.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Death Race 2050 (2017)
+http://149.202.72.15:8000/movie/casa/casa/1977.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Distance Between Dreams (2016)
+http://149.202.72.15:8000/movie/casa/casa/1978.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Dont Think Twice (2016)
+http://149.202.72.15:8000/movie/casa/casa/1979.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Eliminators (2016)
+http://149.202.72.15:8000/movie/casa/casa/1980.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Fantastic Beasts and Where to Find Them (2016)
+http://149.202.72.15:8000/movie/casa/casa/1981.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Fear  Inc. (2016)
+http://149.202.72.15:8000/movie/casa/casa/1982.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Fences (2016)
+http://149.202.72.15:8000/movie/casa/casa/1983.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",FirstBorn (2016)
+http://149.202.72.15:8000/movie/casa/casa/1984.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Girl Asleep (2015)
+http://149.202.72.15:8000/movie/casa/casa/1985.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Gleason (2016)
+http://149.202.72.15:8000/movie/casa/casa/1986.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Goldstone (2016)
+http://149.202.72.15:8000/movie/casa/casa/1987.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Good Kids (2016)
+http://149.202.72.15:8000/movie/casa/casa/1988.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Greater (2016)
+http://149.202.72.15:8000/movie/casa/casa/1989.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hacksaw Ridge (2016)
+http://149.202.72.15:8000/movie/casa/casa/1990.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hillsong Let Hope Rise (2016)
+http://149.202.72.15:8000/movie/casa/casa/1991.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hope Lost (2015)
+http://149.202.72.15:8000/movie/casa/casa/1992.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hurricane Bianca (2016)
+http://149.202.72.15:8000/movie/casa/casa/1993.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",HyperNormalisation (2016)
+http://149.202.72.15:8000/movie/casa/casa/1994.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",I Am Potential (2015
+http://149.202.72.15:8000/movie/casa/casa/1995.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Inseparables (2016)
+http://149.202.72.15:8000/movie/casa/casa/1996.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Isra 88 (2016)
+http://149.202.72.15:8000/movie/casa/casa/1997.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Jack Reacher Never Go Back (2016)
+http://149.202.72.15:8000/movie/casa/casa/1998.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Joseph and Mary (2016)
+http://149.202.72.15:8000/movie/casa/casa/1999.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Just In Time For Christmas (2015)
+http://149.202.72.15:8000/movie/casa/casa/2000.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kate Plays Christine (2016)
+http://149.202.72.15:8000/movie/casa/casa/2001.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kevin Hart: What Now? (2016)
+http://149.202.72.15:8000/movie/casa/casa/2002.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",La La Land (2016)
+http://149.202.72.15:8000/movie/casa/casa/2003.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Little Miss Perfect (2016)
+http://149.202.72.15:8000/movie/casa/casa/2004.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mais Forte que o Mundo: A Histria de Jos Aldo (2016)
+http://149.202.72.15:8000/movie/casa/casa/2005.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Manhattan Romance (2015)
+http://149.202.72.15:8000/movie/casa/casa/2006.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Miss Saigon: 25th Anniversary (2016)
+http://149.202.72.15:8000/movie/casa/casa/2007.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MOHENJO DARO
+http://149.202.72.15:8000/movie/casa/casa/1957.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Monster High: A Assustadora Barreira de Coral
+http://149.202.72.15:8000/movie/casa/casa/2008.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MORGAN (2016)
+http://149.202.72.15:8000/movie/casa/casa/1958.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mulheres no Poder (2016)
+http://149.202.72.15:8000/movie/casa/casa/2009.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MURDER SHE BAKED 2 A PLUM PUDDING MYSTERY (2016)
+http://149.202.72.15:8000/movie/casa/casa/2010.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",N.H 10
+http://149.202.72.15:8000/movie/casa/casa/2011.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Nise: O Coracao da Loucura (2015)
+http://149.202.72.15:8000/movie/casa/casa/2012.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Nocturnal Animals (2016)
+http://149.202.72.15:8000/movie/casa/casa/2013.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Shaolin do Sertao (2016)
+http://149.202.72.15:8000/movie/casa/casa/2014.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ordinary World (2016)
+http://149.202.72.15:8000/movie/casa/casa/2015.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",OUIJA ORIGEM DO MAL (2016)
+http://149.202.72.15:8000/movie/casa/casa/1959.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ouija: Origin of Evil (2016)
+http://149.202.72.15:8000/movie/casa/casa/2016.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Peter The Redemption (2016)
+http://149.202.72.15:8000/movie/casa/casa/2017.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Queen of Katwe (2016)
+http://149.202.72.15:8000/movie/casa/casa/2018.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Raavanan
+http://149.202.72.15:8000/movie/casa/casa/2019.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Siren (2016)
+http://149.202.72.15:8000/movie/casa/casa/2020.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sold (2016)
+http://149.202.72.15:8000/movie/casa/casa/2021.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Spectral (2016)
+http://149.202.72.15:8000/movie/casa/casa/2022.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sr. Pig (2016)
+http://149.202.72.15:8000/movie/casa/casa/2023.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Steel (2015)
+http://149.202.72.15:8000/movie/casa/casa/2024.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Take Me to the River (2015)
+http://149.202.72.15:8000/movie/casa/casa/2025.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tarde para la ira (2016)
+http://149.202.72.15:8000/movie/casa/casa/2026.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Teenage Cocktail (2016)
+http://149.202.72.15:8000/movie/casa/casa/2027.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Asian Connection (2016)
+http://149.202.72.15:8000/movie/casa/casa/2028.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Call Up (2016)
+http://149.202.72.15:8000/movie/casa/casa/2029.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Disappointments Room (2016)
+http://149.202.72.15:8000/movie/casa/casa/2030.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Eyes Of My Mother (2016)
+http://149.202.72.15:8000/movie/casa/casa/2031.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Girl with All the Gifts (2016)
+http://149.202.72.15:8000/movie/casa/casa/2032.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Great Gilly Hopkins (2016)
+http://149.202.72.15:8000/movie/casa/casa/2033.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Hollars (2016)
+http://149.202.72.15:8000/movie/casa/casa/2034.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Hollow (2016)
+http://149.202.72.15:8000/movie/casa/casa/2035.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE MASKED SAINT (2016)
+http://149.202.72.15:8000/movie/casa/casa/2036.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Messengers Box (2016)
+http://149.202.72.15:8000/movie/casa/casa/2037.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Neighbor (2016)
+http://149.202.72.15:8000/movie/casa/casa/2038.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Sin Seer (2015)
+http://149.202.72.15:8000/movie/casa/casa/2039.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Snare (2017)
+http://149.202.72.15:8000/movie/casa/casa/2040.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tunnel (2016)
+http://149.202.72.15:8000/movie/casa/casa/2041.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Unchained: The Untold Story of Freestyle Motocross 
+
+(2016)
+http://149.202.72.15:8000/movie/casa/casa/2042.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Vigilante Diaries (2016)
+http://149.202.72.15:8000/movie/casa/casa/2043.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",White Girl (2016)
+http://149.202.72.15:8000/movie/casa/casa/2044.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",3 IDIOTS
+http://149.202.72.15:8000/movie/casa/casa/1821.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Kind of Murder 2016
+http://149.202.72.15:8000/movie/casa/casa/1822.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A LENDA DO DRAGAO PT-PT (2016)
+http://149.202.72.15:8000/movie/casa/casa/1823.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A LUZ ENTRE OCEANOS (2016)
+http://149.202.72.15:8000/movie/casa/casa/1824.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ACE THE CASE 2016
+http://149.202.72.15:8000/movie/casa/casa/1825.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",AE DIL HAI MUSHKIL
+http://149.202.72.15:8000/movie/casa/casa/1826.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Amnesiac
+http://149.202.72.15:8000/movie/casa/casa/1827.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ARMY ONE
+http://149.202.72.15:8000/movie/casa/casa/1828.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BARKHAA (2015)
+http://149.202.72.15:8000/movie/casa/casa/1829.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BARRY (2016)
+http://149.202.72.15:8000/movie/casa/casa/1830.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BEFORE THE FLOOD 2016
+http://149.202.72.15:8000/movie/casa/casa/1831.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BEN HUR (2016)
+http://149.202.72.15:8000/movie/casa/casa/1832.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BLAIR WITCH (2016)
+http://149.202.72.15:8000/movie/casa/casa/1833.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BLUE JAY (2016)
+http://149.202.72.15:8000/movie/casa/casa/1834.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BUDDYMOON (2016)
+http://149.202.72.15:8000/movie/casa/casa/1835.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BUS DRIVER (2016)
+http://149.202.72.15:8000/movie/casa/casa/1836.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",CARDBOARD BOXER (2016)
+http://149.202.72.15:8000/movie/casa/casa/1837.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",CEGONHAS (2016)
+http://149.202.72.15:8000/movie/casa/casa/1838.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",CHUP CHUP KE
+http://149.202.72.15:8000/movie/casa/casa/1839.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Come and Find Me
+http://149.202.72.15:8000/movie/casa/casa/1813.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",DEEPWATER HORIZON (2016)
+http://149.202.72.15:8000/movie/casa/casa/1842.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",DIL
+http://149.202.72.15:8000/movie/casa/casa/1843.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Divines
+http://149.202.72.15:8000/movie/casa/casa/1814.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ELENA DE AVALOR
+http://149.202.72.15:8000/movie/casa/casa/1844.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",EQUITY (2016)
+http://149.202.72.15:8000/movie/casa/casa/1845.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",FLIGHT CREW (2016)
+http://149.202.72.15:8000/movie/casa/casa/1846.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",FORCE
+http://149.202.72.15:8000/movie/casa/casa/1847.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",HANDS OF STONE (2016)
+http://149.202.72.15:8000/movie/casa/casa/1848.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hell and Back
+http://149.202.72.15:8000/movie/casa/casa/1815.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",High Strung Ao Ritmo do Sonho
+http://149.202.72.15:8000/movie/casa/casa/1816.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",I AM BOLT
+http://149.202.72.15:8000/movie/casa/casa/1849.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",IN A VALLEY OF VIOLENCE (2016)
+http://149.202.72.15:8000/movie/casa/casa/1850.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",INFERNO (2016)
+http://149.202.72.15:8000/movie/casa/casa/1851.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Interrogation
+http://149.202.72.15:8000/movie/casa/casa/1817.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",JASON BOURNE (2016)
+http://149.202.72.15:8000/movie/casa/casa/1852.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MASTERMINDS (2016)
+http://149.202.72.15:8000/movie/casa/casa/1853.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MAX STEEL (2016)
+http://149.202.72.15:8000/movie/casa/casa/1854.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mercy (2016)
+http://149.202.72.15:8000/movie/casa/casa/1818.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mother May I Sleep with Danger
+http://149.202.72.15:8000/movie/casa/casa/1819.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",NIGHT OF SOMETHING STRANGE (2016)
+http://149.202.72.15:8000/movie/casa/casa/1857.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",OS SETE MAGNIFICOS (2016)
+http://149.202.72.15:8000/movie/casa/casa/1858.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Polar Express
+http://149.202.72.15:8000/movie/casa/casa/1820.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",RUPTURE (2016)
+http://149.202.72.15:8000/movie/casa/casa/1860.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SALA OCULTA (2016)
+http://149.202.72.15:8000/movie/casa/casa/1861.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SOUTHSIDE WITH YOU (2016)
+http://149.202.72.15:8000/movie/casa/casa/1862.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SPIN OUT (2016)
+http://149.202.72.15:8000/movie/casa/casa/1863.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE ACCOUNTANT (2016)
+http://149.202.72.15:8000/movie/casa/casa/1864.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE AUTOPSY OF JANE DOE (2016)
+http://149.202.72.15:8000/movie/casa/casa/1865.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE BIRTH OF A NATIOM (2016)
+http://149.202.72.15:8000/movie/casa/casa/1866.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE HOLLOW POINT (2016)
+http://149.202.72.15:8000/movie/casa/casa/1867.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",TO RYCA
+http://149.202.72.15:8000/movie/casa/casa/1868.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",TRAIN BUSAN (2016)
+http://149.202.72.15:8000/movie/casa/casa/1869.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",VEER ZAARA
+http://149.202.72.15:8000/movie/casa/casa/1870.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",VIVAH
+http://149.202.72.15:8000/movie/casa/casa/1871.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",WHEN THE BOUGH BREAKS (2016)
+http://149.202.72.15:8000/movie/casa/casa/1872.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Zanjeer
+http://149.202.72.15:8000/movie/casa/casa/1580.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Virar a Pagina
+http://149.202.72.15:8000/movie/casa/casa/1581.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",USS Indianapolis
+http://149.202.72.15:8000/movie/casa/casa/1582.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",True Memoirs of an International Assassin
+http://149.202.72.15:8000/movie/casa/casa/1583.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Toda a Verdade
+http://149.202.72.15:8000/movie/casa/casa/1584.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tini Depois de Violetta
+http://149.202.72.15:8000/movie/casa/casa/1585.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The White Helmets
+http://149.202.72.15:8000/movie/casa/casa/1586.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Monster
+http://149.202.72.15:8000/movie/casa/casa/1587.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE MEDDLER
+http://149.202.72.15:8000/movie/casa/casa/1588.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Late Bloomer
+http://149.202.72.15:8000/movie/casa/casa/1589.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Darkness
+http://149.202.72.15:8000/movie/casa/casa/1590.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Call Up
+http://149.202.72.15:8000/movie/casa/casa/1591.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE BROTHERS GRIMSBY
+http://149.202.72.15:8000/movie/casa/casa/1664.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tell Me How I Die
+http://149.202.72.15:8000/movie/casa/casa/1592.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Snowden
+http://149.202.72.15:8000/movie/casa/casa/1593.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sister Cities
+http://149.202.72.15:8000/movie/casa/casa/1594.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sininho Fadas e Piratas
+http://149.202.72.15:8000/movie/casa/casa/1595.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Shovel Buddies
+http://149.202.72.15:8000/movie/casa/casa/1596.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Satanic
+http://149.202.72.15:8000/movie/casa/casa/1597.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Salsicha Party
+http://149.202.72.15:8000/movie/casa/casa/1598.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Raja Rani
+http://149.202.72.15:8000/movie/casa/casa/1599.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Plane to fthe Sharks
+http://149.202.72.15:8000/movie/casa/casa/1600.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pirate Today
+http://149.202.72.15:8000/movie/casa/casa/1601.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Piku
+http://149.202.72.15:8000/movie/casa/casa/1602.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Phantasm Ravager
+http://149.202.72.15:8000/movie/casa/casa/1603.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pedido de Amizade
+http://149.202.72.15:8000/movie/casa/casa/1604.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Os Traficantes
+http://149.202.72.15:8000/movie/casa/casa/1605.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Os Mercenarios 3
+http://149.202.72.15:8000/movie/casa/casa/1606.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Ultimo Desafio
+http://149.202.72.15:8000/movie/casa/casa/1607.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Segredo da Pequena Sereia
+http://149.202.72.15:8000/movie/casa/casa/1608.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Rei Leao
+http://149.202.72.15:8000/movie/casa/casa/1609.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Bebe de Bridget Jones
+http://149.202.72.15:8000/movie/casa/casa/1610.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Amigo Gigante
+http://149.202.72.15:8000/movie/casa/casa/1611.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ninja Assassin
+http://149.202.72.15:8000/movie/casa/casa/1612.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Nem Respires
+http://149.202.72.15:8000/movie/casa/casa/1613.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mythica The Iron Crown
+http://149.202.72.15:8000/movie/casa/casa/1614.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mune O Guardiao da Lua
+http://149.202.72.15:8000/movie/casa/casa/1615.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mr Peabody e Sherman
+http://149.202.72.15:8000/movie/casa/casa/1616.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Most Likely to Die
+http://149.202.72.15:8000/movie/casa/casa/1617.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Modelis
+http://149.202.72.15:8000/movie/casa/casa/1618.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Milenge Milenge
+http://149.202.72.15:8000/movie/casa/casa/1619.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Milagre no Rio Hudson
+http://149.202.72.15:8000/movie/casa/casa/1620.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Megamind
+http://149.202.72.15:8000/movie/casa/casa/1621.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Meet the Blacks
+http://149.202.72.15:8000/movie/casa/casa/1622.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mary Kom
+http://149.202.72.15:8000/movie/casa/casa/1623.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Looney Tunes: Rabbits Run
+http://149.202.72.15:8000/movie/casa/casa/1624.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",LoLo
+http://149.202.72.15:8000/movie/casa/casa/1625.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kubo e as Duas Cordas
+http://149.202.72.15:8000/movie/casa/casa/1626.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",King Cobra
+http://149.202.72.15:8000/movie/casa/casa/1627.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kalyug
+http://149.202.72.15:8000/movie/casa/casa/1628.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Junooniyat
+http://149.202.72.15:8000/movie/casa/casa/1629.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Indignation
+http://149.202.72.15:8000/movie/casa/casa/1630.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",I.T.
+http://149.202.72.15:8000/movie/casa/casa/1631.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Honey 3 Der Beat des Lebens
+http://149.202.72.15:8000/movie/casa/casa/1632.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hellor High Water
+http://149.202.72.15:8000/movie/casa/casa/1633.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Heidi
+http://149.202.72.15:8000/movie/casa/casa/1634.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hamari Adhuri Kahani
+http://149.202.72.15:8000/movie/casa/casa/1635.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Guzaarish
+http://149.202.72.15:8000/movie/casa/casa/1636.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Goat
+http://149.202.72.15:8000/movie/casa/casa/1637.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ghulam
+http://149.202.72.15:8000/movie/casa/casa/1638.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Food
+http://149.202.72.15:8000/movie/casa/casa/1639.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Edge of Winter
+http://149.202.72.15:8000/movie/casa/casa/1640.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Dum Laga Ke Haisha
+http://149.202.72.15:8000/movie/casa/casa/1641.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Dil Ka Rishta
+http://149.202.72.15:8000/movie/casa/casa/1642.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Deewaar
+http://149.202.72.15:8000/movie/casa/casa/1643.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Daeho
+http://149.202.72.15:8000/movie/casa/casa/1644.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Cowboy Zombies
+http://149.202.72.15:8000/movie/casa/casa/1645.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Complete Unknown
+http://149.202.72.15:8000/movie/casa/casa/1646.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Cinderela
+http://149.202.72.15:8000/movie/casa/casa/1647.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Chosen (2016)
+http://149.202.72.15:8000/movie/casa/casa/1648.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Certain Women
+http://149.202.72.15:8000/movie/casa/casa/1649.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Center Stage On Pointe
+http://149.202.72.15:8000/movie/casa/casa/1650.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Capsule
+http://149.202.72.15:8000/movie/casa/casa/1651.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Caged No More
+http://149.202.72.15:8000/movie/casa/casa/1652.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Beyond the Call to Duty
+http://149.202.72.15:8000/movie/casa/casa/1653.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Bewakoofiyaan
+http://149.202.72.15:8000/movie/casa/casa/1654.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Aqui Ha Gato 2016
+http://149.202.72.15:8000/movie/casa/casa/1655.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Anthropoid
+http://149.202.72.15:8000/movie/casa/casa/1656.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Airlift
+http://149.202.72.15:8000/movie/casa/casa/1657.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Procura de Dory
+http://149.202.72.15:8000/movie/casa/casa/1658.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Lenda do Dragao
+http://149.202.72.15:8000/movie/casa/casa/1659.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Girl Like Her
+http://149.202.72.15:8000/movie/casa/casa/1660.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Cinderella Story If the Shoe Fits
+http://149.202.72.15:8000/movie/casa/casa/1661.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Casa da Senhora Peregrine para Criancas Peculiares
+http://149.202.72.15:8000/movie/casa/casa/1662.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Cancao De Lisboa
+http://149.202.72.15:8000/movie/casa/casa/1663.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O NOSSO MILAGRE
+http://149.202.72.15:8000/movie/casa/casa/1578.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",WHILE WERE YOUNG
+http://149.202.72.15:8000/movie/casa/casa/1509.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",WARCAFT
+http://149.202.72.15:8000/movie/casa/casa/1510.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",TUMBLEDOWN
+http://149.202.72.15:8000/movie/casa/casa/1511.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THIS IS THE END
+http://149.202.72.15:8000/movie/casa/casa/1512.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE TRANSPORTER REFUELED
+http://149.202.72.15:8000/movie/casa/casa/1513.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE SIEGE OF JADOTVILLE
+http://149.202.72.15:8000/movie/casa/casa/1514.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE SHALLOWS
+http://149.202.72.15:8000/movie/casa/casa/1515.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE SECRET LIFE OF PETS
+http://149.202.72.15:8000/movie/casa/casa/1516.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE PURGE ELECTION YEAR
+http://149.202.72.15:8000/movie/casa/casa/1517.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE MAN WHO KNEW INFINITY
+http://149.202.72.15:8000/movie/casa/casa/1518.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE LITTLE DEATH
+http://149.202.72.15:8000/movie/casa/casa/1519.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE JUNGLE BOOK
+http://149.202.72.15:8000/movie/casa/casa/1520.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE INFILTRATOR
+http://149.202.72.15:8000/movie/casa/casa/1521.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE FUNDAMENTALS OF CARING
+http://149.202.72.15:8000/movie/casa/casa/1522.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE FINAL GIRLS
+http://149.202.72.15:8000/movie/casa/casa/1523.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE ESCORT
+http://149.202.72.15:8000/movie/casa/casa/1524.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",THE CONJURING 2
+http://149.202.72.15:8000/movie/casa/casa/1525.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",TED 2
+http://149.202.72.15:8000/movie/casa/casa/1526.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SWISS ARMY MAN
+http://149.202.72.15:8000/movie/casa/casa/1527.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SULTAN
+http://149.202.72.15:8000/movie/casa/casa/1528.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SUICIDE SQUAD
+http://149.202.72.15:8000/movie/casa/casa/1529.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",SPY
+http://149.202.72.15:8000/movie/casa/casa/1530.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",RUAS RIVAIS
+http://149.202.72.15:8000/movie/casa/casa/1531.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ROBINSON CRUSOE
+http://149.202.72.15:8000/movie/casa/casa/1532.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",RATCHET E CLANK HEROIS DA GALAXIA- HEROIS DA GALAXIA
+http://149.202.72.15:8000/movie/casa/casa/1533.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",R.L. STINES MONSTERVILLE
+http://149.202.72.15:8000/movie/casa/casa/1534.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",POPSTAR NEVES STOP
+http://149.202.72.15:8000/movie/casa/casa/1535.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",PEE-WEES BIG HOLIDAY
+http://149.202.72.15:8000/movie/casa/casa/1536.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",PATIO DAS CANTIGAS
+http://149.202.72.15:8000/movie/casa/casa/1537.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",PAPA OU MAMA
+http://149.202.72.15:8000/movie/casa/casa/1538.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",OVELHA CHONE
+http://149.202.72.15:8000/movie/casa/casa/1539.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",OUR KIND OF TRAITOR
+http://149.202.72.15:8000/movie/casa/casa/1540.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",NOW YOU SEE ME 2
+http://149.202.72.15:8000/movie/casa/casa/1541.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",NERVE
+http://149.202.72.15:8000/movie/casa/casa/1542.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MOTHERS DAY
+http://149.202.72.15:8000/movie/casa/casa/1543.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MIKE AND DAVE NEED WEDDING DATES
+http://149.202.72.15:8000/movie/casa/casa/1544.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ME BEFORE YOU
+http://149.202.72.15:8000/movie/casa/casa/1545.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MASCOTS
+http://149.202.72.15:8000/movie/casa/casa/1546.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",MARLEY AND ME
+http://149.202.72.15:8000/movie/casa/casa/1547.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",LOVE FRIENDSHIP
+http://149.202.72.15:8000/movie/casa/casa/1548.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",LITGHTS OUT
+http://149.202.72.15:8000/movie/casa/casa/1549.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",JUE DI TAO WANG
+http://149.202.72.15:8000/movie/casa/casa/1550.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",INTERNET FAMOUS
+http://149.202.72.15:8000/movie/casa/casa/1551.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",INDEPENDENCE DAY RESURGENCE
+http://149.202.72.15:8000/movie/casa/casa/1552.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",IMPERIUM 2016
+http://149.202.72.15:8000/movie/casa/casa/1553.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",HUNT FOR THE WILDERPEOPLE
+http://149.202.72.15:8000/movie/casa/casa/1554.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",GHOSTBUSTERS
+http://149.202.72.15:8000/movie/casa/casa/1555.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",FRIEND REQUEST
+http://149.202.72.15:8000/movie/casa/casa/1556.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",FREE STATE OF JONES
+http://149.202.72.15:8000/movie/casa/casa/1557.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",FLORENCE FOSTER JENKINS
+http://149.202.72.15:8000/movie/casa/casa/1558.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",EVERYBODY WANTS SOME
+http://149.202.72.15:8000/movie/casa/casa/1559.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ELLE
+http://149.202.72.15:8000/movie/casa/casa/1560.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",DIRTY 30
+http://149.202.72.15:8000/movie/casa/casa/1561.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",DE PALMA
+http://149.202.72.15:8000/movie/casa/casa/1562.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",CENTRAL INTELLIGENCE
+http://149.202.72.15:8000/movie/casa/casa/1563.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",CAPTAIN FANTASTIC
+http://149.202.72.15:8000/movie/casa/casa/1564.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BROKEN VOWS
+http://149.202.72.15:8000/movie/casa/casa/1565.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BLUE MOUNTAIN STATE- THE RISE OF THADLAND
+http://149.202.72.15:8000/movie/casa/casa/1566.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BASTILLE DAY
+http://149.202.72.15:8000/movie/casa/casa/1567.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BAD MOMS
+http://149.202.72.15:8000/movie/casa/casa/1568.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ARQ
+http://149.202.72.15:8000/movie/casa/casa/1569.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Anomalisa
+http://149.202.72.15:8000/movie/casa/casa/1570.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Angry Birds- O Filme
+http://149.202.72.15:8000/movie/casa/casa/1571.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",AMERICAN ULTRA
+http://149.202.72.15:8000/movie/casa/casa/1572.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",American Reunion
+http://149.202.72.15:8000/movie/casa/casa/1573.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",All The Way
+http://149.202.72.15:8000/movie/casa/casa/1574.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Alice Through The Looking Glass
+http://149.202.72.15:8000/movie/casa/casa/1575.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A MILLION WAYS TO DIE IN THE WEST
+http://149.202.72.15:8000/movie/casa/casa/1576.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Briliant Yong Mind
+http://149.202.72.15:8000/movie/casa/casa/1577.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",X Men Apocalipse
+http://149.202.72.15:8000/movie/casa/casa/1354.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Warcraft
+http://149.202.72.15:8000/movie/casa/casa/1355.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Viver Depois de Ti
+http://149.202.72.15:8000/movie/casa/casa/1356.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Uma Aventura no Jurassico
+http://149.202.72.15:8000/movie/casa/casa/1357.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Um Traidor dos Nossos
+http://149.202.72.15:8000/movie/casa/casa/1358.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Um Dia de Mae
+http://149.202.72.15:8000/movie/casa/casa/1359.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Todos Querem o Mesmo
+http://149.202.72.15:8000/movie/casa/casa/1360.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Midnight Man 2016
+http://149.202.72.15:8000/movie/casa/casa/1361.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Conjuring 2  A Evocacao
+http://149.202.72.15:8000/movie/casa/casa/1362.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Temps
+http://149.202.72.15:8000/movie/casa/casa/1363.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tartarugas Ninja Herois Mutantes O Romper das Sombras
+http://149.202.72.15:8000/movie/casa/casa/1364.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Size Zero
+http://149.202.72.15:8000/movie/casa/casa/1365.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Range 15
+http://149.202.72.15:8000/movie/casa/casa/1366.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Race 10 Segundos de Liberdade
+http://149.202.72.15:8000/movie/casa/casa/1367.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pele O Nascimento de Uma Lenda
+http://149.202.72.15:8000/movie/casa/casa/1368.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Livro da Selva
+http://149.202.72.15:8000/movie/casa/casa/1369.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Money Monster
+http://149.202.72.15:8000/movie/casa/casa/1370.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mestres da Ilusao 2
+http://149.202.72.15:8000/movie/casa/casa/1371.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Main Aur Mr Riight
+http://149.202.72.15:8000/movie/casa/casa/1372.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ma Vizinhanca 2
+http://149.202.72.15:8000/movie/casa/casa/1373.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kickboxer
+http://149.202.72.15:8000/movie/casa/casa/1374.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Keanu
+http://149.202.72.15:8000/movie/casa/casa/1375.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Jason Bourne
+http://149.202.72.15:8000/movie/casa/casa/1376.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",In the Deep
+http://149.202.72.15:8000/movie/casa/casa/1377.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",I Am Not a Serial Killer
+http://149.202.72.15:8000/movie/casa/casa/1378.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hard Target 2
+http://149.202.72.15:8000/movie/casa/casa/1379.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Fan
+http://149.202.72.15:8000/movie/casa/casa/1380.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Countdown
+http://149.202.72.15:8000/movie/casa/casa/1381.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Bons Rapazes
+http://149.202.72.15:8000/movie/casa/casa/1382.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Blood Father
+http://149.202.72.15:8000/movie/casa/casa/1383.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Bastille Day  Missao Antiterrorista
+http://149.202.72.15:8000/movie/casa/casa/1384.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Aguas Perigosas
+http://149.202.72.15:8000/movie/casa/casa/1385.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Vida Secreta dos Nossos Bichos
+http://149.202.72.15:8000/movie/casa/casa/1386.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Lenda de Tarzan
+http://149.202.72.15:8000/movie/casa/casa/1387.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Idade do Gelo O Big Bang
+http://149.202.72.15:8000/movie/casa/casa/1388.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Hologram for the King
+http://149.202.72.15:8000/movie/casa/casa/1389.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Zootropolis
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/154.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Whiskey Tango Foxtrot
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/173.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Viram se Novamente Gregos Para Casar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/172.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Young Messiah
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/152.mkv
+#EXTINF:-1 group-title="05/02/2017 VOD",The Offering
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/151.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Duel
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/170.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Do-Over
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/150.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Confirmation
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/171.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Brothers Grimsby
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/149.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sponge Bob Esponja Fora De Agua
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/147.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Nosso Milagre
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/169.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Escaravelho do Diabo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/168.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Never Back Down No Surrender
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/167.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Minimos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/146.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Marauders
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/166.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Manhattan Night
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/145.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kiddo O Super Camiao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/144.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Home
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/143.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hardcore Henry
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/142.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Girl in Woods
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/164.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Frozen Reino Gelo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/153.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Emmas Chance
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/163.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Electra Woman and Dyna Girl
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/141.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Eddie The Eagle
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/140.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Demolicao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/162.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Deadly Intent
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/161.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Dead Rising Endgame
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/160.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Dads Army
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/139.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Da Serie Divergente Convergente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/159.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Criminoso
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/138.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Code of Honor
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/137.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Cell Chamada Para a Morte
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/158.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Brahman Naman
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/175.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Before I Wake
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/157.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Batman v Super Homem O Despertar da Justica
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/156.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Barbershop The Next
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/174.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Avioes Equipa de Resgate
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/136.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Alice do Outro Lado do Espelho
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/155.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Abelha Maia
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/135.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",7 Anao O Pequeno Heroi
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/133.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",13 Horas Os Soldados Secretos de Benghazi
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/134.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Zootopia
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/127.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Zoolander 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/126.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Uma Escolha Por Amor
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/119.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Um Avo Muito a Frente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/83.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Triple 9
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/125.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Witch
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/76.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Veil
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/124.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Trust
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/130.mkv
+#EXTINF:-1 group-title="05/02/2017 VOD",The Dead Room
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/120.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Boy - Segue as Regras
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/118.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tevar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/117.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Tempo Limite
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/132.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Stealing Cars
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/116.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Special Correspondents
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/115.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sniper: Special Ops
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/114.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Salve, Cesar!
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/91.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sacrifice
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/113.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Reza Lenda
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/111.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ressurreicao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/112.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pee-wee's Big Holiday
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/109.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pandemic
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/75.mkv
+#EXTINF:-1 group-title="05/02/2017 VOD",OUTCAST - O ULTIMO TEMPLARIO
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/108.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Os Deuses do Egipto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/100.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Cacador e a Rainha do Gelo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/122.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Nowhere Boys: The Book of Shadows
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/107.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",NORM - O HEROI DO ARTICO
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/129.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Mothers and Daughters
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/106.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Misconduct
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/105.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Midnight Special
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/104.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Lego Scooby-Doo!: Haunted Hollywood
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/102.mkv
+#EXTINF:-1 group-title="05/02/2017 VOD",Leao da Estrela
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/131.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Lake Eerie
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/94.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kindergarten Cop 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/101.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Killing Jesus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/88.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Jarhead 3: The Siege
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/87.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",I Am Wrath
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/80.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hush
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/74.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Horas Decisivas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/121.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Holidays
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/92.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Factor de Risco
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/123.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Emelie
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/84.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Duplo Confronto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/110.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Diablo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/90.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Devdas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/99.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Decay
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/82.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Deadpool
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/79.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Como Ser Solteira
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/93.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Capitao America: Guerra Civil
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/98.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Cabin Fever
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/81.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",BROTHERS
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/97.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Boog e Elliot Aventura Na Floresta
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/128.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Barbie e As Agentes Secretas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/89.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Assalto a Londres
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/103.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",As Cinquenta Sombras de Black
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/85.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",ARRANHA CEUS
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/86.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Antonio Raminhos Apresenta As Marias
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/96.mkv
+#EXTINF:-1 group-title="05/02/2017 VOD",Amor em Roma
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/78.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",10 Cloverfield Lane
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/77.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Umrao Jaan
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/61.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Hoarder
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/64.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Girl in the Photographs
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/69.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Star Wars: O Despertar da Forca
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/51.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Snoopy e Charlie Brown: Peanuts
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/50.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Remember
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/49.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ramaiya Vastavaiya
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/68.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Policias em Grandes Apuros
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/71.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Orgulho e Preconceito e Guerra
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/48.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Principezinho
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/52.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Muito a Frente
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/67.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Kung Fu Panda 3
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/47.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Jazbaa
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/65.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",James White
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/63.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ip Man 3
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/46.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Heropanti
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/56.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Get a Job
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/54.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Fourth Man Out
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/45.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Ek Tha Tiger
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/62.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Curse of the Witching Tree
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/55.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Bem vindo ao Afeganistao
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/53.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",As Armas de Jane
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/59.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Viagem de Arlo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/43.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",A Guarda do Leao o Regresso do Rugido
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/70.mkv
+#EXTINF:-1 group-title="05/02/2017 VOD",A 5 Vaga
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/42.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Victor Frankenstein
+http://149.202.72.15:8000/movie/casa/casa/791.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Verdade
+http://149.202.72.15:8000/movie/casa/casa/792.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Overnight
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/29.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Lobster
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/26.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Forest
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/25.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",The Boy
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/20.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Terminus
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/3.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Standoff
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/24.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Southbound
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/23.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",So Podiam Ser Irmas
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/38.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Sem Compromissos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/19.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Samurai Cop 2: Deadly Vengeance
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/39.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Rainha do Deserto
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/22.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Point Break Cacadores De Emocoes
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/37.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pan: Viagem A Terra do Nunca
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/10.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Pai So Ha Um
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/36.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Os Coopers Sao o Maximo
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/17.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Os 33
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/4.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",O Segredo dos Seus Olhos
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/12.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Moonwalkers
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/18.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Monster High: Boo York, Boo York PT
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/9.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Junto Ao Mar
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/41.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Jogos da Fome - A Revolta 2
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/35.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Jeruzalem
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/6.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Hotel Transylvania 2 PT
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/28.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Forsaken
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/27.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Criminal Activities
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/16.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Cartel Land
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/5.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",American Hero
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/14.mp4
+#EXTINF:-1 group-title="05/02/2017 VOD",Alvin e os Esquilos: A Grande Aventura
+http://vod.soeu.ws:6969/movie/painel/H94uP9vwlG/44.mp4
+
+
+############################################################################################################################################
 
 #EXTINF:-1 group-title="03/02/2017",Rtp Madeira
 http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/62.ts
