@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1 group-title="10/02/2017",Costa
+http://149.202.72.15:8000/get.php?username=Costa&password=Costa&type=m3u#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="mzl.knrwtelm.png" tvg-logo="http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png" group-title="INFO", Lista do Patrão
 http://www.tv-msn.com/player/player.swf
 
@@ -9,6 +10,8 @@ tvg-id="" tvg-logo="Refresh.png" tvg-logo="https://cdn3.iconfinder.com/data/icon
 http://www.tv-msn.com/player/player.swf
 
 ####################################################################
+#EXTINF:-1 group-title="05/02/2017",PlayList Costa
+http://149.202.72.15:8000/get.php?username=Costa&password=Costa&type=m3u
 
 #EXTINF:-1 group-title="05/02/2017",●●●●●● DESPORTO ●●●●●●
 http://163.172.50.189:8000/live/cabral/cabral/1797.ts
@@ -15908,136 +15911,4 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/817.ts
 http://163.172.217.53:8000/live/5grandiptv915/67863345/836.ts
 
 
-#EXTINF:-1 group-title="PORTUGAL",PT GLOBO PREMIUM
-http://163.172.217.53:8000/live/5grandiptv915/67863345/764.ts
-#EXTINF:-1 group-title="PORTUGAL",PT GLOBO PORTUGAL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/763.ts
-
-
-#EXTINF:-1 group-title="PORTUGAL",PT TV RECORD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/766.ts
-
-#EXTINF:-1 group-title="PORTUGAL",PT TV GALICIA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/768.ts
-
-#EXTINF:-1 group-title="PORTUGAL",PT FX
-http://163.172.217.53:8000/live/5grandiptv915/67863345/816.ts
-#EXTINF:-1 group-title="PORTUGAL",PT FOX MOVIES HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/814.ts
-#EXTINF:-1 group-title="PORTUGAL",PT FOX LIFE
-http://163.172.217.53:8000/live/5grandiptv915/67863345/815.ts
-#EXTINF:-1 group-title="PORTUGAL",PT FOX HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/812.ts
-#EXTINF:-1 group-title="PORTUGAL",PT FOX CRIME HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/813.ts
-
-#EXTINF:-1 group-title="PORTUGAL",PT DISNEY JUNIOR
-http://163.172.217.53:8000/live/5grandiptv915/67863345/825.ts
-#EXTINF:-1 group-title="PORTUGAL",PT DISNEY CHANNEL
-http://163.172.217.53:8000/live/5grandiptv915/67863345/824.ts
-#EXTINF:-1 group-title="PORTUGAL",PT DISCOVERY HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/838.ts
-#EXTINF:-1 group-title="PORTUGAL",PT CMTV
-http://163.172.217.53:8000/live/5grandiptv915/67863345/771.ts
-#EXTINF:-1 group-title="PORTUGAL",PT CLUBLAND
-http://163.172.217.53:8000/live/5grandiptv915/67863345/828.ts
-#EXTINF:-1 group-title="PORTUGAL",PT CINEMUNDO
-http://163.172.217.53:8000/live/5grandiptv915/67863345/808.ts
-
-#EXTINF:-1 group-title="PORTUGAL",PT CARTOON NETWORK
-http://163.172.217.53:8000/live/5grandiptv915/67863345/822.ts
-#EXTINF:-1 group-title="PORTUGAL",PT CANÇAO NOVA
-http://163.172.217.53:8000/live/5grandiptv915/67863345/767.ts
-#EXTINF:-1 group-title="PORTUGAL",PT CANAL PANDA HD
-http://163.172.217.53:8000/live/5grandiptv915/67863345/823.ts
-
-#######################################################################
-
-
-
-#EXTINF:-1, group-title="MUSICA",MEZZO Live HD
-http://service1.astrovida.tv:8000/live/ldfClEnjcOy/rrtaxRw5Qk7/5795.ts
-
-##################################################################################################
-
-#EXTINF:-1,###*•●★۩  BRASIL ۩★●•*####
-
-#EXTINF:-1, group-title="BRASIL",Univision Deportes
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/413.ts
-
-#EXTINF:-1, group-title="BRASIL",BR SPORTV 3
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/546.ts
-#EXTINF:-1, group-title="BRASIL",BR SPORTV 2
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/545.ts
-#EXTINF:-1, group-title="BRASIL",BR SPORTV 1
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/544.ts
-
-#EXTINF:-1, group-title="BRASIL",BR Canal Um Europa (RIT Europa)
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/497.ts
-#EXTINF:-1, group-title="BRASIL",BR All Sports TV
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/494.ts
-
-#EXTINF:-1, group-title="BRASIL",BR Chef TV
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/491.ts
-
-#EXTINF:-1, group-title="BRASIL",BR Santuário De Aparecida - Altar Central
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/499.ts
-#EXTINF:-1, group-title="BRASIL",BR Rio de Janeiro - Copacabana
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/498.ts
-
-#EXTINF:-1, group-title="BRASIL",BR Canção Nova Brasil
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/468.ts
-#EXTINF:-1, group-title="BRASIL",BR REDE TV
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/381.ts
-#EXTINF:-1, group-title="BRASIL",BR RECORD INTERNACIONAL
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/385.ts
-
-#EXTINF:-1, group-title="BRASIL",BR TV Justiça
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/495.ts
-#EXTINF:-1, group-title="BRASIL",BR TV Cultura
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/490.ts
-#EXTINF:-1, group-title="BRASIL",BR TV Câmara SP
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/496.ts
-#EXTINF:-1, group-title="BRASIL",BR TV Brasil
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/493.ts
-
-#EXTINF:-1, group-title="BRASIL",BR Record News
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/492.ts
-#EXTINF:-1, group-title="BRASIL",BR TV RECORD (REDE RECORD)
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/472.ts
-#EXTINF:-1, group-title="BRASIL",BR TV GLOBO SP
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/471.ts
-#EXTINF:-1, group-title="BRASIL",BR TV DIARIO
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/470.ts
-#EXTINF:-1, group-title="BRASIL",BR TV BAND
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/473.ts
-
-
-#############################################################################
-#EXTINF:-1,###*•●★۩  ESPAÑA ۩★●•*####
-
-#EXTINF:-1, group-title="ESPAÑA",ES Movistar+ F1
-http://iptv.sat-tv.net:8000/live/7894/7894/530.ts
-#EXTINF:-1, group-title="ESPAÑA",ES BEIN SPORT
-http://iptv.sat-tv.net:8000/live/7894/7894/523.ts
-
-#EXTINF:-1, group-title="ESPAÑA",ES M.GOLF HD
-http://service1.astrovida.tv:8000/live/ldfClEnjcOy/rrtaxRw5Qk7/2398.ts
-#EXTINF:-1, group-title="ESPAÑA",ES M.FORMULA 1 HD
-http://service1.astrovida.tv:8000/live/ldfClEnjcOy/rrtaxRw5Qk7/5226.ts
-#EXTINF:-1, group-title="ESPAÑA",ES M.MOTOGP HD
-http://service1.astrovida.tv:8000/live/ldfClEnjcOy/rrtaxRw5Qk7/2496.ts
-#EXTINF:-1, group-title="ESPAÑA",ES EUROSPORT 1 HD
-http://service1.astrovida.tv:8000/live/ldfClEnjcOy/rrtaxRw5Qk7/3713.ts
-
-
-
-#############################################################################
-
-#EXTINF:-1,###*•●★۩  ITALY ۩★●•*####
-#EXTINF:-1, group-title="ITALIA",IT RAI SPORT 1 IxPp13ZDB4
-http://5.196.83.164:9889/live/IxPp13ZDB4/p8fwUAXlUt/352.ts
-
-#EXTINF:-1, group-title="ITALIA",IT RAI SPORT 2 IxPp13ZDB4
-http://5.196.83.164:9889/live/IxPp13ZDB4/p8fwUAXlUt/353.ts
-
+#EXTINF:-1 group-title="PORTUGAL",PT 
